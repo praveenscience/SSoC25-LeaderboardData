@@ -48,6 +48,9 @@
         var output = `---------------------------------------------------------
       SSoC 25 Official Leaderboard (Beta)
 ---------------------------------------------------------
+See: <strong>Top 10</strong> | <a href="/top100">Top 100</a> | <a href="/all">All</a>
+Something wrong? Check the <a href="/validator">PR Validator</a>.
+---------------------------------------------------------
 Rank | Username          | Score | PRs |  B  |  I  |  A
 -----+-------------------+-------+-----+-----+-----+-----
 `;
@@ -91,11 +94,7 @@ UTC: ${isoDate.replace("T", " ").substr(0, 19)} (UTC / GMT Time)
       // const topTenUsers = allSortedUsers.slice(0, 10);
 
       document.getElementById("output").innerHTML =
-        generateLeaderboard(userScores) +
-        `
-
-<a href="/top100">See the top 100.</a>
-<a href="/all">See all the scores.</a>`;
+        generateLeaderboard(userScores);
     </script>
   </body>
 </html>

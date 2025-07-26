@@ -3211,3 +3211,3210 @@ Results saved to output/pr-scores.json
 User scores saved to output/user-scores.js
 PR list saved to output/pr-list.js
 Summary saved to output/summary.js
+➜  backend git:(main) ✗ node single-gql
+
+Fetching PRs for beadarshh/Alex_Interview_Bot with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4999/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for beadarshh/Alex_Interview_Bot: 0
+
+Fetching PRs for amitkumardemo/EdgeCareer with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4999/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for amitkumardemo/EdgeCareer: 0
+
+Fetching PRs for opensource-society/CodeSpace with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4999/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for opensource-society/CodeSpace: 0
+
+Fetching PRs for shivampatkar/my-portfolio with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4998/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for shivampatkar/my-portfolio: 0
+
+Fetching PRs for vanshchauhan21/CryptoTracker with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4998/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for vanshchauhan21/CryptoTracker: 0
+
+Fetching PRs for bhavishya2601/skilloria with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4998/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for bhavishya2601/skilloria: 0
+
+Fetching PRs for mryashsinghal/Resume-Builder with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4997/5000 (resets at 12:43:50 PM)
+Retrieved 16 PRs in this page
+Total PRs fetched for mryashsinghal/Resume-Builder: 16
+Qualifying PR: #23 by Soumyosish in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #25 by Soumyosish in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #44 by Vaishnavi-Manne in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #49 by SK8-infi in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #50 by Muneerali199 in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #73 by Verma-MK in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #76 by Mohamad-Owais in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #77 by Bavanetha27 in mryashsinghal/Resume-Builder - Intermediate (30 points)
+Qualifying PR: #82 by Verma-MK in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #83 by Ronnit44 in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #87 by NA-VNEET in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #116 by Ronnit44 in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #123 by Ronnit44 in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #129 by Harshi-max in mryashsinghal/Resume-Builder - Beginner (20 points)
+Qualifying PR: #134 by anchalchaturvedi08 in mryashsinghal/Resume-Builder - Advanced (40 points)
+Qualifying PR: #142 by Sahil-Chahal in mryashsinghal/Resume-Builder - Beginner (20 points)
+
+Fetching PRs for SumitGorai01/TechieBlog with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4997/5000 (resets at 12:43:52 PM)
+Retrieved 52 PRs in this page
+Total PRs fetched for SumitGorai01/TechieBlog: 52
+
+Fetching PRs for jayraj175coder/Entertainer with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4997/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for jayraj175coder/Entertainer: 0
+
+Fetching PRs for UTSAVS26/PyVerse with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4996/5000 (resets at 12:43:50 PM)
+Retrieved 54 PRs in this page
+Total PRs fetched for UTSAVS26/PyVerse: 54
+Qualifying PR: #1312 by adwityac in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1314 by SHIV-360 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1329 by Bhaanavee in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1333 by coddingjatin in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1335 by SK8-infi in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1339 by SHIV-360 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1341 by Mmadan128 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1342 by tulikaroyy in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1344 by mav01-code in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1345 by varun935 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1351 by AbhishekSharma-9 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1356 by preritasaini1 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1357 by SK8-infi in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1366 by Tanishq-789 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1368 by Jidnyasa-P in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1370 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1372 by Jidnyasa-P in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1374 by SK8-infi in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1379 by Poushali-Mitra in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1380 by Jidnyasa-P in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1382 by SK8-infi in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1385 by UjjWaL-0911 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1386 by Shreya-Gupta-SG in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1387 by Jidnyasa-P in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1391 by sneha842 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1392 by Jidnyasa-P in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1396 by Shivu384 in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1405 by Shivu384 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1406 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1409 by Arihant-Bhandari in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1410 by Vrushti-kulkarni in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1412 by Jidnyasa-P in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1413 by SrigadaAkshayKumar in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1414 by SamridhiAhuja2075 in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1416 by awrya-cmd in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1419 by ZarrarPeshimam in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1420 by SK8-infi in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1423 by AbhishekSharma-9 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1424 by arthavjain103 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1428 by Sejal-collection in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1429 by GxAditya in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1430 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1432 by naveenmvoff in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1433 by Arihant-Bhandari in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1437 by kanishgit09 in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1438 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1443 by Shivu384 in UTSAVS26/PyVerse - Intermediate (30 points)
+Qualifying PR: #1445 by SrigadaAkshayKumar in UTSAVS26/PyVerse - Beginner (20 points)
+Qualifying PR: #1448 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1449 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1450 by SK8-infi in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1460 by Shivu384 in UTSAVS26/PyVerse - Advanced (40 points)
+Qualifying PR: #1461 by Shivu384 in UTSAVS26/PyVerse - Advanced (40 points)
+
+Fetching PRs for rajdeep13-coder/Resume-Generator with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4996/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for rajdeep13-coder/Resume-Generator: 0
+
+Fetching PRs for Samarcodesinpython/Ni-Swarth with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4996/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Samarcodesinpython/Ni-Swarth: 0
+
+Fetching PRs for adityas1309/RaktConnect with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4995/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for adityas1309/RaktConnect: 0
+
+Fetching PRs for Dipanita45/HEALCONNECT with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4995/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Dipanita45/HEALCONNECT: 0
+
+Fetching PRs for Dev-Dhruba/NeuroDev-Therapy with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4995/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Dev-Dhruba/NeuroDev-Therapy: 0
+
+Fetching PRs for Debanjannnn/DACCY with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4994/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Debanjannnn/DACCY: 0
+
+Fetching PRs for PerseusKyogre09/ScrollCue.js with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4994/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for PerseusKyogre09/ScrollCue.js: 0
+
+Fetching PRs for codeaashu/DevDisplay with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4994/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for codeaashu/DevDisplay: 0
+
+Fetching PRs for Vaibhav-kesarwani/Codeforces-Problem-Recommender with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4993/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Vaibhav-kesarwani/Codeforces-Problem-Recommender: 0
+
+Fetching PRs for Cyberninja30/TeleRehab with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4993/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Cyberninja30/TeleRehab: 0
+
+Fetching PRs for Aryan-coder-student/NeuroVision-BHPC with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4993/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Aryan-coder-student/NeuroVision-BHPC: 0
+
+Fetching PRs for divi-24/SheSync with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4992/5000 (resets at 12:43:50 PM)
+Retrieved 31 PRs in this page
+Total PRs fetched for divi-24/SheSync: 31
+Qualifying PR: #84 by atul812 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #99 by DeadpoolX7 in divi-24/SheSync - Advanced (40 points)
+Qualifying PR: #100 by Dipanita45 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #119 by pari3654 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #126 by Tushar-senpai in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #134 by kanak227 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #135 by kanak227 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #139 by atul812 in divi-24/SheSync - Intermediate (30 points)
+Qualifying PR: #147 by SubhamKojha in divi-24/SheSync - Intermediate (30 points)
+Qualifying PR: #152 by aryann2319 in divi-24/SheSync - Advanced (40 points)
+Qualifying PR: #162 by Coden-inja in divi-24/SheSync - Advanced (40 points)
+Qualifying PR: #178 by kotlalokeshwari098 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #185 by aryann2319 in divi-24/SheSync - Advanced (40 points)
+Qualifying PR: #187 by kotlalokeshwari098 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #191 by archangel2006 in divi-24/SheSync - Intermediate (30 points)
+Qualifying PR: #192 by nikhil-agrawal123 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #198 by aryann2319 in divi-24/SheSync - Intermediate (30 points)
+Qualifying PR: #229 by MaulikGupta27 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #231 by MaulikGupta27 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #235 by Code-writter in divi-24/SheSync - Advanced (40 points)
+Qualifying PR: #241 by MaulikGupta27 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #242 by MaulikGupta27 in divi-24/SheSync - Beginner (20 points)
+Qualifying PR: #248 by MaulikGupta27 in divi-24/SheSync - Beginner (20 points)
+
+Fetching PRs for divi-24/Thrive with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4992/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for divi-24/Thrive: 0
+
+Fetching PRs for divi-24/KisaanSetu-f with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4992/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for divi-24/KisaanSetu-f: 0
+
+Fetching PRs for alienx5499/SortVision with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4991/5000 (resets at 12:43:50 PM)
+Retrieved 100 PRs in this page
+Fetching page of PRs with cursor...
+Using token ending with ...ix2X
+Rate limit: 4991/5000 (resets at 12:43:52 PM)
+Retrieved 73 PRs in this page
+Total PRs fetched for alienx5499/SortVision: 173
+Qualifying PR: #60 by piyushdhoka in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #68 by mukul-sharma-tech in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #69 by maheswari8074 in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #71 by piyushdhoka in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #111 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #122 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #130 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #158 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #159 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #161 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #163 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #164 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #166 by mukul-sharma-tech in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #167 by aryanguptacsvtu in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #170 by Atharva-Kale1 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #173 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #175 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #177 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #178 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #179 by Priyakatariya in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #180 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #182 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #183 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #185 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #186 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #187 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #188 by tanu91112 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #189 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #190 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #191 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #192 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #193 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #194 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #197 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #201 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #202 by arthavjain103 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #214 by Atharva-Kale1 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #216 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #217 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #218 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #219 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #223 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #224 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #225 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #226 by arthavjain103 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #227 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #228 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #229 by 2024yuva in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #233 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #235 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #236 by sumit-make in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #237 by BalajiMittapalli in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #239 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #242 by jeevaananthan52 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #244 by akashbisht004 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #245 by akashbisht004 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #248 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #251 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #252 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #253 by Vishisht-Dwivedi in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #256 by Gargibajpai in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #257 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #259 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #263 by SubhamKojha in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #336 by Atharva-Kale1 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #337 by Atharva-Kale1 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #339 by Atharva-Kale1 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #340 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #341 by Priyakatariya in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #342 by Somilg11 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #345 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #346 by Gargibajpai in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #347 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #348 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #349 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #350 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #351 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #352 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #353 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #354 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #355 by pooja1932 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #356 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #357 by Sejal-collection in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #360 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #361 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #362 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #365 by Sushma-1706 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #366 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #408 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #409 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #410 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #411 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #412 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #414 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #415 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #417 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #418 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #419 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #420 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #421 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #422 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #423 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #424 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #425 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #426 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #427 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #429 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #430 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #431 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #432 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #433 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #434 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #436 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #437 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #438 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #439 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #440 by maheswari8074 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #441 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #442 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #443 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #444 by Apurba-01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #445 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #446 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #447 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #448 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #449 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #451 by Ananyaa03 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #454 by NandaGunasri in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #459 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #463 by Ananyaa03 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #467 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #478 by ssid18 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #479 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #535 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #536 by Priyakatariya in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #537 by SK8-infi in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #538 by SK8-infi in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #540 by InMostCalmness-Rahul in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #541 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #542 by ssid18 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #543 by imBharathkumarp in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #544 by Sejal-collection in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #546 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #547 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #548 by SK8-infi in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #549 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #551 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #554 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #555 by HimanshuKabra01 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #556 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #558 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #560 by vivekd16 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #561 by Sainava in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #562 by Jidnyasa-P in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #563 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #568 by Dipanita45 in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #570 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #575 by Asterioxer in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #587 by piyushdhoka in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #593 by piyushdhoka in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #602 by Priyakatariya in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #603 by HimanshuKabra01 in alienx5499/SortVision - Intermediate (30 points)
+Qualifying PR: #604 by Priyakatariya in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #605 by Priyakatariya in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #606 by Priyakatariya in alienx5499/SortVision - Beginner (20 points)
+Qualifying PR: #607 by Priyakatariya in alienx5499/SortVision - Beginner (20 points)
+
+Fetching PRs for divi-24/IG3D with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4991/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for divi-24/IG3D: 0
+
+Fetching PRs for k0msenapati/study-sphere with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4990/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for k0msenapati/study-sphere: 0
+
+Fetching PRs for ShikhaMaurya212402/Plant-Disease-Classification-Model with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4990/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ShikhaMaurya212402/Plant-Disease-Classification-Model: 0
+
+Fetching PRs for deskree-inc/nanoservice-ts with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4990/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for deskree-inc/nanoservice-ts: 0
+
+Fetching PRs for sayan0328/WallGodds-App with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4989/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for sayan0328/WallGodds-App: 0
+
+Fetching PRs for Parnab03/WallGodds with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4989/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Parnab03/WallGodds: 0
+
+Fetching PRs for avanimathur/Build-your-own-Git-opensource with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4989/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for avanimathur/Build-your-own-Git-opensource: 0
+
+Fetching PRs for ayushghonge19/megabackendproj with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4988/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ayushghonge19/megabackendproj: 0
+
+Fetching PRs for dhruvXcode247/Multi_class_animal_classification with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4988/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for dhruvXcode247/Multi_class_animal_classification: 0
+
+Fetching PRs for khushalp2004/Graphixo with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4988/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for khushalp2004/Graphixo: 0
+
+Fetching PRs for souvik-maity/StyleCart with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4987/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for souvik-maity/StyleCart: 0
+
+Fetching PRs for Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4987/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit: 0
+
+Fetching PRs for ayushsin9h/WanderStay-Your-Premium-Hotel-Finder with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4987/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ayushsin9h/WanderStay-Your-Premium-Hotel-Finder: 0
+
+Fetching PRs for Fenirok/Earthquake_app with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4986/5000 (resets at 12:43:50 PM)
+Retrieved 3 PRs in this page
+Total PRs fetched for Fenirok/Earthquake_app: 3
+Qualifying PR: #35 by Sandhya251 in Fenirok/Earthquake_app - Advanced (40 points)
+
+Fetching PRs for PRIYANSHU2026/DataSentience-AIML with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4986/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for PRIYANSHU2026/DataSentience-AIML: 0
+
+Fetching PRs for VAIBHAVBABELE/emergency-optimizer with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4986/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for VAIBHAVBABELE/emergency-optimizer: 0
+
+Fetching PRs for AdityaRalhan/CopConnect with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4985/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for AdityaRalhan/CopConnect: 0
+
+Fetching PRs for Saumy1905/PYQFort with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4985/5000 (resets at 12:43:52 PM)
+Retrieved 100 PRs in this page
+Fetching page of PRs with cursor...
+Using token ending with ...eN9J
+Rate limit: 4985/5000 (resets at 12:43:53 PM)
+Retrieved 100 PRs in this page
+Fetching page of PRs with cursor...
+Using token ending with ...7HYO
+Rate limit: 4984/5000 (resets at 12:43:50 PM)
+Retrieved 8 PRs in this page
+Total PRs fetched for Saumy1905/PYQFort: 208
+Qualifying PR: #85 by Sayan-206 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #89 by Jahnavi-de in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #91 by SK8-infi in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #95 by Y4shu in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #103 by VEDAPRIYAMUTYAM in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #108 by tanu91112 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #109 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #113 by renuvarma67 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #114 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #115 by VEDAPRIYAMUTYAM in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #116 by YashSavalkar321 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #118 by Vijayashree-tech in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #119 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #121 by SK8-infi in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #123 by Priyanshiunique in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #125 by VAISHNAVISTUDENT in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #128 by SK8-infi in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #131 by Saurabhjk15 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #135 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #144 by bwbeas in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #146 by ParthNema13 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #148 by Vijayashree-tech in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #149 by Vijayashree-tech in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #154 by ParthNema13 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #155 by YashSavalkar321 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #156 by afreenaiml in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #157 by Gurashish73 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #158 by Vijayashree-tech in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #159 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #161 by ParthNema13 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #162 by Dipanita45 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #169 by afreenaiml in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #170 by SK8-infi in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #172 by code-well0 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #175 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #176 by shrutisachan08 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #182 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #185 by Dipanita45 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #186 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #188 by HARSHMOHAN01 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #190 by Y4shu in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #191 by divyam8175 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #192 by noshmachowdary in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #200 by Vijayashree-tech in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #201 by afreenaiml in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #202 by arthavjain103 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #204 by SK8-infi in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #205 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #206 by Y4shu in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #207 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #208 by ankit2061 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #212 by tanu91112 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #213 by Jahnavi-de in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #214 by Vijayashree-tech in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #216 by JallaDharani in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #221 by VEDAPRIYAMUTYAM in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #223 by tanu91112 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #225 by denshaw-09 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #229 by Sejal-collection in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #231 by Jahnavi-de in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #232 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #233 by JallaDharani in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #234 by afreenaiml in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #238 by vineela49 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #239 by swethapadmavathimukku in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #240 by shrutisachan08 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #242 by Vaishnavi-Manne in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #243 by NehaSaini011 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #245 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #247 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #250 by SK8-infi in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #251 by noshmachowdary in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #254 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #256 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #258 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #263 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #268 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #273 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #274 by tanu91112 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #275 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #278 by tanu91112 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #281 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #285 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #290 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #292 by tanu91112 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #294 by Dipanita45 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #295 by tanu91112 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #297 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #300 by tanu91112 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #301 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #303 by tanu91112 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #304 by VenkataSrujana11 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #306 by Vijayashree-tech in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #311 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #315 by VenkataSrujana11 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #317 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #318 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #322 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #324 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #326 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #327 by Tushar-senpai in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #329 by VenkataSrujana11 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #330 by Dipanita45 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #334 by ssz2605 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #338 by Dipanita45 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #342 by Vaishnavi-Manne in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #343 by Vijayashree-tech in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #357 by krabhis in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #363 by dini-5002 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #364 by denshaw-09 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #366 by VenkataSrujana11 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #367 by Sudhanshu517 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #370 by VenkataSrujana11 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #378 by Vijayashree-tech in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #404 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #414 by Y4shu in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #416 by Sainava in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #421 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #427 by VenkataSrujana11 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #442 by Vijayashree-tech in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #444 by Sainava in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #445 by HARSHMOHAN01 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #449 by Y4shu in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #454 by anchalchaturvedi08 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #458 by denshaw-09 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #463 by Sainava in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #464 by Vijayashree-tech in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #467 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #470 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #473 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #476 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #479 by Yamuna-b in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #483 by Vaishnavi-Manne in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #485 by Sainava in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #486 by Sejal-collection in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #505 by Dipanita45 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #509 by Priyanshiunique in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #510 by AkshithaMuttangi in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #513 by HARSHMOHAN01 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #531 by Megha-sing in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #543 by sanskarlohani in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #551 by HARSHMOHAN01 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #555 by HARSHMOHAN01 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #565 by HARSHMOHAN01 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #574 by HARSHMOHAN01 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #581 by HARSHMOHAN01 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #583 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #586 by HARSHMOHAN01 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #609 by denshaw-09 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #610 by Verma-MK in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #623 by isha0325 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #624 by Y4shu in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #636 by InMostCalmness-Rahul in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #642 by AbhishekSharma-9 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #665 by Vijayashree-tech in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #668 by SnehaghoshBarsha444 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #673 by Verma-MK in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #685 by VenkataSrujana11 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #690 by InMostCalmness-Rahul in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #700 by Lavi-hk in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #717 by SK8-infi in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #719 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #721 by Lavi-hk in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #724 by AbhishekSharma-9 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #728 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #737 by Sejal-collection in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #740 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #745 by Lavi-hk in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #747 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #765 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #767 by renuvarma67 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #774 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #777 by renuvarma67 in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #778 by Sayan-206 in Saumy1905/PYQFort - Advanced (40 points)
+Qualifying PR: #780 by HARSHMOHAN01 in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #783 by Megha-sing in Saumy1905/PYQFort - Beginner (20 points)
+Qualifying PR: #786 by Lavi-hk in Saumy1905/PYQFort - Intermediate (30 points)
+Qualifying PR: #790 by Verma-MK in Saumy1905/PYQFort - Advanced (40 points)
+
+Fetching PRs for ISHAAN-KKR/Entprep with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4984/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ISHAAN-KKR/Entprep: 0
+
+Fetching PRs for Code-A2Z/jarvis with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4984/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Code-A2Z/jarvis: 0
+
+Fetching PRs for Code-A2Z/code-a2z with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4983/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Code-A2Z/code-a2z: 0
+
+Fetching PRs for rutikakengal/FoodFusion-Online-Food-Ordering-Web with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4983/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for rutikakengal/FoodFusion-Online-Food-Ordering-Web: 0
+
+Fetching PRs for ruchikakengal/100_Days_100_webprojects with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4983/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ruchikakengal/100_Days_100_webprojects: 0
+
+Fetching PRs for dhairyagothi/100_days_100_web_project with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4982/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for dhairyagothi/100_days_100_web_project: 0
+
+Fetching PRs for Nikkhil003/Carbon-Footprint-Detection with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4982/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Nikkhil003/Carbon-Footprint-Detection: 0
+
+Fetching PRs for Akshat111111/NexTrade with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4982/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Akshat111111/NexTrade: 0
+
+Fetching PRs for itsaryanchauhan/ThinkDSA with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4981/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for itsaryanchauhan/ThinkDSA: 0
+
+Fetching PRs for xxRAJA/GYM-Profile- with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4981/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for xxRAJA/GYM-Profile-: 0
+
+Fetching PRs for Mayur-Pagote/README_Design_Kit with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4981/5000 (resets at 12:43:53 PM)
+Retrieved 87 PRs in this page
+Total PRs fetched for Mayur-Pagote/README_Design_Kit: 87
+Qualifying PR: #8 by aryanguptacsvtu in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #19 by Code-writter in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #21 by Code-writter in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #25 by Code-writter in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #29 by vivekd16 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #30 by vivekd16 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #31 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #40 by Varshitha713 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #41 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #44 by awrya-cmd in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #45 by Varshitha713 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #49 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #50 by Varshitha713 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #53 by Varshitha713 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #66 by Webwizzz22 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #67 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #70 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #73 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #74 by piyushdhoka in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #77 by Y4shu in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #79 by vivekd16 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #80 by Dru-429 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #82 by Dru-429 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #83 by Webwizzz22 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #89 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #93 by Kanwalgunkaur1111 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #97 by Jashneer in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #107 by piyushdhoka in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #110 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #112 by coddingjatin in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #115 by Jidnyasa-P in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #118 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #119 by vivekd16 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #120 by Chavva-Harshita in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #121 by Jashneer in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #124 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #126 by Jashneer in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #129 by Varshitha713 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #131 by AnishSambhwani8278 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #134 by piyushdhoka in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #136 by Jashneer in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #137 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #142 by architasaha21 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #143 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #144 by Jashneer in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #147 by Alam9835 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #148 by Soumyosish in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #156 by vivekd16 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #157 by Varshitha713 in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #160 by AnishSambhwani8278 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #163 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #165 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #170 by Code-writter in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #171 by anchalchaturvedi08 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #172 by Jashneer in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #178 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #181 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #185 by Webwizzz22 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #186 by Code-writter in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #187 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #193 by Code-writter in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #195 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #198 by AnishSambhwani8278 in Mayur-Pagote/README_Design_Kit - Intermediate (30 points)
+Qualifying PR: #201 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #203 by Code-writter in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #204 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #207 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #210 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #213 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #215 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #217 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #218 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #219 by Code-writter in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #221 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #223 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+Qualifying PR: #224 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #229 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #232 by Verma-MK in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #233 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #235 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #238 by HimanshuKabra01 in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
+Qualifying PR: #242 by amaansyed27 in Mayur-Pagote/README_Design_Kit - Advanced (40 points)
+
+Fetching PRs for Drago-03/Neural-Nexus with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4980/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Drago-03/Neural-Nexus: 0
+
+Fetching PRs for B4S1C-Coder/Decentralized-File-Storage with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4980/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for B4S1C-Coder/Decentralized-File-Storage: 0
+
+Fetching PRs for dhairyagothi/StationGuide with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4980/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for dhairyagothi/StationGuide: 0
+
+Fetching PRs for RudraniGhosh24/NyayaBot with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4979/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for RudraniGhosh24/NyayaBot: 0
+
+Fetching PRs for Programmers-Paradise/Annie with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4979/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Programmers-Paradise/Annie: 0
+
+Fetching PRs for Premkolte/AnimateHub with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4979/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Premkolte/AnimateHub: 0
+
+Fetching PRs for venuchander/fintrack with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4978/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for venuchander/fintrack: 0
+
+Fetching PRs for imsuryya/CSphere with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4978/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for imsuryya/CSphere: 0
+
+Fetching PRs for adityasingh-0803/Canvasmind with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4978/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for adityasingh-0803/Canvasmind: 0
+
+Fetching PRs for ShrutiSawant0804/Statewise-Police-Political-Directory-Portal with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4977/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ShrutiSawant0804/Statewise-Police-Political-Directory-Portal: 0
+
+Fetching PRs for sailaja-adapa/Vipreshana with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4977/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for sailaja-adapa/Vipreshana: 0
+
+Fetching PRs for PARIGUPTA0011/Samwaad with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4977/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for PARIGUPTA0011/Samwaad: 0
+
+Fetching PRs for surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4976/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool: 0
+
+Fetching PRs for shuvadeepmondal/HacKerZGuiDe with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4976/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for shuvadeepmondal/HacKerZGuiDe: 0
+
+Fetching PRs for Vivek09Chahal/Medic-Search with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4976/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Vivek09Chahal/Medic-Search: 0
+
+Fetching PRs for kashikaga/FinTrak with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4975/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for kashikaga/FinTrak: 0
+
+Fetching PRs for HarshS16/Civix with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4975/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for HarshS16/Civix: 0
+
+Fetching PRs for Kirti-Rathi/PromptShell with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4975/5000 (resets at 12:43:53 PM)
+Retrieved 17 PRs in this page
+Total PRs fetched for Kirti-Rathi/PromptShell: 17
+Qualifying PR: #21 by GauravKarakoti in Kirti-Rathi/PromptShell - Advanced (40 points)
+Qualifying PR: #23 by aryanguptacsvtu in Kirti-Rathi/PromptShell - Beginner (20 points)
+Qualifying PR: #27 by vivekd16 in Kirti-Rathi/PromptShell - Intermediate (30 points)
+Qualifying PR: #28 by vivekd16 in Kirti-Rathi/PromptShell - Beginner (20 points)
+Qualifying PR: #30 by RAJVEER42 in Kirti-Rathi/PromptShell - Beginner (20 points)
+Qualifying PR: #31 by pkbros in Kirti-Rathi/PromptShell - Intermediate (30 points)
+Qualifying PR: #38 by jaylm10 in Kirti-Rathi/PromptShell - Beginner (20 points)
+Qualifying PR: #41 by Dipanita45 in Kirti-Rathi/PromptShell - Beginner (20 points)
+Qualifying PR: #44 by Shoury-Rana in Kirti-Rathi/PromptShell - Intermediate (30 points)
+Qualifying PR: #51 by Shoury-Rana in Kirti-Rathi/PromptShell - Beginner (20 points)
+Qualifying PR: #56 by Shoury-Rana in Kirti-Rathi/PromptShell - Advanced (40 points)
+Qualifying PR: #58 by piyushdhoka in Kirti-Rathi/PromptShell - Advanced (40 points)
+Qualifying PR: #61 by GauravKarakoti in Kirti-Rathi/PromptShell - Intermediate (30 points)
+Qualifying PR: #63 by RAJVEER42 in Kirti-Rathi/PromptShell - Intermediate (30 points)
+Qualifying PR: #66 by Anujanthwal-dotcom in Kirti-Rathi/PromptShell - Intermediate (30 points)
+Qualifying PR: #68 by Shoury-Rana in Kirti-Rathi/PromptShell - Advanced (40 points)
+Qualifying PR: #73 by pkbros in Kirti-Rathi/PromptShell - Advanced (40 points)
+
+Fetching PRs for GauravKarakoti/Weather-API with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4974/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for GauravKarakoti/Weather-API: 0
+
+Fetching PRs for ashish-um/reddiculous with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4974/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ashish-um/reddiculous: 0
+
+Fetching PRs for rudralpha10/Coolsphere with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4974/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for rudralpha10/Coolsphere: 0
+
+Fetching PRs for Bhavya1352/eventmappr with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4973/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Bhavya1352/eventmappr: 0
+
+Fetching PRs for Rakesh9100/Beautiify with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4973/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Rakesh9100/Beautiify: 0
+
+Fetching PRs for Rakesh9100/CalcDiverse with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4973/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Rakesh9100/CalcDiverse: 0
+
+Fetching PRs for Rakesh9100/Eventica with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4972/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Rakesh9100/Eventica: 0
+
+Fetching PRs for thishika-k/IQTOPIA-NEW with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4972/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for thishika-k/IQTOPIA-NEW: 0
+
+Fetching PRs for Prateek9876/NagarVikas with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4972/5000 (resets at 12:43:53 PM)
+Retrieved 50 PRs in this page
+Total PRs fetched for Prateek9876/NagarVikas: 50
+Qualifying PR: #21 by aryanguptacsvtu in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #22 by RAJVEER42 in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #24 by shrutisachan08 in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #25 by IamPritamAcharya in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #26 by jyotsna030 in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #27 by imBharathkumarp in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #31 by SK8-infi in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #32 by Gargibajpai in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #33 by denshaw-09 in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #34 by Samiksha-bajoria in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #36 by imBharathkumarp in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #45 by imBharathkumarp in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #52 by pahimauchil in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #54 by pahimauchil in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #65 by IamPritamAcharya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #66 by jyotsna030 in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #68 by Aaryandhage in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #70 by pahimauchil in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #71 by piyushdhoka in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #72 by Aaryandhage in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #76 by IamPritamAcharya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #91 by piyushdhoka in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #93 by pooja1932 in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #100 by IamPritamAcharya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #103 by GxAditya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #107 by pooja1932 in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #108 by IamPritamAcharya in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #110 by pooja1932 in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #111 by imBharathkumarp in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #113 by imBharathkumarp in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #114 by pahimauchil in Prateek9876/NagarVikas - Beginner (20 points)
+Qualifying PR: #117 by IamPritamAcharya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #118 by IamPritamAcharya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #119 by imBharathkumarp in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #125 by aliviahossain in Prateek9876/NagarVikas - Intermediate (30 points)
+Qualifying PR: #126 by pooja1932 in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #131 by GxAditya in Prateek9876/NagarVikas - Advanced (40 points)
+Qualifying PR: #132 by IamPritamAcharya in Prateek9876/NagarVikas - Intermediate (30 points)
+
+Fetching PRs for mansiruhil/fail-u-forward with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4971/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for mansiruhil/fail-u-forward: 0
+
+Fetching PRs for saksham0mahnot/safarr with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4971/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for saksham0mahnot/safarr: 0
+
+Fetching PRs for codingtrend/tic-tac-toe-Game with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4971/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for codingtrend/tic-tac-toe-Game: 0
+
+Fetching PRs for arjunatapadkar/codeteria with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4970/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for arjunatapadkar/codeteria: 0
+
+Fetching PRs for Varshitha713/good-first-issue-for-students with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4970/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Varshitha713/good-first-issue-for-students: 0
+
+Fetching PRs for soumya813/Notes-App with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4970/5000 (resets at 12:43:53 PM)
+Retrieved 8 PRs in this page
+Total PRs fetched for soumya813/Notes-App: 8
+Qualifying PR: #11 by Bavanetha27 in soumya813/Notes-App - Advanced (40 points)
+Qualifying PR: #31 by Anujanthwal-dotcom in soumya813/Notes-App - Beginner (20 points)
+Qualifying PR: #36 by Samriddhi903 in soumya813/Notes-App - Beginner (20 points)
+Qualifying PR: #53 by Rakshit002 in soumya813/Notes-App - Intermediate (30 points)
+Qualifying PR: #62 by SK8-infi in soumya813/Notes-App - Beginner (20 points)
+Qualifying PR: #66 by Piyushchannawar in soumya813/Notes-App - Beginner (20 points)
+Qualifying PR: #67 by InMostCalmness-Rahul in soumya813/Notes-App - Beginner (20 points)
+Qualifying PR: #73 by SK8-infi in soumya813/Notes-App - Beginner (20 points)
+
+Fetching PRs for Shashwat-Trivedi/Job-Dhundo with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4969/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Shashwat-Trivedi/Job-Dhundo: 0
+
+Fetching PRs for Yogareddy107/IntraSphere-JobPortal with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4969/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Yogareddy107/IntraSphere-JobPortal: 0
+
+Fetching PRs for Shantanu-Tiwari/CoCode with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4969/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Shantanu-Tiwari/CoCode: 0
+
+Fetching PRs for EmailScript/EmailScript with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4968/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for EmailScript/EmailScript: 0
+
+Fetching PRs for Mayuri734/Her-Bloom-Project with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4968/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Mayuri734/Her-Bloom-Project: 0
+
+Fetching PRs for koustavx08/academic-chain-main with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4968/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for koustavx08/academic-chain-main: 0
+
+Fetching PRs for ruchikakengal/WebDevIn100_Days with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4967/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ruchikakengal/WebDevIn100_Days: 0
+
+Fetching PRs for Vaibhavlanjewar/Csgpt with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4967/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Vaibhavlanjewar/Csgpt: 0
+
+Fetching PRs for atharva038/KnockNFix with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4967/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for atharva038/KnockNFix: 0
+
+Fetching PRs for akshay0611/tanjore-degree-coffee with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4966/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for akshay0611/tanjore-degree-coffee: 0
+
+Fetching PRs for git-aaditmehta/cardwise with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4966/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for git-aaditmehta/cardwise: 0
+
+Fetching PRs for Kalaigar-Ayesha/Fake-interships-detection with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4966/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Kalaigar-Ayesha/Fake-interships-detection: 0
+
+Fetching PRs for iDhruv03/Call-My-Lawyer with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4965/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for iDhruv03/Call-My-Lawyer: 0
+
+Fetching PRs for Kaliagargi/forest-fireprotection with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4965/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Kaliagargi/forest-fireprotection: 0
+
+Fetching PRs for apu52/Travel_Website with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4965/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for apu52/Travel_Website: 0
+
+Fetching PRs for apu52/METAVERSE with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4964/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for apu52/METAVERSE: 0
+
+Fetching PRs for vacanza/holidays with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4964/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for vacanza/holidays: 0
+
+Fetching PRs for soundarya8/Signify with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4964/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for soundarya8/Signify: 0
+
+Fetching PRs for apna-college/wanderlust with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4963/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for apna-college/wanderlust: 0
+
+Fetching PRs for Varshini-Buggana/E-commerce-Complete-Flutter-UI with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4963/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Varshini-Buggana/E-commerce-Complete-Flutter-UI: 0
+
+Fetching PRs for VARUN3WARE/GroundBot with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4963/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for VARUN3WARE/GroundBot: 0
+
+Fetching PRs for Nandani1512/byteverse_Mavericks with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4962/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Nandani1512/byteverse_Mavericks: 0
+
+Fetching PRs for sailaja-adapa/GuruShish with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4962/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for sailaja-adapa/GuruShish: 0
+
+Fetching PRs for sumit-make/Smart-University with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4962/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for sumit-make/Smart-University: 0
+
+Fetching PRs for SAMBUDAR/Styleka with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4961/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SAMBUDAR/Styleka: 0
+
+Fetching PRs for SamXop123/tools.io with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4961/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SamXop123/tools.io: 0
+
+Fetching PRs for SGCODEX/Music-Recommendation-Using-Facial-Expressions with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4961/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SGCODEX/Music-Recommendation-Using-Facial-Expressions: 0
+
+Fetching PRs for SGCODEX/Hackathon-Website with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4960/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SGCODEX/Hackathon-Website: 0
+
+Fetching PRs for CLUSTER-DS-Club/cluster with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4960/5000 (resets at 12:43:52 PM)
+Retrieved 47 PRs in this page
+Total PRs fetched for CLUSTER-DS-Club/cluster: 47
+Qualifying PR: #33 by aryanguptacsvtu in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #38 by Mayankjain2624 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #46 by kanik-snippet in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #47 by tejaswinihatkar in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #49 by Neha-Singh-j in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #60 by bishal7448 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #62 by sahithi-kanjarla in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #68 by archangel2006 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #71 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #75 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #76 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #79 by Deekshithshaiva05 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #82 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #83 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #89 by Soumyosish in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #90 by manavi-24 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #95 by Anujanthwal-dotcom in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #96 by HimanshuKabra01 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #98 by sahithi-kanjarla in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #101 by Deekshithshaiva05 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #108 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #109 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #111 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #112 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #118 by archangel2006 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #120 by Sundhar-Balamoorthy in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #124 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #132 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Advanced (40 points)
+Qualifying PR: #133 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #134 by archangel2006 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #135 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #136 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #137 by ravneet27062004 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #138 by kamran-asif in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #143 by TanmayKalra09 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #145 by Webwizzz22 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #146 by kavitha308 in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #149 by ravneet27062004 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #150 by ravneet27062004 in CLUSTER-DS-Club/cluster - Beginner (20 points)
+Qualifying PR: #154 by dishaagrawalcodes in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+Qualifying PR: #158 by tejaswinihatkar in CLUSTER-DS-Club/cluster - Intermediate (30 points)
+
+Fetching PRs for rimanshupatel/FitMind_Ai with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4960/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for rimanshupatel/FitMind_Ai: 0
+
+Fetching PRs for Ananta025/VIDEO_MEET with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4959/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Ananta025/VIDEO_MEET: 0
+
+Fetching PRs for AgrimTawani/WordBattle with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4959/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for AgrimTawani/WordBattle: 0
+
+Fetching PRs for Ananta025/Financy with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4959/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Ananta025/Financy: 0
+
+Fetching PRs for owasp/nest with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4958/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for owasp/nest: 0
+
+Fetching PRs for Vrushti-kulkarni/Terrawise with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4958/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Vrushti-kulkarni/Terrawise: 0
+
+Fetching PRs for Vaishnavi-Manne/CSS-Masterpieces with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4958/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Vaishnavi-Manne/CSS-Masterpieces: 0
+
+Fetching PRs for Nazeya86/TaskByte with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4957/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Nazeya86/TaskByte: 0
+
+Fetching PRs for sAnandha/AWS-Project-Documentation with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4957/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for sAnandha/AWS-Project-Documentation: 0
+
+Fetching PRs for efshaperveen/MindJournal with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4957/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for efshaperveen/MindJournal: 0
+
+Fetching PRs for Mohitranag18/PPT.fy with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4956/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Mohitranag18/PPT.fy: 0
+
+Fetching PRs for sailaja-adapa/gurushish with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4956/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for sailaja-adapa/gurushish: 0
+
+Fetching PRs for Raga-03/Twitter_Sentiment_Analysis with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4956/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Raga-03/Twitter_Sentiment_Analysis: 0
+
+Fetching PRs for Piyush-t24/NBG with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4955/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Piyush-t24/NBG: 0
+
+Fetching PRs for SharonIV0x86/CinderPeak with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4955/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SharonIV0x86/CinderPeak: 0
+
+Fetching PRs for i-amit-tiwari/E-Commerce-Website with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4955/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for i-amit-tiwari/E-Commerce-Website: 0
+
+Fetching PRs for i-amit-tiwari/Food-Ordering with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4954/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for i-amit-tiwari/Food-Ordering: 0
+
+Fetching PRs for Kalaigar-Ayesha/Job-Application-Tracker with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4954/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Kalaigar-Ayesha/Job-Application-Tracker: 0
+
+Fetching PRs for Jotthecode/CITY-PULSE with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4954/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Jotthecode/CITY-PULSE: 0
+
+Fetching PRs for akshtshrma/KinetiX with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4953/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for akshtshrma/KinetiX: 0
+
+Fetching PRs for Darshan0244/Study_Zen with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4953/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Darshan0244/Study_Zen: 0
+
+Fetching PRs for mohitcse22/Game-zone with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4953/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for mohitcse22/Game-zone: 0
+
+Fetching PRs for SrigadaAkshayKumar/chatapp-frontend with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4952/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SrigadaAkshayKumar/chatapp-frontend: 0
+
+Fetching PRs for SrigadaAkshayKumar/stock with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...ix2X
+Rate limit: 4952/5000 (resets at 12:43:52 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for SrigadaAkshayKumar/stock: 0
+
+Fetching PRs for ThePhoenix08/open-graph-visualizer with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...eN9J
+Rate limit: 4952/5000 (resets at 12:43:53 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for ThePhoenix08/open-graph-visualizer: 0
+
+Fetching PRs for Swapnil-Dhamal/EventHive with label SSoC25...
+Fetching page of PRs...
+Using token ending with ...7HYO
+Rate limit: 4951/5000 (resets at 12:43:50 PM)
+Retrieved 0 PRs in this page
+Total PRs fetched for Swapnil-Dhamal/EventHive: 0
+
+===== SUMMARY =====
+Total qualifying PRs: 623
+Total points awarded: 16590
+
+===== USER SCORES =====
+72897: No qualifying PRs
+198737: No qualifying PRs
+adityamaitreya: No qualifying PRs
+jay1466: No qualifying PRs
+heykcer: No qualifying PRs
+Nimisha987: No qualifying PRs
+vishnukothakapu: No qualifying PRs
+Nehakumarigupta: No qualifying PRs
+ParnaRoyChowdhury777: No qualifying PRs
+KollaGautami: No qualifying PRs
+krishagandhi0711: No qualifying PRs
+Ayushgit51: No qualifying PRs
+himudit: No qualifying PRs
+vasanth30672: No qualifying PRs
+sonuprasad23: No qualifying PRs
+AasthaPoswal: No qualifying PRs
+G3miniCodes: No qualifying PRs
+aryarathoree: No qualifying PRs
+sumandey7684: No qualifying PRs
+AkshayHaldar: No qualifying PRs
+Somilg11: 160 points (8 PRs)
+  - Beginner: 8 PRs
+anuscaa: No qualifying PRs
+amaansyed27: 410 points (13 PRs)
+  - Beginner: 3 PRs
+  - Intermediate: 5 PRs
+  - Advanced: 5 PRs
+tamatar-23: No qualifying PRs
+adityas72: No qualifying PRs
+MeghanaDG04: No qualifying PRs
+Lakshya0104: No qualifying PRs
+Neha-Singh-j: 20 points (1 PRs)
+  - Beginner: 1 PRs
+annant2005: No qualifying PRs
+deepanshi-codes: No qualifying PRs
+sayan922: No qualifying PRs
+IamPritamAcharya: 290 points (8 PRs)
+  - Intermediate: 3 PRs
+  - Advanced: 5 PRs
+SanjanaJ20: No qualifying PRs
+Nithin0306: No qualifying PRs
+Preksha07-ap: No qualifying PRs
+HimanshuKabra01: 550 points (27 PRs)
+  - Beginner: 26 PRs
+  - Intermediate: 1 PRs
+Sarvesh221007: No qualifying PRs
+sourav0006: No qualifying PRs
+Anujanthwal-dotcom: 70 points (3 PRs)
+  - Beginner: 2 PRs
+  - Intermediate: 1 PRs
+Aditya-Roy-code: No qualifying PRs
+mahakagarwal45: No qualifying PRs
+OJASWANI-tech: No qualifying PRs
+parshvi1508: No qualifying PRs
+Syed-Shamsheer-Ali: No qualifying PRs
+aryannkaushikk: No qualifying PRs
+Ayush170306: No qualifying PRs
+SHlok06majmundar: No qualifying PRs
+Aadiarya0: No qualifying PRs
+TechieRuchitaJ: No qualifying PRs
+Sowmyadevalla2005: No qualifying PRs
+Mahisingh3012: No qualifying PRs
+KeshavX3: No qualifying PRs
+codexuttam: No qualifying PRs
+Kanha122: No qualifying PRs
+Terrich-hash: No qualifying PRs
+agniva1803: No qualifying PRs
+dhivagd: No qualifying PRs
+ashish2216499: No qualifying PRs
+Meetjain1: No qualifying PRs
+richadubeyess: No qualifying PRs
+RishabhAggarwal613: No qualifying PRs
+THE-DEEPDAS: No qualifying PRs
+khushirawat2004: No qualifying PRs
+ashimatiwari13: No qualifying PRs
+Jeetu123-coder: No qualifying PRs
+dreamerboy92: No qualifying PRs
+Sachinrautela: No qualifying PRs
+Er-luffy-d: No qualifying PRs
+SayantikaLaskar: No qualifying PRs
+Y4shu: 240 points (7 PRs)
+  - Beginner: 2 PRs
+  - Advanced: 5 PRs
+erenyeager101: No qualifying PRs
+Ayirr: No qualifying PRs
+anikaaggarwal23: No qualifying PRs
+Er-Afzal: No qualifying PRs
+Gurashish73: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+aartisonigra: No qualifying PRs
+Sushma-1706: 20 points (1 PRs)
+  - Beginner: 1 PRs
+kanik-snippet: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+anusha-codes: No qualifying PRs
+anshuman444: No qualifying PRs
+kasmya: No qualifying PRs
+tanvipawase30: No qualifying PRs
+Dipanita45: 560 points (20 PRs)
+  - Beginner: 6 PRs
+  - Intermediate: 12 PRs
+  - Advanced: 2 PRs
+sayanMU007: No qualifying PRs
+IshitaAgrawal-dev: No qualifying PRs
+BYTEBENDER-ML: No qualifying PRs
+Yashgpt123: No qualifying PRs
+Anubhavsingh9905: No qualifying PRs
+tejaswi194117: No qualifying PRs
+Vaish-011: No qualifying PRs
+Manvitha3004: No qualifying PRs
+sakshig130: No qualifying PRs
+rudresh05: No qualifying PRs
+Jayantjha17: No qualifying PRs
+AbhinaySngh: No qualifying PRs
+Kalaigar-Ayesha: No qualifying PRs
+SRILSHUKLA: No qualifying PRs
+Chetanck03: No qualifying PRs
+ayesha2104: No qualifying PRs
+beastcodershivam007: No qualifying PRs
+vinayakpandeya: No qualifying PRs
+sanskarlohani: 40 points (1 PRs)
+  - Advanced: 1 PRs
+manoharbari: No qualifying PRs
+Tanishq-789: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+AbhienayaSri9509: No qualifying PRs
+hitesh-reddy-k: No qualifying PRs
+MNaveenReddy123: No qualifying PRs
+paul-srijan: No qualifying PRs
+yash-sisodia22: No qualifying PRs
+iamshubham1704: No qualifying PRs
+Harishchandra-26: No qualifying PRs
+Asterioxer: 240 points (12 PRs)
+  - Beginner: 12 PRs
+samim29: No qualifying PRs
+rohit-debnath24: No qualifying PRs
+Bavanetha27: 70 points (2 PRs)
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+ChinmayaBiswal7: No qualifying PRs
+Shrey3satdeve: No qualifying PRs
+Sitaram8472: No qualifying PRs
+Ariifff: No qualifying PRs
+ADITYASINGH0175: No qualifying PRs
+YashChauhan-2303: No qualifying PRs
+Laiba-AbdulQuddus: No qualifying PRs
+SHIV-360: 60 points (2 PRs)
+  - Intermediate: 2 PRs
+Shruti1128: No qualifying PRs
+tanvisatija: No qualifying PRs
+Megha-sing: 60 points (2 PRs)
+  - Beginner: 1 PRs
+  - Advanced: 1 PRs
+vishes-i: No qualifying PRs
+himanshu950: No qualifying PRs
+goyal-nandini: No qualifying PRs
+Sai-Dangade777: No qualifying PRs
+Rakshit002: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+VanshRaghav5: No qualifying PRs
+darkseid03: No qualifying PRs
+LavanyaBanga: No qualifying PRs
+Suteexxx: No qualifying PRs
+yashiiika299: No qualifying PRs
+Harshawardhan2209: No qualifying PRs
+Riti2407: No qualifying PRs
+shreesriv12: No qualifying PRs
+Blackdragon04: No qualifying PRs
+Priyakatariya: 180 points (8 PRs)
+  - Beginner: 6 PRs
+  - Intermediate: 2 PRs
+vivek459verma: No qualifying PRs
+Palakpk954: No qualifying PRs
+pranav-gujar: No qualifying PRs
+Kushika-Agarwal: No qualifying PRs
+NityaSriDeepakRaj: No qualifying PRs
+BalajiMittapalli: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Lalitha216: No qualifying PRs
+kevaleaditya1: No qualifying PRs
+akashbisht004: 40 points (2 PRs)
+  - Beginner: 2 PRs
+Jeenal0818: No qualifying PRs
+Piyush00715: No qualifying PRs
+Pradhyumn72: No qualifying PRs
+Roavinsh: No qualifying PRs
+rudra-bansal: No qualifying PRs
+Sumit1122005: No qualifying PRs
+Akhilnagavelli: No qualifying PRs
+chehak2004: No qualifying PRs
+Ananyaa03: 40 points (2 PRs)
+  - Beginner: 2 PRs
+sanjanashah05: No qualifying PRs
+kimbohlovette: No qualifying PRs
+kalyanshnu: No qualifying PRs
+AnishSambhwani8278: 80 points (3 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 2 PRs
+Vitalvarma: No qualifying PRs
+Ankur2606: No qualifying PRs
+Aditya-Matta: No qualifying PRs
+Ashi1411: No qualifying PRs
+Samriddhi903: 20 points (1 PRs)
+  - Beginner: 1 PRs
+richabudhori: No qualifying PRs
+Shonal-prog: No qualifying PRs
+renuvarma67: 100 points (3 PRs)
+  - Intermediate: 2 PRs
+  - Advanced: 1 PRs
+Kinnariii: No qualifying PRs
+shivampatkar: No qualifying PRs
+TanishaBansal101: No qualifying PRs
+HarshitSeth77: No qualifying PRs
+HtetPaingLinn: No qualifying PRs
+pragyakuumarimishra: No qualifying PRs
+keval025: No qualifying PRs
+akashadsare: No qualifying PRs
+pleasecodekomal: No qualifying PRs
+dheeraxspidey: No qualifying PRs
+soasmi: No qualifying PRs
+sg6724: No qualifying PRs
+Ankitbhati06: No qualifying PRs
+kanishgit09: 40 points (1 PRs)
+  - Advanced: 1 PRs
+Radi8ion: No qualifying PRs
+Lavanesswary: No qualifying PRs
+ManiKumar061: No qualifying PRs
+madhurgarg01: No qualifying PRs
+avnish1519: No qualifying PRs
+priyanshuchawda: No qualifying PRs
+AdnanSiddiqui95: No qualifying PRs
+yashdeep370: No qualifying PRs
+rachelllxo: No qualifying PRs
+MRohit-2003: No qualifying PRs
+abhiraj646: No qualifying PRs
+GopalDwivedii: No qualifying PRs
+Prachii2396: No qualifying PRs
+kaurpreetman: No qualifying PRs
+Tanwarshiva: No qualifying PRs
+herin7: No qualifying PRs
+dashmeet2023: No qualifying PRs
+uzearsheikh: No qualifying PRs
+gauravjain0377: No qualifying PRs
+yadavkanishk07: No qualifying PRs
+Uhashini: No qualifying PRs
+RishabhV28: No qualifying PRs
+piyushdhoka: 880 points (40 PRs)
+  - Beginner: 34 PRs
+  - Intermediate: 4 PRs
+  - Advanced: 2 PRs
+Anjanipatnaik: No qualifying PRs
+Shubh-Rawat7: No qualifying PRs
+nupurmadaan04: No qualifying PRs
+DarKnight890980: No qualifying PRs
+HimanshuHeda: No qualifying PRs
+riyaraj-web: No qualifying PRs
+tejaskankhar: No qualifying PRs
+nitin811: No qualifying PRs
+InMostCalmness-Rahul: 100 points (4 PRs)
+  - Beginner: 3 PRs
+  - Advanced: 1 PRs
+mr-akash-22: No qualifying PRs
+aliviahossain: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+Jashneer: 180 points (6 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 4 PRs
+  - Advanced: 1 PRs
+Anuragsrivastava508: No qualifying PRs
+rashmeet1896: No qualifying PRs
+Atlantafiles: No qualifying PRs
+Khushi-bhaskar01: No qualifying PRs
+Vanshaj14Mohan: No qualifying PRs
+ojasvsingh71: No qualifying PRs
+titasgarai: No qualifying PRs
+Arnab-dot: No qualifying PRs
+AkshithaMuttangi: 40 points (1 PRs)
+  - Advanced: 1 PRs
+pratheekv39: No qualifying PRs
+harshithabs109: No qualifying PRs
+Diwansu-pilania: No qualifying PRs
+k-shushh: No qualifying PRs
+pahimauchil: 110 points (4 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 3 PRs
+otAdarshP: No qualifying PRs
+gemmishra: No qualifying PRs
+GxAditya: 110 points (3 PRs)
+  - Intermediate: 1 PRs
+  - Advanced: 2 PRs
+pushkar-web: No qualifying PRs
+methrearchana: No qualifying PRs
+ItsMeAnanyaSrivastava: No qualifying PRs
+Akshita-2006: No qualifying PRs
+SandipGhorai-max: No qualifying PRs
+Konikakonika: No qualifying PRs
+Pranjali-2004: No qualifying PRs
+nishantrana07: No qualifying PRs
+yashsharmapvt79: No qualifying PRs
+dhananjay4554: No qualifying PRs
+kumkumverm: No qualifying PRs
+SumitRathore23: No qualifying PRs
+shwet91-cyber: No qualifying PRs
+abhilash-0913: No qualifying PRs
+gupta-ritik: No qualifying PRs
+AnoushkaSamanta: No qualifying PRs
+Akshit0707: No qualifying PRs
+shreenn: No qualifying PRs
+BhavanaGupta1st: No qualifying PRs
+LakshayD02: No qualifying PRs
+Tripti213: No qualifying PRs
+Shubhamcch: No qualifying PRs
+trahulprabhu38: No qualifying PRs
+amishagupta31: No qualifying PRs
+janvi2108: No qualifying PRs
+rahulmani-28: No qualifying PRs
+saivamshi4121: No qualifying PRs
+simantasarma: No qualifying PRs
+RedK22: No qualifying PRs
+rajvardhant: No qualifying PRs
+pranao0609: No qualifying PRs
+techy-snehali-07: No qualifying PRs
+nihalsareddy: No qualifying PRs
+saoud30: No qualifying PRs
+adwityac: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+muskankhan21052003-byte: No qualifying PRs
+DivyaBarnwal21: No qualifying PRs
+Siddhi-31: No qualifying PRs
+vjlive: No qualifying PRs
+AnuranjanJain: No qualifying PRs
+Ronnit44: 60 points (3 PRs)
+  - Beginner: 3 PRs
+Priyanshiunique: 50 points (2 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+Gauravsinghrajputt: No qualifying PRs
+rohitshankar12: No qualifying PRs
+Sanskriti-Saran: No qualifying PRs
+saaranshg: No qualifying PRs
+chayanC7mondal: No qualifying PRs
+manishgithubri: No qualifying PRs
+dinesh-2047: No qualifying PRs
+modiraunak: No qualifying PRs
+Payel647: No qualifying PRs
+Jotthecode: No qualifying PRs
+Mayank-Shukla-26: No qualifying PRs
+Vaishnavi-Janjanam: No qualifying PRs
+thynash: No qualifying PRs
+Divya8210-d: No qualifying PRs
+Paparx: No qualifying PRs
+varunkumarcs22055: No qualifying PRs
+jatinkaushik-jk: No qualifying PRs
+SUPREME-AKASH-DEVELOPER: No qualifying PRs
+pkbros: 70 points (2 PRs)
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+predator-911: No qualifying PRs
+dharanireddydadi: No qualifying PRs
+itz-nirmal: No qualifying PRs
+bwbeas: 40 points (1 PRs)
+  - Advanced: 1 PRs
+Apurba-01: 180 points (9 PRs)
+  - Beginner: 9 PRs
+ayushsin9h: No qualifying PRs
+Esheshwari: No qualifying PRs
+Anshul117: No qualifying PRs
+muskan8006: No qualifying PRs
+anusha-kr01: No qualifying PRs
+shreya22070: No qualifying PRs
+Vanshika110: No qualifying PRs
+Shaheen614: No qualifying PRs
+Mohamad-Owais: 20 points (1 PRs)
+  - Beginner: 1 PRs
+ashwin-kumar9405: No qualifying PRs
+mihika1110: No qualifying PRs
+Divyakumari18: No qualifying PRs
+b21renu: No qualifying PRs
+MehulDev0228: No qualifying PRs
+Fatimaq07: No qualifying PRs
+Vartekalohiya13: No qualifying PRs
+Manoj-ruler: No qualifying PRs
+pari3654: 20 points (1 PRs)
+  - Beginner: 1 PRs
+rutuglave2519: No qualifying PRs
+akshita-cyber: No qualifying PRs
+shreyansh-hacker: No qualifying PRs
+naveenmvoff: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+kavitha308: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+VasuGx: No qualifying PRs
+Vishisht-Dwivedi: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Varshini-Buggana: No qualifying PRs
+Shambhujadhav4: No qualifying PRs
+Shreya-Gupta-SG: 20 points (1 PRs)
+  - Beginner: 1 PRs
+archangel2006: 100 points (4 PRs)
+  - Beginner: 2 PRs
+  - Intermediate: 2 PRs
+nithin434: No qualifying PRs
+aasthax1: No qualifying PRs
+ShifanaRajamohamed: No qualifying PRs
+ssz2605: 40 points (1 PRs)
+  - Advanced: 1 PRs
+Mayukh-001: No qualifying PRs
+SHreyanSH-0: No qualifying PRs
+Akay-saifi: No qualifying PRs
+ayush-33: No qualifying PRs
+Parul-Byte: No qualifying PRs
+kanikaa-3018: No qualifying PRs
+Shubham-Kanyal: No qualifying PRs
+Samiran2004: No qualifying PRs
+kr8865: No qualifying PRs
+ssid18: 40 points (2 PRs)
+  - Beginner: 2 PRs
+Chhavi0104: No qualifying PRs
+ABHILASH9519: No qualifying PRs
+03-SudheshnaReddy: No qualifying PRs
+TejaswiMahadev: No qualifying PRs
+Durgesh4254: No qualifying PRs
+Saurabhjk15: 40 points (1 PRs)
+  - Advanced: 1 PRs
+sumit2221-div: No qualifying PRs
+AbhiSingh05: No qualifying PRs
+arjavjain5203: No qualifying PRs
+calebjubal: No qualifying PRs
+ShrivastvAryan: No qualifying PRs
+VAGISHA-47: No qualifying PRs
+ashumishra069: No qualifying PRs
+YASHJAIN1112: No qualifying PRs
+aniket0807: No qualifying PRs
+ri5hika: No qualifying PRs
+Siddhi-Nagapure-5: No qualifying PRs
+tentasan: No qualifying PRs
+Tushar-senpai: 50 points (2 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+Nevil1234: No qualifying PRs
+Akshaya2720: No qualifying PRs
+sohumvenkatadri7: No qualifying PRs
+codertanya03: No qualifying PRs
+Soumyosish: 80 points (4 PRs)
+  - Beginner: 4 PRs
+MaulikGupta27: 100 points (5 PRs)
+  - Beginner: 5 PRs
+PalakSinha2505: No qualifying PRs
+bhartiamulya: No qualifying PRs
+aashutoshkumarbhardwaj: No qualifying PRs
+Drishti-25: No qualifying PRs
+silakini3116: No qualifying PRs
+tanvi0909: No qualifying PRs
+Akchive: No qualifying PRs
+itsKanika: No qualifying PRs
+mudit108-code: No qualifying PRs
+Abhinaytechie: No qualifying PRs
+aksh1009: No qualifying PRs
+chandikasarkar: No qualifying PRs
+Hritikverma018: No qualifying PRs
+mav01-code: 20 points (1 PRs)
+  - Beginner: 1 PRs
+SanjayUG: No qualifying PRs
+Samiksha-bajoria: 20 points (1 PRs)
+  - Beginner: 1 PRs
+VanshGosavi07: No qualifying PRs
+Giradhar744: No qualifying PRs
+gatlaharshada: No qualifying PRs
+akhileshverma92: No qualifying PRs
+shrutikeshri2021: No qualifying PRs
+xaemonn: No qualifying PRs
+abhi0324: No qualifying PRs
+Vaishno17: No qualifying PRs
+Dipan2004: No qualifying PRs
+Arni005: No qualifying PRs
+gauravanand809: No qualifying PRs
+lerisa1112: No qualifying PRs
+ThulasiPriyaS: No qualifying PRs
+Ranganivandan: No qualifying PRs
+Samridhi-2007: No qualifying PRs
+Saitej5181: No qualifying PRs
+Athenavar: No qualifying PRs
+Vadrevuharipriya: No qualifying PRs
+Shoury-Rana: 130 points (4 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 2 PRs
+HarshitaDeewan9: No qualifying PRs
+chanukyalucky: No qualifying PRs
+Saafin000: No qualifying PRs
+Paddu909: No qualifying PRs
+soha160: No qualifying PRs
+Joystonm: No qualifying PRs
+Ankit2023-git: No qualifying PRs
+Deepakfile: No qualifying PRs
+vignesh19032005: No qualifying PRs
+sneha842: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+Siri-026: No qualifying PRs
+Yashbhu: No qualifying PRs
+amitya369: No qualifying PRs
+Arjun140205: No qualifying PRs
+Waliamohini: No qualifying PRs
+rishabh-397: No qualifying PRs
+5uhani: No qualifying PRs
+singh-deepanshu-578: No qualifying PRs
+rashikanaruka: No qualifying PRs
+zerotwoadarsh: No qualifying PRs
+Mehakt01: No qualifying PRs
+khushbuusingh: No qualifying PRs
+shbhmexe: No qualifying PRs
+shreyagaur-10: No qualifying PRs
+Hima0611: No qualifying PRs
+jyotsna030: 60 points (2 PRs)
+  - Intermediate: 2 PRs
+Shyla09: No qualifying PRs
+niyatij30: No qualifying PRs
+Kasak02: No qualifying PRs
+Namanbanshiwala: No qualifying PRs
+shavy1910: No qualifying PRs
+aarushitandon0: No qualifying PRs
+saiusesgithub: No qualifying PRs
+Rishitha-32: No qualifying PRs
+GauravKarakoti: 70 points (2 PRs)
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+ac3065: No qualifying PRs
+HARSHMOHAN01: 320 points (10 PRs)
+  - Beginner: 4 PRs
+  - Advanced: 6 PRs
+ARCoder181105: No qualifying PRs
+Code-writter: 270 points (9 PRs)
+  - Beginner: 3 PRs
+  - Intermediate: 3 PRs
+  - Advanced: 3 PRs
+Harshita-HKumawat: No qualifying PRs
+Nazeya86: No qualifying PRs
+MohammedArif9092: No qualifying PRs
+ritik-123456: No qualifying PRs
+imBharathkumarp: 180 points (7 PRs)
+  - Beginner: 4 PRs
+  - Intermediate: 2 PRs
+  - Advanced: 1 PRs
+sania0607: No qualifying PRs
+SrigadaAkshayKumar: 40 points (2 PRs)
+  - Beginner: 2 PRs
+ritesh-raushan: No qualifying PRs
+sagarchauhan2516: No qualifying PRs
+sasolanki03: No qualifying PRs
+adarsh123pa: No qualifying PRs
+nagendrareddy-medapati: No qualifying PRs
+Ankita-Kumari0309: No qualifying PRs
+Karmishthap: No qualifying PRs
+Rajendra078: No qualifying PRs
+jhaabhijeet864: No qualifying PRs
+SrinithaBasireddy: No qualifying PRs
+Antara-code19: No qualifying PRs
+saminadamn: No qualifying PRs
+DivyaMandve: No qualifying PRs
+kiran797979: No qualifying PRs
+pushkarsinghh: No qualifying PRs
+Nandinikumari02: No qualifying PRs
+mansiruhil: No qualifying PRs
+Amcodeit: No qualifying PRs
+Richasharma03: No qualifying PRs
+Yash-Karakoti: No qualifying PRs
+Jahnavi-de: 80 points (3 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 2 PRs
+Rakza31: No qualifying PRs
+Guruprasad-11: No qualifying PRs
+deekshith-b48: No qualifying PRs
+batmnnn: No qualifying PRs
+Twinkleigdtuw: No qualifying PRs
+Rohitku10: No qualifying PRs
+sushmithashettigar29: No qualifying PRs
+anshumalapandit: No qualifying PRs
+LittleCodr: No qualifying PRs
+Gargibajpai: 60 points (3 PRs)
+  - Beginner: 3 PRs
+DeadpoolX7: 40 points (1 PRs)
+  - Advanced: 1 PRs
+NitikaSheoran: No qualifying PRs
+Soumadeep1221: No qualifying PRs
+rishithadasari2005: No qualifying PRs
+Bhaanavee: 20 points (1 PRs)
+  - Beginner: 1 PRs
+2006pritam: No qualifying PRs
+aryan10092: No qualifying PRs
+Vrajc: No qualifying PRs
+AditiGupta-tech: No qualifying PRs
+kotlalokeshwari098: 40 points (2 PRs)
+  - Beginner: 2 PRs
+Sagolsa78: No qualifying PRs
+vineela-bollineni: No qualifying PRs
+yendlurisony: No qualifying PRs
+AnujUpadhayay07: No qualifying PRs
+11neeja: No qualifying PRs
+Aaryandhage: 60 points (2 PRs)
+  - Beginner: 1 PRs
+  - Advanced: 1 PRs
+sahukrishna27: No qualifying PRs
+arthavjain103: 110 points (4 PRs)
+  - Beginner: 2 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+projects: No qualifying PRs
+LAWSA07: No qualifying PRs
+AnvitaPrasad: No qualifying PRs
+Sherone2563: No qualifying PRs
+Aryan5hukla: No qualifying PRs
+Bhupendrakumar20: No qualifying PRs
+msifran: No qualifying PRs
+Amisha-sinoban: No qualifying PRs
+Army-cloud-95: No qualifying PRs
+RichaBharti0603: No qualifying PRs
+aayushmishramechatronics: No qualifying PRs
+AgnideepPoddar: No qualifying PRs
+SuhaniKaushal: No qualifying PRs
+Harshtiwari2-TIT: No qualifying PRs
+Code-Rachit: No qualifying PRs
+yayyyyshi: No qualifying PRs
+arpitsehal: No qualifying PRs
+1203gauri: No qualifying PRs
+Shrehitha: No qualifying PRs
+mdaadil786: No qualifying PRs
+Naimish08: No qualifying PRs
+anirudhehe: No qualifying PRs
+ROOPAS1825: No qualifying PRs
+Ayush-uk: No qualifying PRs
+nashdev97: No qualifying PRs
+suranjanamuahaha: No qualifying PRs
+kamranahmad786: No qualifying PRs
+bhargavi1608: No qualifying PRs
+Aditya20032004: No qualifying PRs
+AshutoshSingh058: No qualifying PRs
+Anshulgupta280104: No qualifying PRs
+BhavanaTiwari16: No qualifying PRs
+ShezaAnam08: No qualifying PRs
+Palak2506: No qualifying PRs
+Sanskriti10247: No qualifying PRs
+suto6: No qualifying PRs
+Chakrika2004: No qualifying PRs
+Arnabzone: No qualifying PRs
+sujal-ece28: No qualifying PRs
+Sub-codes: No qualifying PRs
+Charul192: No qualifying PRs
+DarshiniKurasa: No qualifying PRs
+Mrityunjya: No qualifying PRs
+daredevil17052004: No qualifying PRs
+shubhreeka: No qualifying PRs
+tanu91112: 520 points (16 PRs)
+  - Beginner: 3 PRs
+  - Intermediate: 6 PRs
+  - Advanced: 7 PRs
+OmkarKale453: No qualifying PRs
+shrutisachan08: 90 points (3 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+garvit-exe: No qualifying PRs
+satnamalhan: No qualifying PRs
+Lavi-hk: 90 points (4 PRs)
+  - Beginner: 3 PRs
+  - Intermediate: 1 PRs
+ayushirochi21: No qualifying PRs
+dhruvi2403: No qualifying PRs
+rayanakarthikeyan: No qualifying PRs
+kumaradarsh2: No qualifying PRs
+Sauravkrgithub: No qualifying PRs
+Parth-bot-crypto26: No qualifying PRs
+SONISOMYA: No qualifying PRs
+laxmipriyasahoo1705: No qualifying PRs
+RahulDasari1: No qualifying PRs
+rupinderkaur03: No qualifying PRs
+MANISHLINGADEVARU: No qualifying PRs
+Abhilash332: No qualifying PRs
+Surbhiiiiiii: No qualifying PRs
+Alien0427: No qualifying PRs
+adiancodes: No qualifying PRs
+mohan182004: No qualifying PRs
+divy-03: No qualifying PRs
+kg7825881: No qualifying PRs
+varun935: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+alphabet28: No qualifying PRs
+anuvind570: No qualifying PRs
+Shivang-dadhich: No qualifying PRs
+Ramharsh-aidev: No qualifying PRs
+ZakiyaMiller: No qualifying PRs
+Surajhub21: No qualifying PRs
+Sparsh2105: No qualifying PRs
+prince803tiwari: No qualifying PRs
+sumitchopkar2005: No qualifying PRs
+anshi894: No qualifying PRs
+ankur1409: No qualifying PRs
+agrixm: No qualifying PRs
+s4chinjha: No qualifying PRs
+bhavya21A: No qualifying PRs
+MansiKarki: No qualifying PRs
+vanshaj2023: No qualifying PRs
+mahi-pandey: No qualifying PRs
+ESTROC: No qualifying PRs
+AskitEndo: No qualifying PRs
+Anjali096: No qualifying PRs
+tutankhaman: No qualifying PRs
+04arvind: No qualifying PRs
+Divya4879: No qualifying PRs
+prashanttyson: No qualifying PRs
+BLOOD0769: No qualifying PRs
+Subashree-selvaraj: No qualifying PRs
+rhythm298: No qualifying PRs
+Kamleshsaini1118: No qualifying PRs
+Samyak-Waghmare: No qualifying PRs
+cout-Tushar: No qualifying PRs
+Yogeshnema2412: No qualifying PRs
+RuchikaTalele12: No qualifying PRs
+jatin-9158: No qualifying PRs
+Jayesh-Waghmare: No qualifying PRs
+Kushagra888: No qualifying PRs
+SandeepYadav2413182: No qualifying PRs
+Sachinsingh2002: No qualifying PRs
+Devansh1974: No qualifying PRs
+RAJVEER42: 70 points (3 PRs)
+  - Beginner: 2 PRs
+  - Intermediate: 1 PRs
+pritisingh196: No qualifying PRs
+Sanskarsn: No qualifying PRs
+themayank1729: No qualifying PRs
+IsmailGaur: No qualifying PRs
+dhruv457457: No qualifying PRs
+priyanshiii7: No qualifying PRs
+SamridhiAhuja2075: 20 points (1 PRs)
+  - Beginner: 1 PRs
+AbhishekSharma-9: 140 points (4 PRs)
+  - Intermediate: 2 PRs
+  - Advanced: 2 PRs
+gurjarsachin: No qualifying PRs
+Rishwanth-Naguri: No qualifying PRs
+amancoderhub: No qualifying PRs
+shrutirani3: No qualifying PRs
+rajdeepdas108: No qualifying PRs
+priyamish58: No qualifying PRs
+laaghvii: No qualifying PRs
+SaLTanaTuruz: No qualifying PRs
+maheswari8074: 210 points (10 PRs)
+  - Beginner: 9 PRs
+  - Intermediate: 1 PRs
+Adarsh25449: No qualifying PRs
+susmetaa01: No qualifying PRs
+Nirmalfageria: No qualifying PRs
+niteshcipher: No qualifying PRs
+creeembrees: No qualifying PRs
+NeetuNaikya: No qualifying PRs
+sarthakmangal9: No qualifying PRs
+Anneshabhakta2005: No qualifying PRs
+nipuna12345678: No qualifying PRs
+Adityajain991: No qualifying PRs
+shivenpatro: No qualifying PRs
+divya-36736: No qualifying PRs
+saranshjagwani: No qualifying PRs
+MDMOINAKHTARR: No qualifying PRs
+yadavkapil23: No qualifying PRs
+fonsecajr2: No qualifying PRs
+Mitali-119: No qualifying PRs
+Vaish0223: No qualifying PRs
+chetan2835: No qualifying PRs
+lokeshjakhar7781: No qualifying PRs
+TheAnumaan: No qualifying PRs
+Poushali-Mitra: 20 points (1 PRs)
+  - Beginner: 1 PRs
+K-Vaishnavi12: No qualifying PRs
+naitik-01: No qualifying PRs
+AshmitA-8: No qualifying PRs
+Rhoshree: No qualifying PRs
+AineshSridhar: No qualifying PRs
+Nikhil210206: No qualifying PRs
+Bharat269: No qualifying PRs
+jeev170: No qualifying PRs
+MANASA-NUKALA: No qualifying PRs
+anchalchaturvedi08: 100 points (3 PRs)
+  - Beginner: 1 PRs
+  - Advanced: 2 PRs
+swet40: No qualifying PRs
+Amankumar140: No qualifying PRs
+sAnandha: No qualifying PRs
+6Hu7harshita: No qualifying PRs
+jaat-Hr: No qualifying PRs
+Jidnyasa-P: 470 points (23 PRs)
+  - Beginner: 22 PRs
+  - Intermediate: 1 PRs
+Bhatt005: No qualifying PRs
+satvika1234: No qualifying PRs
+rashmi895: No qualifying PRs
+sandeepbehera21: No qualifying PRs
+DivyanshiGupta-18: No qualifying PRs
+rishabh514: No qualifying PRs
+jashwanthnani: No qualifying PRs
+RinkiJhunjhunwala: No qualifying PRs
+Ananya818181: No qualifying PRs
+VenkataSarma: No qualifying PRs
+BeingRoaster-Raj: No qualifying PRs
+Kanwalgunkaur1111: 20 points (1 PRs)
+  - Beginner: 1 PRs
+devanshimishra2: No qualifying PRs
+amanverma100: No qualifying PRs
+SleepDeprivedShi: No qualifying PRs
+Ujjwal-Singh-20: No qualifying PRs
+Pawnios: No qualifying PRs
+MAHADEVAN-007: No qualifying PRs
+tejaswinihatkar: 60 points (2 PRs)
+  - Intermediate: 2 PRs
+mohdfarmaan322: No qualifying PRs
+Shary28-art: No qualifying PRs
+kumarakshu: No qualifying PRs
+ravneet27062004: 60 points (3 PRs)
+  - Beginner: 3 PRs
+Ankush-ai: No qualifying PRs
+Nav3005: No qualifying PRs
+chockalingam131: No qualifying PRs
+Chetanchhetri: No qualifying PRs
+ashmita-web: No qualifying PRs
+Coden-inja: 40 points (1 PRs)
+  - Advanced: 1 PRs
+govindtilwani07: No qualifying PRs
+harry-the-captain: No qualifying PRs
+rhythmarora070: No qualifying PRs
+snehapm04: No qualifying PRs
+Vishal8858: No qualifying PRs
+sahilwadaskar07: No qualifying PRs
+aryaman0406: No qualifying PRs
+PURVIK-31: No qualifying PRs
+Vikas-Verma1: No qualifying PRs
+Himanshu950: No qualifying PRs
+Verma-MK: 540 points (20 PRs)
+  - Beginner: 13 PRs
+  - Advanced: 7 PRs
+ErNehasharma: No qualifying PRs
+jainoshika: No qualifying PRs
+Shravya68: No qualifying PRs
+aryanorastar: No qualifying PRs
+Itsmeaadeesh: No qualifying PRs
+abufarisdev: No qualifying PRs
+Adityas1202: No qualifying PRs
+afreenaiml: 110 points (4 PRs)
+  - Beginner: 2 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+kalashjain9: No qualifying PRs
+thishika-k: No qualifying PRs
+Harshg33: No qualifying PRs
+Zero-Day-Smile: No qualifying PRs
+Mahak0205: No qualifying PRs
+umarsayed12: No qualifying PRs
+Alokvish04: No qualifying PRs
+goldigd05: No qualifying PRs
+kunalp-singh: No qualifying PRs
+Amaayu: No qualifying PRs
+Abhash0307: No qualifying PRs
+saurabhkumarsuman20: No qualifying PRs
+SlothSlayer: No qualifying PRs
+coddingjatin: 60 points (2 PRs)
+  - Intermediate: 2 PRs
+anvita-09: No qualifying PRs
+swaraj-sh: No qualifying PRs
+peehugahlot: No qualifying PRs
+deepanshu921372: No qualifying PRs
+Shadabkhan-007: No qualifying PRs
+Sohi07: No qualifying PRs
+sahithi-kanjarla: 40 points (2 PRs)
+  - Beginner: 2 PRs
+Harilynn: No qualifying PRs
+keshripritesh: No qualifying PRs
+ayushjava07: No qualifying PRs
+Umang-Kaklotar: No qualifying PRs
+shashidhar-kittur: No qualifying PRs
+Chitranshu2411: No qualifying PRs
+as2674167: No qualifying PRs
+us-5258: No qualifying PRs
+arnavk23: No qualifying PRs
+Krishna-Pratik: No qualifying PRs
+Ayushivishwakarma1: No qualifying PRs
+vansh2706: No qualifying PRs
+Beulah1005: No qualifying PRs
+sudo-anshul: No qualifying PRs
+mandira15: No qualifying PRs
+Ronin-04: No qualifying PRs
+Aryansrivastava07: No qualifying PRs
+Aishu9Para: No qualifying PRs
+Pavneetsingh12: No qualifying PRs
+AsmaSid11: No qualifying PRs
+SamXop123: No qualifying PRs
+lohitha-2206: No qualifying PRs
+prem-ramamoorthy: No qualifying PRs
+Harshapendli: No qualifying PRs
+kamran-asif: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+ParthNema13: 100 points (3 PRs)
+  - Beginner: 1 PRs
+  - Advanced: 2 PRs
+yatish-debug: No qualifying PRs
+milanprajapati571: No qualifying PRs
+vineela49: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+Stutyay: No qualifying PRs
+rheaadotcom: No qualifying PRs
+Shaziya-Noorien09: No qualifying PRs
+priyanshu5291: No qualifying PRs
+kanak227: 40 points (2 PRs)
+  - Beginner: 2 PRs
+Mayankjain2624: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+YashSavalkar321: 80 points (2 PRs)
+  - Advanced: 2 PRs
+chiiinmay: No qualifying PRs
+saarang2003: No qualifying PRs
+rishita2305: No qualifying PRs
+Raghuvansyn: No qualifying PRs
+sriganarupesh: No qualifying PRs
+JinkalaPushparaju: No qualifying PRs
+RIP-Skillan: No qualifying PRs
+Sriram00000: No qualifying PRs
+Sirivennela04: No qualifying PRs
+TANISHQDAS: No qualifying PRs
+Renu-code123: No qualifying PRs
+guptaksht10: No qualifying PRs
+Tamannameh2305: No qualifying PRs
+abhisek2004: No qualifying PRs
+pocket-flight: No qualifying PRs
+dini-5002: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+ernitishpaswan: No qualifying PRs
+manavi-24: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+Kuldeep-022: No qualifying PRs
+khanjan2024: No qualifying PRs
+dhami200: No qualifying PRs
+ChetanSaini726: No qualifying PRs
+Tarushiiiii: No qualifying PRs
+Micha062301: No qualifying PRs
+RACHITALAAD: No qualifying PRs
+RahilAlam929: No qualifying PRs
+fatimaa-dev: No qualifying PRs
+SohaRatnam2005: No qualifying PRs
+Snehakummari: No qualifying PRs
+Anamikaghosh18: No qualifying PRs
+Harsh-Bajpay: No qualifying PRs
+BossHNP2011: No qualifying PRs
+aaryaveer-19: No qualifying PRs
+Anushtha05: No qualifying PRs
+Sarthak003khurana: No qualifying PRs
+aryancodealchemy26: No qualifying PRs
+Shivu384: 160 points (5 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 2 PRs
+  - Advanced: 2 PRs
+kunaltechwiz: No qualifying PRs
+soumyaranjan4446: No qualifying PRs
+Abhijeetkumar17: No qualifying PRs
+saksham0mahnot: No qualifying PRs
+Jaswithadabbiru: No qualifying PRs
+Sim14code: No qualifying PRs
+aryann2319: 110 points (3 PRs)
+  - Intermediate: 1 PRs
+  - Advanced: 2 PRs
+diogocccarvalho: No qualifying PRs
+AditiVerma07: No qualifying PRs
+tusharson: No qualifying PRs
+AditiChhabra: No qualifying PRs
+CoderFleet: No qualifying PRs
+shaheeramjad: No qualifying PRs
+ayushdubey570: No qualifying PRs
+ak47kavan: No qualifying PRs
+Sejal-collection: 150 points (6 PRs)
+  - Beginner: 4 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+SK8-infi: 810 points (26 PRs)
+  - Beginner: 9 PRs
+  - Intermediate: 5 PRs
+  - Advanced: 12 PRs
+Soultk1977: No qualifying PRs
+Adithkp03: No qualifying PRs
+03aditya-byte: No qualifying PRs
+manas2124: No qualifying PRs
+ayushiagg24: No qualifying PRs
+AnushkaLaheri: No qualifying PRs
+Obiwankenobi699: No qualifying PRs
+BeingMirage: No qualifying PRs
+flex0ing-ag: No qualifying PRs
+PreranaPattnaik4: No qualifying PRs
+mishra2arya: No qualifying PRs
+kasturitottadi: No qualifying PRs
+72harshrajora: No qualifying PRs
+ShreyaPandeycode: No qualifying PRs
+vivekd16: 360 points (17 PRs)
+  - Beginner: 15 PRs
+  - Intermediate: 2 PRs
+charan2r: No qualifying PRs
+jayanththalla: No qualifying PRs
+Deb2oo: No qualifying PRs
+decodekush: No qualifying PRs
+sourav349: No qualifying PRs
+preritasaini1: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+giriraj-roy-7723: No qualifying PRs
+Aagam230: No qualifying PRs
+yashvardhanvats: No qualifying PRs
+SuruchiCode: No qualifying PRs
+Gurpreet0022: No qualifying PRs
+Nikkhil003: No qualifying PRs
+vandana512: No qualifying PRs
+karthiksreenivasanp: No qualifying PRs
+Yaniyamalik: No qualifying PRs
+suhasmartha: No qualifying PRs
+Dishaaa-T: No qualifying PRs
+chiraagsharma24: No qualifying PRs
+prathamamritkar: No qualifying PRs
+Arnabdas123456: No qualifying PRs
+niharika-mente: No qualifying PRs
+denshaw-09: 130 points (5 PRs)
+  - Beginner: 3 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+JallaDharani: 50 points (2 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+Ayushi028: No qualifying PRs
+2024yuva: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Shashikumar-ezhilarasu: No qualifying PRs
+SnehaghoshBarsha444: 40 points (1 PRs)
+  - Advanced: 1 PRs
+glider-vinnie: No qualifying PRs
+Mmadan128: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+Premkolte: No qualifying PRs
+Shivanjaligithub: No qualifying PRs
+saishivamerugu: No qualifying PRs
+noshmachowdary: 50 points (2 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+ranjanxh: No qualifying PRs
+ANTIK-007: No qualifying PRs
+suri5790: No qualifying PRs
+ErebAsh: No qualifying PRs
+BDutta18: No qualifying PRs
+14anshuman: No qualifying PRs
+krithikgokuls: No qualifying PRs
+ttiwari13: No qualifying PRs
+Mansi2821: No qualifying PRs
+YadavGaya031: No qualifying PRs
+anikchand461: No qualifying PRs
+Chavva-Harshita: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Radhika-dodain: No qualifying PRs
+code-well0: 20 points (1 PRs)
+  - Beginner: 1 PRs
+omansharora5: No qualifying PRs
+Gunankkaushal: No qualifying PRs
+KavyaKankonkar: No qualifying PRs
+Arya3077: No qualifying PRs
+psp2535: No qualifying PRs
+shashank-kuldeep: No qualifying PRs
+lavanyabandla27: No qualifying PRs
+Somya453: No qualifying PRs
+Saisha0512: No qualifying PRs
+dipa129: No qualifying PRs
+AishwaryaAmin: No qualifying PRs
+Catherine-23-Codes: No qualifying PRs
+IShania-Jone: No qualifying PRs
+NavyaAgarwal02: No qualifying PRs
+raadhika-N: No qualifying PRs
+mery-top: No qualifying PRs
+Pavanid2325: No qualifying PRs
+bishal7448: 20 points (1 PRs)
+  - Beginner: 1 PRs
+anjaliyoga: No qualifying PRs
+shushant0603: No qualifying PRs
+dia3325: No qualifying PRs
+riyakotharii: No qualifying PRs
+ThunderShadows: No qualifying PRs
+Aakanksha0245: No qualifying PRs
+LUCKYBANJARE: No qualifying PRs
+Nirati-Jyothi10: No qualifying PRs
+jatin-sh01: No qualifying PRs
+sinJiNi1001: No qualifying PRs
+Prashant-2024: No qualifying PRs
+yashikaaasharma: No qualifying PRs
+muskanyadav28: No qualifying PRs
+nubiivagant: No qualifying PRs
+saurabh-vit: No qualifying PRs
+raghavjha10: No qualifying PRs
+Student-ravneet: No qualifying PRs
+The-Asterix: No qualifying PRs
+Preeti0705: No qualifying PRs
+Vaishnavi231104: No qualifying PRs
+ASMA2786: No qualifying PRs
+shreyacupcake: No qualifying PRs
+komaldevi202006: No qualifying PRs
+Sujal212004: No qualifying PRs
+talib007-56: No qualifying PRs
+dipmanmajumdar: No qualifying PRs
+raman0925: No qualifying PRs
+RishiRaj292: No qualifying PRs
+m1ss-chief: No qualifying PRs
+UTKARSHJHA-2005: No qualifying PRs
+shaheen412: No qualifying PRs
+sumit-make: 20 points (1 PRs)
+  - Beginner: 1 PRs
+rajdeep13-coder: No qualifying PRs
+Sadiya-125: No qualifying PRs
+mattral: No qualifying PRs
+NandaGunasri: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Krish-chaudharii: No qualifying PRs
+dhangar007A: No qualifying PRs
+Suhaniisingh05: No qualifying PRs
+dhruvXcode247: No qualifying PRs
+architasaha21: 20 points (1 PRs)
+  - Beginner: 1 PRs
+M-zhar: No qualifying PRs
+tanishk001-ai: No qualifying PRs
+thulasiramk-2310: No qualifying PRs
+Pratiksha-dewarde: No qualifying PRs
+jashan-26: No qualifying PRs
+jaylm10: 20 points (1 PRs)
+  - Beginner: 1 PRs
+arpityadavofficial: No qualifying PRs
+kauntiaakash2: No qualifying PRs
+Divya-A10: No qualifying PRs
+CouchPtato: No qualifying PRs
+riyarane46: No qualifying PRs
+RajanPatel0: No qualifying PRs
+Saksham-Jaiswal-2004: No qualifying PRs
+dharanitharan27: No qualifying PRs
+Chandni9852: No qualifying PRs
+Shreyajain025: No qualifying PRs
+manishraj9: No qualifying PRs
+sagarayusha: No qualifying PRs
+atul812: 50 points (2 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+Nitya-003: No qualifying PRs
+Piyushchannawar: 20 points (1 PRs)
+  - Beginner: 1 PRs
+AryanEjantkar: No qualifying PRs
+1809gaurav: No qualifying PRs
+Snig10dha: No qualifying PRs
+yashswarn: No qualifying PRs
+vvksrma: No qualifying PRs
+itsnimeshagarwal: No qualifying PRs
+ShaliniKashyap717: No qualifying PRs
+jainhardik06: No qualifying PRs
+MYDAILYWORK705: No qualifying PRs
+Varunjogi-03: No qualifying PRs
+SAYANDAS-DEVELOPER: No qualifying PRs
+nameishyam: No qualifying PRs
+Shaikaneespasha: No qualifying PRs
+lahari-b5: No qualifying PRs
+ankit271400: No qualifying PRs
+Abhirup-261004: No qualifying PRs
+Prem294: No qualifying PRs
+sonalshruti02: No qualifying PRs
+Priyanshi-prog: No qualifying PRs
+ankit2061: 40 points (1 PRs)
+  - Advanced: 1 PRs
+Palak1725: No qualifying PRs
+ship1220: No qualifying PRs
+Arushmita89: No qualifying PRs
+vir123-devf: No qualifying PRs
+rajputnishant29: No qualifying PRs
+isha0325: 280 points (7 PRs)
+  - Advanced: 7 PRs
+sauravs296: No qualifying PRs
+saileed05: No qualifying PRs
+izajay: No qualifying PRs
+Tejaswini123-45: No qualifying PRs
+Sanjna07: No qualifying PRs
+DeathSquat: No qualifying PRs
+prernaprachi96: No qualifying PRs
+DebugDyanmo: No qualifying PRs
+devdandekar24: No qualifying PRs
+swethapadmavathimukku: 20 points (1 PRs)
+  - Beginner: 1 PRs
+saishghatol: No qualifying PRs
+rittika03: No qualifying PRs
+Dru-429: 40 points (2 PRs)
+  - Beginner: 2 PRs
+aravindakuthota: No qualifying PRs
+Pooja-y05: No qualifying PRs
+MeLiveAkshay: No qualifying PRs
+cybersword1001: No qualifying PRs
+Santoshi-2k24: No qualifying PRs
+Neha-28-fluff: No qualifying PRs
+TanmayKalra09: 170 points (7 PRs)
+  - Beginner: 5 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+Arihant-Bhandari: 80 points (2 PRs)
+  - Advanced: 2 PRs
+Muneerali199: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Sim2739: No qualifying PRs
+amrendra222: No qualifying PRs
+Sreejesh06: No qualifying PRs
+Dhananjay4yu: No qualifying PRs
+yash720: No qualifying PRs
+satyajit-patel: No qualifying PRs
+NehaSaini011: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+yashodipmore: No qualifying PRs
+pratiksha0407314: No qualifying PRs
+priyanshuuzz: No qualifying PRs
+that-guy18: No qualifying PRs
+SparshM8: No qualifying PRs
+rastogi-codes: No qualifying PRs
+Rajita-djs: No qualifying PRs
+amishamehta99: No qualifying PRs
+Prestigious526: No qualifying PRs
+codershivangi: No qualifying PRs
+sammy0318: No qualifying PRs
+HarjotKaurr: No qualifying PRs
+shreyamittal10: No qualifying PRs
+DrDeveloperr: No qualifying PRs
+Tanishka-bhatti: No qualifying PRs
+Riti-Varshney: No qualifying PRs
+saismrutiranjan18: No qualifying PRs
+khushalsarode: No qualifying PRs
+MayankV004: No qualifying PRs
+ragavi-632007: No qualifying PRs
+NiharikaSaxena18: No qualifying PRs
+Sayan-206: 420 points (11 PRs)
+  - Beginner: 1 PRs
+  - Advanced: 10 PRs
+vithula30: No qualifying PRs
+pani-siri: No qualifying PRs
+Atharvverma1234: No qualifying PRs
+AKC07-Dev: No qualifying PRs
+nikhil-agrawal123: 20 points (1 PRs)
+  - Beginner: 1 PRs
+rochanshah15: No qualifying PRs
+khushiiiip: No qualifying PRs
+vishvshah123: No qualifying PRs
+awrya-cmd: 40 points (2 PRs)
+  - Beginner: 2 PRs
+palakbansa05: No qualifying PRs
+Neovin-dev: No qualifying PRs
+gourikasoni: No qualifying PRs
+KritikaJoshi04: No qualifying PRs
+divyam8175: 20 points (1 PRs)
+  - Beginner: 1 PRs
+AnirbanChatterjee912: No qualifying PRs
+Srishti0307: No qualifying PRs
+TabassumSK: No qualifying PRs
+Sneha41sb: No qualifying PRs
+Kushagra1taneja: No qualifying PRs
+HitiPanghal: No qualifying PRs
+imDarshanGK: No qualifying PRs
+monark1: No qualifying PRs
+moin-dbud: No qualifying PRs
+Pranavraj09: No qualifying PRs
+pandey-kun7: No qualifying PRs
+drishtagrover: No qualifying PRs
+Sanika2020: No qualifying PRs
+drishtig06: No qualifying PRs
+Bhartix07: No qualifying PRs
+mruna18: No qualifying PRs
+VenkataSrujana11: 220 points (7 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 4 PRs
+  - Advanced: 2 PRs
+Vinay-1105: No qualifying PRs
+Apurba0313: No qualifying PRs
+Anjali-ops156: No qualifying PRs
+Tani0211: No qualifying PRs
+Chaitanya2812-dev: No qualifying PRs
+parinita78: No qualifying PRs
+NA-VNEET: 20 points (1 PRs)
+  - Beginner: 1 PRs
+geekypooky: No qualifying PRs
+PrashantSinghUP64: No qualifying PRs
+akshay0611: No qualifying PRs
+shashiranjan567: No qualifying PRs
+AkshithaReddy005: No qualifying PRs
+AdroitPhilocalist: No qualifying PRs
+pratham15541: No qualifying PRs
+rohit-7620: No qualifying PRs
+priyachugh2606: No qualifying PRs
+KanishkaGarg04: No qualifying PRs
+noshimi-imnida: No qualifying PRs
+Pooja6-9: No qualifying PRs
+GUN33Tk: No qualifying PRs
+priyan-inspires: No qualifying PRs
+joyprakashk: No qualifying PRs
+Webwizzz22: 80 points (4 PRs)
+  - Beginner: 4 PRs
+gauravsingh1281: No qualifying PRs
+dubeyharshit0605: No qualifying PRs
+coder-cutie: No qualifying PRs
+vineelprince: No qualifying PRs
+vvanshikachauhan: No qualifying PRs
+nexpectArpit: No qualifying PRs
+sushobhan500: No qualifying PRs
+chauhangarv: No qualifying PRs
+Sainava: 360 points (14 PRs)
+  - Beginner: 10 PRs
+  - Advanced: 4 PRs
+kartik0827: No qualifying PRs
+Vanishar9880: No qualifying PRs
+RupshaBiswas: No qualifying PRs
+TanayP04: No qualifying PRs
+sunnyviraj9: No qualifying PRs
+divya7202: No qualifying PRs
+Payal12-max: No qualifying PRs
+Anushka-Naik28: No qualifying PRs
+koushikreddybachu: No qualifying PRs
+dishaagrawalcodes: 200 points (9 PRs)
+  - Beginner: 7 PRs
+  - Intermediate: 2 PRs
+Harshi-max: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Hima-Bindhu6527: No qualifying PRs
+achieveramrit: No qualifying PRs
+Sam94GIT: No qualifying PRs
+aalokhya: No qualifying PRs
+Nandani-Guptaa: No qualifying PRs
+tulikaroyy: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+yakshitranga: No qualifying PRs
+UjjWaL-0911: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+Ayushnema704: No qualifying PRs
+yatishsj-27: No qualifying PRs
+JAYATIAHUJA: No qualifying PRs
+Fark0910: No qualifying PRs
+deepuchary03: No qualifying PRs
+Praveenmaila: No qualifying PRs
+Arpita-Rajput: No qualifying PRs
+sanketjadhav09: No qualifying PRs
+piyushrajyadav: No qualifying PRs
+ujala9968: No qualifying PRs
+edigaVasanthi: No qualifying PRs
+aatmaj28: No qualifying PRs
+shakthishankar: No qualifying PRs
+anushika006: No qualifying PRs
+kaur1504: No qualifying PRs
+Deekshithshaiva05: 60 points (2 PRs)
+  - Intermediate: 2 PRs
+arundhati101: No qualifying PRs
+ChakrabortyRajarshi2005: No qualifying PRs
+KavyaMunusamy: No qualifying PRs
+shambhavi0608: No qualifying PRs
+SubhamKojha: 50 points (2 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+aryanguptacsvtu: 100 points (5 PRs)
+  - Beginner: 5 PRs
+shambhavi099: No qualifying PRs
+COPYRIGHTXO: No qualifying PRs
+kushagra0333: No qualifying PRs
+SupriyaShukla18: No qualifying PRs
+RishithaChallagondla: No qualifying PRs
+Ayu-Connect: No qualifying PRs
+okaydebarghya: No qualifying PRs
+Blacksujit: No qualifying PRs
+Pooja-git27: No qualifying PRs
+Shakshi2602: No qualifying PRs
+pooja1932: 180 points (5 PRs)
+  - Beginner: 1 PRs
+  - Advanced: 4 PRs
+Kirti123x: No qualifying PRs
+riitikasharma08: No qualifying PRs
+ashdev-7: No qualifying PRs
+syedmohammadaquib: No qualifying PRs
+abhinayaRajarajan: No qualifying PRs
+Bhupendra-glitch: No qualifying PRs
+jashika2410: No qualifying PRs
+aerinpatel: No qualifying PRs
+shreyoshi2409: No qualifying PRs
+Vrushti-kulkarni: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+devp-with-V: No qualifying PRs
+Haripriya-M619: No qualifying PRs
+Mohammedmaaz541: No qualifying PRs
+Vishesh394: No qualifying PRs
+rajeevkush1: No qualifying PRs
+Atharva-Kale1: 100 points (5 PRs)
+  - Beginner: 5 PRs
+Varshitha713: 150 points (6 PRs)
+  - Beginner: 4 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+KALYANI2309K3: No qualifying PRs
+Vaishnavi-Manne: 120 points (4 PRs)
+  - Beginner: 2 PRs
+  - Advanced: 2 PRs
+narutonamikaze: No qualifying PRs
+harshitaS19: No qualifying PRs
+PrudhviRajGK: No qualifying PRs
+animesh713331: No qualifying PRs
+multiverseweb: No qualifying PRs
+varshasoni10: No qualifying PRs
+annubhagavatula: No qualifying PRs
+vnaik10: No qualifying PRs
+hreyat-1902: No qualifying PRs
+chaarulathanagaraj: No qualifying PRs
+patilj735: No qualifying PRs
+Zoyaejaz: No qualifying PRs
+Aashi070407: No qualifying PRs
+Sudeepmishra-1002: No qualifying PRs
+DarshanCode2005: No qualifying PRs
+AB1406: No qualifying PRs
+kiran848: No qualifying PRs
+Yashraghuvans: No qualifying PRs
+sacheetkumar: No qualifying PRs
+bhaviii17: No qualifying PRs
+harsh17-ops: No qualifying PRs
+Harsh16Bhardwaj: No qualifying PRs
+Ankita-kuntal: No qualifying PRs
+AdityaJani616: No qualifying PRs
+Lekkhasri: No qualifying PRs
+Sundhar-Balamoorthy: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+muskan23-lgtm: No qualifying PRs
+ZarrarPeshimam: 20 points (1 PRs)
+  - Beginner: 1 PRs
+TheAnushree25: No qualifying PRs
+Shivangi0009: No qualifying PRs
+Nandini12004: No qualifying PRs
+ankitpartap: No qualifying PRs
+Priyakumar-15: No qualifying PRs
+vi-decodes: No qualifying PRs
+balraj009: No qualifying PRs
+akshara123: No qualifying PRs
+Tirumalashreya: No qualifying PRs
+VAISHNAVISTUDENT: 40 points (1 PRs)
+  - Advanced: 1 PRs
+Sandhya251: 40 points (1 PRs)
+  - Advanced: 1 PRs
+Jai1203: No qualifying PRs
+srujith7: No qualifying PRs
+Assistant0307: No qualifying PRs
+Aswinpranav: No qualifying PRs
+TanushreeSB: No qualifying PRs
+Ruhin575: No qualifying PRs
+akashk6697: No qualifying PRs
+harshit-05: No qualifying PRs
+shri-69: No qualifying PRs
+GarimaYadav29: No qualifying PRs
+Sudhanshu517: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+lovelymahor: No qualifying PRs
+initishkumaryadav: No qualifying PRs
+hr10j44t: No qualifying PRs
+Greeshma-2006: No qualifying PRs
+jen713: No qualifying PRs
+abhinov956tech-developer: No qualifying PRs
+AnmollCodes: No qualifying PRs
+mansisharma31: No qualifying PRs
+Alam9835: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Kruti68: No qualifying PRs
+Atomic-Shadow7002: No qualifying PRs
+ultimatrix2: No qualifying PRs
+Dhruvsachdeva07: No qualifying PRs
+Nandani1512: No qualifying PRs
+adiibaba239: No qualifying PRs
+Saksham8540: No qualifying PRs
+KajalKumari16: No qualifying PRs
+Yamuna-b: 280 points (7 PRs)
+  - Advanced: 7 PRs
+reeteesha-roy: No qualifying PRs
+Vikas84214: No qualifying PRs
+deep-ghosh: No qualifying PRs
+akshithakarlapudi: No qualifying PRs
+vijayverma95: No qualifying PRs
+stris-coder: No qualifying PRs
+vidub04: No qualifying PRs
+dhairyagothi: No qualifying PRs
+anu-rrn1: No qualifying PRs
+Ronaldo-001: No qualifying PRs
+nikhil-kodes: No qualifying PRs
+subhankar18r: No qualifying PRs
+krabhis: 30 points (1 PRs)
+  - Intermediate: 1 PRs
+vanixyz: No qualifying PRs
+arnab9957: No qualifying PRs
+Dhanalaxmi-debug: No qualifying PRs
+Ayushi0507-dot: No qualifying PRs
+himanidobriyal: No qualifying PRs
+VEDAPRIYAMUTYAM: 90 points (3 PRs)
+  - Beginner: 1 PRs
+  - Intermediate: 1 PRs
+  - Advanced: 1 PRs
+Khushi0806: No qualifying PRs
+DBALAMURUGAN555: No qualifying PRs
+harshraj005: No qualifying PRs
+anjalibind17: No qualifying PRs
+AmulyaJain2004: No qualifying PRs
+sans-creator: No qualifying PRs
+mukul-sharma-tech: 40 points (2 PRs)
+  - Beginner: 2 PRs
+dhnnypatil: No qualifying PRs
+Jyotibrat: No qualifying PRs
+Rohinth-S: No qualifying PRs
+krishnathota112: No qualifying PRs
+Abhilashanegi25: No qualifying PRs
+rue19: No qualifying PRs
+dhruvawani17: No qualifying PRs
+Ishan007-bot: No qualifying PRs
+dhruvt293: No qualifying PRs
+jeevaananthan52: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Aksh-Agrawal: No qualifying PRs
+shweta-mi: No qualifying PRs
+Jyotiyadav1012: No qualifying PRs
+bableen123: No qualifying PRs
+Debayan-Ghosh2005: No qualifying PRs
+michael-0007a: No qualifying PRs
+Sanchita76: No qualifying PRs
+vagabond-0: No qualifying PRs
+HimanshMathur: No qualifying PRs
+ruchiraaa04: No qualifying PRs
+sanketkokate712: No qualifying PRs
+shreyarathore27: No qualifying PRs
+2232def: No qualifying PRs
+awheee: No qualifying PRs
+VINAY050805: No qualifying PRs
+Kawshikk-Shrii: No qualifying PRs
+SaiOmkar058: No qualifying PRs
+Sahil-Chahal: 20 points (1 PRs)
+  - Beginner: 1 PRs
+Snehagupta68: No qualifying PRs
+Shreyas-Mohan: No qualifying PRs
+manasam: No qualifying PRs
+shreyab7134: No qualifying PRs
+tanvisatija tanvisatija: No qualifying PRs
+siddhi2005-beep: No qualifying PRs
+Shru300: No qualifying PRs
+csmishra952: No qualifying PRs
+Praneeth-jairam: No qualifying PRs
+1203gauri 1203gauri: No qualifying PRs
+Sanakhansk: No qualifying PRs
+Ishi1301: No qualifying PRs
+Riyayadav12345: No qualifying PRs
+achieveramrit4241achieveramrit: No qualifying PRs
+shreyat-1902: No qualifying PRs
+ish-07: No qualifying PRs
+Mesh-06: No qualifying PRs
+UTSAVS26: No qualifying PRs
+ruchikakengal: No qualifying PRs
+itsaryanchauhan: No qualifying PRs
+rutikakengal: No qualifying PRs
+MUSKANMEHTO: No qualifying PRs
+gurman2301: No qualifying PRs
+AnushkaMaheshwari4: No qualifying PRs
+rajusharmadata: No qualifying PRs
+amit-sharma-ds: No qualifying PRs
+Sanjanadharanikota: No qualifying PRs
+Mischa0099: No qualifying PRs
+lalwanianjali21: No qualifying PRs
+Vijayashree-tech: 340 points (12 PRs)
+  - Beginner: 6 PRs
+  - Intermediate: 2 PRs
+  - Advanced: 4 PRs
+Results saved to pr-scores-2025-07-25T10-47-25-139Z.json
+Results saved to output/pr-scores.json
+User scores saved to output/user-scores.js
+PR list saved to output/pr-list.js
+Summary saved to output/summary.js

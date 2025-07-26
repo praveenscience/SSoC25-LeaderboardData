@@ -603,15 +603,6 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "in/manasam": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
     "Er-luffy-d": {
       "totalScore": 0,
       "prCount": 0,
@@ -2862,7 +2853,7 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "Fatimaq07/Fatimaq07": {
+    "Fatimaq07": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
@@ -3987,13 +3978,13 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "HARSHMOHAN01/BOOKS.git": {
-      "totalScore": 0,
-      "prCount": 0,
+    "HARSHMOHAN01": {
+      "totalScore": 320,
+      "prCount": 10,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 4,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 6
       }
     },
     "ARCoder181105": {
@@ -4150,15 +4141,6 @@ var userScores = {
       }
     },
     "jhaabhijeet864": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
-    "Anuragsrivastava508/Anuragsrivastava508.git": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
@@ -5076,7 +5058,7 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "MANISHLINGADEVARU/MANISHLINGADEVARU.git": {
+    "MANISHLINGADEVARU": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
@@ -5553,7 +5535,7 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "priyanshiii7/priyanshiii7": {
+    "priyanshiii7": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
@@ -7452,7 +7434,7 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "03aditya-byte/03aditya-byte": {
+    "03aditya-byte": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
@@ -10098,15 +10080,6 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "HARSHMOHAN01": {
-      "totalScore": 320,
-      "prCount": 10,
-      "prsByLevel": {
-        "Beginner": 4,
-        "Intermediate": 0,
-        "Advanced": 6
-      }
-    },
     "aalokhya": {
       "totalScore": 0,
       "prCount": 0,
@@ -11376,7 +11349,7 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "Ayushi0507-dot/Hub": {
+    "Ayushi0507-dot": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
@@ -11772,15 +11745,6 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "Fatimaq07": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
     "Shru300": {
       "totalScore": 0,
       "prCount": 0,
@@ -11826,24 +11790,6 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "MANISHLINGADEVARU": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
-    "priyanshiii7": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
     "Ishi1301": {
       "totalScore": 0,
       "prCount": 0,
@@ -11862,15 +11808,6 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "03aditya-byte": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
     "achieveramrit4241achieveramrit": {
       "totalScore": 0,
       "prCount": 0,
@@ -11881,15 +11818,6 @@ var userScores = {
       }
     },
     "shreyat-1902": {
-      "totalScore": 0,
-      "prCount": 0,
-      "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
-      }
-    },
-    "Ayushi0507-dot": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {
