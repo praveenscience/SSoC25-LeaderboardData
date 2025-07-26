@@ -11796,7 +11796,7 @@ Rank | Username          | Score | PRs |  B  |  I  |  A
           // Pad and truncate username to ensure consistent spacing
           const username =
             user.username.length > 15
-              ? user.username.substring(0, 12) + "..."
+              ? user.username.substring(0, 14) + "..."
               : user.username.padEnd(17);
 
           output += `${String(rank).padStart(3)}  | ${username} | ${String(
