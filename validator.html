@@ -41,7 +41,7 @@
         );
 
         // Define project identifier in owner/repo format
-        const projectId = `${owner}/${repo}`;
+        const projectId = `${owner}/${repo}`.toLowerCase();
 
         // Setup headers for API calls
         const headers = {
@@ -70,7 +70,7 @@
 
           // 3. Check if user is registered
           const prUser = prData.user.login;
-          if (!users.includes(prUser)) {
+          if (!users.includes(prUser.toLowerCase())) {
             return {
               valid: false,
               reason: `User ${prUser} is not registered in the system.`
@@ -1553,7 +1553,7 @@ Total Points: ${summary.summary.totalPoints}`;
         "priya250805",
         "Ayushigupta1110",
         "SAMBUDAR"
-      ];
+      ].map(l => l.toLowerCase());
       const projects = [
         "beadarshh/Alex_Interview_Bot",
         "amitkumardemo/EdgeCareer",
@@ -1697,7 +1697,7 @@ Total Points: ${summary.summary.totalPoints}`;
         "SrigadaAkshayKumar/stock",
         "ThePhoenix08/open-graph-visualizer",
         "Swapnil-Dhamal/EventHive"
-      ];
+      ].map(l => l.toLowerCase());
       const baseLabel = "SSoC25";
       const labelsWithPoints = {
         Beginner: 20,
