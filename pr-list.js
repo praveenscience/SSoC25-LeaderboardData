@@ -1993,6 +1993,119 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 26,
+      "title": "Enhancement of CONTRIBUTING.md",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/26",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T18:08:53Z",
+      "mergedAt": "2025-06-21T16:36:44Z",
+      "author": "kauntiaakash2",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 33,
+      "title": "Feature: UI Development of the social skill module in the autism page #8",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/33",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:53:20Z",
+      "mergedAt": "2025-06-21T16:59:58Z",
+      "author": "Asterioxer",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 34,
+      "title": "Added About Us Page with Animated Sections and Responsive Design",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/34",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:53:35Z",
+      "mergedAt": "2025-06-21T17:21:23Z",
+      "author": "kauntiaakash2",
+      "labels": [
+        "Intermediate",
+        "SSoC25",
+        "feature"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 43,
+      "title": "Fix Broken Hamburger Menu on Smaller Screens",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/43",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T10:39:42Z",
+      "mergedAt": "2025-06-21T17:33:37Z",
+      "author": "manavi-24",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 44,
+      "title": "Cognitive UI enhancement",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:04:48Z",
+      "mergedAt": "2025-06-21T17:56:48Z",
+      "author": "2024yuva",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 53,
+      "title": "Feat/language literacy module UI",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/53",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T07:17:24Z",
+      "mergedAt": "2025-06-21T18:25:58Z",
+      "author": "vivekd16",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 54,
+      "title": "feat: Add Behavioral Training Module ",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/54",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T07:33:57Z",
+      "mergedAt": "2025-06-21T18:34:02Z",
+      "author": "vivekd16",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
       "number": 84,
       "title": "Fix: Resolve app crash when searching products - TypeError on product.name.toLowerCase",
       "url": "https://github.com/divi-24/SheSync/pull/84",
@@ -2438,7 +2551,7 @@ var prs = {
       "author": "piyushdhoka",
       "labels": [
         "enhancement",
-        "Advance",
+        "Advanced",
         "Beginner",
         "SSoC25"
       ],
@@ -2529,6 +2642,23 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 162,
+      "title": "Feature/export download cleanup",
+      "url": "https://github.com/alienx5499/SortVision/pull/162",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T12:59:18Z",
+      "mergedAt": "2025-06-16T13:33:47Z",
+      "author": "vivekd16",
+      "labels": [
+        "enhancement",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "alienx5499/SortVision"
     },
     {
@@ -3263,6 +3393,23 @@ var prs = {
       "project": "alienx5499/SortVision"
     },
     {
+      "number": 241,
+      "title": "Integrated Gemini powered context aware DSA Chatbot",
+      "url": "https://github.com/alienx5499/SortVision/pull/241",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T11:37:30Z",
+      "mergedAt": "2025-06-17T13:33:20Z",
+      "author": "Coden-inja",
+      "labels": [
+        "enhancement",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "alienx5499/SortVision"
+    },
+    {
       "number": 242,
       "title": "feat: Implemented Radix Sort in Rust",
       "url": "https://github.com/alienx5499/SortVision/pull/242",
@@ -3855,6 +4002,23 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 407,
+      "title": "Collect and Store Performance Data and Store in Backend Logging API",
+      "url": "https://github.com/alienx5499/SortVision/pull/407",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T10:14:12Z",
+      "mergedAt": "2025-06-20T18:47:57Z",
+      "author": "MRohit-2003",
+      "labels": [
+        "enhancement",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "alienx5499/SortVision"
     },
     {
@@ -4844,6 +5008,23 @@ var prs = {
       "project": "alienx5499/SortVision"
     },
     {
+      "number": 550,
+      "title": "feat: use native browser tooltip for badges in leaderboard",
+      "url": "https://github.com/alienx5499/SortVision/pull/550",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T07:50:34Z",
+      "mergedAt": "2025-07-06T12:59:41Z",
+      "author": "vivekd16",
+      "labels": [
+        "bug",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "alienx5499/SortVision"
+    },
+    {
       "number": 551,
       "title": "Implement Quick Sort in Haskell",
       "url": "https://github.com/alienx5499/SortVision/pull/551",
@@ -5048,6 +5229,23 @@ var prs = {
       "project": "alienx5499/SortVision"
     },
     {
+      "number": 583,
+      "title": "Advanced Algorithm Analysis Dashboard",
+      "url": "https://github.com/alienx5499/SortVision/pull/583",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T10:13:57Z",
+      "mergedAt": "2025-07-15T13:16:50Z",
+      "author": "Shivu384",
+      "labels": [
+        "enhancement",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "alienx5499/SortVision"
+    },
+    {
       "number": 587,
       "title": "Add Keyboard Shortcuts Support ",
       "url": "https://github.com/alienx5499/SortVision/pull/587",
@@ -5181,6 +5379,23 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 614,
+      "title": "chore: blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/614",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T12:15:51Z",
+      "mergedAt": "2025-07-25T15:31:07Z",
+      "author": "2024yuva",
+      "labels": [
+        "enhancement",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "alienx5499/SortVision"
     },
     {
@@ -8039,6 +8254,22 @@ var prs = {
       "createdAt": "2025-07-20T09:50:08Z",
       "mergedAt": "2025-07-20T18:31:58Z",
       "author": "Verma-MK",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 794,
+      "title": "added pyqs of 5 semesters all subjects midsem and endsem",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/794",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T12:53:48Z",
+      "mergedAt": "2025-07-22T19:20:17Z",
+      "author": "Megha-sing",
       "labels": [
         "Advanced",
         "SSoC25"

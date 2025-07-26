@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>SSoC 25 Official PR Validator (Beta)</title>
+    <script src="./summary.js"></script>
     <script>
       /**
        * Validates a GitHub pull request against specified criteria
@@ -170,6 +171,9 @@
       input + input {
         width: 100px;
       }
+      .optional {
+        color: #999;
+      }
     </style>
   </head>
   <body>
@@ -179,9 +183,36 @@
 See: <a href="/">Top 10</a> | <a href="/top100">Top 100</a> | <a href="/all">All</a>
 Something wrong? Check the <strong>PR Validator</strong>.
 ----------------------------------------------------------
+<div class="optional"><label for="ghToken">If you get HTTP 401 or 403 errors (look at your<br />console &raquo; network tab): adding a GH PAT might help.</label>
+<input type="text" name="ghToken" id="ghToken" placeholder="github_pat_XXXXX or ghp_XXXXX" /> (<a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens" target="_blank" rel="noopener noreferrer">how to get?</a>)
+(Note 1: Optional, but helps with higher rate limits.)
+(Note 2: Don't share this token with anyone, it is<br />private to you. Treat this like your password.)</div>----------------------------------------------------------
 <label for="prUrlInput">Enter your GitHub Pull Request URL below to validate it.</label>
-<form id="prForm" onsubmit="event.preventDefault(); checkPullRequest();"><input type="url" id="prUrlInput" placeholder="https://github.com/owner/repo/pull/123" required /> <input type="submit" value="Check" /></form>----------------------------------------------------------</pre>
+<form id="prForm" onsubmit="event.preventDefault(); checkPullRequest();"><input type="url" id="prUrlInput" placeholder="https://github.com/owner/repo/pull/123" required /> <input type="submit" value="Check" /></form>----------------------------------------------------------
+<strong>Stats</strong>
+Leaderboard Last Updated at:<div id="updated"></div></pre>
     <pre id="resultContainer" class="result"></pre>
+    <script>
+      const now = new Date(summary.timestamp);
+      const options = {
+        year: "numeric",
+        month: "short",
+        day: "numeric",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: true,
+        timeZoneName: "short"
+      };
+      const formattedDate = now.toLocaleString("en-US", options);
+
+      // Also provide ISO format date for international recognition
+      const isoDate = now.toISOString();
+      document.getElementById("updated").innerHTML = `Local: ${formattedDate}
+UTC: ${isoDate.replace("T", " ").substr(0, 19)} (UTC / GMT Time)
+<strong>Summary:</strong>
+Total PRs:    ${summary.summary.totalPRs}
+Total Points: ${summary.summary.totalPoints}`;
+    </script>
     <script>
       // Configuration
       const users = [
@@ -1541,177 +1572,165 @@ Something wrong? Check the <strong>PR Validator</strong>.
         "Vijayashree-tech"
       ];
       const projects = [
-        { owner: "beadarshh", repo: "Alex_Interview_Bot" },
-        { owner: "amitkumardemo", repo: "EdgeCareer" },
-        { owner: "opensource-society", repo: "CodeSpace" },
-        { owner: "shivampatkar", repo: "my-portfolio" },
-        { owner: "vanshchauhan21", repo: "CryptoTracker" },
-        { owner: "bhavishya2601", repo: "skilloria" },
-        { owner: "mryashsinghal", repo: "Resume-Builder" },
-        { owner: "SumitGorai01", repo: "TechieBlog" },
-        { owner: "jayraj175coder", repo: "Entertainer" },
-        { owner: "UTSAVS26", repo: "PyVerse" },
-        { owner: "rajdeep13-coder", repo: "Resume-Generator" },
-        { owner: "Samarcodesinpython", repo: "Ni-Swarth" },
-        { owner: "adityas1309", repo: "RaktConnect" },
-        { owner: "Dipanita45", repo: "HEALCONNECT" },
-        { owner: "Dev-Dhruba", repo: "NeuroDev-Therapy" },
-        { owner: "Debanjannnn", repo: "DACCY" },
-        { owner: "PerseusKyogre09", repo: "ScrollCue.js" },
-        { owner: "codeaashu", repo: "DevDisplay" },
-        { owner: "Vaibhav-kesarwani", repo: "Codeforces-Problem-Recommender" },
-        { owner: "Cyberninja30", repo: "TeleRehab" },
-        { owner: "Aryan-coder-student", repo: "NeuroVision-BHPC" },
-        { owner: "divi-24", repo: "SheSync" },
-        { owner: "divi-24", repo: "Thrive" },
-        { owner: "divi-24", repo: "KisaanSetu-f" },
-        { owner: "alienx5499", repo: "SortVision" },
-        { owner: "divi-24", repo: "IG3D" },
-        { owner: "k0msenapati", repo: "study-sphere" },
-        {
-          owner: "ShikhaMaurya212402",
-          repo: "Plant-Disease-Classification-Model"
-        },
-        { owner: "deskree-inc", repo: "nanoservice-ts" },
-        { owner: "sayan0328", repo: "WallGodds-App" },
-        { owner: "Parnab03", repo: "WallGodds" },
-        { owner: "avanimathur", repo: "Build-your-own-Git-opensource" },
-        { owner: "ayushghonge19", repo: "megabackendproj" },
-        { owner: "dhruvXcode247", repo: "Multi_class_animal_classification" },
-        { owner: "khushalp2004", repo: "Graphixo" },
-        { owner: "souvik-maity", repo: "StyleCart" },
-        {
-          owner: "Nidhi-Satyapriya",
-          repo: "AutoEDA-Automated-Data-Preprocessing-Toolkit"
-        },
-        { owner: "ayushsin9h", repo: "WanderStay-Your-Premium-Hotel-Finder" },
-        { owner: "Fenirok", repo: "Earthquake_app" },
-        { owner: "PRIYANSHU2026", repo: "DataSentience-AIML" },
-        { owner: "VAIBHAVBABELE", repo: "emergency-optimizer" },
-        { owner: "AdityaRalhan", repo: "CopConnect" },
-        { owner: "Saumy1905", repo: "PYQFort" },
-        { owner: "ISHAAN-KKR", repo: "Entprep" },
-        { owner: "Code-A2Z", repo: "jarvis" },
-        { owner: "Code-A2Z", repo: "code-a2z" },
-        { owner: "rutikakengal", repo: "FoodFusion-Online-Food-Ordering-Web" },
-        { owner: "ruchikakengal", repo: "100_Days_100_webprojects" },
-        { owner: "dhairyagothi", repo: "100_days_100_web_project" },
-        { owner: "Nikkhil003", repo: "Carbon-Footprint-Detection" },
-        { owner: "Akshat111111", repo: "NexTrade" },
-        { owner: "itsaryanchauhan", repo: "ThinkDSA" },
-        { owner: "xxRAJA", repo: "GYM-Profile-" },
-        { owner: "Mayur-Pagote", repo: "README_Design_Kit" },
-        { owner: "Drago-03", repo: "Neural-Nexus" },
-        { owner: "B4S1C-Coder", repo: "Decentralized-File-Storage" },
-        { owner: "dhairyagothi", repo: "StationGuide" },
-        { owner: "RudraniGhosh24", repo: "NyayaBot" },
-        { owner: "Programmers-Paradise", repo: "Annie" },
-        { owner: "Premkolte", repo: "AnimateHub" },
-        { owner: "venuchander", repo: "fintrack" },
-        { owner: "imsuryya", repo: "CSphere" },
-        { owner: "adityasingh-0803", repo: "Canvasmind" },
-        {
-          owner: "ShrutiSawant0804",
-          repo: "Statewise-Police-Political-Directory-Portal"
-        },
-        { owner: "sailaja-adapa", repo: "Vipreshana" },
-        { owner: "PARIGUPTA0011", repo: "Samwaad" },
-        {
-          owner: "surjeetsinhthakur123",
-          repo: "Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
-        },
-        { owner: "shuvadeepmondal", repo: "HacKerZGuiDe" },
-        { owner: "Vivek09Chahal", repo: "Medic-Search" },
-        { owner: "kashikaga", repo: "FinTrak" },
-        { owner: "HarshS16", repo: "Civix" },
-        { owner: "Kirti-Rathi", repo: "PromptShell" },
-        { owner: "GauravKarakoti", repo: "Weather-API" },
-        { owner: "ashish-um", repo: "reddiculous" },
-        { owner: "rudralpha10", repo: "Coolsphere" },
-        { owner: "Bhavya1352", repo: "eventmappr" },
-        { owner: "Rakesh9100", repo: "Beautiify" },
-        { owner: "Rakesh9100", repo: "CalcDiverse" },
-        { owner: "Rakesh9100", repo: "Eventica" },
-        { owner: "thishika-k", repo: "IQTOPIA-NEW" },
-        { owner: "Prateek9876", repo: "NagarVikas" },
-        { owner: "mansiruhil", repo: "fail-u-forward" },
-        { owner: "saksham0mahnot", repo: "safarr" },
-        { owner: "codingtrend", repo: "tic-tac-toe-Game" },
-        { owner: "arjunatapadkar", repo: "codeteria" },
-        { owner: "Varshitha713", repo: "good-first-issue-for-students" },
-        { owner: "soumya813", repo: "Notes-App" },
-        { owner: "Shashwat-Trivedi", repo: "Job-Dhundo" },
-        { owner: "Yogareddy107", repo: "IntraSphere-JobPortal" },
-        { owner: "Shantanu-Tiwari", repo: "CoCode" },
-        { owner: "EmailScript", repo: "EmailScript" },
-        { owner: "Mayuri734", repo: "Her-Bloom-Project" },
-        { owner: "koustavx08", repo: "academic-chain-main" },
-        { owner: "ruchikakengal", repo: "WebDevIn100_Days" },
-        { owner: "Vaibhavlanjewar", repo: "Csgpt" },
-        { owner: "atharva038", repo: "KnockNFix" },
-        { owner: "akshay0611", repo: "tanjore-degree-coffee" },
-        { owner: "git-aaditmehta", repo: "cardwise" },
-        { owner: "Kalaigar-Ayesha", repo: "Fake-interships-detection" },
-        { owner: "iDhruv03", repo: "Call-My-Lawyer" },
-        { owner: "Kaliagargi", repo: "forest-fireprotection" },
-        { owner: "apu52", repo: "Travel_Website" },
-        { owner: "apu52", repo: "METAVERSE" },
-        { owner: "vacanza", repo: "holidays" },
-        { owner: "soundarya8", repo: "Signify" },
-        { owner: "apna-college", repo: "wanderlust" },
-        { owner: "Varshini-Buggana", repo: "E-commerce-Complete-Flutter-UI" },
-        { owner: "VARUN3WARE", repo: "GroundBot" },
-        { owner: "Nandani1512", repo: "byteverse_Mavericks" },
-        { owner: "sailaja-adapa", repo: "GuruShish" },
-        { owner: "sumit-make", repo: "Smart-University" },
-        { owner: "SAMBUDAR", repo: "Styleka" },
-        { owner: "SamXop123", repo: "tools.io" },
-        {
-          owner: "SGCODEX",
-          repo: "Music-Recommendation-Using-Facial-Expressions"
-        },
-        { owner: "SGCODEX", repo: "Hackathon-Website" },
-        { owner: "CLUSTER-DS-Club", repo: "cluster" },
-        { owner: "rimanshupatel", repo: "FitMind_Ai" },
-        { owner: "Ananta025", repo: "VIDEO_MEET" },
-        { owner: "AgrimTawani", repo: "WordBattle" },
-        { owner: "Ananta025", repo: "Financy" },
-        { owner: "owasp", repo: "nest" },
-        { owner: "Vrushti-kulkarni", repo: "Terrawise" },
-        { owner: "Vaishnavi-Manne", repo: "CSS-Masterpieces" },
-        { owner: "Nazeya86", repo: "TaskByte" },
-        { owner: "sAnandha", repo: "AWS-Project-Documentation" },
-        { owner: "efshaperveen", repo: "MindJournal" },
-        { owner: "Mohitranag18", repo: "PPT.fy" },
-        { owner: "sailaja-adapa", repo: "gurushish" },
-        { owner: "Raga-03", repo: "Twitter_Sentiment_Analysis" },
-        { owner: "Piyush-t24", repo: "NBG" },
-        { owner: "SharonIV0x86", repo: "CinderPeak" },
-        { owner: "i-amit-tiwari", repo: "E-Commerce-Website" },
-        { owner: "i-amit-tiwari", repo: "Food-Ordering" },
-        { owner: "Kalaigar-Ayesha", repo: "Job-Application-Tracker" },
-        { owner: "Jotthecode", repo: "CITY-PULSE" },
-        { owner: "akshtshrma", repo: "KinetiX" },
-        { owner: "Darshan0244", repo: "Study_Zen" },
-        { owner: "mohitcse22", repo: "Game-zone" },
-        { owner: "SrigadaAkshayKumar", repo: "chatapp-frontend" },
-        { owner: "SrigadaAkshayKumar", repo: "stock" },
-        { owner: "ThePhoenix08", repo: "open-graph-visualizer" },
-        { owner: "Swapnil-Dhamal", repo: "EventHive" }
-      ].map(({ owner, repo }) => `${owner}/${repo}`);
+        "beadarshh/Alex_Interview_Bot",
+        "amitkumardemo/EdgeCareer",
+        "opensource-society/CodeSpace",
+        "shivampatkar/my-portfolio",
+        "vanshchauhan21/CryptoTracker",
+        "bhavishya2601/skilloria",
+        "mryashsinghal/Resume-Builder",
+        "SumitGorai01/TechieBlog",
+        "jayraj175coder/Entertainer",
+        "UTSAVS26/PyVerse",
+        "rajdeep13-coder/Resume-Generator",
+        "Samarcodesinpython/Ni-Swarth",
+        "adityas1309/RaktConnect",
+        "Dipanita45/HEALCONNECT",
+        "Dev-Dhruba/NeuroDev-Therapy",
+        "Debanjannnn/DACCY",
+        "PerseusKyogre09/ScrollCue.js",
+        "codeaashu/DevDisplay",
+        "Vaibhav-kesarwani/Codeforces-Problem-Recommender",
+        "Cyberninja30/TeleRehab",
+        "Aryan-coder-student/NeuroVision-BHPC",
+        "divi-24/SheSync",
+        "divi-24/Thrive",
+        "divi-24/KisaanSetu-f",
+        "alienx5499/SortVision",
+        "divi-24/IG3D",
+        "k0msenapati/study-sphere",
+        "ShikhaMaurya212402/Plant-Disease-Classification-Model",
+        "deskree-inc/nanoservice-ts",
+        "sayan0328/WallGodds-App",
+        "Parnab03/WallGodds",
+        "avanimathur/Build-your-own-Git-opensource",
+        "ayushghonge19/megabackendproj",
+        "dhruvXcode247/Multi_class_animal_classification",
+        "khushalp2004/Graphixo",
+        "souvik-maity/StyleCart",
+        "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit",
+        "ayushsin9h/WanderStay-Your-Premium-Hotel-Finder",
+        "Fenirok/Earthquake_app",
+        "PRIYANSHU2026/DataSentience-AIML",
+        "VAIBHAVBABELE/emergency-optimizer",
+        "AdityaRalhan/CopConnect",
+        "Saumy1905/PYQFort",
+        "ISHAAN-KKR/Entprep",
+        "Code-A2Z/jarvis",
+        "Code-A2Z/code-a2z",
+        "rutikakengal/FoodFusion-Online-Food-Ordering-Web",
+        "ruchikakengal/100_Days_100_webprojects",
+        "dhairyagothi/100_days_100_web_project",
+        "Nikkhil003/Carbon-Footprint-Detection",
+        "Akshat111111/NexTrade",
+        "itsaryanchauhan/ThinkDSA",
+        "xxRAJA/GYM-Profile-",
+        "Mayur-Pagote/README_Design_Kit",
+        "Drago-03/Neural-Nexus",
+        "B4S1C-Coder/Decentralized-File-Storage",
+        "dhairyagothi/StationGuide",
+        "RudraniGhosh24/NyayaBot",
+        "Programmers-Paradise/Annie",
+        "Premkolte/AnimateHub",
+        "venuchander/fintrack",
+        "imsuryya/CSphere",
+        "adityasingh-0803/Canvasmind",
+        "ShrutiSawant0804/Statewise-Police-Political-Directory-Portal",
+        "sailaja-adapa/Vipreshana",
+        "PARIGUPTA0011/Samwaad",
+        "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool",
+        "shuvadeepmondal/HacKerZGuiDe",
+        "Vivek09Chahal/Medic-Search",
+        "kashikaga/FinTrak",
+        "HarshS16/Civix",
+        "Kirti-Rathi/PromptShell",
+        "GauravKarakoti/Weather-API",
+        "ashish-um/reddiculous",
+        "rudralpha10/Coolsphere",
+        "Bhavya1352/eventmappr",
+        "Rakesh9100/Beautiify",
+        "Rakesh9100/CalcDiverse",
+        "Rakesh9100/Eventica",
+        "thishika-k/IQTOPIA-NEW",
+        "Prateek9876/NagarVikas",
+        "mansiruhil/fail-u-forward",
+        "saksham0mahnot/safarr",
+        "codingtrend/tic-tac-toe-Game",
+        "arjunatapadkar/codeteria",
+        "Varshitha713/good-first-issue-for-students",
+        "soumya813/Notes-App",
+        "Shashwat-Trivedi/Job-Dhundo",
+        "Yogareddy107/IntraSphere-JobPortal",
+        "Shantanu-Tiwari/CoCode",
+        "EmailScript/EmailScript",
+        "Mayuri734/Her-Bloom-Project",
+        "koustavx08/academic-chain-main",
+        "ruchikakengal/WebDevIn100_Days",
+        "Vaibhavlanjewar/Csgpt",
+        "atharva038/KnockNFix",
+        "akshay0611/tanjore-degree-coffee",
+        "git-aaditmehta/cardwise",
+        "Kalaigar-Ayesha/Fake-interships-detection",
+        "iDhruv03/Call-My-Lawyer",
+        "Kaliagargi/forest-fireprotection",
+        "apu52/Travel_Website",
+        "apu52/METAVERSE",
+        "vacanza/holidays",
+        "soundarya8/Signify",
+        "apna-college/wanderlust",
+        "Varshini-Buggana/E-commerce-Complete-Flutter-UI",
+        "VARUN3WARE/GroundBot",
+        "Nandani1512/byteverse_Mavericks",
+        "sailaja-adapa/GuruShish",
+        "sumit-make/Smart-University",
+        "SAMBUDAR/Styleka",
+        "SamXop123/tools.io",
+        "SGCODEX/Music-Recommendation-Using-Facial-Expressions",
+        "SGCODEX/Hackathon-Website",
+        "CLUSTER-DS-Club/cluster",
+        "rimanshupatel/FitMind_Ai",
+        "Ananta025/VIDEO_MEET",
+        "AgrimTawani/WordBattle",
+        "Ananta025/Financy",
+        "owasp/nest",
+        "Vrushti-kulkarni/Terrawise",
+        "Vaishnavi-Manne/CSS-Masterpieces",
+        "Nazeya86/TaskByte",
+        "sAnandha/AWS-Project-Documentation",
+        "efshaperveen/MindJournal",
+        "Mohitranag18/PPT.fy",
+        "sailaja-adapa/gurushish",
+        "Raga-03/Twitter_Sentiment_Analysis",
+        "Piyush-t24/NBG",
+        "SharonIV0x86/CinderPeak",
+        "i-amit-tiwari/E-Commerce-Website",
+        "i-amit-tiwari/Food-Ordering",
+        "Kalaigar-Ayesha/Job-Application-Tracker",
+        "Jotthecode/CITY-PULSE",
+        "akshtshrma/KinetiX",
+        "Darshan0244/Study_Zen",
+        "mohitcse22/Game-zone",
+        "SrigadaAkshayKumar/chatapp-frontend",
+        "SrigadaAkshayKumar/stock",
+        "ThePhoenix08/open-graph-visualizer",
+        "Swapnil-Dhamal/EventHive"
+      ];
       const baseLabel = "SSoC25";
       const labelsWithPoints = {
         Beginner: 20,
         Intermediate: 30,
         Advanced: 40
       };
-      const leaderboardDeploymentTime = "2025-07-25T10:40:00.000Z";
-      const githubToken = false; // 'your_optional_github_token'; // Optional
+      const leaderboardDeploymentTime = summary.timestamp;
 
       // UI function to handle form submission
       function checkPullRequest() {
         const prURL = document.getElementById("prUrlInput").value.trim();
         const resultDiv = document.getElementById("resultContainer");
+        const githubToken =
+          document.getElementById("ghToken").value.trim().length > 15
+            ? document.getElementById("ghToken").value.trim()
+            : false; // 'your_optional_github_token'; // Optional
 
         resultDiv.innerHTML = "<p>Validating pull request...</p>";
 

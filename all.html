@@ -76,7 +76,9 @@ Rank  | Username          | Score | PRs |  B  |  I  |  A
 B: Beginner, I: Intermediate, A: Advanced PRs
 Updated: ${formattedDate} (Local Time)
 UTC: ${isoDate.replace("T", " ").substr(0, 19)} (UTC / GMT Time)
-`;
+<strong>Summary:</strong>
+Total PRs:    ${summary.summary.totalPRs}
+Total Points: ${summary.summary.totalPoints}`;
 
         return output;
       }
