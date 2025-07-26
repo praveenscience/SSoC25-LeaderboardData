@@ -1,6 +1,23 @@
 var prs = {
   "prs": [
     {
+      "number": 50,
+      "title": "SECURITY.md",
+      "url": "https://github.com/amitkumardemo/EdgeCareer/pull/50",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T06:12:41Z",
+      "mergedAt": "2025-06-15T06:40:16Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "SSOC S4",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "amitkumardemo/EdgeCareer"
+    },
+    {
       "number": 23,
       "title": "Implemented a skip button in the preview guide of the website",
       "url": "https://github.com/mryashsinghal/Resume-Builder/pull/23",
@@ -2977,6 +2994,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-07-04T10:39:24Z",
       "mergedAt": "2025-07-14T09:47:46Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 257,
+      "title": "Resolved Issue#252: Bug/UI updates",
+      "url": "https://github.com/divi-24/SheSync/pull/257",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T10:54:47Z",
+      "mergedAt": "2025-07-15T11:01:12Z",
       "author": "MaulikGupta27",
       "labels": [
         "SSoC25",

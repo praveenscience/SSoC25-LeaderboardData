@@ -3331,10 +3331,10 @@ var userScores = {
       }
     },
     "MaulikGupta27": {
-      "totalScore": 100,
-      "prCount": 5,
+      "totalScore": 120,
+      "prCount": 6,
       "prsByLevel": {
-        "Beginner": 5,
+        "Beginner": 6,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -10315,10 +10315,10 @@ var userScores = {
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 180,
-      "prCount": 9,
+      "totalScore": 200,
+      "prCount": 10,
       "prsByLevel": {
-        "Beginner": 9,
+        "Beginner": 10,
         "Intermediate": 0,
         "Advanced": 0
       }
