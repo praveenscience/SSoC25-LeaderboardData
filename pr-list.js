@@ -257,6 +257,788 @@ var prs = {
       "project": "mryashsinghal/Resume-Builder"
     },
     {
+      "number": 352,
+      "title": "Added social media links to Contact Us page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/352",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T06:06:40Z",
+      "mergedAt": "2025-06-15T06:27:38Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 353,
+      "title": "LICENSE updated and readme updated",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/353",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:16:53Z",
+      "mergedAt": "2025-06-16T09:38:40Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 354,
+      "title": "ISSUE:325 feature/feat: add delete and update comment functionality in backend and frontend",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/354",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:26:11Z",
+      "mergedAt": "2025-06-16T09:47:17Z",
+      "author": "shreesriv12",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 355,
+      "title": "Adding Table of Contents",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/355",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T14:27:28Z",
+      "mergedAt": "2025-06-16T09:52:10Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 359,
+      "title": "Fixed Issue: #328. Logo and clickable text not navigating to main page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/359",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:07:53Z",
+      "mergedAt": "2025-06-16T09:55:44Z",
+      "author": "RinkiJhunjhunwala",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 361,
+      "title": "Design proposal tarushi",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/361",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:54:00Z",
+      "mergedAt": "2025-06-18T10:16:07Z",
+      "author": "Tarushiiiii",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 362,
+      "title": "Blog Card Overlapping Fixed",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/362",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T19:43:05Z",
+      "mergedAt": "2025-06-19T14:57:28Z",
+      "author": "YashSavalkar321",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 367,
+      "title": "sign up page updated added confirm password",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/367",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:58:40Z",
+      "mergedAt": "2025-06-25T09:31:14Z",
+      "author": "Tushar-senpai",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 372,
+      "title": "FEAT : Fixed the extra line in footer contact section. #344",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/372",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:58:00Z",
+      "mergedAt": "2025-06-18T10:36:07Z",
+      "author": "AbhinaySngh",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 374,
+      "title": "feat : Added SECURITY.md for responsible vulnerability disclosure",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/374",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:12:20Z",
+      "mergedAt": "2025-06-18T10:38:59Z",
+      "author": "Shashikumar-ezhilarasu",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 375,
+      "title": "feat : Add code of conduct #368",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/375",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:16:50Z",
+      "mergedAt": "2025-06-18T10:42:03Z",
+      "author": "Shashikumar-ezhilarasu",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 376,
+      "title": "feat : Enchanced the current  contributing md",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/376",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:29:58Z",
+      "mergedAt": "2025-06-18T16:11:15Z",
+      "author": "Shashikumar-ezhilarasu",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 378,
+      "title": "Add Eye Toggle Button to Password Field for Show/Hide Functionality",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/378",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T11:50:55Z",
+      "mergedAt": "2025-06-18T16:08:23Z",
+      "author": "divyam8175",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 381,
+      "title": "Fix issue-351 : Fixes opacity of Feedback page ",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/381",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T18:19:24Z",
+      "mergedAt": "2025-06-23T10:56:41Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 384,
+      "title": "Improved UI of navbar in darkmode along with other enhancements",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/384",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T03:54:49Z",
+      "mergedAt": "2025-06-19T08:39:46Z",
+      "author": "kanak227",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 385,
+      "title": "Updated SECURITY.md",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/385",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T04:05:47Z",
+      "mergedAt": "2025-06-19T08:44:12Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 399,
+      "title": "Fixed: Text content of posts not Toggling to Theme #383",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/399",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T17:16:02Z",
+      "mergedAt": "2025-06-20T04:15:29Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 400,
+      "title": "Update Footer.jsx",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/400",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T08:57:34Z",
+      "mergedAt": "2025-06-20T15:01:51Z",
+      "author": "mansiruhil",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 401,
+      "title": " Added hover effect to Contact Us social icons",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/401",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T09:15:29Z",
+      "mergedAt": "2025-06-21T09:38:51Z",
+      "author": "chehak2004",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 402,
+      "title": "Fixed issue : Compact space in Register button in Event Section. #373",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/402",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T12:57:15Z",
+      "mergedAt": "2025-06-21T09:43:42Z",
+      "author": "AbhinaySngh",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 404,
+      "title": "Update README.md",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/404",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T15:23:04Z",
+      "mergedAt": "2025-06-22T06:42:54Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 407,
+      "title": "Fixed the Dark mode Navbar issue #345",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/407",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T09:35:41Z",
+      "mergedAt": "2025-06-22T09:45:34Z",
+      "author": "sayan922",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 409,
+      "title": "Fixed the issue #302",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/409",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T13:05:26Z",
+      "mergedAt": "2025-06-22T15:29:53Z",
+      "author": "sayan922",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 411,
+      "title": "Issue resolved : #408  Enable public user profile view from post author link",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/411",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T14:37:09Z",
+      "mergedAt": "2025-06-22T15:35:13Z",
+      "author": "kaurpreetman",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 414,
+      "title": "Issue resolved : #227 and #178 - Add event backend implemented and  profile page for any user",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/414",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T22:51:57Z",
+      "mergedAt": "2025-06-27T05:04:56Z",
+      "author": "kaurpreetman",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 416,
+      "title": "Feature/enhancement navbar UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/416",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T03:26:30Z",
+      "mergedAt": "2025-06-24T10:27:39Z",
+      "author": "saarang2003",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 418,
+      "title": "Added Seamless Transition",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/418",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T14:01:18Z",
+      "mergedAt": "2025-06-24T10:32:48Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 419,
+      "title": "#330 Issue Solved Close menu popup on outside click",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/419",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T08:31:05Z",
+      "mergedAt": "2025-07-03T02:39:58Z",
+      "author": "YashSavalkar321",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 424,
+      "title": "Event",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/424",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T13:52:30Z",
+      "mergedAt": "2025-06-27T17:22:33Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 432,
+      "title": "Enhance header of the page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/432",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T13:55:41Z",
+      "mergedAt": "2025-06-28T14:06:08Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 437,
+      "title": "#Issue 436 Resolved - Fixed Footer Social Links",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/437",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T12:13:36Z",
+      "mergedAt": "2025-06-30T13:48:18Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 439,
+      "title": "Update Header.jsx",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/439",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T12:10:15Z",
+      "mergedAt": "2025-07-02T02:56:02Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 443,
+      "title": "Bug Fixes",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/443",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T09:33:36Z",
+      "mergedAt": "2025-07-03T10:51:20Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 447,
+      "title": "Issue #446 Resolved - Added New Hover Effect!",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/447",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T10:18:52Z",
+      "mergedAt": "2025-07-06T20:09:19Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 456,
+      "title": "Improved the UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/456",
+      "state": "MERGED",
+      "createdAt": "2025-07-11T19:35:38Z",
+      "mergedAt": "2025-07-12T10:36:10Z",
+      "author": "Alam9835",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 460,
+      "title": "Bug Fix",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/460",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T11:47:38Z",
+      "mergedAt": "2025-07-12T15:19:51Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 464,
+      "title": " Added bookmark/save post feature, metadata (word count & read time),…",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/464",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T19:39:51Z",
+      "mergedAt": "2025-07-13T06:12:53Z",
+      "author": "Anneshabhakta2005",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 472,
+      "title": "UI & Minor Bug fix",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/472",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T07:23:54Z",
+      "mergedAt": "2025-07-15T04:06:07Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 474,
+      "title": "Added the Updates for the image and ui",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/474",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T13:08:33Z",
+      "mergedAt": "2025-07-15T14:53:51Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 476,
+      "title": "Enhance User Profile",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/476",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T11:03:55Z",
+      "mergedAt": "2025-07-16T14:28:44Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 477,
+      "title": "UI update",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/477",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T17:26:24Z",
+      "mergedAt": "2025-07-18T02:47:50Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 485,
+      "title": "ENHANCE : Improve Section Text and Add Discord Join Button ",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/485",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T19:00:18Z",
+      "mergedAt": "2025-07-25T05:28:41Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 486,
+      "title": "ENHANCE : Improve footer alignment and spacing",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/486",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T19:35:59Z",
+      "mergedAt": "2025-07-25T05:17:10Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 487,
+      "title": "ENHANCE : Issue 479  change the alignment of image in hero page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/487",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T20:21:07Z",
+      "mergedAt": "2025-07-25T05:04:45Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 488,
+      "title": "UI update",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/488",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T15:04:26Z",
+      "mergedAt": "2025-07-22T05:02:43Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 490,
+      "title": "Bug Fixes ",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/490",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T05:56:53Z",
+      "mergedAt": "2025-07-24T05:20:22Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -8578,6 +9360,1240 @@ var prs = {
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
+      "number": 28,
+      "title": "ISSUE NUMBER:24   feat(theme): add global dark/light mode toggle across all UI pages",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/28",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:46:53Z",
+      "mergedAt": "2025-06-14T10:29:26Z",
+      "author": "shreesriv12",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 36,
+      "title": " fix the bug#31 togel option hide and show password",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/36",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T15:37:10Z",
+      "mergedAt": "2025-06-14T15:58:09Z",
+      "author": "rajusharmadata",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 39,
+      "title": "Added CONTRIBUTING.md",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/39",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T16:40:18Z",
+      "mergedAt": "2025-06-14T17:19:31Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 43,
+      "title": "Created CODE_OF_CONDUCT.md",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/43",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T19:11:07Z",
+      "mergedAt": "2025-06-15T05:29:03Z",
+      "author": "SK8-infi",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 45,
+      "title": "Toast notification login v2(Enhance Login Feedback with Toast Notifications (Fixes #40))",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/45",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T03:12:10Z",
+      "mergedAt": "2025-06-15T05:38:51Z",
+      "author": "shambhavi0608",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 46,
+      "title": "refactor: modularize Express.js server structure (Closes #4)",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T03:24:54Z",
+      "mergedAt": "2025-06-15T06:03:40Z",
+      "author": "Samiran2004",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 49,
+      "title": "License vipreshana",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/49",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:36:46Z",
+      "mergedAt": "2025-06-15T08:58:19Z",
+      "author": "nupurmadaan04",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 51,
+      "title": "added better hovering effects to login and register buttons",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/51",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T09:55:27Z",
+      "mergedAt": "2025-06-15T09:58:25Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 53,
+      "title": "Fixed Navigation routing issue in LoginDashboard --issue #41",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/53",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:54:57Z",
+      "mergedAt": "2025-06-15T15:16:03Z",
+      "author": "Lalitha216",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 55,
+      "title": "feat: improve server start and error logs using figlet (#47)",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/55",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T11:17:12Z",
+      "mergedAt": "2025-06-15T15:17:09Z",
+      "author": "Samiran2004",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 60,
+      "title": "Added Role in User Registration , Duplicate Check for Bookings , Input Sanitization and Domain-Specific Email Validation",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/60",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T16:33:49Z",
+      "mergedAt": "2025-06-16T08:11:24Z",
+      "author": "ultimatrix2",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 61,
+      "title": "[Docs] Enhanced 📦 Local Setup Guide with Backend Instructions & Env Details",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/61",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:19:44Z",
+      "mergedAt": "2025-06-16T08:08:08Z",
+      "author": "Samiran2004",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 67,
+      "title": "FIX #18: Added About Us page for also Dark Mode Support",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/67",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T19:22:55Z",
+      "mergedAt": "2025-06-16T09:23:56Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 73,
+      "title": "feat: Add animated page transitions",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T11:31:23Z",
+      "mergedAt": "2025-06-16T12:16:50Z",
+      "author": "Vartekalohiya13",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 80,
+      "title": "Improved UI of Bookings Page #5",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/80",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:02:08Z",
+      "mergedAt": "2025-06-16T17:29:38Z",
+      "author": "kotlalokeshwari098",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 81,
+      "title": "FIX #76: Addition of animated how it works page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:33:59Z",
+      "mergedAt": "2025-06-16T17:15:48Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 83,
+      "title": "[Feature] Send Welcome Email to New Users Upon Signup",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/83",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T16:39:10Z",
+      "mergedAt": "2025-06-17T16:04:17Z",
+      "author": "Samiran2004",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 92,
+      "title": "FIX #91: Fixed How it works page route in about us",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/92",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T07:52:52Z",
+      "mergedAt": "2025-06-17T08:01:14Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 97,
+      "title": "Theme toggle aboutpage",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/97",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T10:47:00Z",
+      "mergedAt": "2025-06-17T15:29:52Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 98,
+      "title": "✨ Added animated loader with truck.gif and updated App.js",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/98",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T11:00:56Z",
+      "mergedAt": "2025-06-17T12:20:03Z",
+      "author": "Vartekalohiya13",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 105,
+      "title": "FIX #96: Centered the password eyebutton",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/105",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T12:32:17Z",
+      "mergedAt": "2025-06-17T12:58:26Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 106,
+      "title": " Updated favicon and title for Vipreshana",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/106",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T12:50:46Z",
+      "mergedAt": "2025-06-17T15:30:48Z",
+      "author": "Samridhi-2007",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 107,
+      "title": "issue  #63 resolved",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/107",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T12:55:14Z",
+      "mergedAt": "2025-06-17T13:22:18Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 113,
+      "title": "FIXED: White Screen Displayed After Login Redirect to /logindashboard #108",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:43:03Z",
+      "mergedAt": "2025-06-17T15:50:49Z",
+      "author": "YashChauhan-2303",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 114,
+      "title": "Add Responsive Navbar with Hamburger Menu for Mobile View",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/114",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T16:08:37Z",
+      "mergedAt": "2025-06-17T18:08:59Z",
+      "author": "manavi-24",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 118,
+      "title": "added-user-logout",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/118",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T16:38:55Z",
+      "mergedAt": "2025-06-17T17:40:23Z",
+      "author": "pratham15541",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 123,
+      "title": "Fix: Sign in here link now navigates to login page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/123",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T07:07:24Z",
+      "mergedAt": "2025-06-18T14:45:30Z",
+      "author": "kamran-asif",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 125,
+      "title": "Added FAQ and Footer",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/125",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T11:33:34Z",
+      "mergedAt": "2025-06-18T14:47:36Z",
+      "author": "bwbeas",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 128,
+      "title": "Added favicon and title to all pages",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/128",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T12:51:04Z",
+      "mergedAt": "2025-06-18T17:29:16Z",
+      "author": "Samridhi-2007",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 131,
+      "title": "Feat/enhanced contact page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/131",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T15:35:11Z",
+      "mergedAt": "2025-06-19T06:42:56Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 134,
+      "title": "issue #62 resolved",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/134",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T17:24:10Z",
+      "mergedAt": "2025-06-18T17:48:16Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 140,
+      "title": "Fixed alignment of forgot password form",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/140",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T09:11:54Z",
+      "mergedAt": "2025-06-19T09:17:01Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 146,
+      "title": "Feature Fix: Forgot Password Flow with Email Integration",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/146",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T12:40:49Z",
+      "mergedAt": "2025-06-21T04:38:07Z",
+      "author": "decodekush",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 148,
+      "title": "feat: display user info in navbar and prevent access to login/registe…",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/148",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T13:47:51Z",
+      "mergedAt": "2025-06-20T04:24:54Z",
+      "author": "vishnukothakapu",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 150,
+      "title": "additing faq to how it works page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/150",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T16:22:30Z",
+      "mergedAt": "2025-06-19T16:37:07Z",
+      "author": "bwbeas",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 154,
+      "title": "FIX #145: dark mode fixed in registration page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/154",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T05:27:50Z",
+      "mergedAt": "2025-06-20T14:58:26Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 162,
+      "title": "fix: improve timeline responsiveness on mobile (Closes #159)",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/162",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T16:38:36Z",
+      "mergedAt": "2025-06-21T04:45:34Z",
+      "author": "sahithi-kanjarla",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 166,
+      "title": " Fix: Forgot Password Link Functional – Reset Email Now Sends Properly",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/166",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T11:29:46Z",
+      "mergedAt": "2025-06-21T15:11:31Z",
+      "author": "decodekush",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 169,
+      "title": "otp authentication on registration",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/169",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T05:21:17Z",
+      "mergedAt": "2025-06-23T05:09:57Z",
+      "author": "akashbisht004",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 182,
+      "title": "Fix/enhance driver dashboard",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/182",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T15:40:14Z",
+      "mergedAt": "2025-06-25T13:00:13Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 194,
+      "title": "Added Table of Contents and LICENSE",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/194",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T12:26:57Z",
+      "mergedAt": "2025-06-28T06:10:24Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 198,
+      "title": "Issue #171 (Text is not properly visible )  resolved",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/198",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T08:53:58Z",
+      "mergedAt": "2025-07-01T09:04:06Z",
+      "author": "RinkiJhunjhunwala",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 200,
+      "title": "UI & Bug Fix",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/200",
+      "state": "MERGED",
+      "createdAt": "2025-07-02T10:58:12Z",
+      "mergedAt": "2025-07-07T10:28:28Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 206,
+      "title": "Added Markdown-based GitHub issue templates",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/206",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T08:34:43Z",
+      "mergedAt": "2025-07-04T09:42:25Z",
+      "author": "denshaw-09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 209,
+      "title": "Added PR template for contributors",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/209",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T17:35:10Z",
+      "mergedAt": "2025-07-07T09:02:41Z",
+      "author": "denshaw-09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 211,
+      "title": "UI update",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/211",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T10:36:20Z",
+      "mergedAt": "2025-07-08T10:27:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 214,
+      "title": "Added the Github Action message",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/214",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T16:13:17Z",
+      "mergedAt": "2025-07-09T16:24:27Z",
+      "author": "denshaw-09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 216,
+      "title": "Add Live Background for Registration Page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/216",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T16:36:28Z",
+      "mergedAt": "2025-07-11T09:41:55Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 223,
+      "title": "Added the markdown github action file",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/223",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T18:25:41Z",
+      "mergedAt": "2025-07-15T08:43:01Z",
+      "author": "denshaw-09",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 228,
+      "title": "PR Issue #221 navbar enhancement",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/228",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T17:53:13Z",
+      "mergedAt": "2025-07-16T18:28:00Z",
+      "author": "rohit-debnath24",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 230,
+      "title": "Enhance Sign In page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/230",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T11:26:51Z",
+      "mergedAt": "2025-07-17T17:03:39Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 232,
+      "title": "Added a PR Contributor GitHub Action",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/232",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T16:53:37Z",
+      "mergedAt": "2025-07-17T17:15:20Z",
+      "author": "denshaw-09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 236,
+      "title": "Minor ui fixes",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/236",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T06:56:37Z",
+      "mergedAt": "2025-07-22T08:26:15Z",
+      "author": "denshaw-09",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 237,
+      "title": "added scroll to top button",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/237",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T10:43:13Z",
+      "mergedAt": "2025-07-22T11:47:17Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 239,
+      "title": "Bug Fixes",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/239",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T13:20:53Z",
+      "mergedAt": "2025-07-22T14:00:49Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 243,
+      "title": "Remove faq from about page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/243",
+      "state": "MERGED",
+      "createdAt": "2025-07-24T04:39:17Z",
+      "mergedAt": "2025-07-25T13:06:56Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 7,
+      "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T11:48:24Z",
+      "mergedAt": "2025-06-15T11:54:52Z",
+      "author": "Mohamad-Owais",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 11,
+      "title": "Added Code of Conduct",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/11",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:35:47Z",
+      "mergedAt": "2025-06-15T15:36:56Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 12,
+      "title": "Added Apache-2.0 License",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/12",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:47:13Z",
+      "mergedAt": "2025-06-15T15:50:32Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 13,
+      "title": "Enhanced README.md file",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/13",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:55:40Z",
+      "mergedAt": "2025-06-15T16:00:00Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 15,
+      "title": "Updated README.md file",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/15",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T16:22:29Z",
+      "mergedAt": "2025-06-15T16:25:48Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 18,
+      "title": "Bug Fixed in RSA logic",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/18",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:09:44Z",
+      "mergedAt": "2025-06-15T17:12:13Z",
+      "author": "harshraj005",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 19,
+      "title": "Updated README.md",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/19",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:40:20Z",
+      "mergedAt": "2025-06-16T00:53:58Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 21,
+      "title": " Added Issue and Pull Request Templates",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/21",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:52:03Z",
+      "mergedAt": "2025-06-16T00:56:34Z",
+      "author": "Dru-429",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 22,
+      "title": "Delete unnecessary license file",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/22",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:57:20Z",
+      "mergedAt": "2025-06-16T00:55:41Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 27,
+      "title": "added isprime function to validate form",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/27",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T04:42:11Z",
+      "mergedAt": "2025-06-16T04:59:10Z",
+      "author": "ParthNema13",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 28,
+      "title": "Loading Indicators During Fetch Calls",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/28",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T05:29:49Z",
+      "mergedAt": "2025-06-16T05:45:20Z",
+      "author": "ParthNema13",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 31,
+      "title": "Added feature for file name preview",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/31",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T06:17:39Z",
+      "mergedAt": "2025-06-16T06:26:11Z",
+      "author": "ParthNema13",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 33,
+      "title": "clearing old text or download links",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/33",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T06:39:44Z",
+      "mergedAt": "2025-06-16T14:56:21Z",
+      "author": "ParthNema13",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 35,
+      "title": "Added Caesar Cipher",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/35",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T09:41:01Z",
+      "mergedAt": "2025-06-16T14:47:46Z",
+      "author": "harshraj005",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 36,
+      "title": "Updated README.md",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/36",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T12:14:06Z",
+      "mergedAt": "2025-06-16T13:05:50Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 37,
+      "title": ".gitignore",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/37",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T12:16:28Z",
+      "mergedAt": "2025-06-16T13:08:20Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 42,
+      "title": "Version updated",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/42",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T16:05:03Z",
+      "mergedAt": "2025-06-17T16:54:19Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 45,
+      "title": "secure RSA Implementation",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/45",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T12:54:54Z",
+      "mergedAt": "2025-06-18T13:38:01Z",
+      "author": "Apurba-01",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 46,
+      "title": "Re-added Caesar Cipher",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T08:36:44Z",
+      "mergedAt": "2025-06-19T09:05:42Z",
+      "author": "Shoury-Rana",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 52,
+      "title": "Add encryption cli utility",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/52",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T18:05:40Z",
+      "mergedAt": "2025-07-22T07:31:32Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 53,
+      "title": "Add random button",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/53",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T18:30:28Z",
+      "mergedAt": "2025-07-22T07:30:55Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -9449,6 +11465,22 @@ var prs = {
       "createdAt": "2025-07-22T05:48:43Z",
       "mergedAt": "2025-07-22T06:51:27Z",
       "author": "IamPritamAcharya",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 151,
+      "title": "notification updated in loginpage",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/151",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T13:13:33Z",
+      "mergedAt": "2025-07-25T13:27:44Z",
+      "author": "imBharathkumarp",
       "labels": [
         "Intermediate",
         "SSoC25"
