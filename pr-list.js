@@ -5415,6 +5415,22 @@ var prs = {
       "project": "Fenirok/Earthquake_app"
     },
     {
+      "number": 83,
+      "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/83",
+      "state": "MERGED",
+      "createdAt": "2025-06-13T21:15:38Z",
+      "mergedAt": "2025-06-14T01:20:14Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 85,
       "title": "Added PYQs for CSE 1st Sem Chemistry CHEM 1001, Mathematics MTH1101, …",
       "url": "https://github.com/Saumy1905/PYQFort/pull/85",
@@ -5428,6 +5444,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 88,
+      "title": "Added PSIT Kanpur syllabus for CSE, ECE, and IT (8 Semesters each)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/88",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:33:10Z",
+      "mergedAt": "2025-06-14T19:31:41Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -5479,6 +5511,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 100,
+      "title": "Added IIIT Manipur Syllabus for 4 Branches (CSE, CSE-AI&DS, ECE, ECE-VLSI)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T21:40:22Z",
+      "mergedAt": "2025-06-15T07:42:35Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 103,
       "title": "Added VRSEC-AP Computer Engineering syllabus",
       "url": "https://github.com/Saumy1905/PYQFort/pull/103",
@@ -5492,6 +5540,38 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 105,
+      "title": "Added IIIT Ranchi Syllabus Structure (4 Branches with 8 Semester Folders Each)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/105",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:52:51Z",
+      "mergedAt": "2025-06-15T08:56:54Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 107,
+      "title": "Added syllabus folders for IIIT Kota - CSE, ECE & AIDE (8 Semesters Each)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/107",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T09:47:54Z",
+      "mergedAt": "2025-06-15T09:50:33Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -5783,6 +5863,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 150,
+      "title": "Added NIT SIKKIM Syllabus Structure (CSE, Civil, ECE, ME)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/150",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T10:57:13Z",
+      "mergedAt": "2025-06-16T11:56:11Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 154,
       "title": "IIT_BOMBAY syllabus and course structure added",
       "url": "https://github.com/Saumy1905/PYQFort/pull/154",
@@ -5991,6 +6087,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 180,
+      "title": "Added IIIT KALYANI Syllabus Structure (CSE and ECE)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/180",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T08:59:42Z",
+      "mergedAt": "2025-06-17T11:05:35Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 182,
       "title": "Added syllabus for CSE,IT,ME,EE for HITK",
       "url": "https://github.com/Saumy1905/PYQFort/pull/182",
@@ -6100,6 +6212,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 197,
+      "title": "Added IIIT Jabalpur syllabus structure for CSE, ME, and ECE",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/197",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T15:18:13Z",
+      "mergedAt": "2025-06-18T17:31:50Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -6615,6 +6743,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 262,
+      "title": "Add Compressed Syllabus for SRM UNIVERSITY – CSE, ECE, ME",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/262",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T16:55:00Z",
+      "mergedAt": "2025-06-21T17:11:06Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 263,
       "title": "Uploaded PYQs for Core Subjects – VIT Bhopal (CSE) [Closes #259]",
       "url": "https://github.com/Saumy1905/PYQFort/pull/263",
@@ -6628,6 +6772,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 266,
+      "title": "Add BML Munjal University Semester-wise Syllabus (CSE, ME, ECE – Sem 1 to 8)",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/266",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T18:03:27Z",
+      "mergedAt": "2025-06-21T18:07:45Z",
+      "author": "Pixel20coder",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -10463,6 +10623,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-07-22T13:20:53Z",
       "mergedAt": "2025-07-22T14:00:49Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 241,
+      "title": "Add Workflow to Readme",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/241",
+      "state": "MERGED",
+      "createdAt": "2025-07-23T09:27:37Z",
+      "mergedAt": "2025-07-23T15:15:56Z",
       "author": "HimanshuKabra01",
       "labels": [
         "SSoC25",

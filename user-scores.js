@@ -316,11 +316,11 @@ var userScores = {
       }
     },
     "HimanshuKabra01": {
-      "totalScore": 830,
-      "prCount": 37,
+      "totalScore": 860,
+      "prCount": 38,
       "prsByLevel": {
         "Beginner": 29,
-        "Intermediate": 7,
+        "Intermediate": 8,
         "Advanced": 1
       }
     },
@@ -11959,6 +11959,78 @@ var userScores = {
         "Beginner": 6,
         "Intermediate": 2,
         "Advanced": 4
+      }
+    },
+    "pashaarshad": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "ShreyaSingh1515": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "BhargaviBathini": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "Pixel20coder": {
+      "totalScore": 300,
+      "prCount": 10,
+      "prsByLevel": {
+        "Beginner": 2,
+        "Intermediate": 6,
+        "Advanced": 2
+      }
+    },
+    "Shashankvuddagiri": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "priya250805": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "Ayushigupta1110": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "SAMBUDAR": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
       }
     }
   }
