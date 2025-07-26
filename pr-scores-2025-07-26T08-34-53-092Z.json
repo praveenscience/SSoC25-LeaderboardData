@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-26T19:33:26.439Z",
+  "timestamp": "2025-07-26T08:33:07.627Z",
   "summary": {
-    "totalPRs": 944,
-    "totalPoints": 25600
+    "totalPRs": 915,
+    "totalPoints": 24760
   },
   "users": {
     "72897": {
@@ -186,11 +186,11 @@
       }
     },
     "Somilg11": {
-      "totalScore": 190,
-      "prCount": 9,
+      "totalScore": 160,
+      "prCount": 8,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 1,
+        "Intermediate": 0,
         "Advanced": 0
       }
     },
@@ -321,10 +321,10 @@
       }
     },
     "HimanshuKabra01": {
-      "totalScore": 920,
-      "prCount": 41,
+      "totalScore": 900,
+      "prCount": 40,
       "prsByLevel": {
-        "Beginner": 32,
+        "Beginner": 31,
         "Intermediate": 8,
         "Advanced": 1
       }
@@ -402,10 +402,10 @@
       }
     },
     "aryannkaushikk": {
-      "totalScore": 20,
-      "prCount": 1,
+      "totalScore": 0,
+      "prCount": 0,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 0,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -1896,10 +1896,10 @@
       }
     },
     "nupurmadaan04": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 30,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 0,
         "Intermediate": 1,
         "Advanced": 0
       }
@@ -2480,13 +2480,13 @@
         "Advanced": 0
       }
     },
-    "VJLIVE": {
-      "totalScore": 460,
-      "prCount": 14,
+    "vjlive": {
+      "totalScore": 0,
+      "prCount": 0,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 10,
-        "Advanced": 4
+        "Intermediate": 0,
+        "Advanced": 0
       }
     },
     "AnuranjanJain": {
@@ -2949,12 +2949,12 @@
       }
     },
     "Vishisht-Dwivedi": {
-      "totalScore": 60,
-      "prCount": 2,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
         "Intermediate": 0,
-        "Advanced": 1
+        "Advanced": 0
       }
     },
     "Varshini-Buggana": {
@@ -3336,10 +3336,10 @@
       }
     },
     "MaulikGupta27": {
-      "totalScore": 120,
-      "prCount": 6,
+      "totalScore": 100,
+      "prCount": 5,
       "prsByLevel": {
-        "Beginner": 6,
+        "Beginner": 5,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -4506,10 +4506,10 @@
       }
     },
     "arthavjain103": {
-      "totalScore": 360,
-      "prCount": 14,
+      "totalScore": 340,
+      "prCount": 13,
       "prsByLevel": {
-        "Beginner": 8,
+        "Beginner": 7,
         "Intermediate": 4,
         "Advanced": 2
       }
@@ -5829,12 +5829,12 @@
       }
     },
     "TheAnumaan": {
-      "totalScore": 40,
-      "prCount": 1,
+      "totalScore": 0,
+      "prCount": 0,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 1
+        "Advanced": 0
       }
     },
     "Poushali-Mitra": {
@@ -7134,10 +7134,10 @@
       }
     },
     "Tarushiiiii": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 30,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 0,
         "Intermediate": 1,
         "Advanced": 0
       }
@@ -7953,10 +7953,10 @@
       }
     },
     "Chavva-Harshita": {
-      "totalScore": 40,
-      "prCount": 2,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -8394,10 +8394,10 @@
       }
     },
     "m1ss-chief": {
-      "totalScore": 240,
-      "prCount": 9,
+      "totalScore": 220,
+      "prCount": 8,
       "prsByLevel": {
-        "Beginner": 5,
+        "Beginner": 4,
         "Intermediate": 2,
         "Advanced": 2
       }
@@ -9870,10 +9870,10 @@
       }
     },
     "Webwizzz22": {
-      "totalScore": 230,
-      "prCount": 10,
+      "totalScore": 210,
+      "prCount": 9,
       "prsByLevel": {
-        "Beginner": 8,
+        "Beginner": 7,
         "Intermediate": 1,
         "Advanced": 1
       }
@@ -10320,10 +10320,10 @@
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 200,
-      "prCount": 10,
+      "totalScore": 180,
+      "prCount": 9,
       "prsByLevel": {
-        "Beginner": 10,
+        "Beginner": 9,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -10788,12 +10788,12 @@
       }
     },
     "Harsh16Bhardwaj": {
-      "totalScore": 40,
-      "prCount": 1,
+      "totalScore": 0,
+      "prCount": 0,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 1
+        "Advanced": 0
       }
     },
     "Ankita-kuntal": {
@@ -10842,11 +10842,11 @@
       }
     },
     "ZarrarPeshimam": {
-      "totalScore": 90,
-      "prCount": 4,
+      "totalScore": 60,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
-        "Intermediate": 1,
+        "Intermediate": 0,
         "Advanced": 0
       }
     },
@@ -12318,7 +12318,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -13383,7 +13383,7 @@
       }
     },
     "amitkumardemo/EdgeCareer": {
-      "totalPRs": 1,
+      "totalPRs": 0,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -13660,7 +13660,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -14531,7 +14531,7 @@
         "KavyaMunusamy": 0,
         "shambhavi0608": 0,
         "SubhamKojha": 0,
-        "aryanguptacsvtu": 1,
+        "aryanguptacsvtu": 0,
         "shambhavi099": 0,
         "COPYRIGHTXO": 0,
         "kushagra0333": 0,
@@ -15002,7 +15002,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -16344,7 +16344,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -17686,7 +17686,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -19028,7 +19028,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -20370,7 +20370,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 3,
         "Priyanshiunique": 0,
@@ -21712,7 +21712,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -23054,7 +23054,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -24396,7 +24396,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -25738,7 +25738,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -27080,7 +27080,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -28422,7 +28422,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -29764,7 +29764,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -31106,7 +31106,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -32448,7 +32448,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -33790,7 +33790,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -35132,7 +35132,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -36474,7 +36474,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -37816,7 +37816,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -39158,7 +39158,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -40223,7 +40223,7 @@
       }
     },
     "divi-24/SheSync": {
-      "totalPRs": 28,
+      "totalPRs": 23,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -40269,7 +40269,7 @@
         "OJASWANI-tech": 0,
         "parshvi1508": 0,
         "Syed-Shamsheer-Ali": 0,
-        "aryannkaushikk": 1,
+        "aryannkaushikk": 0,
         "Ayush170306": 0,
         "SHlok06majmundar": 0,
         "Aadiarya0": 0,
@@ -40500,7 +40500,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 1,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -40595,7 +40595,7 @@
         "sohumvenkatadri7": 0,
         "codertanya03": 0,
         "Soumyosish": 0,
-        "MaulikGupta27": 6,
+        "MaulikGupta27": 5,
         "PalakSinha2505": 0,
         "bhartiamulya": 0,
         "aashutoshkumarbhardwaj": 0,
@@ -40725,7 +40725,7 @@
         "11neeja": 0,
         "Aaryandhage": 0,
         "sahukrishna27": 0,
-        "arthavjain103": 1,
+        "arthavjain103": 0,
         "projects": 0,
         "LAWSA07": 0,
         "AnvitaPrasad": 0,
@@ -41321,7 +41321,7 @@
         "GUN33Tk": 0,
         "priyan-inspires": 0,
         "joyprakashk": 0,
-        "Webwizzz22": 1,
+        "Webwizzz22": 0,
         "gauravsingh1281": 0,
         "dubeyharshit0605": 0,
         "coder-cutie": 0,
@@ -41842,7 +41842,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -43184,7 +43184,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -44526,7 +44526,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -45868,7 +45868,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -47210,7 +47210,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -48552,7 +48552,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -49894,7 +49894,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -51236,7 +51236,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -52578,7 +52578,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -53920,7 +53920,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -55262,7 +55262,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -56604,7 +56604,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -57946,7 +57946,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -59288,7 +59288,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -60630,7 +60630,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -61972,7 +61972,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -63314,7 +63314,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -64656,7 +64656,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -65998,7 +65998,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -67340,7 +67340,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -68682,7 +68682,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 2,
@@ -70024,7 +70024,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -71366,7 +71366,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -72708,7 +72708,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -74050,7 +74050,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 1,
         "Priyanshiunique": 0,
@@ -75392,7 +75392,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -76734,7 +76734,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -78076,7 +78076,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -79418,7 +79418,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -80483,7 +80483,7 @@
       }
     },
     "itsaryanchauhan/ThinkDSA": {
-      "totalPRs": 9,
+      "totalPRs": 0,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -80505,7 +80505,7 @@
         "aryarathoree": 0,
         "sumandey7684": 0,
         "AkshayHaldar": 0,
-        "Somilg11": 1,
+        "Somilg11": 0,
         "anuscaa": 0,
         "amaansyed27": 0,
         "tamatar-23": 0,
@@ -80695,7 +80695,7 @@
         "piyushdhoka": 0,
         "Anjanipatnaik": 0,
         "Shubh-Rawat7": 0,
-        "nupurmadaan04": 1,
+        "nupurmadaan04": 0,
         "DarKnight890980": 0,
         "HimanshuHeda": 0,
         "riyaraj-web": 0,
@@ -80760,7 +80760,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -80812,7 +80812,7 @@
         "naveenmvoff": 0,
         "kavitha308": 0,
         "VasuGx": 0,
-        "Vishisht-Dwivedi": 1,
+        "Vishisht-Dwivedi": 0,
         "Varshini-Buggana": 0,
         "Shambhujadhav4": 0,
         "Shreya-Gupta-SG": 0,
@@ -81132,7 +81132,7 @@
         "Vaish0223": 0,
         "chetan2835": 0,
         "lokeshjakhar7781": 0,
-        "TheAnumaan": 1,
+        "TheAnumaan": 0,
         "Poushali-Mitra": 0,
         "K-Vaishnavi12": 0,
         "naitik-01": 0,
@@ -81277,7 +81277,7 @@
         "khanjan2024": 0,
         "dhami200": 0,
         "ChetanSaini726": 0,
-        "Tarushiiiii": 1,
+        "Tarushiiiii": 0,
         "Micha062301": 0,
         "RACHITALAAD": 0,
         "RahilAlam929": 0,
@@ -81368,7 +81368,7 @@
         "Mansi2821": 0,
         "YadavGaya031": 0,
         "anikchand461": 0,
-        "Chavva-Harshita": 1,
+        "Chavva-Harshita": 0,
         "Radhika-dodain": 0,
         "code-well0": 0,
         "omansharora5": 0,
@@ -81417,7 +81417,7 @@
         "dipmanmajumdar": 0,
         "raman0925": 0,
         "RishiRaj292": 0,
-        "m1ss-chief": 1,
+        "m1ss-chief": 0,
         "UTKARSHJHA-2005": 0,
         "shaheen412": 0,
         "sumit-make": 0,
@@ -81683,13 +81683,13 @@
         "sacheetkumar": 0,
         "bhaviii17": 0,
         "harsh17-ops": 0,
-        "Harsh16Bhardwaj": 1,
+        "Harsh16Bhardwaj": 0,
         "Ankita-kuntal": 0,
         "AdityaJani616": 0,
         "Lekkhasri": 0,
         "Sundhar-Balamoorthy": 0,
         "muskan23-lgtm": 0,
-        "ZarrarPeshimam": 1,
+        "ZarrarPeshimam": 0,
         "TheAnushree25": 0,
         "Shivangi0009": 0,
         "Nandini12004": 0,
@@ -82102,7 +82102,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -83167,7 +83167,7 @@
       }
     },
     "Mayur-Pagote/README_Design_Kit": {
-      "totalPRs": 83,
+      "totalPRs": 82,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -83204,7 +83204,7 @@
         "SanjanaJ20": 0,
         "Nithin0306": 0,
         "Preksha07-ap": 0,
-        "HimanshuKabra01": 14,
+        "HimanshuKabra01": 13,
         "Sarvesh221007": 0,
         "sourav0006": 0,
         "Anujanthwal-dotcom": 0,
@@ -83444,7 +83444,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -84786,7 +84786,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -86128,7 +86128,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -87470,7 +87470,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -88812,7 +88812,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -90154,7 +90154,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -91496,7 +91496,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -92561,7 +92561,7 @@
       }
     },
     "venuchander/fintrack": {
-      "totalPRs": 16,
+      "totalPRs": 15,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -92838,7 +92838,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 1,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -94180,7 +94180,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -95522,7 +95522,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -96864,7 +96864,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -98206,7 +98206,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 4,
         "Priyanshiunique": 0,
@@ -99548,7 +99548,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -100890,7 +100890,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -102232,7 +102232,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -103574,7 +103574,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -104916,7 +104916,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -106258,7 +106258,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -107600,7 +107600,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -108942,7 +108942,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -110284,7 +110284,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -111626,7 +111626,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -112968,7 +112968,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -114310,7 +114310,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -115652,7 +115652,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -116994,7 +116994,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -118336,7 +118336,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -119401,7 +119401,7 @@
       }
     },
     "Prateek9876/NagarVikas": {
-      "totalPRs": 51,
+      "totalPRs": 39,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -119678,7 +119678,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 12,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -121020,7 +121020,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -122362,7 +122362,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -123704,7 +123704,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -125046,7 +125046,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -126388,7 +126388,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -127730,7 +127730,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -129072,7 +129072,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -130414,7 +130414,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -131756,7 +131756,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -133098,7 +133098,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -134440,7 +134440,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -135782,7 +135782,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -137124,7 +137124,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -138466,7 +138466,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -139808,7 +139808,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -141150,7 +141150,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -142492,7 +142492,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -143834,7 +143834,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -145176,7 +145176,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -146518,7 +146518,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -147860,7 +147860,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -149202,7 +149202,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -150544,7 +150544,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -151886,7 +151886,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -153228,7 +153228,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -154570,7 +154570,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -155912,7 +155912,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -157254,7 +157254,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -158596,7 +158596,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -159938,7 +159938,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -161280,7 +161280,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -162622,7 +162622,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -163964,7 +163964,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -165306,7 +165306,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -166648,7 +166648,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -167990,7 +167990,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -169332,7 +169332,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -170674,7 +170674,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -172016,7 +172016,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -173358,7 +173358,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -174700,7 +174700,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -176042,7 +176042,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -177384,7 +177384,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -178726,7 +178726,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -180068,7 +180068,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -181410,7 +181410,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -182752,7 +182752,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -184094,7 +184094,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -185436,7 +185436,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -186778,7 +186778,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -188120,7 +188120,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -189462,7 +189462,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -190804,7 +190804,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -192146,7 +192146,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -193488,7 +193488,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -194830,7 +194830,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -196172,7 +196172,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -197514,7 +197514,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -198856,7 +198856,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -200198,7 +200198,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -201540,7 +201540,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 0,
+        "vjlive": 0,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -202606,23 +202606,6 @@
     }
   },
   "prs": [
-    {
-      "number": 50,
-      "title": "SECURITY.md",
-      "url": "https://github.com/amitkumardemo/EdgeCareer/pull/50",
-      "state": "MERGED",
-      "createdAt": "2025-06-15T06:12:41Z",
-      "mergedAt": "2025-06-15T06:40:16Z",
-      "author": "aryanguptacsvtu",
-      "labels": [
-        "SSOC S4",
-        "Beginner",
-        "SSoC25"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "amitkumardemo/EdgeCareer"
-    },
     {
       "number": 23,
       "title": "Implemented a skip button in the preview guide of the website",
@@ -205258,22 +205241,6 @@
       "project": "divi-24/SheSync"
     },
     {
-      "number": 96,
-      "title": "FIX #51 :Uses proper item icons",
-      "url": "https://github.com/divi-24/SheSync/pull/96",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T12:09:15Z",
-      "mergedAt": "2025-06-16T12:19:59Z",
-      "author": "arthavjain103",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
       "number": 99,
       "title": "Implement responsive sidebar behavior in Dashboard and Landing components",
       "url": "https://github.com/divi-24/SheSync/pull/99",
@@ -205306,22 +205273,6 @@
       "project": "divi-24/SheSync"
     },
     {
-      "number": 117,
-      "title": "FIX #28: Added sidebar in the Parent's Dashboard Section",
-      "url": "https://github.com/divi-24/SheSync/pull/117",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T11:28:03Z",
-      "mergedAt": "2025-06-17T17:00:02Z",
-      "author": "aryannkaushikk",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
       "number": 119,
       "title": " improved ui of forum section",
       "url": "https://github.com/divi-24/SheSync/pull/119",
@@ -205329,22 +205280,6 @@
       "createdAt": "2025-06-17T14:12:40Z",
       "mergedAt": "2025-06-17T17:00:13Z",
       "author": "pari3654",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 124,
-      "title": "issue #74 resolved",
-      "url": "https://github.com/divi-24/SheSync/pull/124",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T20:44:08Z",
-      "mergedAt": "2025-06-18T05:26:48Z",
-      "author": "Webwizzz22",
       "labels": [
         "SSoC25",
         "Beginner"
@@ -205562,22 +205497,6 @@
       "project": "divi-24/SheSync"
     },
     {
-      "number": 209,
-      "title": "Bliss game",
-      "url": "https://github.com/divi-24/SheSync/pull/209",
-      "state": "MERGED",
-      "createdAt": "2025-06-23T18:54:30Z",
-      "mergedAt": "2025-06-24T09:45:59Z",
-      "author": "VJLIVE",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
       "number": 229,
       "title": "Resolved Issue#218: Updated the UI of the period tracker page",
       "url": "https://github.com/divi-24/SheSync/pull/229",
@@ -205664,22 +205583,6 @@
       "state": "MERGED",
       "createdAt": "2025-07-04T10:39:24Z",
       "mergedAt": "2025-07-14T09:47:46Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 257,
-      "title": "Resolved Issue#252: Bug/UI updates",
-      "url": "https://github.com/divi-24/SheSync/pull/257",
-      "state": "MERGED",
-      "createdAt": "2025-07-14T10:54:47Z",
-      "mergedAt": "2025-07-15T11:01:12Z",
       "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
@@ -213215,150 +213118,6 @@
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
-      "number": 37,
-      "title": " Added Table of Contents to improve navigation",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/37",
-      "state": "MERGED",
-      "createdAt": "2025-06-14T23:19:24Z",
-      "mergedAt": "2025-06-15T07:11:54Z",
-      "author": "m1ss-chief",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 43,
-      "title": "Added Tour Functionality",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/43",
-      "state": "MERGED",
-      "createdAt": "2025-06-15T07:17:15Z",
-      "mergedAt": "2025-06-15T09:33:00Z",
-      "author": "TheAnumaan",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 46,
-      "title": "PR for issue #38 Backend Structure",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/46",
-      "state": "MERGED",
-      "createdAt": "2025-06-15T10:51:54Z",
-      "mergedAt": "2025-06-15T10:54:44Z",
-      "author": "Harsh16Bhardwaj",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 47,
-      "title": "LICENSE addition and Readme.md Updation",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/47",
-      "state": "MERGED",
-      "createdAt": "2025-06-15T13:18:00Z",
-      "mergedAt": "2025-06-16T03:09:31Z",
-      "author": "nupurmadaan04",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 62,
-      "title": "Feat/api integrations with auth",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/62",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T18:58:03Z",
-      "mergedAt": "2025-06-17T10:07:10Z",
-      "author": "Somilg11",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 66,
-      "title": "Design/UI-UX-proposals/Tarushi",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/66",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T09:23:23Z",
-      "mergedAt": "2025-06-17T10:09:41Z",
-      "author": "Tarushiiiii",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 75,
-      "title": "Added new logo for ThinkDSA based on Issue #19.",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/75",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T12:10:59Z",
-      "mergedAt": "2025-06-18T17:34:34Z",
-      "author": "Chavva-Harshita",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 81,
-      "title": "Updated the old model with the new graph-based Model",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/81",
-      "state": "MERGED",
-      "createdAt": "2025-06-19T23:46:51Z",
-      "mergedAt": "2025-06-21T16:44:23Z",
-      "author": "Vishisht-Dwivedi",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
-      "number": 90,
-      "title": "Feature: Generate Real LeetCode Questions with Gemini API",
-      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/90",
-      "state": "MERGED",
-      "createdAt": "2025-07-09T19:26:28Z",
-      "mergedAt": "2025-07-12T19:17:50Z",
-      "author": "ZarrarPeshimam",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "itsaryanchauhan/ThinkDSA"
-    },
-    {
       "number": 8,
       "title": "SECURITY.md",
       "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/8",
@@ -214671,22 +214430,6 @@
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
-      "number": 243,
-      "title": "Bug Fixes",
-      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/243",
-      "state": "MERGED",
-      "createdAt": "2025-07-26T05:12:41Z",
-      "mergedAt": "2025-07-26T12:40:43Z",
-      "author": "HimanshuKabra01",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "Mayur-Pagote/README_Design_Kit"
-    },
-    {
       "number": 10,
       "title": "SECURITY.md",
       "url": "https://github.com/Venuchander/fintrack/pull/10",
@@ -214696,7 +214439,7 @@
       "author": "aryanguptacsvtu",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214712,7 +214455,7 @@
       "author": "ZarrarPeshimam",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214728,7 +214471,7 @@
       "author": "Ashi1411",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214745,7 +214488,7 @@
       "labels": [
         "documentation",
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214761,7 +214504,7 @@
       "author": "GarimaYadav29",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214778,7 +214521,7 @@
       "labels": [
         "documentation",
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214794,7 +214537,7 @@
       "author": "decodekush",
       "labels": [
         "Intermediate",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -214810,7 +214553,7 @@
       "author": "vishnukothakapu",
       "labels": [
         "Intermediate",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -214826,7 +214569,7 @@
       "author": "suri5790",
       "labels": [
         "Intermediate",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -214842,7 +214585,7 @@
       "author": "Sohi07",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214858,23 +214601,7 @@
       "author": "vishnukothakapu",
       "labels": [
         "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "venuchander/fintrack"
-    },
-    {
-      "number": 68,
-      "title": "Credit Card issue solved",
-      "url": "https://github.com/Venuchander/fintrack/pull/68",
-      "state": "MERGED",
-      "createdAt": "2025-06-25T18:17:13Z",
-      "mergedAt": "2025-06-26T02:13:26Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -214890,7 +214617,7 @@
       "author": "suri5790",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214906,7 +214633,7 @@
       "author": "Sohi07",
       "labels": [
         "Intermediate",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -214922,7 +214649,7 @@
       "author": "arthavjain103",
       "labels": [
         "Beginner",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -214938,7 +214665,7 @@
       "author": "Sohi07",
       "labels": [
         "Intermediate",
-        "SSoC25"
+        "SSoc25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -216691,22 +216418,6 @@
       "project": "Prateek9876/NagarVikas"
     },
     {
-      "number": 56,
-      "title": "fix: Added Missed Dependency",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/56",
-      "state": "MERGED",
-      "createdAt": "2025-06-19T17:58:31Z",
-      "mergedAt": "2025-06-20T03:56:02Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
       "number": 65,
       "title": "fixed admin dashboard",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/65",
@@ -216803,22 +216514,6 @@
       "project": "Prateek9876/NagarVikas"
     },
     {
-      "number": 73,
-      "title": "feat(video-upload): complete, centralized issue form logic",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/73",
-      "state": "MERGED",
-      "createdAt": "2025-06-21T13:50:55Z",
-      "mergedAt": "2025-06-21T14:16:39Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Advanced",
-        "SSoC25"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
       "number": 76,
       "title": "Added bottom Nav bar with google nav bar package",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/76",
@@ -216832,102 +216527,6 @@
       ],
       "level": "Advanced",
       "score": 40,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 77,
-      "title": "fix/contact_us screen: Implement Contact Us screen with phone and ema…",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/77",
-      "state": "MERGED",
-      "createdAt": "2025-06-21T20:47:38Z",
-      "mergedAt": "2025-06-22T05:13:07Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 78,
-      "title": "Fixed Geo Locality issue by adding subLocality and other parameters",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/78",
-      "state": "MERGED",
-      "createdAt": "2025-06-22T05:15:28Z",
-      "mergedAt": "2025-06-22T06:00:39Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 79,
-      "title": "Admin video preview",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/79",
-      "state": "MERGED",
-      "createdAt": "2025-06-22T10:18:02Z",
-      "mergedAt": "2025-06-22T11:28:41Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Advanced",
-        "SSoC25"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 81,
-      "title": "fix/removed unused imports",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/81",
-      "state": "MERGED",
-      "createdAt": "2025-06-22T11:31:06Z",
-      "mergedAt": "2025-06-22T11:40:00Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 83,
-      "title": "Delete button for complaints and logout confirmation implemented",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/83",
-      "state": "MERGED",
-      "createdAt": "2025-06-22T12:42:02Z",
-      "mergedAt": "2025-06-23T06:20:57Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 87,
-      "title": "Input limit description 250 char",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/87",
-      "state": "MERGED",
-      "createdAt": "2025-06-23T12:26:24Z",
-      "mergedAt": "2025-06-23T15:13:53Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
       "project": "Prateek9876/NagarVikas"
     },
     {
@@ -216947,22 +216546,6 @@
       "project": "Prateek9876/NagarVikas"
     },
     {
-      "number": 92,
-      "title": "Modified arrow mark logic and UI modifications",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/92",
-      "state": "MERGED",
-      "createdAt": "2025-06-24T06:39:07Z",
-      "mergedAt": "2025-06-24T14:49:07Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
       "number": 93,
       "title": "Admin analytics dashboard",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/93",
@@ -216976,38 +216559,6 @@
       ],
       "level": "Advanced",
       "score": 40,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 95,
-      "title": "Fix/build apk config",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/95",
-      "state": "MERGED",
-      "createdAt": "2025-06-24T13:20:51Z",
-      "mergedAt": "2025-06-24T16:04:03Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Advanced",
-        "SSoC25"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 97,
-      "title": "Fixed launcher category issue",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/97",
-      "state": "MERGED",
-      "createdAt": "2025-06-24T16:07:09Z",
-      "mergedAt": "2025-06-24T16:10:03Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
       "project": "Prateek9876/NagarVikas"
     },
     {
@@ -217040,22 +216591,6 @@
       ],
       "level": "Advanced",
       "score": 40,
-      "project": "Prateek9876/NagarVikas"
-    },
-    {
-      "number": 104,
-      "title": "Added loading icon for admin dashboard",
-      "url": "https://github.com/Prateek9876/NagarVikas/pull/104",
-      "state": "MERGED",
-      "createdAt": "2025-06-25T15:07:21Z",
-      "mergedAt": "2025-07-01T09:25:39Z",
-      "author": "VJLIVE",
-      "labels": [
-        "Intermediate",
-        "SSoC25"
-      ],
-      "level": "Intermediate",
-      "score": 30,
       "project": "Prateek9876/NagarVikas"
     },
     {
