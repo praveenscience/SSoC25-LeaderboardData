@@ -1993,6 +1993,519 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 13,
+      "title": "update base URL for production",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/13",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T08:53:58Z",
+      "mergedAt": "2025-06-16T14:30:27Z",
+      "author": "Ranganivandan",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 17,
+      "title": "added conttributing.md",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/17",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T11:35:16Z",
+      "mergedAt": "2025-06-14T12:20:41Z",
+      "author": "adwityac",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 19,
+      "title": "Added MIT License",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/19",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T15:08:01Z",
+      "mergedAt": "2025-06-15T01:40:56Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 20,
+      "title": "FIX #6: Updated FAQ section with additional questions and answers(categorywise)",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/20",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T15:25:36Z",
+      "mergedAt": "2025-06-15T00:39:21Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 21,
+      "title": "✨ Add toast notifications using react-toastify",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/21",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T15:34:28Z",
+      "mergedAt": "2025-06-15T00:37:46Z",
+      "author": "Vitalvarma",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 30,
+      "title": "sloved bug in app.jsx(class->className)",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/30",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T05:46:21Z",
+      "mergedAt": "2025-06-16T14:08:33Z",
+      "author": "Vitalvarma",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 32,
+      "title": "Donor Eligibility Test Functionality Added",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/32",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T06:28:02Z",
+      "mergedAt": "2025-06-16T14:26:18Z",
+      "author": "aryann2319",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 36,
+      "title": "Enhanced Disease Predictor: UI Upgrade, Auto-Suggestions & Health Quotes",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/36",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T07:33:17Z",
+      "mergedAt": "2025-06-16T15:00:48Z",
+      "author": "DivyaMandve",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 39,
+      "title": "fix #9: A search bar that allows users to find banks based on their location. ",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/39",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T11:03:00Z",
+      "mergedAt": "2025-06-17T04:30:26Z",
+      "author": "Sanjna07",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 40,
+      "title": "Issue #8 :UI Enhancement",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/40",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T14:06:23Z",
+      "mergedAt": "2025-06-16T14:17:56Z",
+      "author": "AnoushkaSamanta",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 46,
+      "title": "Added Footer component to all pages",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T20:22:51Z",
+      "mergedAt": "2025-06-16T14:05:10Z",
+      "author": "Mitali-119",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 47,
+      "title": "fix:sign in route added at sign in link and added functionality to bu…",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/47",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T07:22:49Z",
+      "mergedAt": "2025-06-16T14:03:55Z",
+      "author": "Samriddhi903",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 53,
+      "title": "fixed_bug_in_donor_login_route",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/53",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:48:41Z",
+      "mergedAt": "2025-06-17T04:31:55Z",
+      "author": "Vitalvarma",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 60,
+      "title": "solved blog issue and error",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/60",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T19:49:55Z",
+      "mergedAt": "2025-06-17T11:51:23Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Intermediate"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 63,
+      "title": "SECURITY.md",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/63",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:31:30Z",
+      "mergedAt": "2025-06-17T11:29:48Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 64,
+      "title": "Fix: Prevent Contact Form Submission with Empty or Invalid Fields (#49)",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/64",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:57:57Z",
+      "mergedAt": "2025-06-17T11:28:10Z",
+      "author": "YashChauhan-2303",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 65,
+      "title": "Patient Signup API Giving 500 Error FIXED ✅#51",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/65",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T08:42:54Z",
+      "mergedAt": "2025-06-17T11:26:23Z",
+      "author": "ayushjava07",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 67,
+      "title": "Issue #18 : Fixed PatientDashboard and Improved error handling ",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/67",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T14:25:59Z",
+      "mergedAt": "2025-06-19T17:30:28Z",
+      "author": "MayankV004",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 68,
+      "title": "Added the code of conduct",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T14:36:14Z",
+      "mergedAt": "2025-06-18T13:28:52Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 70,
+      "title": "🐛Enhanced password validator and improved swal error timing✅",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/70",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T04:04:29Z",
+      "mergedAt": "2025-06-18T13:27:47Z",
+      "author": "ayushjava07",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 71,
+      "title": "Fixed: Signup fails despite strong password entered #66",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/71",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T08:15:57Z",
+      "mergedAt": "2025-06-18T13:26:42Z",
+      "author": "YashChauhan-2303",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 74,
+      "title": "issue #43 resolved",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/74",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T20:27:18Z",
+      "mergedAt": "2025-06-19T17:31:01Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 75,
+      "title": "add dark/light mode to all pages",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/75",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T15:34:31Z",
+      "mergedAt": "2025-06-19T17:27:27Z",
+      "author": "manavi-24",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 82,
+      "title": "Fixed the issue #28",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/82",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T13:50:49Z",
+      "mergedAt": "2025-06-25T14:46:28Z",
+      "author": "sayan922",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 88,
+      "title": "Added Scroll to Top Button",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/88",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T09:47:31Z",
+      "mergedAt": "2025-06-24T15:39:19Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 94,
+      "title": "Add page titles and favicon using PageMeta component",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/94",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T16:23:16Z",
+      "mergedAt": "2025-06-24T15:38:48Z",
+      "author": "Samridhi-2007",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 96,
+      "title": "issue #44 resolved",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/96",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T19:38:56Z",
+      "mergedAt": "2025-06-24T15:38:11Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 101,
+      "title": "issue #45 resolved",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/101",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T20:46:30Z",
+      "mergedAt": "2025-07-26T08:27:35Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 102,
+      "title": "Added more campaigns and details and made \"Learn More\" button interactive",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/102",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T13:52:49Z",
+      "mergedAt": "2025-07-26T08:26:53Z",
+      "author": "AnishSambhwani8278",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 108,
+      "title": "Fixed Issue #85 (Logo is not navigating to the main page )",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/108",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T18:55:50Z",
+      "mergedAt": "2025-07-26T08:26:19Z",
+      "author": "RinkiJhunjhunwala",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 110,
+      "title": "UI improve & Bug fix",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/110",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T02:32:25Z",
+      "mergedAt": "2025-07-26T08:25:42Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
+      "number": 125,
+      "title": "Added Clerk authentication & complete profile form with role-based access",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/125",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T07:00:48Z",
+      "mergedAt": "2025-07-26T08:08:44Z",
+      "author": "GarimaYadav29",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
       "number": 26,
       "title": "Enhancement of CONTRIBUTING.md",
       "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/26",
@@ -9831,6 +10344,174 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 106,
+      "title": "Footer Updated (Reference and Modified image attached) Issue #27",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T07:08:31Z",
+      "mergedAt": "2025-07-20T15:22:02Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 155,
+      "title": "ENHANCE :changes dollar sign with rupee sign",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/155",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T08:17:14Z",
+      "mergedAt": "2025-07-21T15:16:48Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 156,
+      "title": "Enhance :Home Page with Food Descriptions, New Item, and Price Update",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/156",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T09:00:49Z",
+      "mergedAt": "2025-07-20T15:13:52Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 160,
+      "title": "Enhance \"Contact Us\" Page UI/UX -closes issue #132",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/160",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T11:36:22Z",
+      "mergedAt": "2025-07-20T15:06:06Z",
+      "author": "kavitha308",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 165,
+      "title": "Fixed #154: Changed food menu and food items zoom",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/165",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T16:23:21Z",
+      "mergedAt": "2025-07-21T15:14:46Z",
+      "author": "Adithkp03",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 167,
+      "title": "added eye button to toggle password visibility",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/167",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T19:17:21Z",
+      "mergedAt": "2025-07-22T15:17:39Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 174,
+      "title": "Pull Request:  Added social media links to footer",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/174",
+      "state": "MERGED",
+      "createdAt": "2025-07-23T08:08:56Z",
+      "mergedAt": "2025-07-23T08:29:24Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 181,
+      "title": "Fix: #164 Improved image scaling in food menu layout",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/181",
+      "state": "MERGED",
+      "createdAt": "2025-07-24T06:31:25Z",
+      "mergedAt": "2025-07-24T07:33:05Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 184,
+      "title": "Updated Footer In All Site Pages (Closes Issue #171)",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/184",
+      "state": "MERGED",
+      "createdAt": "2025-07-24T14:20:29Z",
+      "mergedAt": "2025-07-25T09:45:36Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 185,
+      "title": "Styled for Impact: Added Unique Meal Descriptions!",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/185",
+      "state": "MERGED",
+      "createdAt": "2025-07-24T17:30:48Z",
+      "mergedAt": "2025-07-25T11:08:09Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 8,
       "title": "SECURITY.md",
       "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/8",
@@ -11141,6 +11822,248 @@ var prs = {
       "level": "Advanced",
       "score": 40,
       "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
+      "number": 10,
+      "title": "SECURITY.md",
+      "url": "https://github.com/Venuchander/fintrack/pull/10",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T16:19:05Z",
+      "mergedAt": "2025-06-14T16:28:06Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 35,
+      "title": "Fix: Cancel button on Expense Modal does not redirect to Dashboard",
+      "url": "https://github.com/Venuchander/fintrack/pull/35",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T18:59:12Z",
+      "mergedAt": "2025-06-16T21:39:36Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 38,
+      "title": "Feature/add toastify",
+      "url": "https://github.com/Venuchander/fintrack/pull/38",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T09:15:07Z",
+      "mergedAt": "2025-06-17T09:31:55Z",
+      "author": "Ashi1411",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 41,
+      "title": "Added Table of Content and updated README.md",
+      "url": "https://github.com/Venuchander/fintrack/pull/41",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:56:49Z",
+      "mergedAt": "2025-06-17T19:02:40Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "documentation",
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 42,
+      "title": "feat: Add Monthly Expense Comparison Chart with Category-wise Stacked Bars",
+      "url": "https://github.com/Venuchander/fintrack/pull/42",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T18:39:33Z",
+      "mergedAt": "2025-06-18T10:04:13Z",
+      "author": "GarimaYadav29",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 44,
+      "title": "Updated readme.md with https://github.com/Venuchander/fintrack",
+      "url": "https://github.com/Venuchander/fintrack/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T00:59:20Z",
+      "mergedAt": "2025-06-18T10:00:18Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "documentation",
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 46,
+      "title": "Fix: Implement working forgot password page with email validation and feedback",
+      "url": "https://github.com/Venuchander/fintrack/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T12:46:19Z",
+      "mergedAt": "2025-06-18T13:24:12Z",
+      "author": "decodekush",
+      "labels": [
+        "Intermediate",
+        "SSoc25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 56,
+      "title": "feat(auth) : implement protected routes and auth redirects ",
+      "url": "https://github.com/Venuchander/fintrack/pull/56",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T21:27:48Z",
+      "mergedAt": "2025-06-22T16:00:11Z",
+      "author": "vishnukothakapu",
+      "labels": [
+        "Intermediate",
+        "SSoc25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 57,
+      "title": "feat: add + icon and popup to income sources for adding amount",
+      "url": "https://github.com/Venuchander/fintrack/pull/57",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T08:05:27Z",
+      "mergedAt": "2025-06-22T16:25:40Z",
+      "author": "suri5790",
+      "labels": [
+        "Intermediate",
+        "SSoc25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 60,
+      "title": "Feature/FabButton(#27)(Sohi07)",
+      "url": "https://github.com/Venuchander/fintrack/pull/60",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T16:23:18Z",
+      "mergedAt": "2025-07-03T20:46:57Z",
+      "author": "Sohi07",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 61,
+      "title": "feat(signup): add password strength, match check.",
+      "url": "https://github.com/Venuchander/fintrack/pull/61",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T16:34:06Z",
+      "mergedAt": "2025-06-23T18:19:16Z",
+      "author": "vishnukothakapu",
+      "labels": [
+        "Intermediate",
+        "SSoc25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 70,
+      "title": "fix: show validation errors for add account amount",
+      "url": "https://github.com/Venuchander/fintrack/pull/70",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T04:54:58Z",
+      "mergedAt": "2025-06-27T17:36:30Z",
+      "author": "suri5790",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 76,
+      "title": "Added feature Dark Mode #4(Sohi07)",
+      "url": "https://github.com/Venuchander/fintrack/pull/76",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T13:17:17Z",
+      "mergedAt": "2025-07-04T06:59:01Z",
+      "author": "Sohi07",
+      "labels": [
+        "Intermediate",
+        "SSoc25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 79,
+      "title": "fix #78: added no description text when empty transactions",
+      "url": "https://github.com/Venuchander/fintrack/pull/79",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T19:52:26Z",
+      "mergedAt": "2025-07-01T12:19:18Z",
+      "author": "arthavjain103",
+      "labels": [
+        "Beginner",
+        "SSoc25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 81,
+      "title": "Dark Mode Issues changes resolved",
+      "url": "https://github.com/Venuchander/fintrack/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T13:16:30Z",
+      "mergedAt": "2025-07-04T15:57:46Z",
+      "author": "Sohi07",
+      "labels": [
+        "Intermediate",
+        "SSoc25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
     },
     {
       "number": 28,
