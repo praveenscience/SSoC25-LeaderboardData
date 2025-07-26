@@ -1175,6 +1175,42 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1460,
+      "title": "🔊 Add AI Voice Chat Agent to Generative AI Section",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1460",
+      "state": "MERGED",
+      "createdAt": "2025-07-23T05:35:44Z",
+      "mergedAt": "2025-07-25T08:20:16Z",
+      "author": "Shivu384",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1461,
+      "title": "🤖 Add Multi-Chat AI Agent System to Generative AI Projects",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1461",
+      "state": "MERGED",
+      "createdAt": "2025-07-23T05:49:42Z",
+      "mergedAt": "2025-07-25T08:21:21Z",
+      "author": "Shivu384",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 84,
       "title": "Fix: Resolve app crash when searching products - TypeError on product.name.toLowerCase",
       "url": "https://github.com/divi-24/SheSync/pull/84",
@@ -2163,23 +2199,6 @@ var prs = {
       "createdAt": "2025-06-17T05:57:53Z",
       "mergedAt": "2025-06-17T06:57:33Z",
       "author": "Atharva-Kale1",
-      "labels": [
-        "enhancement",
-        "Beginner",
-        "SSoC25"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "alienx5499/SortVision"
-    },
-    {
-      "number": 215,
-      "title": "✅ Implemented Insertion Sort in Rust",
-      "url": "https://github.com/alienx5499/SortVision/pull/215",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T06:36:15Z",
-      "mergedAt": "2025-06-17T07:03:27Z",
-      "author": "harshithabs109",
       "labels": [
         "enhancement",
         "Beginner",
@@ -4278,6 +4297,108 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 602,
+      "title": "chore: blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/602",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T04:24:21Z",
+      "mergedAt": "2025-07-25T04:28:10Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "enhancement",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 603,
+      "title": "Blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/603",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T04:40:57Z",
+      "mergedAt": "2025-07-25T04:44:20Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "enhancement",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 604,
+      "title": "chore: second blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/604",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T04:50:01Z",
+      "mergedAt": "2025-07-25T04:57:59Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "enhancement",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 605,
+      "title": "chore: third blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/605",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T04:54:48Z",
+      "mergedAt": "2025-07-25T04:58:14Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "enhancement",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 606,
+      "title": "chore: fourth blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/606",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T04:59:57Z",
+      "mergedAt": "2025-07-25T05:01:25Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "enhancement",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 607,
+      "title": "chore: fifth blank PR for leaderboard update",
+      "url": "https://github.com/alienx5499/SortVision/pull/607",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T05:01:00Z",
+      "mergedAt": "2025-07-25T05:02:20Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "enhancement",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "alienx5499/SortVision"
     },
     {
