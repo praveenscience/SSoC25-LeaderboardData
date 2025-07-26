@@ -2652,6 +2652,22 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
+      "number": 96,
+      "title": "FIX #51 :Uses proper item icons",
+      "url": "https://github.com/divi-24/SheSync/pull/96",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T12:09:15Z",
+      "mergedAt": "2025-06-16T12:19:59Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 99,
       "title": "Implement responsive sidebar behavior in Dashboard and Landing components",
       "url": "https://github.com/divi-24/SheSync/pull/99",
@@ -2937,6 +2953,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 209,
+      "title": "Bliss game",
+      "url": "https://github.com/divi-24/SheSync/pull/209",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T18:54:30Z",
+      "mergedAt": "2025-06-24T09:45:59Z",
+      "author": "VJLIVE",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "divi-24/SheSync"
     },
     {
@@ -12227,6 +12259,22 @@ var prs = {
       "project": "venuchander/fintrack"
     },
     {
+      "number": 68,
+      "title": "Credit Card issue solved",
+      "url": "https://github.com/Venuchander/fintrack/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T18:17:13Z",
+      "mergedAt": "2025-06-26T02:13:26Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
       "number": 70,
       "title": "fix: show validation errors for add account amount",
       "url": "https://github.com/Venuchander/fintrack/pull/70",
@@ -14037,6 +14085,22 @@ var prs = {
       "project": "Prateek9876/NagarVikas"
     },
     {
+      "number": 56,
+      "title": "fix: Added Missed Dependency",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/56",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T17:58:31Z",
+      "mergedAt": "2025-06-20T03:56:02Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
       "number": 65,
       "title": "fixed admin dashboard",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/65",
@@ -14133,6 +14197,22 @@ var prs = {
       "project": "Prateek9876/NagarVikas"
     },
     {
+      "number": 73,
+      "title": "feat(video-upload): complete, centralized issue form logic",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T13:50:55Z",
+      "mergedAt": "2025-06-21T14:16:39Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
       "number": 76,
       "title": "Added bottom Nav bar with google nav bar package",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/76",
@@ -14146,6 +14226,102 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 77,
+      "title": "fix/contact_us screen: Implement Contact Us screen with phone and ema…",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/77",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T20:47:38Z",
+      "mergedAt": "2025-06-22T05:13:07Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 78,
+      "title": "Fixed Geo Locality issue by adding subLocality and other parameters",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/78",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T05:15:28Z",
+      "mergedAt": "2025-06-22T06:00:39Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 79,
+      "title": "Admin video preview",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/79",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T10:18:02Z",
+      "mergedAt": "2025-06-22T11:28:41Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 81,
+      "title": "fix/removed unused imports",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T11:31:06Z",
+      "mergedAt": "2025-06-22T11:40:00Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 83,
+      "title": "Delete button for complaints and logout confirmation implemented",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/83",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T12:42:02Z",
+      "mergedAt": "2025-06-23T06:20:57Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 87,
+      "title": "Input limit description 250 char",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T12:26:24Z",
+      "mergedAt": "2025-06-23T15:13:53Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Prateek9876/NagarVikas"
     },
     {
@@ -14165,6 +14341,22 @@ var prs = {
       "project": "Prateek9876/NagarVikas"
     },
     {
+      "number": 92,
+      "title": "Modified arrow mark logic and UI modifications",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/92",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T06:39:07Z",
+      "mergedAt": "2025-06-24T14:49:07Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
       "number": 93,
       "title": "Admin analytics dashboard",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/93",
@@ -14178,6 +14370,38 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 95,
+      "title": "Fix/build apk config",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T13:20:51Z",
+      "mergedAt": "2025-06-24T16:04:03Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 97,
+      "title": "Fixed launcher category issue",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/97",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T16:07:09Z",
+      "mergedAt": "2025-06-24T16:10:03Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Prateek9876/NagarVikas"
     },
     {
@@ -14210,6 +14434,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 104,
+      "title": "Added loading icon for admin dashboard",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/104",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T15:07:21Z",
+      "mergedAt": "2025-07-01T09:25:39Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Prateek9876/NagarVikas"
     },
     {

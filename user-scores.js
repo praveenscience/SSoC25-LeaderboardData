@@ -2475,13 +2475,13 @@ var userScores = {
         "Advanced": 0
       }
     },
-    "vjlive": {
-      "totalScore": 0,
-      "prCount": 0,
+    "VJLIVE": {
+      "totalScore": 460,
+      "prCount": 14,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 0,
-        "Advanced": 0
+        "Intermediate": 10,
+        "Advanced": 4
       }
     },
     "AnuranjanJain": {
@@ -4501,10 +4501,10 @@ var userScores = {
       }
     },
     "arthavjain103": {
-      "totalScore": 340,
-      "prCount": 13,
+      "totalScore": 360,
+      "prCount": 14,
       "prsByLevel": {
-        "Beginner": 7,
+        "Beginner": 8,
         "Intermediate": 4,
         "Advanced": 2
       }
