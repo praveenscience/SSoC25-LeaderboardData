@@ -11830,7 +11830,10 @@ UTC: ${isoDate.replace("T", " ").substr(0, 19)} (UTC / GMT Time)
       // const topTenUsers = allSortedUsers.slice(0, 10);
 
       document.getElementById("output").innerHTML =
-        generateLeaderboard(userScores);
+        generateLeaderboard(userScores) +
+        `
+<a href="/">See the top 10.</a>
+<a href="/all">See all the scores.</a>`;
     </script>
   </body>
 </html>
