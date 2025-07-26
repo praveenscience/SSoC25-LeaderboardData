@@ -274,6 +274,788 @@ var prs = {
       "project": "mryashsinghal/Resume-Builder"
     },
     {
+      "number": 352,
+      "title": "Added social media links to Contact Us page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/352",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T06:06:40Z",
+      "mergedAt": "2025-06-15T06:27:38Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 353,
+      "title": "LICENSE updated and readme updated",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/353",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:16:53Z",
+      "mergedAt": "2025-06-16T09:38:40Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 354,
+      "title": "ISSUE:325 feature/feat: add delete and update comment functionality in backend and frontend",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/354",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:26:11Z",
+      "mergedAt": "2025-06-16T09:47:17Z",
+      "author": "shreesriv12",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 355,
+      "title": "Adding Table of Contents",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/355",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T14:27:28Z",
+      "mergedAt": "2025-06-16T09:52:10Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 359,
+      "title": "Fixed Issue: #328. Logo and clickable text not navigating to main page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/359",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:07:53Z",
+      "mergedAt": "2025-06-16T09:55:44Z",
+      "author": "RinkiJhunjhunwala",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 361,
+      "title": "Design proposal tarushi",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/361",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:54:00Z",
+      "mergedAt": "2025-06-18T10:16:07Z",
+      "author": "Tarushiiiii",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 362,
+      "title": "Blog Card Overlapping Fixed",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/362",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T19:43:05Z",
+      "mergedAt": "2025-06-19T14:57:28Z",
+      "author": "YashSavalkar321",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 367,
+      "title": "sign up page updated added confirm password",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/367",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:58:40Z",
+      "mergedAt": "2025-06-25T09:31:14Z",
+      "author": "Tushar-senpai",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 372,
+      "title": "FEAT : Fixed the extra line in footer contact section. #344",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/372",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:58:00Z",
+      "mergedAt": "2025-06-18T10:36:07Z",
+      "author": "AbhinaySngh",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 374,
+      "title": "feat : Added SECURITY.md for responsible vulnerability disclosure",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/374",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:12:20Z",
+      "mergedAt": "2025-06-18T10:38:59Z",
+      "author": "Shashikumar-ezhilarasu",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 375,
+      "title": "feat : Add code of conduct #368",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/375",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:16:50Z",
+      "mergedAt": "2025-06-18T10:42:03Z",
+      "author": "Shashikumar-ezhilarasu",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 376,
+      "title": "feat : Enchanced the current  contributing md",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/376",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:29:58Z",
+      "mergedAt": "2025-06-18T16:11:15Z",
+      "author": "Shashikumar-ezhilarasu",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 378,
+      "title": "Add Eye Toggle Button to Password Field for Show/Hide Functionality",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/378",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T11:50:55Z",
+      "mergedAt": "2025-06-18T16:08:23Z",
+      "author": "divyam8175",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 381,
+      "title": "Fix issue-351 : Fixes opacity of Feedback page ",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/381",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T18:19:24Z",
+      "mergedAt": "2025-06-23T10:56:41Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 384,
+      "title": "Improved UI of navbar in darkmode along with other enhancements",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/384",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T03:54:49Z",
+      "mergedAt": "2025-06-19T08:39:46Z",
+      "author": "kanak227",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 385,
+      "title": "Updated SECURITY.md",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/385",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T04:05:47Z",
+      "mergedAt": "2025-06-19T08:44:12Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 399,
+      "title": "Fixed: Text content of posts not Toggling to Theme #383",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/399",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T17:16:02Z",
+      "mergedAt": "2025-06-20T04:15:29Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 400,
+      "title": "Update Footer.jsx",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/400",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T08:57:34Z",
+      "mergedAt": "2025-06-20T15:01:51Z",
+      "author": "mansiruhil",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 401,
+      "title": " Added hover effect to Contact Us social icons",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/401",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T09:15:29Z",
+      "mergedAt": "2025-06-21T09:38:51Z",
+      "author": "chehak2004",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 402,
+      "title": "Fixed issue : Compact space in Register button in Event Section. #373",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/402",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T12:57:15Z",
+      "mergedAt": "2025-06-21T09:43:42Z",
+      "author": "AbhinaySngh",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 404,
+      "title": "Update README.md",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/404",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T15:23:04Z",
+      "mergedAt": "2025-06-22T06:42:54Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 407,
+      "title": "Fixed the Dark mode Navbar issue #345",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/407",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T09:35:41Z",
+      "mergedAt": "2025-06-22T09:45:34Z",
+      "author": "sayan922",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 409,
+      "title": "Fixed the issue #302",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/409",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T13:05:26Z",
+      "mergedAt": "2025-06-22T15:29:53Z",
+      "author": "sayan922",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 411,
+      "title": "Issue resolved : #408  Enable public user profile view from post author link",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/411",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T14:37:09Z",
+      "mergedAt": "2025-06-22T15:35:13Z",
+      "author": "kaurpreetman",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 414,
+      "title": "Issue resolved : #227 and #178 - Add event backend implemented and  profile page for any user",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/414",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T22:51:57Z",
+      "mergedAt": "2025-06-27T05:04:56Z",
+      "author": "kaurpreetman",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 416,
+      "title": "Feature/enhancement navbar UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/416",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T03:26:30Z",
+      "mergedAt": "2025-06-24T10:27:39Z",
+      "author": "saarang2003",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 418,
+      "title": "Added Seamless Transition",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/418",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T14:01:18Z",
+      "mergedAt": "2025-06-24T10:32:48Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 419,
+      "title": "#330 Issue Solved Close menu popup on outside click",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/419",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T08:31:05Z",
+      "mergedAt": "2025-07-03T02:39:58Z",
+      "author": "YashSavalkar321",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 424,
+      "title": "Event",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/424",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T13:52:30Z",
+      "mergedAt": "2025-06-27T17:22:33Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 432,
+      "title": "Enhance header of the page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/432",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T13:55:41Z",
+      "mergedAt": "2025-06-28T14:06:08Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 437,
+      "title": "#Issue 436 Resolved - Fixed Footer Social Links",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/437",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T12:13:36Z",
+      "mergedAt": "2025-06-30T13:48:18Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 439,
+      "title": "Update Header.jsx",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/439",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T12:10:15Z",
+      "mergedAt": "2025-07-02T02:56:02Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 443,
+      "title": "Bug Fixes",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/443",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T09:33:36Z",
+      "mergedAt": "2025-07-03T10:51:20Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 447,
+      "title": "Issue #446 Resolved - Added New Hover Effect!",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/447",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T10:18:52Z",
+      "mergedAt": "2025-07-06T20:09:19Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 456,
+      "title": "Improved the UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/456",
+      "state": "MERGED",
+      "createdAt": "2025-07-11T19:35:38Z",
+      "mergedAt": "2025-07-12T10:36:10Z",
+      "author": "Alam9835",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 460,
+      "title": "Bug Fix",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/460",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T11:47:38Z",
+      "mergedAt": "2025-07-12T15:19:51Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 464,
+      "title": " Added bookmark/save post feature, metadata (word count & read time),…",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/464",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T19:39:51Z",
+      "mergedAt": "2025-07-13T06:12:53Z",
+      "author": "Anneshabhakta2005",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 472,
+      "title": "UI & Minor Bug fix",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/472",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T07:23:54Z",
+      "mergedAt": "2025-07-15T04:06:07Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 474,
+      "title": "Added the Updates for the image and ui",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/474",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T13:08:33Z",
+      "mergedAt": "2025-07-15T14:53:51Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 476,
+      "title": "Enhance User Profile",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/476",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T11:03:55Z",
+      "mergedAt": "2025-07-16T14:28:44Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Advanced",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 477,
+      "title": "UI update",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/477",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T17:26:24Z",
+      "mergedAt": "2025-07-18T02:47:50Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 485,
+      "title": "ENHANCE : Improve Section Text and Add Discord Join Button ",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/485",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T19:00:18Z",
+      "mergedAt": "2025-07-25T05:28:41Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 486,
+      "title": "ENHANCE : Improve footer alignment and spacing",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/486",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T19:35:59Z",
+      "mergedAt": "2025-07-25T05:17:10Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 487,
+      "title": "ENHANCE : Issue 479  change the alignment of image in hero page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/487",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T20:21:07Z",
+      "mergedAt": "2025-07-25T05:04:45Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 488,
+      "title": "UI update",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/488",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T15:04:26Z",
+      "mergedAt": "2025-07-22T05:02:43Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 490,
+      "title": "Bug Fixes ",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/490",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T05:56:53Z",
+      "mergedAt": "2025-07-24T05:20:22Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -1852,6 +2634,422 @@ var prs = {
       "level": "Beginner",
       "score": 20,
       "project": "Dev-Dhruba/NeuroDev-Therapy"
+    },
+    {
+      "number": 84,
+      "title": "Fix: Resolve app crash when searching products - TypeError on product.name.toLowerCase",
+      "url": "https://github.com/divi-24/SheSync/pull/84",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T16:55:57Z",
+      "mergedAt": "2025-06-16T07:19:25Z",
+      "author": "atul812",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 99,
+      "title": "Implement responsive sidebar behavior in Dashboard and Landing components",
+      "url": "https://github.com/divi-24/SheSync/pull/99",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:06:25Z",
+      "mergedAt": "2025-06-16T16:24:32Z",
+      "author": "DeadpoolX7",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 100,
+      "title": "Added Code of Conduct",
+      "url": "https://github.com/divi-24/SheSync/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:16:32Z",
+      "mergedAt": "2025-06-16T16:09:10Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 117,
+      "title": "FIX #28: Added sidebar in the Parent's Dashboard Section",
+      "url": "https://github.com/divi-24/SheSync/pull/117",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T11:28:03Z",
+      "mergedAt": "2025-06-17T17:00:02Z",
+      "author": "aryannkaushikk",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 119,
+      "title": " improved ui of forum section",
+      "url": "https://github.com/divi-24/SheSync/pull/119",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T14:12:40Z",
+      "mergedAt": "2025-06-17T17:00:13Z",
+      "author": "pari3654",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 124,
+      "title": "issue #74 resolved",
+      "url": "https://github.com/divi-24/SheSync/pull/124",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T20:44:08Z",
+      "mergedAt": "2025-06-18T05:26:48Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 126,
+      "title": "side bar is scrollable",
+      "url": "https://github.com/divi-24/SheSync/pull/126",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T06:42:02Z",
+      "mergedAt": "2025-06-18T07:40:58Z",
+      "author": "Tushar-senpai",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 134,
+      "title": "improved hover in homepage",
+      "url": "https://github.com/divi-24/SheSync/pull/134",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T10:52:45Z",
+      "mergedAt": "2025-06-18T10:54:13Z",
+      "author": "kanak227",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 135,
+      "title": "Added issue and PR templates",
+      "url": "https://github.com/divi-24/SheSync/pull/135",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T11:34:07Z",
+      "mergedAt": "2025-06-18T11:35:34Z",
+      "author": "kanak227",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 139,
+      "title": "Fix: restore sidebar layout and fix toggle button (closes #129)",
+      "url": "https://github.com/divi-24/SheSync/pull/139",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T14:34:00Z",
+      "mergedAt": "2025-06-18T14:45:31Z",
+      "author": "atul812",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 147,
+      "title": "Added Loading Page",
+      "url": "https://github.com/divi-24/SheSync/pull/147",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T16:09:54Z",
+      "mergedAt": "2025-06-18T16:22:27Z",
+      "author": "SubhamKojha",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 152,
+      "title": "feat: Add ovulation calculator page with pregnancy milestones",
+      "url": "https://github.com/divi-24/SheSync/pull/152",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T18:51:58Z",
+      "mergedAt": "2025-06-20T06:46:59Z",
+      "author": "aryann2319",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 162,
+      "title": "Added Context and Memory to chatbot | Fixed not working issue",
+      "url": "https://github.com/divi-24/SheSync/pull/162",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T08:09:06Z",
+      "mergedAt": "2025-06-19T15:27:58Z",
+      "author": "Coden-inja",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 178,
+      "title": "fix the alignmenet of the page just like the other pages #142",
+      "url": "https://github.com/divi-24/SheSync/pull/178",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T07:55:52Z",
+      "mergedAt": "2025-06-20T14:56:53Z",
+      "author": "kotlalokeshwari098",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 185,
+      "title": "fix: Calculate button in ovulation calculator was not active on mobile screen",
+      "url": "https://github.com/divi-24/SheSync/pull/185",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T13:22:40Z",
+      "mergedAt": "2025-06-20T14:43:27Z",
+      "author": "aryann2319",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 187,
+      "title": "Signup and Signin buttons issue #176 ",
+      "url": "https://github.com/divi-24/SheSync/pull/187",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T16:05:01Z",
+      "mergedAt": "2025-06-20T16:11:50Z",
+      "author": "kotlalokeshwari098",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 191,
+      "title": "Updated Landing.js : UI Enhancements For Better User Experience and Cleaner Look (Closes Issue#67)",
+      "url": "https://github.com/divi-24/SheSync/pull/191",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T17:53:25Z",
+      "mergedAt": "2025-07-02T07:57:24Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 192,
+      "title": "embeded the video succesfully",
+      "url": "https://github.com/divi-24/SheSync/pull/192",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T18:38:01Z",
+      "mergedAt": "2025-06-20T19:07:37Z",
+      "author": "nikhil-agrawal123",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 198,
+      "title": "Feat: Period Products Section for Young Girls",
+      "url": "https://github.com/divi-24/SheSync/pull/198",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T11:11:59Z",
+      "mergedAt": "2025-07-04T08:56:58Z",
+      "author": "aryann2319",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 229,
+      "title": "Resolved Issue#218: Updated the UI of the period tracker page",
+      "url": "https://github.com/divi-24/SheSync/pull/229",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T09:48:31Z",
+      "mergedAt": "2025-07-02T17:47:07Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 231,
+      "title": "Resolved Issue#219: Feature/complete UI change",
+      "url": "https://github.com/divi-24/SheSync/pull/231",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T11:44:01Z",
+      "mergedAt": "2025-07-02T17:47:05Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 235,
+      "title": "Comprehensive Backend & Frontend Enhancements (Validation, Auth, Refactoring)",
+      "url": "https://github.com/divi-24/SheSync/pull/235",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T10:20:36Z",
+      "mergedAt": "2025-07-02T07:27:02Z",
+      "author": "Code-writter",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 241,
+      "title": "Resolved issue#238: Corrected the repeated FAQ bug",
+      "url": "https://github.com/divi-24/SheSync/pull/241",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T03:19:02Z",
+      "mergedAt": "2025-07-04T08:50:56Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 242,
+      "title": "Resolved issue#236: Bug/redirect to page",
+      "url": "https://github.com/divi-24/SheSync/pull/242",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T03:40:38Z",
+      "mergedAt": "2025-07-04T08:51:17Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 248,
+      "title": "Issue resolved #247: Corrected the rerender bug",
+      "url": "https://github.com/divi-24/SheSync/pull/248",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T10:39:24Z",
+      "mergedAt": "2025-07-14T09:47:46Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 257,
+      "title": "Resolved Issue#252: Bug/UI updates",
+      "url": "https://github.com/divi-24/SheSync/pull/257",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T10:54:47Z",
+      "mergedAt": "2025-07-15T11:01:12Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
     },
     {
       "number": 60,
@@ -11029,6 +12227,70 @@ var prs = {
       "project": "venuchander/fintrack"
     },
     {
+      "number": 70,
+      "title": "fix: show validation errors for add account amount",
+      "url": "https://github.com/Venuchander/fintrack/pull/70",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T04:54:58Z",
+      "mergedAt": "2025-06-27T17:36:30Z",
+      "author": "suri5790",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 76,
+      "title": "Added feature Dark Mode #4(Sohi07)",
+      "url": "https://github.com/Venuchander/fintrack/pull/76",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T13:17:17Z",
+      "mergedAt": "2025-07-04T06:59:01Z",
+      "author": "Sohi07",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 79,
+      "title": "fix #78: added no description text when empty transactions",
+      "url": "https://github.com/Venuchander/fintrack/pull/79",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T19:52:26Z",
+      "mergedAt": "2025-07-01T12:19:18Z",
+      "author": "arthavjain103",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 81,
+      "title": "Dark Mode Issues changes resolved",
+      "url": "https://github.com/Venuchander/fintrack/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T13:16:30Z",
+      "mergedAt": "2025-07-04T15:57:46Z",
+      "author": "Sohi07",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
       "number": 28,
       "title": "ISSUE NUMBER:24   feat(theme): add global dark/light mode toggle across all UI pages",
       "url": "https://github.com/sailaja-adapa/Vipreshana/pull/28",
@@ -12775,6 +14037,406 @@ var prs = {
       "project": "Prateek9876/NagarVikas"
     },
     {
+      "number": 65,
+      "title": "fixed admin dashboard",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/65",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T07:53:04Z",
+      "mergedAt": "2025-06-21T06:37:18Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 66,
+      "title": "Add search functionality to My Complaints screen",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/66",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T13:07:18Z",
+      "mergedAt": "2025-06-21T06:09:25Z",
+      "author": "jyotsna030",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 68,
+      "title": "Added Terms and Conditions Popup Feature",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T20:19:20Z",
+      "mergedAt": "2025-06-21T05:34:01Z",
+      "author": "Aaryandhage",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 70,
+      "title": "Add pull-to-refresh to complaints list",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/70",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T09:43:26Z",
+      "mergedAt": "2025-06-21T14:50:33Z",
+      "author": "pahimauchil",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 71,
+      "title": "feat: Added status filter dropdown to My Complaints screen (user only)",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/71",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T10:13:40Z",
+      "mergedAt": "2025-06-21T15:19:58Z",
+      "author": "piyushdhoka",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 72,
+      "title": "Add Pull Request Template for Consistent and Structured PR Submissions",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/72",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T10:55:23Z",
+      "mergedAt": "2025-06-21T11:13:01Z",
+      "author": "Aaryandhage",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 76,
+      "title": "Added bottom Nav bar with google nav bar package",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/76",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T16:33:38Z",
+      "mergedAt": "2025-06-22T05:23:23Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 91,
+      "title": "Implemented Multi-Language Support (HINDI)",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/91",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T06:21:00Z",
+      "mergedAt": "2025-06-24T14:39:44Z",
+      "author": "piyushdhoka",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 93,
+      "title": "Admin analytics dashboard",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/93",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T08:19:15Z",
+      "mergedAt": "2025-06-24T15:28:45Z",
+      "author": "pooja1932",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 100,
+      "title": "users can now delete complaints",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T18:11:59Z",
+      "mergedAt": "2025-06-25T05:28:49Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 103,
+      "title": "Added Home , Analytics and Log out feature on Admin Dashboard Navbar",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/103",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T08:38:40Z",
+      "mergedAt": "2025-07-06T05:22:28Z",
+      "author": "GxAditya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 107,
+      "title": "feat:Add game feature for user",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/107",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T14:21:06Z",
+      "mergedAt": "2025-06-28T14:50:53Z",
+      "author": "pooja1932",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 108,
+      "title": "exit confirmation toast added",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/108",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T14:10:56Z",
+      "mergedAt": "2025-06-28T14:56:37Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 110,
+      "title": "feat:✨ Show city and state in complaint cards in Admin Dashboard",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/110",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T04:30:47Z",
+      "mergedAt": "2025-07-01T09:24:35Z",
+      "author": "pooja1932",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 111,
+      "title": "feat: Add auto-capitalization to name field in register screen",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/111",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T19:11:36Z",
+      "mergedAt": "2025-07-02T04:20:51Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 113,
+      "title": "feat: add show/hide password",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-07-02T17:09:01Z",
+      "mergedAt": "2025-07-02T17:24:27Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 114,
+      "title": "Fixed drawer alignment",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/114",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T12:00:42Z",
+      "mergedAt": "2025-07-06T05:26:44Z",
+      "author": "pahimauchil",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 117,
+      "title": "Fix: Resolved issue #9",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/117",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T13:52:18Z",
+      "mergedAt": "2025-07-08T07:19:19Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 118,
+      "title": "Issue 115",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/118",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T15:07:37Z",
+      "mergedAt": "2025-07-08T07:19:15Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 119,
+      "title": "Add logout confirmation dialog in Admin Dashboard",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/119",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T07:04:26Z",
+      "mergedAt": "2025-07-07T15:45:34Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 125,
+      "title": "added .editorconfig file",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/125",
+      "state": "MERGED",
+      "createdAt": "2025-07-10T05:03:33Z",
+      "mergedAt": "2025-07-10T05:51:14Z",
+      "author": "aliviahossain",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 126,
+      "title": "🔔 Added in-app notification system for new complaints (#121)",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/126",
+      "state": "MERGED",
+      "createdAt": "2025-07-10T07:58:27Z",
+      "mergedAt": "2025-07-10T16:01:43Z",
+      "author": "pooja1932",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 131,
+      "title": "new try",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/131",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T09:23:19Z",
+      "mergedAt": "2025-07-21T13:44:23Z",
+      "author": "GxAditya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 132,
+      "title": "Image compression added",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/132",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T05:48:43Z",
+      "mergedAt": "2025-07-22T06:51:27Z",
+      "author": "IamPritamAcharya",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 151,
+      "title": "notification updated in loginpage",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/151",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T13:13:33Z",
+      "mergedAt": "2025-07-25T13:27:44Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
       "number": 11,
       "title": "Feature: AI-Powered Note Summarizer",
       "url": "https://github.com/soumya813/Notes-App/pull/11",
@@ -12901,6 +14563,751 @@ var prs = {
       "level": "Beginner",
       "score": 20,
       "project": "soumya813/Notes-App"
+    },
+    {
+      "number": 33,
+      "title": "SECURITY.md",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/33",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:53:00Z",
+      "mergedAt": "2025-06-14T13:13:23Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 38,
+      "title": "Add FAQ page with accordion, categories, search and routing",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/38",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T19:40:29Z",
+      "mergedAt": "2025-06-16T09:39:48Z",
+      "author": "Mayankjain2624",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Ready for merge",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 46,
+      "title": "Created the Contact us page and the Backend api for that and also created the email templates for User Confirmation and Team Alert about New Query Received",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:55:03Z",
+      "mergedAt": "2025-06-16T03:27:15Z",
+      "author": "kanik-snippet",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 47,
+      "title": "Initial commit with publication and project data ",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/47",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T14:48:04Z",
+      "mergedAt": "2025-06-16T05:02:53Z",
+      "author": "tejaswinihatkar",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 49,
+      "title": "Footer Structure Needs Refinement",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/49",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:38:21Z",
+      "mergedAt": "2025-06-16T03:08:03Z",
+      "author": "Neha-Singh-j",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 60,
+      "title": "fix: correct Home link in navbar to navigate to homepage",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/60",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:23:02Z",
+      "mergedAt": "2025-06-17T07:53:59Z",
+      "author": "bishal7448",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 62,
+      "title": "Fix: Redirect to homepage on logo click",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/62",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:41:37Z",
+      "mergedAt": "2025-06-17T07:54:53Z",
+      "author": "sahithi-kanjarla",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 68,
+      "title": "Style: Corrected Inconsistent UI Elements (Glass Cards, Call To Action Buttons, Lack of Hover and Transitions)",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T07:58:40Z",
+      "mergedAt": "2025-06-17T08:00:18Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 71,
+      "title": "Implement and style the Privacy & Policy page.",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/71",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T11:14:14Z",
+      "mergedAt": "2025-06-18T12:57:09Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 75,
+      "title": "Implement and style the Cookies page. ",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/75",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T22:36:50Z",
+      "mergedAt": "2025-06-18T13:07:52Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 76,
+      "title": "Implement and style the Terms of Service page.",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/76",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T22:48:46Z",
+      "mergedAt": "2025-06-18T13:09:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 79,
+      "title": "Add standalone Alumni page using existing Testimonial component",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/79",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T14:55:34Z",
+      "mergedAt": "2025-06-19T06:54:02Z",
+      "author": "Deekshithshaiva05",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 82,
+      "title": "Bug in Contact Us",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/82",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T10:29:13Z",
+      "mergedAt": "2025-06-20T08:59:25Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 83,
+      "title": "Implemented Disclaimer Page",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/83",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T10:43:52Z",
+      "mergedAt": "2025-06-20T09:00:06Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 89,
+      "title": "Modified the contact page design",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/89",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T13:07:12Z",
+      "mergedAt": "2025-06-21T07:41:54Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 90,
+      "title": "Add About Us page and ensure navigation to the page through navbar link",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/90",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T15:06:25Z",
+      "mergedAt": "2025-06-22T08:06:22Z",
+      "author": "manavi-24",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 95,
+      "title": "fixed bug on contact page",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T13:22:16Z",
+      "mergedAt": "2025-06-23T12:38:30Z",
+      "author": "Anujanthwal-dotcom",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 96,
+      "title": "Modify scroll-to-top Button",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/96",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T15:06:17Z",
+      "mergedAt": "2025-06-23T12:40:47Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 98,
+      "title": "Fix/phone input validation",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/98",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T15:04:24Z",
+      "mergedAt": "2025-06-25T10:44:44Z",
+      "author": "sahithi-kanjarla",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 101,
+      "title": "Add responsive and reusable Whitepapers page with dynamic card layout",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/101",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T15:26:24Z",
+      "mergedAt": "2025-06-26T12:09:27Z",
+      "author": "Deekshithshaiva05",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 108,
+      "title": "solved bug #102 issue",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/108",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T14:39:12Z",
+      "mergedAt": "2025-06-27T09:41:18Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 109,
+      "title": "Fix gmail icon solve issue#104",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/109",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T14:52:50Z",
+      "mergedAt": "2025-06-28T10:16:51Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 111,
+      "title": "Fix/disclaimer email link solved issue#105",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/111",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T15:17:25Z",
+      "mergedAt": "2025-06-28T10:21:37Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 112,
+      "title": "Fix/publications UI",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/112",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T17:45:38Z",
+      "mergedAt": "2025-06-28T10:23:55Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 118,
+      "title": "Enhanced About Us Page: Added hover, shadows, transition and scale in various elements -  Closes issue #97 ",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/118",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T17:29:18Z",
+      "mergedAt": "2025-06-28T08:10:29Z",
+      "author": "archangel2006",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 120,
+      "title": "🌐 [Page]: Documentation #45",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/120",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T15:07:47Z",
+      "mergedAt": "2025-06-29T07:05:54Z",
+      "author": "Sundhar-Balamoorthy",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 124,
+      "title": "Fix/terms UI issue#113",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/124",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T18:39:12Z",
+      "mergedAt": "2025-07-02T04:58:35Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 132,
+      "title": "Chat bot",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/132",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T09:25:09Z",
+      "mergedAt": "2025-07-02T04:59:22Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 133,
+      "title": "Fix/ privacypage issue #115",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/133",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T11:14:12Z",
+      "mergedAt": "2025-07-03T08:22:14Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 134,
+      "title": "Added interactivity to 'Research' Page",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/134",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T11:14:47Z",
+      "mergedAt": "2025-07-02T05:05:57Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 135,
+      "title": "Fix/cookie page Ui issue #114",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/135",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T11:19:15Z",
+      "mergedAt": "2025-07-03T08:23:12Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 136,
+      "title": "Fix/disclaimer UI issue#119",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/136",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T11:23:55Z",
+      "mergedAt": "2025-07-03T08:23:37Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 137,
+      "title": "increase margin between navbar and research page",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/137",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T12:11:45Z",
+      "mergedAt": "2025-07-02T05:13:06Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 138,
+      "title": "Add Community page with issue reporting instructions (closes #86)",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/138",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T12:47:27Z",
+      "mergedAt": "2025-07-02T05:17:33Z",
+      "author": "kamran-asif",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 143,
+      "title": "Events",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/143",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T15:59:47Z",
+      "mergedAt": "2025-07-02T05:23:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 145,
+      "title": " issue #99 resolved",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/145",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T19:09:42Z",
+      "mergedAt": "2025-07-02T05:28:58Z",
+      "author": "Webwizzz22",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 146,
+      "title": "Enhance the Contact Us Page for Improved UX & Visibility-“Fixes #129”",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/146",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T19:45:38Z",
+      "mergedAt": "2025-07-05T06:26:20Z",
+      "author": "kavitha308",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 149,
+      "title": "changes stay in loop",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/149",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T15:06:16Z",
+      "mergedAt": "2025-07-05T06:33:48Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 150,
+      "title": "changes in logo css",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/150",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T15:41:54Z",
+      "mergedAt": "2025-07-05T06:35:51Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 154,
+      "title": "Fix/newsletter resolves issue#141",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/154",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T10:06:29Z",
+      "mergedAt": "2025-07-06T06:09:23Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 158,
+      "title": "Enhancement in Publication section by adding filtering publications according to categories.",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/158",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T03:21:24Z",
+      "mergedAt": "2025-07-12T07:57:33Z",
+      "author": "tejaswinihatkar",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "CLUSTER-DS-Club/cluster"
     }
   ]
 };
