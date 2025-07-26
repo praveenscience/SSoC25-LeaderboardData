@@ -1,6 +1,262 @@
 var prs = {
   "prs": [
     {
+      "number": 23,
+      "title": "Implemented a skip button in the preview guide of the website",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/23",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:39:12Z",
+      "mergedAt": "2025-06-16T17:40:48Z",
+      "author": "Soumyosish",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 25,
+      "title": "Modified the download option with an extra feature to directly print …",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/25",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:55:02Z",
+      "mergedAt": "2025-06-19T17:08:23Z",
+      "author": "Soumyosish",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 44,
+      "title": "Fixed: issue #[30]",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T09:30:49Z",
+      "mergedAt": "2025-06-19T15:09:12Z",
+      "author": "Vaishnavi-Manne",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 49,
+      "title": "Create CONTRIBUTING.md",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/49",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:56:05Z",
+      "mergedAt": "2025-06-15T18:33:30Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 50,
+      "title": "add footer",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/50",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:46:14Z",
+      "mergedAt": "2025-06-17T17:35:20Z",
+      "author": "Muneerali199",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 73,
+      "title": "Logo added",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T11:06:38Z",
+      "mergedAt": "2025-06-19T10:55:23Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 76,
+      "title": "Add SECURITY.md with responsible vulnerability disclosure policy and contact info",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/76",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T16:11:21Z",
+      "mergedAt": "2025-06-19T16:18:47Z",
+      "author": "Mohamad-Owais",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 77,
+      "title": "Added proper backend files and resolved the conflict",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/77",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T16:46:32Z",
+      "mergedAt": "2025-06-20T06:53:17Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 82,
+      "title": "FavUpdate",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/82",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T08:08:25Z",
+      "mergedAt": "2025-06-20T16:54:48Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 83,
+      "title": "added scroll to top button functionality",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/83",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T08:27:38Z",
+      "mergedAt": "2025-06-25T18:24:11Z",
+      "author": "Ronnit44",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 87,
+      "title": "Add Login link to footer navigation",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T09:13:17Z",
+      "mergedAt": "2025-06-22T06:26:50Z",
+      "author": "NA-VNEET",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 116,
+      "title": "added eye icon to toggle password visibility",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/116",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T11:06:50Z",
+      "mergedAt": "2025-06-29T06:24:38Z",
+      "author": "Ronnit44",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 123,
+      "title": "replaced old twitter icon with new X icon",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/123",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T14:10:21Z",
+      "mergedAt": "2025-07-01T06:10:39Z",
+      "author": "Ronnit44",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 129,
+      "title": "Fix 84 done without extra changes",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/129",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T13:07:58Z",
+      "mergedAt": "2025-07-20T13:25:27Z",
+      "author": "Harshi-max",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 134,
+      "title": "chatbot added",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/134",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T14:38:50Z",
+      "mergedAt": "2025-07-13T11:15:32Z",
+      "author": "anchalchaturvedi08",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 142,
+      "title": "fix: hide buttons before PDF export",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/142",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T06:34:03Z",
+      "mergedAt": "2025-07-17T06:41:19Z",
+      "author": "Sahil-Chahal",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -4023,6 +4279,22 @@ var prs = {
       "level": "Intermediate",
       "score": 30,
       "project": "alienx5499/SortVision"
+    },
+    {
+      "number": 35,
+      "title": " Add widget state tests for Earthquake App",
+      "url": "https://github.com/Fenirok/Earthquake_app/pull/35",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T12:50:18Z",
+      "mergedAt": "2025-07-02T09:46:43Z",
+      "author": "Sandhya251",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Fenirok/Earthquake_app"
     },
     {
       "number": 85,
@@ -8183,6 +8455,278 @@ var prs = {
       "level": "Advanced",
       "score": 40,
       "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
+      "number": 21,
+      "title": "Alias",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T07:57:45Z",
+      "mergedAt": "2025-06-14T12:30:20Z",
+      "author": "GauravKarakoti",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 23,
+      "title": "SECURITY.md",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/23",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:19:53Z",
+      "mergedAt": "2025-06-14T19:29:27Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 27,
+      "title": "feat: Add --version flag to CLI",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/27",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T13:37:27Z",
+      "mergedAt": "2025-06-17T09:55:23Z",
+      "author": "vivekd16",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 28,
+      "title": "docs: Add Table of Contents to README",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/28",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T13:44:25Z",
+      "mergedAt": "2025-06-16T02:40:02Z",
+      "author": "vivekd16",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 30,
+      "title": "Feature/support exit quit command",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/30",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T14:59:57Z",
+      "mergedAt": "2025-06-14T20:03:01Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 31,
+      "title": "Added Loading Indicators with their Decorators to apply on any function or processes.",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/31",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T15:03:14Z",
+      "mergedAt": "2025-06-14T18:52:34Z",
+      "author": "pkbros",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 38,
+      "title": "Improve error handling for alias import: check file existence and validate JSON",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/38",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T11:47:51Z",
+      "mergedAt": "2025-06-15T15:57:34Z",
+      "author": "jaylm10",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 41,
+      "title": "Added Code of Conduct",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/41",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:20:47Z",
+      "mergedAt": "2025-06-16T02:44:26Z",
+      "author": "Dipanita45",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 44,
+      "title": "Updated --help command",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:20:00Z",
+      "mergedAt": "2025-06-15T18:33:38Z",
+      "author": "Shoury-Rana",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 51,
+      "title": "formatted Alias errors",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/51",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T08:27:47Z",
+      "mergedAt": "2025-06-17T04:04:28Z",
+      "author": "Shoury-Rana",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 56,
+      "title": "feat(testing): Added unit tests for alias_manager and format_utils",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/56",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T14:28:54Z",
+      "mergedAt": "2025-06-18T11:51:53Z",
+      "author": "Shoury-Rana",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 58,
+      "title": "Add interactive tutorial mode",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/58",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:37:44Z",
+      "mergedAt": "2025-06-19T18:16:46Z",
+      "author": "piyushdhoka",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 61,
+      "title": "DocString",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/61",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T05:33:52Z",
+      "mergedAt": "2025-06-19T20:39:58Z",
+      "author": "GauravKarakoti",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 63,
+      "title": "🔒 Feature: Safer Execution for Destructive Commands",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/63",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T05:13:01Z",
+      "mergedAt": "2025-06-22T09:47:06Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 66,
+      "title": "added command alias clear",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/66",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T14:31:35Z",
+      "mergedAt": "2025-06-23T05:08:15Z",
+      "author": "Anujanthwal-dotcom",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 68,
+      "title": "feat: Implement description support for aliases",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T06:32:52Z",
+      "mergedAt": "2025-06-29T16:59:22Z",
+      "author": "Shoury-Rana",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 73,
+      "title": "⚠️(Bug Fix)  [#54]Direct Command Executions fail and [#71]Application failed to Start",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T03:24:06Z",
+      "mergedAt": "2025-06-28T05:54:12Z",
+      "author": "pkbros",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Kirti-Rathi/PromptShell"
     },
     {
       "number": 21,
