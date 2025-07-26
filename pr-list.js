@@ -5415,6 +5415,1211 @@ var prs = {
       "project": "Fenirok/Earthquake_app"
     },
     {
+      "number": 16,
+      "title": "Image Text Detection using Tesseract OCR",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/16",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T06:20:34Z",
+      "mergedAt": "2025-06-15T06:25:47Z",
+      "author": "keshripritesh",
+      "labels": [
+        "documentation",
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 19,
+      "title": "Added diabetes and heart disease prediction model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/19",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T07:55:18Z",
+      "mergedAt": "2025-06-15T08:01:52Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 23,
+      "title": "Pull request of Stock Price Analysis Project",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/23",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:45:33Z",
+      "mergedAt": "2025-06-15T10:50:19Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 25,
+      "title": "Added Symptom-to-Disease Prediction Model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/25",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T11:20:29Z",
+      "mergedAt": "2025-06-15T12:38:57Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 26,
+      "title": " feat: Added Food classifier AI Model  ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/26",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T12:13:31Z",
+      "mergedAt": "2025-06-15T12:43:11Z",
+      "author": "Anamikaghosh18",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 32,
+      "title": "Streamlit UI for symptoms based disease prediction and specific heart disease and diabetes prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/32",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T20:06:58Z",
+      "mergedAt": "2025-06-16T05:32:02Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 37,
+      "title": "Stock sentiment predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/37",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T11:24:24Z",
+      "mergedAt": "2025-06-16T12:55:04Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 38,
+      "title": " Bitcoin price prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/38",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T13:15:37Z",
+      "mergedAt": "2025-06-16T13:17:47Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 44,
+      "title": "UI for finance",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T18:32:45Z",
+      "mergedAt": "2025-06-17T01:53:32Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 45,
+      "title": "Added Cancer Prediction Streamlit App under Health AI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/45",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T19:32:43Z",
+      "mergedAt": "2025-06-17T07:27:31Z",
+      "author": "preritasaini1",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 47,
+      "title": "Refined and Enhanced Documentation in DiseasePrediction_XAI Report",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/47",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T04:49:58Z",
+      "mergedAt": "2025-06-17T05:00:03Z",
+      "author": "KavyaMunusamy",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 50,
+      "title": "Traffic Sign Recognition",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/50",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T05:40:07Z",
+      "mergedAt": "2025-06-17T05:42:41Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 53,
+      "title": "Pull request of  GDP Prediction Model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/53",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T07:53:43Z",
+      "mergedAt": "2025-06-17T07:55:18Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 54,
+      "title": "Eth predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/54",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T08:39:40Z",
+      "mergedAt": "2025-06-17T12:33:45Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 58,
+      "title": "Eth predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/58",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T13:07:49Z",
+      "mergedAt": "2025-06-17T16:52:19Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 61,
+      "title": "Added Table of Contents",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/61",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T14:45:00Z",
+      "mergedAt": "2025-06-17T16:53:51Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 62,
+      "title": "Add Mental Health Prediction ML Model using Survey Data (#9)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/62",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:40:56Z",
+      "mergedAt": "2025-06-17T16:51:04Z",
+      "author": "AshutoshSingh058",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 63,
+      "title": "Pull Request of Skin Disease Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/63",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:24:16Z",
+      "mergedAt": "2025-06-17T17:32:44Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 66,
+      "title": "Crypto sentiment",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/66",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T20:07:12Z",
+      "mergedAt": "2025-06-18T06:19:42Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 69,
+      "title": "Add Web Interface for Student Mental Health Predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/69",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T05:06:46Z",
+      "mergedAt": "2025-06-18T17:42:00Z",
+      "author": "AshutoshSingh058",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 72,
+      "title": "Pull request of Startup_Profit_Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/72",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T08:34:15Z",
+      "mergedAt": "2025-06-18T13:09:53Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 75,
+      "title": "Mental health",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/75",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T13:54:25Z",
+      "mergedAt": "2025-06-18T14:02:37Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 77,
+      "title": "ui added for crypto sentiment analyser",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/77",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T14:16:02Z",
+      "mergedAt": "2025-06-19T15:21:47Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 81,
+      "title": "Pull request of Ola Bike Ride Request Demand Forecast",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T17:58:44Z",
+      "mergedAt": "2025-06-19T15:25:30Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 82,
+      "title": "🚀 Enhanced Bidirectional LSTM: GPU Acceleration & Advanced Features",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/82",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T18:30:41Z",
+      "mergedAt": "2025-06-19T06:40:20Z",
+      "author": "AshutoshSingh058",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 85,
+      "title": "Pull request of Weather Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/85",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T09:13:08Z",
+      "mergedAt": "2025-06-19T15:23:41Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 86,
+      "title": "Modular Design with ResNet9 Model with Gradio Interface",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/86",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T12:58:08Z",
+      "mergedAt": "2025-06-19T15:26:04Z",
+      "author": "AshutoshSingh058",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 87,
+      "title": "Startup success analyser",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T12:58:56Z",
+      "mergedAt": "2025-06-19T15:27:48Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 89,
+      "title": "Arima model for currency forecasting",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/89",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T15:42:13Z",
+      "mergedAt": "2025-06-19T17:39:35Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 90,
+      "title": "Pull Request of OCR Medicine Reader",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/90",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T15:55:43Z",
+      "mergedAt": "2025-06-19T17:39:03Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 95,
+      "title": "Pull Request of Forest Fire Detection using Image Processing",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T11:19:14Z",
+      "mergedAt": "2025-06-20T15:32:20Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 99,
+      "title": "Credit card eligibility",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/99",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T16:35:19Z",
+      "mergedAt": "2025-06-20T17:50:49Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 100,
+      "title": "Crop Yield Predictor under Agriculture AI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T17:17:23Z",
+      "mergedAt": "2025-06-20T18:08:45Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 101,
+      "title": "Crop recommender",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/101",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T17:36:47Z",
+      "mergedAt": "2025-06-20T18:08:06Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 107,
+      "title": "🔧 Restructure Repository to Organized `src/` Layout (Closes #102)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/107",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T14:13:44Z",
+      "mergedAt": "2025-06-22T18:27:18Z",
+      "author": "AskitEndo",
+      "labels": [
+        "documentation",
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 113,
+      "title": " Add Credit Card Eligibility Checker using Streamlit",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T18:40:04Z",
+      "mergedAt": "2025-06-24T03:53:58Z",
+      "author": "Gargibajpai",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 114,
+      "title": "Soil classifier cnn",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/114",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T19:57:26Z",
+      "mergedAt": "2025-06-24T04:05:43Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 115,
+      "title": "Fertiliser recommendation system",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/115",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T21:14:00Z",
+      "mergedAt": "2025-06-24T04:05:41Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 118,
+      "title": "UI depression risk analyser",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/118",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T08:33:27Z",
+      "mergedAt": "2025-06-24T17:12:46Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 120,
+      "title": "Pull Request of Bird Classification WebApp",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/120",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T12:33:10Z",
+      "mergedAt": "2025-06-24T15:49:50Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 123,
+      "title": "Added Waste Classification Model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/123",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T14:17:52Z",
+      "mergedAt": "2025-06-24T17:15:42Z",
+      "author": "GxAditya",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 125,
+      "title": "Pull request of Customer Segmentation using Machine Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/125",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T15:48:48Z",
+      "mergedAt": "2025-06-24T17:16:37Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 126,
+      "title": "UI arima currency forecasting",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/126",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T17:11:26Z",
+      "mergedAt": "2025-06-24T17:17:10Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 131,
+      "title": "Pull request of Exploratory Data Analyis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/131",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T05:04:18Z",
+      "mergedAt": "2025-06-25T16:25:16Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 132,
+      "title": "Loan prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/132",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T08:18:58Z",
+      "mergedAt": "2025-06-26T03:37:57Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 134,
+      "title": "Employee attrition prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/134",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T09:06:24Z",
+      "mergedAt": "2025-06-25T15:10:07Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 136,
+      "title": "Pull request of Google Teachable Machine",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/136",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T14:38:07Z",
+      "mergedAt": "2025-06-25T15:04:13Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 138,
+      "title": "Pull Request of Heart Failure Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/138",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T10:53:02Z",
+      "mergedAt": "2025-06-26T10:54:04Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 140,
+      "title": "Stroke prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/140",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T13:00:16Z",
+      "mergedAt": "2025-06-27T09:53:49Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 143,
+      "title": "Mbti personality",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/143",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T14:37:53Z",
+      "mergedAt": "2025-06-27T09:56:38Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 145,
+      "title": "Pull Request of Malicious url detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/145",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T17:30:03Z",
+      "mergedAt": "2025-06-27T09:57:37Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 146,
+      "title": "UI crop yield predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/146",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T17:52:39Z",
+      "mergedAt": "2025-06-27T09:59:20Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 149,
+      "title": "Pull Request of Emotion Recognition Based on NLP",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/149",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T10:55:34Z",
+      "mergedAt": "2025-06-27T16:26:28Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 151,
+      "title": "Pull request of Language Detection Model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/151",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T13:37:29Z",
+      "mergedAt": "2025-06-27T17:28:02Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 154,
+      "title": "ui-crop-recommender",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/154",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T16:46:57Z",
+      "mergedAt": "2025-06-27T17:27:38Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 156,
+      "title": "UI fertiliser recommender",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/156",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T17:26:57Z",
+      "mergedAt": "2025-06-27T17:29:59Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 159,
+      "title": "UI loan prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/159",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T17:55:23Z",
+      "mergedAt": "2025-06-28T04:56:13Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 160,
+      "title": "Pull request of Job Advertisement Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/160",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T18:07:41Z",
+      "mergedAt": "2025-06-28T08:44:24Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 166,
+      "title": "Pull request of Nasa Asteriod Dataset",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/166",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T21:00:57Z",
+      "mergedAt": "2025-06-29T04:32:42Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 168,
+      "title": "Pull request of Plant Seedlings Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/168",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T17:00:11Z",
+      "mergedAt": "2025-06-29T18:11:38Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 169,
+      "title": "Pull requesr of MNIST English  Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/169",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T19:13:09Z",
+      "mergedAt": "2025-06-29T19:19:38Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 170,
+      "title": "Pull request of Random Forest Test",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/170",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T19:15:47Z",
+      "mergedAt": "2025-06-29T19:20:16Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 171,
+      "title": "Pull request of Social Media Fake Accounts Detection with Interactive UI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/171",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T19:18:49Z",
+      "mergedAt": "2025-07-02T16:48:37Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 173,
+      "title": "toxic-comment-detector",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/173",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T09:36:31Z",
+      "mergedAt": "2025-07-02T10:21:51Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 175,
+      "title": "Air quality index",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/175",
+      "state": "MERGED",
+      "createdAt": "2025-07-01T17:58:54Z",
+      "mergedAt": "2025-07-02T10:24:18Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 177,
+      "title": "Insurance predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/177",
+      "state": "MERGED",
+      "createdAt": "2025-07-02T20:25:14Z",
+      "mergedAt": "2025-07-03T09:38:03Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 178,
+      "title": "Traffic Signal",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/178",
+      "state": "MERGED",
+      "createdAt": "2025-07-02T20:38:06Z",
+      "mergedAt": "2025-07-04T15:52:11Z",
+      "author": "GauravKarakoti",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 180,
+      "title": "Car price predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/180",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T07:34:49Z",
+      "mergedAt": "2025-07-04T15:52:38Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 182,
+      "title": "ui employee attrition prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/182",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T08:00:58Z",
+      "mergedAt": "2025-07-04T15:53:40Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 184,
+      "title": "ui stroke prediction ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/184",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T09:17:53Z",
+      "mergedAt": "2025-07-05T13:52:14Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 189,
+      "title": "ui for mbti personality predictor ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/189",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T20:52:21Z",
+      "mergedAt": "2025-07-08T06:17:24Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 191,
+      "title": "ui for toxic comment predictor under social mdedia",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/191",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T21:06:05Z",
+      "mergedAt": "2025-07-09T10:25:04Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 195,
+      "title": "Mutual fund risk predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/195",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T09:53:12Z",
+      "mergedAt": "2025-07-09T10:24:16Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 197,
+      "title": "Lung cancer prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/197",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T10:39:23Z",
+      "mergedAt": "2025-07-12T09:57:10Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 199,
+      "title": "Rainfall prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/199",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T10:54:48Z",
+      "mergedAt": "2025-07-12T09:55:55Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
