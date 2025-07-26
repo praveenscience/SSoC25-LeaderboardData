@@ -5399,6 +5399,193 @@ var prs = {
       "project": "alienx5499/SortVision"
     },
     {
+      "number": 16,
+      "title": "Create CODE_OF_CONDUCT.md",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T20:52:06Z",
+      "mergedAt": "2025-06-16T04:59:30Z",
+      "author": "SK8-infi",
+      "labels": [
+        "documentation",
+        "enhancement",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 23,
+      "title": "docs: Add SECURITY.md with Vulnerability Disclosure Policy & Scope of Security Considerations",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/23",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T05:18:44Z",
+      "mergedAt": "2025-06-15T16:05:30Z",
+      "author": "Mohamad-Owais",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 26,
+      "title": "Add requirements.txt for project dependencies",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/26",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:53:44Z",
+      "mergedAt": "2025-07-03T08:34:11Z",
+      "author": "sneha842",
+      "labels": [
+        "documentation",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 35,
+      "title": "Enhanced README with details about project, setup instruction and formatting.",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/35",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T08:17:35Z",
+      "mergedAt": "2025-06-19T12:36:40Z",
+      "author": "NehaSaini011",
+      "labels": [
+        "documentation",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 38,
+      "title": "Gemini Powered Chatbot Integrated",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/38",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T18:53:44Z",
+      "mergedAt": "2025-06-20T05:45:34Z",
+      "author": "Coden-inja",
+      "labels": [
+        "enhancement",
+        "Creative",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 43,
+      "title": "Added scroll to top button",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/43",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T07:42:07Z",
+      "mergedAt": "2025-07-06T17:08:47Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "enhancement",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 44,
+      "title": "Added Markdown-based GitHub issue templates",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T14:13:06Z",
+      "mergedAt": "2025-07-06T17:09:19Z",
+      "author": "denshaw-09",
+      "labels": [
+        "documentation",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 46,
+      "title": "UI update",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T13:37:55Z",
+      "mergedAt": "2025-07-07T18:04:26Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Creative",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 48,
+      "title": "UI update",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/48",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T05:46:39Z",
+      "mergedAt": "2025-07-12T06:30:59Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Creative",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 52,
+      "title": "Pretrained Model for improving accuracy",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/52",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T07:15:41Z",
+      "mergedAt": "2025-07-15T07:24:31Z",
+      "author": "SRILSHUKLA",
+      "labels": [
+        "enhancement",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 53,
+      "title": "Minor Bug Fig",
+      "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/53",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T16:35:36Z",
+      "mergedAt": "2025-07-24T17:24:24Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
       "number": 35,
       "title": " Add widget state tests for Earthquake App",
       "url": "https://github.com/Fenirok/Earthquake_app/pull/35",
