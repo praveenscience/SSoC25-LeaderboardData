@@ -10512,6 +10512,150 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 37,
+      "title": " Added Table of Contents to improve navigation",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/37",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T23:19:24Z",
+      "mergedAt": "2025-06-15T07:11:54Z",
+      "author": "m1ss-chief",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 43,
+      "title": "Added Tour Functionality",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/43",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T07:17:15Z",
+      "mergedAt": "2025-06-15T09:33:00Z",
+      "author": "TheAnumaan",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 46,
+      "title": "PR for issue #38 Backend Structure",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:51:54Z",
+      "mergedAt": "2025-06-15T10:54:44Z",
+      "author": "Harsh16Bhardwaj",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 47,
+      "title": "LICENSE addition and Readme.md Updation",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/47",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:18:00Z",
+      "mergedAt": "2025-06-16T03:09:31Z",
+      "author": "nupurmadaan04",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 62,
+      "title": "Feat/api integrations with auth",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/62",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T18:58:03Z",
+      "mergedAt": "2025-06-17T10:07:10Z",
+      "author": "Somilg11",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 66,
+      "title": "Design/UI-UX-proposals/Tarushi",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/66",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T09:23:23Z",
+      "mergedAt": "2025-06-17T10:09:41Z",
+      "author": "Tarushiiiii",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 75,
+      "title": "Added new logo for ThinkDSA based on Issue #19.",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/75",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T12:10:59Z",
+      "mergedAt": "2025-06-18T17:34:34Z",
+      "author": "Chavva-Harshita",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 81,
+      "title": "Updated the old model with the new graph-based Model",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T23:46:51Z",
+      "mergedAt": "2025-06-21T16:44:23Z",
+      "author": "Vishisht-Dwivedi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
+      "number": 90,
+      "title": "Feature: Generate Real LeetCode Questions with Gemini API",
+      "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/90",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T19:26:28Z",
+      "mergedAt": "2025-07-12T19:17:50Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "itsaryanchauhan/ThinkDSA"
+    },
+    {
       "number": 8,
       "title": "SECURITY.md",
       "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/8",
@@ -11821,6 +11965,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
+      "number": 243,
+      "title": "Bug Fixes",
+      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/243",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T05:12:41Z",
+      "mergedAt": "2025-07-26T12:40:43Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
