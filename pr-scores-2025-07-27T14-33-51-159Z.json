@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-27T13:01:01.346Z",
+  "timestamp": "2025-07-27T14:32:05.863Z",
   "summary": {
-    "totalPRs": 1199,
-    "totalPoints": 32260
+    "totalPRs": 1206,
+    "totalPoints": 32480
   },
   "users": {
     "72897": {
@@ -1005,12 +1005,12 @@
       }
     },
     "Asterioxer": {
-      "totalScore": 260,
-      "prCount": 13,
+      "totalScore": 300,
+      "prCount": 14,
       "prsByLevel": {
         "Beginner": 13,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "samim29": {
@@ -2130,10 +2130,10 @@
       }
     },
     "GxAditya": {
-      "totalScore": 200,
-      "prCount": 6,
+      "totalScore": 220,
+      "prCount": 7,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 2,
         "Advanced": 3
       }
@@ -4353,12 +4353,12 @@
       }
     },
     "DeadpoolX7": {
-      "totalScore": 60,
-      "prCount": 2,
+      "totalScore": 130,
+      "prCount": 4,
       "prsByLevel": {
         "Beginner": 1,
-        "Intermediate": 0,
-        "Advanced": 1
+        "Intermediate": 1,
+        "Advanced": 2
       }
     },
     "NitikaSheoran": {
@@ -5487,10 +5487,10 @@
       }
     },
     "RAJVEER42": {
-      "totalScore": 70,
-      "prCount": 3,
+      "totalScore": 90,
+      "prCount": 4,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 3,
         "Intermediate": 1,
         "Advanced": 0
       }
@@ -8286,11 +8286,11 @@
       }
     },
     "Student-ravneet": {
-      "totalScore": 100,
-      "prCount": 5,
+      "totalScore": 130,
+      "prCount": 6,
       "prsByLevel": {
         "Beginner": 5,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -10041,12 +10041,12 @@
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 220,
+      "totalScore": 240,
       "prCount": 10,
       "prsByLevel": {
-        "Beginner": 8,
+        "Beginner": 7,
         "Intermediate": 2,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "Harshi-max": {
@@ -10320,10 +10320,10 @@
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 240,
-      "prCount": 12,
+      "totalScore": 260,
+      "prCount": 13,
       "prsByLevel": {
-        "Beginner": 12,
+        "Beginner": 13,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -60893,7 +60893,7 @@
       }
     },
     "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit": {
-      "totalPRs": 2,
+      "totalPRs": 7,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -61006,7 +61006,7 @@
         "yash-sisodia22": 0,
         "iamshubham1704": 0,
         "Harishchandra-26": 0,
-        "Asterioxer": 0,
+        "Asterioxer": 1,
         "samim29": 0,
         "rohit-debnath24": 0,
         "Bavanetha27": 0,
@@ -61378,7 +61378,7 @@
         "anshumalapandit": 0,
         "LittleCodr": 0,
         "Gargibajpai": 0,
-        "DeadpoolX7": 0,
+        "DeadpoolX7": 2,
         "NitikaSheoran": 0,
         "Soumadeep1221": 0,
         "rishithadasari2005": 0,
@@ -61504,7 +61504,7 @@
         "SandeepYadav2413182": 0,
         "Sachinsingh2002": 0,
         "Devansh1974": 0,
-        "RAJVEER42": 0,
+        "RAJVEER42": 1,
         "pritisingh196": 0,
         "Sanskarsn": 0,
         "themayank1729": 0,
@@ -62041,7 +62041,7 @@
         "KavyaMunusamy": 0,
         "shambhavi0608": 0,
         "SubhamKojha": 0,
-        "aryanguptacsvtu": 0,
+        "aryanguptacsvtu": 1,
         "shambhavi099": 0,
         "COPYRIGHTXO": 0,
         "kushagra0333": 0,
@@ -74433,7 +74433,7 @@
       }
     },
     "rutikakengal/FoodFusion-Online-Food-Ordering-Web": {
-      "totalPRs": 11,
+      "totalPRs": 12,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -75355,7 +75355,7 @@
         "nubiivagant": 0,
         "saurabh-vit": 0,
         "raghavjha10": 0,
-        "Student-ravneet": 1,
+        "Student-ravneet": 2,
         "The-Asterix": 0,
         "Preeti0705": 0,
         "Vaishnavi231104": 0,
@@ -120469,7 +120469,7 @@
       }
     },
     "Prateek9876/NagarVikas": {
-      "totalPRs": 52,
+      "totalPRs": 53,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -120707,7 +120707,7 @@
         "pahimauchil": 4,
         "otAdarshP": 0,
         "gemmishra": 0,
-        "GxAditya": 3,
+        "GxAditya": 4,
         "pushkar-web": 0,
         "methrearchana": 0,
         "ItsMeAnanyaSrivastava": 0,
@@ -206662,11 +206662,10 @@
       "author": "dishaagrawalcodes",
       "labels": [
         "SSoC25",
-        "Beginner",
-        "Intermediate"
+        "Advanced"
       ],
-      "level": "Beginner",
-      "score": 20,
+      "level": "Advanced",
+      "score": 40,
       "project": "adityas1309/RaktConnect"
     },
     {
@@ -211095,6 +211094,23 @@
       "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
     },
     {
+      "number": 25,
+      "title": "SECURITY.md",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/25",
+      "state": "MERGED",
+      "createdAt": "2025-06-12T12:54:40Z",
+      "mergedAt": "2025-06-12T14:20:32Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 44,
       "title": "CONTRIBUTING.md + CODE_OF_CONDUCT.md + readme enhancements",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/44",
@@ -211113,6 +211129,38 @@
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
+      "number": 68,
+      "title": "🚀 Revamp README with Badges, Structure, and Motivation",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:04:45Z",
+      "mergedAt": "2025-06-17T12:39:18Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 86,
+      "title": "Feat/contact us route",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/86",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T07:37:36Z",
+      "mergedAt": "2025-06-20T12:37:22Z",
+      "author": "DeadpoolX7",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 94,
       "title": "fix issue #91: sync dark mode icon with actual theme on reload",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/94",
@@ -211127,6 +211175,38 @@
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 113,
+      "title": "Add initial unit tests for feat_scaling and create .gitignore files",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T12:17:01Z",
+      "mergedAt": "2025-07-04T15:51:09Z",
+      "author": "DeadpoolX7",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 114,
+      "title": "Make unit tests for null_handler.py",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/114",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T14:53:53Z",
+      "mergedAt": "2025-07-27T13:41:44Z",
+      "author": "Asterioxer",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
@@ -215780,6 +215860,23 @@
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 194,
+      "title": "Added New Meals & Enhanced Menu+ Categories!",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/194",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T13:42:51Z",
+      "mergedAt": "2025-07-27T13:10:08Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -222904,6 +223001,22 @@
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 161,
+      "title": "Added Issue Template",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/161",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T13:53:12Z",
+      "mergedAt": "2025-07-27T14:14:18Z",
+      "author": "GxAditya",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Prateek9876/NagarVikas"
     },
     {

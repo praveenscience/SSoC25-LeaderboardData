@@ -2244,11 +2244,10 @@ var prs = {
       "author": "dishaagrawalcodes",
       "labels": [
         "SSoC25",
-        "Beginner",
-        "Intermediate"
+        "Advanced"
       ],
-      "level": "Beginner",
-      "score": 20,
+      "level": "Advanced",
+      "score": 40,
       "project": "adityas1309/RaktConnect"
     },
     {
@@ -6677,6 +6676,23 @@ var prs = {
       "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
     },
     {
+      "number": 25,
+      "title": "SECURITY.md",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/25",
+      "state": "MERGED",
+      "createdAt": "2025-06-12T12:54:40Z",
+      "mergedAt": "2025-06-12T14:20:32Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 44,
       "title": "CONTRIBUTING.md + CODE_OF_CONDUCT.md + readme enhancements",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/44",
@@ -6695,6 +6711,38 @@ var prs = {
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
+      "number": 68,
+      "title": "🚀 Revamp README with Badges, Structure, and Motivation",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:04:45Z",
+      "mergedAt": "2025-06-17T12:39:18Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 86,
+      "title": "Feat/contact us route",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/86",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T07:37:36Z",
+      "mergedAt": "2025-06-20T12:37:22Z",
+      "author": "DeadpoolX7",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 94,
       "title": "fix issue #91: sync dark mode icon with actual theme on reload",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/94",
@@ -6709,6 +6757,38 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 113,
+      "title": "Add initial unit tests for feat_scaling and create .gitignore files",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T12:17:01Z",
+      "mergedAt": "2025-07-04T15:51:09Z",
+      "author": "DeadpoolX7",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 114,
+      "title": "Make unit tests for null_handler.py",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/114",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T14:53:53Z",
+      "mergedAt": "2025-07-27T13:41:44Z",
+      "author": "Asterioxer",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
@@ -11362,6 +11442,23 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 194,
+      "title": "Added New Meals & Enhanced Menu+ Categories!",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/194",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T13:42:51Z",
+      "mergedAt": "2025-07-27T13:10:08Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -18486,6 +18583,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
+      "number": 161,
+      "title": "Added Issue Template",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/161",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T13:53:12Z",
+      "mergedAt": "2025-07-27T14:14:18Z",
+      "author": "GxAditya",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Prateek9876/NagarVikas"
     },
     {

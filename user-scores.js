@@ -1000,12 +1000,12 @@ var userScores = {
       }
     },
     "Asterioxer": {
-      "totalScore": 260,
-      "prCount": 13,
+      "totalScore": 300,
+      "prCount": 14,
       "prsByLevel": {
         "Beginner": 13,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "samim29": {
@@ -2125,10 +2125,10 @@ var userScores = {
       }
     },
     "GxAditya": {
-      "totalScore": 200,
-      "prCount": 6,
+      "totalScore": 220,
+      "prCount": 7,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 2,
         "Advanced": 3
       }
@@ -4348,12 +4348,12 @@ var userScores = {
       }
     },
     "DeadpoolX7": {
-      "totalScore": 60,
-      "prCount": 2,
+      "totalScore": 130,
+      "prCount": 4,
       "prsByLevel": {
         "Beginner": 1,
-        "Intermediate": 0,
-        "Advanced": 1
+        "Intermediate": 1,
+        "Advanced": 2
       }
     },
     "NitikaSheoran": {
@@ -5482,10 +5482,10 @@ var userScores = {
       }
     },
     "RAJVEER42": {
-      "totalScore": 70,
-      "prCount": 3,
+      "totalScore": 90,
+      "prCount": 4,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 3,
         "Intermediate": 1,
         "Advanced": 0
       }
@@ -8281,11 +8281,11 @@ var userScores = {
       }
     },
     "Student-ravneet": {
-      "totalScore": 100,
-      "prCount": 5,
+      "totalScore": 130,
+      "prCount": 6,
       "prsByLevel": {
         "Beginner": 5,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -10036,12 +10036,12 @@ var userScores = {
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 220,
+      "totalScore": 240,
       "prCount": 10,
       "prsByLevel": {
-        "Beginner": 8,
+        "Beginner": 7,
         "Intermediate": 2,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "Harshi-max": {
@@ -10315,10 +10315,10 @@ var userScores = {
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 240,
-      "prCount": 12,
+      "totalScore": 260,
+      "prCount": 13,
       "prsByLevel": {
-        "Beginner": 12,
+        "Beginner": 13,
         "Intermediate": 0,
         "Advanced": 0
       }
