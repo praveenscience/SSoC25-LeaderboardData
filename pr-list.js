@@ -8013,6 +8013,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 201,
+      "title": "Twitter sentiment analyser",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/201",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T12:33:35Z",
+      "mergedAt": "2025-07-20T15:50:20Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 226,
       "title": "add YOLOv11-based brain tumor detection model",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/226",
@@ -11274,6 +11290,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 804,
+      "title": "added PYQs of subjects of s4 cse under ktu university,kerala",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/804",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T15:22:38Z",
+      "mergedAt": "2025-07-27T16:08:49Z",
+      "author": "anuvind570",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Saumy1905/PYQFort"
     },
     {

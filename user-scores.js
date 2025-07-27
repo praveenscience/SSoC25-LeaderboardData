@@ -5149,10 +5149,10 @@ var userScores = {
       }
     },
     "anuvind570": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -7606,11 +7606,11 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 1150,
-      "prCount": 38,
+      "totalScore": 1180,
+      "prCount": 39,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 37,
+        "Intermediate": 38,
         "Advanced": 1
       }
     },
