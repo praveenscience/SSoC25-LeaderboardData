@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-27T08:46:04.367Z",
+  "timestamp": "2025-07-27T10:02:33.091Z",
   "summary": {
-    "totalPRs": 1197,
-    "totalPoints": 32220
+    "totalPRs": 1198,
+    "totalPoints": 32240
   },
   "users": {
     "72897": {
@@ -6594,10 +6594,10 @@
       }
     },
     "Sohi07": {
-      "totalScore": 80,
-      "prCount": 3,
+      "totalScore": 100,
+      "prCount": 4,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 2,
         "Advanced": 0
       }
@@ -93389,7 +93389,7 @@
       }
     },
     "venuchander/fintrack": {
-      "totalPRs": 16,
+      "totalPRs": 17,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -94123,7 +94123,7 @@
         "peehugahlot": 0,
         "deepanshu921372": 0,
         "Shadabkhan-007": 0,
-        "Sohi07": 3,
+        "Sohi07": 4,
         "sahithi-kanjarla": 0,
         "Harilynn": 0,
         "keshripritesh": 0,
@@ -218000,6 +218000,22 @@
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 87,
+      "title": "Changes made to UI of PhoneNumber and SignUp page(#86)(Sohi07)",
+      "url": "https://github.com/Venuchander/fintrack/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T07:50:57Z",
+      "mergedAt": "2025-07-27T09:46:12Z",
+      "author": "Sohi07",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "venuchander/fintrack"
     },
     {

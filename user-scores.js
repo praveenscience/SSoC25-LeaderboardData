@@ -6589,10 +6589,10 @@ var userScores = {
       }
     },
     "Sohi07": {
-      "totalScore": 80,
-      "prCount": 3,
+      "totalScore": 100,
+      "prCount": 4,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 2,
         "Advanced": 0
       }

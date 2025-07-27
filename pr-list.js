@@ -13585,6 +13585,22 @@ var prs = {
       "project": "venuchander/fintrack"
     },
     {
+      "number": 87,
+      "title": "Changes made to UI of PhoneNumber and SignUp page(#86)(Sohi07)",
+      "url": "https://github.com/Venuchander/fintrack/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T07:50:57Z",
+      "mergedAt": "2025-07-27T09:46:12Z",
+      "author": "Sohi07",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
       "number": 28,
       "title": "ISSUE NUMBER:24   feat(theme): add global dark/light mode toggle across all UI pages",
       "url": "https://github.com/sailaja-adapa/Vipreshana/pull/28",
