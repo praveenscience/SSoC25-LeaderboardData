@@ -6337,10 +6337,10 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 1040,
-      "prCount": 41,
+      "totalScore": 1060,
+      "prCount": 42,
       "prsByLevel": {
-        "Beginner": 28,
+        "Beginner": 29,
         "Intermediate": 4,
         "Advanced": 9
       }

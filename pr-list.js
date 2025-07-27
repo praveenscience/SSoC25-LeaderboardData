@@ -11365,6 +11365,23 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 201,
+      "title": "UI update",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/201",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T11:43:06Z",
+      "mergedAt": "2025-07-27T12:47:32Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 89,
       "title": "issue #38 Add Random quote generator",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/89",

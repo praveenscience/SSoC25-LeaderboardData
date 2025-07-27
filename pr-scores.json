@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-27T12:01:28.741Z",
+  "timestamp": "2025-07-27T13:01:01.346Z",
   "summary": {
-    "totalPRs": 1198,
-    "totalPoints": 32240
+    "totalPRs": 1199,
+    "totalPoints": 32260
   },
   "users": {
     "72897": {
@@ -6342,10 +6342,10 @@
       }
     },
     "Verma-MK": {
-      "totalScore": 1040,
-      "prCount": 41,
+      "totalScore": 1060,
+      "prCount": 42,
       "prsByLevel": {
-        "Beginner": 28,
+        "Beginner": 29,
         "Intermediate": 4,
         "Advanced": 9
       }
@@ -74433,7 +74433,7 @@
       }
     },
     "rutikakengal/FoodFusion-Online-Food-Ordering-Web": {
-      "totalPRs": 10,
+      "totalPRs": 11,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -75139,7 +75139,7 @@
         "PURVIK-31": 0,
         "Vikas-Verma1": 0,
         "Himanshu950": 0,
-        "Verma-MK": 0,
+        "Verma-MK": 1,
         "ErNehasharma": 0,
         "jainoshika": 0,
         "Shravya68": 0,
@@ -215777,6 +215777,23 @@
       "labels": [
         "SSoC25",
         "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 201,
+      "title": "UI update",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/201",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T11:43:06Z",
+      "mergedAt": "2025-07-27T12:47:32Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
       ],
       "level": "Beginner",
       "score": 20,
