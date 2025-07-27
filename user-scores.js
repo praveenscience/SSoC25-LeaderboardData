@@ -3331,10 +3331,10 @@ var userScores = {
       }
     },
     "MaulikGupta27": {
-      "totalScore": 410,
-      "prCount": 19,
+      "totalScore": 430,
+      "prCount": 20,
       "prsByLevel": {
-        "Beginner": 16,
+        "Beginner": 17,
         "Intermediate": 3,
         "Advanced": 0
       }

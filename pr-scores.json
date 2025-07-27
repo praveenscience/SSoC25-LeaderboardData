@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-27T16:30:46.389Z",
+  "timestamp": "2025-07-27T18:31:29.511Z",
   "summary": {
-    "totalPRs": 1208,
-    "totalPoints": 32530
+    "totalPRs": 1209,
+    "totalPoints": 32550
   },
   "users": {
     "72897": {
@@ -3336,10 +3336,10 @@
       }
     },
     "MaulikGupta27": {
-      "totalScore": 410,
-      "prCount": 19,
+      "totalScore": 430,
+      "prCount": 20,
       "prsByLevel": {
-        "Beginner": 16,
+        "Beginner": 17,
         "Intermediate": 3,
         "Advanced": 0
       }
@@ -106929,7 +106929,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 73,
+      "totalPRs": 74,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -107301,7 +107301,7 @@
         "sohumvenkatadri7": 0,
         "codertanya03": 0,
         "Soumyosish": 0,
-        "MaulikGupta27": 6,
+        "MaulikGupta27": 7,
         "PalakSinha2505": 0,
         "bhartiamulya": 0,
         "aashutoshkumarbhardwaj": 0,
@@ -220662,6 +220662,22 @@
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 345,
+      "title": "Resolved Issue #338: Corrected the icons issue",
+      "url": "https://github.com/HarshS16/Civix/pull/345",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T15:34:23Z",
+      "mergedAt": "2025-07-27T17:17:56Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "HarshS16/Civix"
     },
     {

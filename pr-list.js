@@ -16247,6 +16247,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 345,
+      "title": "Resolved Issue #338: Corrected the icons issue",
+      "url": "https://github.com/HarshS16/Civix/pull/345",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T15:34:23Z",
+      "mergedAt": "2025-07-27T17:17:56Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
