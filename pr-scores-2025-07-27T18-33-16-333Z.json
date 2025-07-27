@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-27T14:32:05.863Z",
+  "timestamp": "2025-07-27T18:31:29.511Z",
   "summary": {
-    "totalPRs": 1206,
-    "totalPoints": 32480
+    "totalPRs": 1209,
+    "totalPoints": 32550
   },
   "users": {
     "72897": {
@@ -3336,10 +3336,10 @@
       }
     },
     "MaulikGupta27": {
-      "totalScore": 410,
-      "prCount": 19,
+      "totalScore": 430,
+      "prCount": 20,
       "prsByLevel": {
-        "Beginner": 16,
+        "Beginner": 17,
         "Intermediate": 3,
         "Advanced": 0
       }
@@ -5154,10 +5154,10 @@
       }
     },
     "anuvind570": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -7611,11 +7611,11 @@
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 1150,
-      "prCount": 38,
+      "totalScore": 1180,
+      "prCount": 39,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 37,
+        "Intermediate": 38,
         "Advanced": 1
       }
     },
@@ -64955,7 +64955,7 @@
       }
     },
     "PRIYANSHU2026/DataSentience-AIML": {
-      "totalPRs": 76,
+      "totalPRs": 77,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -65802,7 +65802,7 @@
         "decodekush": 0,
         "sourav349": 0,
         "preritasaini1": 1,
-        "giriraj-roy-7723": 38,
+        "giriraj-roy-7723": 39,
         "Aagam230": 0,
         "yashvardhanvats": 0,
         "SuruchiCode": 0,
@@ -69017,7 +69017,7 @@
       }
     },
     "Saumy1905/PYQFort": {
-      "totalPRs": 203,
+      "totalPRs": 204,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -69591,7 +69591,7 @@
         "kg7825881": 0,
         "varun935": 0,
         "alphabet28": 0,
-        "anuvind570": 0,
+        "anuvind570": 1,
         "Shivang-dadhich": 0,
         "Ramharsh-aidev": 0,
         "ZakiyaMiller": 0,
@@ -106929,7 +106929,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 73,
+      "totalPRs": 74,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -107301,7 +107301,7 @@
         "sohumvenkatadri7": 0,
         "codertanya03": 0,
         "Soumyosish": 0,
-        "MaulikGupta27": 6,
+        "MaulikGupta27": 7,
         "PalakSinha2505": 0,
         "bhartiamulya": 0,
         "aashutoshkumarbhardwaj": 0,
@@ -212431,6 +212431,22 @@
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 201,
+      "title": "Twitter sentiment analyser",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/201",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T12:33:35Z",
+      "mergedAt": "2025-07-20T15:50:20Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 226,
       "title": "add YOLOv11-based brain tumor detection model",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/226",
@@ -215692,6 +215708,22 @@
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 804,
+      "title": "added PYQs of subjects of s4 cse under ktu university,kerala",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/804",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T15:22:38Z",
+      "mergedAt": "2025-07-27T16:08:49Z",
+      "author": "anuvind570",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -220630,6 +220662,22 @@
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 345,
+      "title": "Resolved Issue #338: Corrected the icons issue",
+      "url": "https://github.com/HarshS16/Civix/pull/345",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T15:34:23Z",
+      "mergedAt": "2025-07-27T17:17:56Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "HarshS16/Civix"
     },
     {
