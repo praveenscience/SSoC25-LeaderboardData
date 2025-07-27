@@ -852,6 +852,23 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 450,
+      "title": "Fixed the overflow issue caused by the navbar",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/450",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T14:25:42Z",
+      "mergedAt": "2025-07-11T08:36:34Z",
+      "author": "shriyanyk",
+      "labels": [
+        "Intermediate",
+        "SSOC",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 456,
       "title": "Improved the UI",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/456",
@@ -6009,6 +6026,470 @@ var prs = {
       "project": "alienx5499/SortVision"
     },
     {
+      "number": 21,
+      "title": "docs(contributing): add CONTRIBUTING.md and DEVELOPMENT.md for commun…",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/21",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T06:49:46Z",
+      "mergedAt": "2025-06-14T07:07:53Z",
+      "author": "jyotsna030",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 42,
+      "title": "fix score calculation",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/42",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:35:09Z",
+      "mergedAt": "2025-06-15T14:11:20Z",
+      "author": "Samiksha-bajoria",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 44,
+      "title": "Update Title of Web Page",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T09:24:22Z",
+      "mergedAt": "2025-06-15T14:10:31Z",
+      "author": "chauhangarv",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 46,
+      "title": "Added deletion confirmation dialog for notes (and quizzes)",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:21:26Z",
+      "mergedAt": "2025-06-16T06:22:14Z",
+      "author": "Gargibajpai",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 54,
+      "title": "faq",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/54",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:59:43Z",
+      "mergedAt": "2025-06-16T07:26:13Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 55,
+      "title": "Added Text Formatting option using React Quill",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/55",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:39:29Z",
+      "mergedAt": "2025-06-17T03:13:43Z",
+      "author": "Radhika-dodain",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 87,
+      "title": "feat(dashboard): Added React Icons in Dashboard Page and made the pag…",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T16:51:36Z",
+      "mergedAt": "2025-06-18T17:17:59Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 91,
+      "title": "OverlapFix",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/91",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T03:51:24Z",
+      "mergedAt": "2025-06-19T05:42:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 93,
+      "title": "fix(bun.lock): The missing dependency is added",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/93",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T05:57:17Z",
+      "mergedAt": "2025-06-19T06:25:33Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 94,
+      "title": "Added the dark mode functionality",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/94",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T07:47:27Z",
+      "mergedAt": "2025-06-21T10:41:38Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 95,
+      "title": "Collapsible Navbar fixed for small screens",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T09:29:26Z",
+      "mergedAt": "2025-06-19T12:40:14Z",
+      "author": "Saksham-Jaiswal-2004",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 98,
+      "title": "Nav Links Fix",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/98",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T16:40:15Z",
+      "mergedAt": "2025-06-20T07:16:56Z",
+      "author": "Saksham-Jaiswal-2004",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 100,
+      "title": "docs: Add \"How to Contribute\" Section to README",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T08:09:15Z",
+      "mergedAt": "2025-06-21T10:44:50Z",
+      "author": "imDarshanGK",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 105,
+      "title": "Flashcards Generator | Powered by Copilot Kit 💡 #80",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/105",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T11:28:12Z",
+      "mergedAt": "2025-06-21T14:15:38Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 108,
+      "title": "Feat/login signup setup",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/108",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T16:55:02Z",
+      "mergedAt": "2025-06-22T03:39:43Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 110,
+      "title": "Landing Page Revamp #22",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/110",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T08:09:04Z",
+      "mergedAt": "2025-06-22T13:14:17Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 123,
+      "title": "Todo list or timetable #66 Addition of features and fixes",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/123",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T15:55:25Z",
+      "mergedAt": "2025-06-26T16:09:57Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 127,
+      "title": "# 📚 Documentation Overhaul: Comprehensive Technical Documentation Suite",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/127",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T19:14:09Z",
+      "mergedAt": "2025-06-28T06:54:35Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 131,
+      "title": "💡: Profile Management System Implemented!",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/131",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T05:58:53Z",
+      "mergedAt": "2025-07-03T12:10:17Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 134,
+      "title": "# Dark Mode Implementation ",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/134",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T21:02:27Z",
+      "mergedAt": "2025-07-04T06:39:41Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 135,
+      "title": "Flashcards Deck Page and Backend Integration with Cards Book and Study Session",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/135",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T06:10:51Z",
+      "mergedAt": "2025-07-05T12:55:12Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 137,
+      "title": "💡: An Amazing Dashboard and Shadcn Sidebar #10",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/137",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T13:00:52Z",
+      "mergedAt": "2025-07-06T14:47:23Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 139,
+      "title": "Winter is coming #138",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/139",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T05:14:20Z",
+      "mergedAt": "2025-07-07T06:26:59Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 141,
+      "title": "Visualizer (Flowchart & Mind Map) with CopilotKit, Groq API, and Mermaid Integration ",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/141",
+      "state": "MERGED",
+      "createdAt": "2025-07-08T06:00:49Z",
+      "mergedAt": "2025-07-08T09:01:19Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 144,
+      "title": "Export notes as pdf",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/144",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T05:23:04Z",
+      "mergedAt": "2025-07-09T07:47:40Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 145,
+      "title": "💡: More Themes",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/145",
+      "state": "MERGED",
+      "createdAt": "2025-07-10T11:33:37Z",
+      "mergedAt": "2025-07-10T11:44:21Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 146,
+      "title": "Feature Proposal: Complete Quiz Page Functionality (Create, Play, Manage)",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/146",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T15:40:10Z",
+      "mergedAt": "2025-07-13T10:36:56Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 148,
+      "title": "Logo, Branding And Favicon",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/148",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T16:54:23Z",
+      "mergedAt": "2025-07-17T05:27:21Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 153,
+      "title": "fix(auth): handle JSON parsing errors during user registration",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/153",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T20:29:58Z",
+      "mergedAt": "2025-07-27T02:44:29Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 16,
       "title": "Create CODE_OF_CONDUCT.md",
       "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
@@ -6194,6 +6675,41 @@ var prs = {
       "level": "Beginner",
       "score": 20,
       "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
+    },
+    {
+      "number": 44,
+      "title": "CONTRIBUTING.md + CODE_OF_CONDUCT.md + readme enhancements",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T10:22:13Z",
+      "mergedAt": "2025-06-16T03:25:45Z",
+      "author": "SK8-infi",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 94,
+      "title": "fix issue #91: sync dark mode icon with actual theme on reload",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/94",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T15:21:54Z",
+      "mergedAt": "2025-06-22T17:04:02Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
       "number": 35,
@@ -7417,6 +7933,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 226,
+      "title": "add YOLOv11-based brain tumor detection model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/226",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T06:40:23Z",
+      "mergedAt": "2025-07-27T08:17:53Z",
+      "author": "reeteesha-roy",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -7721,6 +8253,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 122,
+      "title": "Added Syllabus for 20 AU branches: Aero, AeroSpace, Agri, AI&DS, Auto…",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/122",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T16:46:14Z",
+      "mergedAt": "2025-06-15T17:09:15Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 123,
       "title": "Psit kanpur",
       "url": "https://github.com/Saumy1905/PYQFort/pull/123",
@@ -7776,6 +8324,22 @@ var prs = {
       "createdAt": "2025-06-15T21:23:15Z",
       "mergedAt": "2025-06-16T06:00:26Z",
       "author": "Saurabhjk15",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 132,
+      "title": "Added Syllabus for AU for multiple departments: EIE, ECE, ENVIRO, FAS…",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/132",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T00:03:42Z",
+      "mergedAt": "2025-06-16T06:05:03Z",
+      "author": "aayishajalal",
       "labels": [
         "Advanced",
         "SSoC25"
@@ -7881,6 +8445,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 152,
+      "title": "issue#145 - Added Syllabus & PYQs For Anna University ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/152",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T12:32:12Z",
+      "mergedAt": "2025-06-16T12:46:49Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 154,
       "title": "IIT_BOMBAY syllabus and course structure added",
       "url": "https://github.com/Saumy1905/PYQFort/pull/154",
@@ -7974,6 +8554,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 160,
+      "title": "Added PYQ for AU Semester 2 under R2021_PYQ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/160",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:46:19Z",
+      "mergedAt": "2025-06-16T15:50:24Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -8102,6 +8698,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 181,
+      "title": "Added PYQ for AU Semester 2",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/181",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T11:32:11Z",
+      "mergedAt": "2025-06-18T13:59:41Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -8425,6 +9037,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 217,
+      "title": "PYQ Added for AU First Year All Branches",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/217",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T15:54:30Z",
+      "mergedAt": "2025-06-20T10:00:41Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 221,
       "title": "Task 2.2.8: Added 21 PYQs across 2 semesters",
       "url": "https://github.com/Saumy1905/PYQFort/pull/221",
@@ -8665,6 +9293,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 248,
+      "title": "Added PYQ for 8 Subjects",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/248",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T07:28:02Z",
+      "mergedAt": "2025-06-21T12:48:42Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 250,
       "title": "Merged ABVIIITM",
       "url": "https://github.com/Saumy1905/PYQFort/pull/250",
@@ -8745,6 +9389,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 260,
+      "title": "Added PYQ for Anna University 8 subjects (Semester 3) ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/260",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T15:41:47Z",
+      "mergedAt": "2025-06-21T17:44:32Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 262,
       "title": "Add Compressed Syllabus for SRM UNIVERSITY – CSE, ECE, ME",
       "url": "https://github.com/Saumy1905/PYQFort/pull/262",
@@ -8809,6 +9469,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 270,
+      "title": "Added PYQ for 8 Subjects Anna University for semester 3",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/270",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T01:54:28Z",
+      "mergedAt": "2025-06-22T14:25:19Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 273,
       "title": "Added PYQs for IT 5th,6th,7th,8th Sem of HITK",
       "url": "https://github.com/Saumy1905/PYQFort/pull/273",
@@ -8870,6 +9546,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 280,
+      "title": "Added PYQ For semester 3 Anna University - 8 subjects ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/280",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T16:06:34Z",
+      "mergedAt": "2025-06-22T17:04:10Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -9056,6 +9748,22 @@ var prs = {
       "createdAt": "2025-06-23T12:03:15Z",
       "mergedAt": "2025-06-23T12:33:27Z",
       "author": "Vijayashree-tech",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 310,
+      "title": "Added PYQ for 3,4 semeseter - Anna University",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/310",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T12:58:56Z",
+      "mergedAt": "2025-06-23T17:12:57Z",
+      "author": "aayishajalal",
       "labels": [
         "Advanced",
         "SSoC25"
@@ -9577,6 +10285,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 460,
+      "title": "Added PYQ for sem6 Anna University",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/460",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T11:40:02Z",
+      "mergedAt": "2025-06-28T13:40:09Z",
+      "author": "aayishajalal",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 463,
       "title": "Semester 1 CSE",
       "url": "https://github.com/Saumy1905/PYQFort/pull/463",
@@ -9616,6 +10340,22 @@ var prs = {
       "createdAt": "2025-06-28T14:49:47Z",
       "mergedAt": "2025-06-28T15:15:18Z",
       "author": "Yamuna-b",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 469,
+      "title": "Added README.md for Anna University",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/469",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T15:27:51Z",
+      "mergedAt": "2025-06-28T16:59:58Z",
+      "author": "aayishajalal",
       "labels": [
         "Advanced",
         "SSoC25"
@@ -10441,6 +11181,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 799,
+      "title": "PYQ+",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/799",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T02:56:30Z",
+      "mergedAt": "2025-07-27T04:20:59Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -10607,6 +11363,496 @@ var prs = {
       "level": "Beginner",
       "score": 20,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 89,
+      "title": "issue #38 Add Random quote generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/89",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:27:24Z",
+      "mergedAt": "2025-07-11T09:40:22Z",
+      "author": "sania0607",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 93,
+      "title": "issue #18 completed - Aschii Art generator added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/93",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T10:04:01Z",
+      "mergedAt": "2025-06-16T14:14:52Z",
+      "author": "amaansyed27",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 95,
+      "title": "Feature: modifications in login",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:11:20Z",
+      "mergedAt": "2025-07-11T09:45:28Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 98,
+      "title": "Feature: analog and digital clock",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/98",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:32:22Z",
+      "mergedAt": "2025-07-11T09:50:32Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 100,
+      "title": "Added Password Strength Visalizer/Strength Checker",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:44:51Z",
+      "mergedAt": "2025-07-12T09:40:37Z",
+      "author": "adwityac",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 112,
+      "title": "Issue #74 Tic Tac Toe Game Added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/112",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T16:25:39Z",
+      "mergedAt": "2025-07-11T10:26:39Z",
+      "author": "AnoushkaSamanta",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 142,
+      "title": "Added the code for physics simulation",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/142",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T14:57:26Z",
+      "mergedAt": "2025-06-16T15:12:46Z",
+      "author": "Vishisht-Dwivedi",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 150,
+      "title": "Issue #48 resolved - Add random user generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/150",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T13:52:21Z",
+      "mergedAt": "2025-07-22T11:20:13Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 151,
+      "title": "Issue #54 resolved - Add image search app",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/151",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T14:03:13Z",
+      "mergedAt": "2025-07-22T11:44:19Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 170,
+      "title": "Added Coin Flip game",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/170",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T10:09:20Z",
+      "mergedAt": "2025-07-11T10:45:14Z",
+      "author": "Radhika-dodain",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 189,
+      "title": "Issue #16 resolved- Added Correct Linkedin Link",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/189",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T19:36:03Z",
+      "mergedAt": "2025-07-20T16:15:31Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 201,
+      "title": "Issue #64 solved: URL Shortener",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/201",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T22:39:47Z",
+      "mergedAt": "2025-07-20T16:13:12Z",
+      "author": "ANTIK-007",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 202,
+      "title": "Issue #63 Solution: WaterMedic",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/202",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T22:55:00Z",
+      "mergedAt": "2025-07-21T15:49:39Z",
+      "author": "dipmanmajumdar",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 207,
+      "title": "Guess My Number Game✅",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/207",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T07:20:55Z",
+      "mergedAt": "2025-07-20T16:29:19Z",
+      "author": "pahimauchil",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 210,
+      "title": "\"Navbar Issue in mobile view\"",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/210",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T17:41:15Z",
+      "mergedAt": "2025-07-19T12:51:45Z",
+      "author": "chauhangarv",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 211,
+      "title": "E- Waste Management Hub ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/211",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T18:29:03Z",
+      "mergedAt": "2025-07-19T12:32:20Z",
+      "author": "Abhirup-261004",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 213,
+      "title": "fix-issue-184",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/213",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T08:51:01Z",
+      "mergedAt": "2025-07-19T12:25:36Z",
+      "author": "Nandinikumari02",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 214,
+      "title": "Character word counter",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/214",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T10:52:21Z",
+      "mergedAt": "2025-07-19T12:23:13Z",
+      "author": "anchalchaturvedi08",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 216,
+      "title": "Update index.js for portfolio",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/216",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T17:54:25Z",
+      "mergedAt": "2025-07-20T16:00:07Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 219,
+      "title": "Project on Dice Roll SImulatorAdd files via upload",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/219",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T12:44:30Z",
+      "mergedAt": "2025-07-20T15:56:06Z",
+      "author": "HARSHMOHAN01",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 220,
+      "title": "Add countdown banner (Fixes #195)",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/220",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T09:00:55Z",
+      "mergedAt": "2025-07-20T15:58:33Z",
+      "author": "Priyanshi-prog",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 223,
+      "title": "Enhance Footer Text Visibility",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/223",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T16:28:41Z",
+      "mergedAt": "2025-07-20T16:38:32Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 224,
+      "title": "Candycrushgame",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/224",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T16:57:53Z",
+      "mergedAt": "2025-07-21T15:43:41Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 225,
+      "title": "Weather App – Initial Release",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/225",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T18:26:51Z",
+      "mergedAt": "2025-07-22T13:37:37Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 229,
+      "title": "UI update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/229",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T16:46:33Z",
+      "mergedAt": "2025-07-22T13:35:41Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 242,
+      "title": "Resolved Issue #240: updated index.js",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/242",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T14:13:42Z",
+      "mergedAt": "2025-07-24T15:36:22Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 288,
+      "title": "[UPDATED! - Fork] QR generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/288",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T10:26:15Z",
+      "mergedAt": "2025-07-26T04:25:23Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 296,
+      "title": "Portfolio #72",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/296",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T15:52:25Z",
+      "mergedAt": "2025-07-26T15:27:40Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 311,
+      "title": "Update the Social Links",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/311",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T10:57:47Z",
+      "mergedAt": "2025-07-26T15:35:31Z",
+      "author": "kauntiaakash2",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
       "number": 37,
@@ -13589,6 +14835,1256 @@ var prs = {
       "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
     },
     {
+      "number": 41,
+      "title": "SEO, Animations on Website scrolling, Proper Alignment of Page #22",
+      "url": "https://github.com/HarshS16/Civix/pull/41",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T18:21:48Z",
+      "mergedAt": "2025-06-14T18:58:23Z",
+      "author": "mukul-sharma-tech",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 44,
+      "title": "Refactor App.jsx",
+      "url": "https://github.com/HarshS16/Civix/pull/44",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T20:08:19Z",
+      "mergedAt": "2025-06-15T07:54:25Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 46,
+      "title": "Create CODE_OF_CONDUCT.md",
+      "url": "https://github.com/HarshS16/Civix/pull/46",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T20:44:41Z",
+      "mergedAt": "2025-06-15T07:53:39Z",
+      "author": "SK8-infi",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 58,
+      "title": "Added Button Hover Effects",
+      "url": "https://github.com/HarshS16/Civix/pull/58",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:24:19Z",
+      "mergedAt": "2025-06-15T11:50:23Z",
+      "author": "aliviahossain",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 63,
+      "title": "License civix",
+      "url": "https://github.com/HarshS16/Civix/pull/63",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T12:27:28Z",
+      "mergedAt": "2025-06-15T13:11:33Z",
+      "author": "nupurmadaan04",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 65,
+      "title": "Updated Home Page Install Image",
+      "url": "https://github.com/HarshS16/Civix/pull/65",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:35:43Z",
+      "mergedAt": "2025-06-15T14:04:03Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 69,
+      "title": "Added Security.md",
+      "url": "https://github.com/HarshS16/Civix/pull/69",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:09:07Z",
+      "mergedAt": "2025-06-15T15:11:47Z",
+      "author": "Dipanita45",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 73,
+      "title": "Added new favicon.ico",
+      "url": "https://github.com/HarshS16/Civix/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T17:17:06Z",
+      "mergedAt": "2025-06-15T17:32:23Z",
+      "author": "piyushdhoka",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 77,
+      "title": "Add profile icons to testimonial section for improved UI",
+      "url": "https://github.com/HarshS16/Civix/pull/77",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T05:06:51Z",
+      "mergedAt": "2025-06-16T13:26:40Z",
+      "author": "manavi-24",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 78,
+      "title": "adding contributing.md file",
+      "url": "https://github.com/HarshS16/Civix/pull/78",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T05:13:26Z",
+      "mergedAt": "2025-06-16T13:20:46Z",
+      "author": "Samiksha-bajoria",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 80,
+      "title": "Implemented the About, Privacy Policy, Terms of Service, and Contact Us pages",
+      "url": "https://github.com/HarshS16/Civix/pull/80",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T06:24:09Z",
+      "mergedAt": "2025-06-18T04:33:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 81,
+      "title": "Added dark mode toggle",
+      "url": "https://github.com/HarshS16/Civix/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T08:01:06Z",
+      "mergedAt": "2025-06-16T13:19:49Z",
+      "author": "niharika-mente",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 85,
+      "title": "Authentication files added",
+      "url": "https://github.com/HarshS16/Civix/pull/85",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T14:12:52Z",
+      "mergedAt": "2025-06-17T07:31:14Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 86,
+      "title": "Resolve [Bug]: Layout Issue – Text Clipped or Misaligned on Home page #75",
+      "url": "https://github.com/HarshS16/Civix/pull/86",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T14:47:49Z",
+      "mergedAt": "2025-06-17T05:47:23Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "bug",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 90,
+      "title": "Added animations to FAQ section, updated nav bar",
+      "url": "https://github.com/HarshS16/Civix/pull/90",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:48:51Z",
+      "mergedAt": "2025-06-17T05:35:28Z",
+      "author": "Vrushti-kulkarni",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 93,
+      "title": "Fixed FAQ section to be visible in dark mode add Tailwind CSS support with dark mode styles and update PostCSS configuration",
+      "url": "https://github.com/HarshS16/Civix/pull/93",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T16:12:52Z",
+      "mergedAt": "2025-06-16T17:00:33Z",
+      "author": "DeadpoolX7",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 104,
+      "title": "Community Polling Dashboard Page",
+      "url": "https://github.com/HarshS16/Civix/pull/104",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:35:09Z",
+      "mergedAt": "2025-06-17T12:44:47Z",
+      "author": "GopalDwivedii",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 115,
+      "title": "Fix/Smooth Scrolling Behaviour",
+      "url": "https://github.com/HarshS16/Civix/pull/115",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T09:29:33Z",
+      "mergedAt": "2025-06-17T13:54:16Z",
+      "author": "koushikreddybachu",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 116,
+      "title": "Changed the Twitter icon to X icon",
+      "url": "https://github.com/HarshS16/Civix/pull/116",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T12:55:12Z",
+      "mergedAt": "2025-06-17T13:54:30Z",
+      "author": "architasaha21",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 119,
+      "title": "Added show/hide password functionality with eye icons to Login and Signup Components",
+      "url": "https://github.com/HarshS16/Civix/pull/119",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T13:56:18Z",
+      "mergedAt": "2025-06-17T13:59:13Z",
+      "author": "architasaha21",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 122,
+      "title": "added a redirecting link to get started button",
+      "url": "https://github.com/HarshS16/Civix/pull/122",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:12:31Z",
+      "mergedAt": "2025-06-17T16:51:36Z",
+      "author": "vivekd16",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 123,
+      "title": "fix the bug of non visible test in input cells",
+      "url": "https://github.com/HarshS16/Civix/pull/123",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T15:38:56Z",
+      "mergedAt": "2025-06-17T17:27:16Z",
+      "author": "vivekd16",
+      "labels": [
+        "bug",
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 131,
+      "title": "backend enhanced",
+      "url": "https://github.com/HarshS16/Civix/pull/131",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T09:19:45Z",
+      "mergedAt": "2025-06-18T09:22:07Z",
+      "author": "Ankush-ai",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 138,
+      "title": "Add code of hero section alignment",
+      "url": "https://github.com/HarshS16/Civix/pull/138",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T14:44:28Z",
+      "mergedAt": "2025-06-18T14:53:15Z",
+      "author": "sushmithashettigar29",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 140,
+      "title": "Added Scroll to Top Button Issue #132",
+      "url": "https://github.com/HarshS16/Civix/pull/140",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T15:59:15Z",
+      "mergedAt": "2025-06-18T16:03:00Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 144,
+      "title": "Updated Signup Page",
+      "url": "https://github.com/HarshS16/Civix/pull/144",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T19:49:42Z",
+      "mergedAt": "2025-06-19T12:23:45Z",
+      "author": "code-well0",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 147,
+      "title": "Integrated the Query Form ",
+      "url": "https://github.com/HarshS16/Civix/pull/147",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T12:59:33Z",
+      "mergedAt": "2025-06-19T13:21:55Z",
+      "author": "GopalDwivedii",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 148,
+      "title": "corrected route path",
+      "url": "https://github.com/HarshS16/Civix/pull/148",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T13:41:19Z",
+      "mergedAt": "2025-06-19T17:09:41Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 150,
+      "title": "fixed issue : Missing Testimonials images , Lot of unwanted space. #137",
+      "url": "https://github.com/HarshS16/Civix/pull/150",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T15:37:39Z",
+      "mergedAt": "2025-06-19T17:10:19Z",
+      "author": "AbhinaySngh",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 152,
+      "title": "remove bottom footer",
+      "url": "https://github.com/HarshS16/Civix/pull/152",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T12:42:21Z",
+      "mergedAt": "2025-06-20T15:20:09Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "bug",
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 157,
+      "title": "Issue - #139 fixed - Bhaanavee/dark mode bug - Fixed The Testimonial Page and dark mode application",
+      "url": "https://github.com/HarshS16/Civix/pull/157",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T09:42:03Z",
+      "mergedAt": "2025-06-21T12:27:41Z",
+      "author": "Bhaanavee",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 159,
+      "title": "Download page for Android and Ios",
+      "url": "https://github.com/HarshS16/Civix/pull/159",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T11:23:18Z",
+      "mergedAt": "2025-06-21T12:28:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 161,
+      "title": "Footer Bug",
+      "url": "https://github.com/HarshS16/Civix/pull/161",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T14:29:58Z",
+      "mergedAt": "2025-06-21T17:35:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 168,
+      "title": "fix(auth): make signup/login image responsive on mobile",
+      "url": "https://github.com/HarshS16/Civix/pull/168",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T22:26:56Z",
+      "mergedAt": "2025-06-22T09:32:01Z",
+      "author": "vishnukothakapu",
+      "labels": [
+        "bug",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 178,
+      "title": "Enhanced Signup & Login UI: spacing, card layout, Return to Home button",
+      "url": "https://github.com/HarshS16/Civix/pull/178",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T12:04:16Z",
+      "mergedAt": "2025-06-23T15:13:35Z",
+      "author": "psp2535",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 180,
+      "title": "404 error page UI corrected",
+      "url": "https://github.com/HarshS16/Civix/pull/180",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T15:08:55Z",
+      "mergedAt": "2025-06-23T15:13:51Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 183,
+      "title": "Corrections in Testimonials Section",
+      "url": "https://github.com/HarshS16/Civix/pull/183",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T12:22:15Z",
+      "mergedAt": "2025-06-24T16:03:49Z",
+      "author": "AnishSambhwani8278",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 184,
+      "title": "FIX #169: enhance contact page with dark mode and animations",
+      "url": "https://github.com/HarshS16/Civix/pull/184",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T12:30:55Z",
+      "mergedAt": "2025-06-24T16:04:02Z",
+      "author": "arthavjain103",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 185,
+      "title": "Community Polling Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/185",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T19:55:30Z",
+      "mergedAt": "2025-06-25T11:12:53Z",
+      "author": "GopalDwivedii",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 186,
+      "title": "feat: auth system with toast feedback, zod validation & bug fixes ",
+      "url": "https://github.com/HarshS16/Civix/pull/186",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T06:11:27Z",
+      "mergedAt": "2025-06-26T09:21:57Z",
+      "author": "ayushjava07",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 195,
+      "title": "bug fix",
+      "url": "https://github.com/HarshS16/Civix/pull/195",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T13:25:05Z",
+      "mergedAt": "2025-06-26T15:06:12Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 196,
+      "title": " README Improvements: Setup Clarity, Visuals & Contribution Guidelines",
+      "url": "https://github.com/HarshS16/Civix/pull/196",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T14:43:29Z",
+      "mergedAt": "2025-06-26T15:06:29Z",
+      "author": "Shivu384",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 199,
+      "title": "Issue #189 solved",
+      "url": "https://github.com/HarshS16/Civix/pull/199",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T21:41:34Z",
+      "mergedAt": "2025-06-27T07:15:46Z",
+      "author": "Ankush-ai",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 205,
+      "title": "Features/user dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/205",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T05:19:22Z",
+      "mergedAt": "2025-07-01T15:53:06Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 206,
+      "title": "google and github authentication added #177 fix",
+      "url": "https://github.com/HarshS16/Civix/pull/206",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T07:45:55Z",
+      "mergedAt": "2025-06-30T17:48:39Z",
+      "author": "Harshi-max",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 215,
+      "title": "Issue resolved #202: Corrected the contact page bug",
+      "url": "https://github.com/HarshS16/Civix/pull/215",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T10:52:34Z",
+      "mergedAt": "2025-07-05T08:12:00Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 217,
+      "title": "UI updated of reports page",
+      "url": "https://github.com/HarshS16/Civix/pull/217",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T03:43:11Z",
+      "mergedAt": "2025-07-05T08:12:30Z",
+      "author": "aerinpatel",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 220,
+      "title": "errors fixed",
+      "url": "https://github.com/HarshS16/Civix/pull/220",
+      "state": "MERGED",
+      "createdAt": "2025-07-05T18:19:13Z",
+      "mergedAt": "2025-07-05T18:42:19Z",
+      "author": "Ankush-ai",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 222,
+      "title": "Resolved Issue#213: Improved the backend code",
+      "url": "https://github.com/HarshS16/Civix/pull/222",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T05:23:46Z",
+      "mergedAt": "2025-07-06T07:04:51Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 223,
+      "title": "Added Civic Education & Rights page",
+      "url": "https://github.com/HarshS16/Civix/pull/223",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T11:10:19Z",
+      "mergedAt": "2025-07-06T12:45:32Z",
+      "author": "Jashneer",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 224,
+      "title": "Added Collapsable navbar to header to fix text expansion and compression issue on different screen sizes",
+      "url": "https://github.com/HarshS16/Civix/pull/224",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T17:24:43Z",
+      "mergedAt": "2025-07-06T18:40:03Z",
+      "author": "GxAditya",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 227,
+      "title": "Issue resolved #214: Improved the css of the Community voting page",
+      "url": "https://github.com/HarshS16/Civix/pull/227",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T07:12:54Z",
+      "mergedAt": "2025-07-07T16:32:11Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 230,
+      "title": "Issue resolved #229: Added the Back button",
+      "url": "https://github.com/HarshS16/Civix/pull/230",
+      "state": "MERGED",
+      "createdAt": "2025-07-08T07:03:44Z",
+      "mergedAt": "2025-07-08T14:17:03Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 233,
+      "title": "Added Civic Simulator Page",
+      "url": "https://github.com/HarshS16/Civix/pull/233",
+      "state": "MERGED",
+      "createdAt": "2025-07-08T15:51:45Z",
+      "mergedAt": "2025-07-08T16:11:46Z",
+      "author": "Jashneer",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 234,
+      "title": "Issue resolved #232: Corrected the quiz issue",
+      "url": "https://github.com/HarshS16/Civix/pull/234",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T03:03:17Z",
+      "mergedAt": "2025-07-09T03:06:44Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 236,
+      "title": "Bug fixes",
+      "url": "https://github.com/HarshS16/Civix/pull/236",
+      "state": "MERGED",
+      "createdAt": "2025-07-10T06:12:21Z",
+      "mergedAt": "2025-07-10T06:48:17Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 238,
+      "title": "Update footer GitHub link to point to repo",
+      "url": "https://github.com/HarshS16/Civix/pull/238",
+      "state": "MERGED",
+      "createdAt": "2025-07-10T12:52:55Z",
+      "mergedAt": "2025-07-10T13:11:25Z",
+      "author": "architasaha21",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 244,
+      "title": "Improve the navbar",
+      "url": "https://github.com/HarshS16/Civix/pull/244",
+      "state": "MERGED",
+      "createdAt": "2025-07-10T18:21:58Z",
+      "mergedAt": "2025-07-12T15:53:36Z",
+      "author": "Dipanita45",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 245,
+      "title": "fix: button hover and text color (#240)",
+      "url": "https://github.com/HarshS16/Civix/pull/245",
+      "state": "MERGED",
+      "createdAt": "2025-07-11T16:30:43Z",
+      "mergedAt": "2025-07-11T18:09:39Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 248,
+      "title": "Update the chatbot",
+      "url": "https://github.com/HarshS16/Civix/pull/248",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T15:36:09Z",
+      "mergedAt": "2025-07-12T15:53:35Z",
+      "author": "Dipanita45",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 252,
+      "title": "UI update",
+      "url": "https://github.com/HarshS16/Civix/pull/252",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T03:25:38Z",
+      "mergedAt": "2025-07-13T07:41:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 255,
+      "title": "Bug Fix",
+      "url": "https://github.com/HarshS16/Civix/pull/255",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T07:04:43Z",
+      "mergedAt": "2025-07-14T13:49:50Z",
+      "author": "Verma-MK",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 258,
+      "title": "Ankush dev",
+      "url": "https://github.com/HarshS16/Civix/pull/258",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T14:09:02Z",
+      "mergedAt": "2025-07-14T14:17:15Z",
+      "author": "Ankush-ai",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 260,
+      "title": "Updated Readme.md",
+      "url": "https://github.com/HarshS16/Civix/pull/260",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T14:30:11Z",
+      "mergedAt": "2025-07-14T17:47:19Z",
+      "author": "Ankush-ai",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 261,
+      "title": "Bot UI and structure fixed - Issue 254",
+      "url": "https://github.com/HarshS16/Civix/pull/261",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T15:16:32Z",
+      "mergedAt": "2025-07-14T17:48:25Z",
+      "author": "Bhaanavee",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 262,
+      "title": "about page redesigned",
+      "url": "https://github.com/HarshS16/Civix/pull/262",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T10:43:51Z",
+      "mergedAt": "2025-07-15T10:55:35Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 263,
+      "title": "Minor Bug Fix",
+      "url": "https://github.com/HarshS16/Civix/pull/263",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T03:50:38Z",
+      "mergedAt": "2025-07-16T13:39:22Z",
+      "author": "Verma-MK",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 266,
+      "title": "Resolved Issue #265: Corrected the redirect issue",
+      "url": "https://github.com/HarshS16/Civix/pull/266",
+      "state": "MERGED",
+      "createdAt": "2025-07-18T10:06:10Z",
+      "mergedAt": "2025-07-18T17:32:30Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 268,
+      "title": "UI update",
+      "url": "https://github.com/HarshS16/Civix/pull/268",
+      "state": "MERGED",
+      "createdAt": "2025-07-18T15:25:04Z",
+      "mergedAt": "2025-07-18T17:32:42Z",
+      "author": "Verma-MK",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 270,
+      "title": "UI update",
+      "url": "https://github.com/HarshS16/Civix/pull/270",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T17:04:33Z",
+      "mergedAt": "2025-07-20T10:38:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 275,
+      "title": "Fix Navbar Bug",
+      "url": "https://github.com/HarshS16/Civix/pull/275",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T06:20:13Z",
+      "mergedAt": "2025-07-21T14:18:01Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 276,
+      "title": "# 🚀 Pull Request: Frontend Refactor – State, Performance & Accessibility",
+      "url": "https://github.com/HarshS16/Civix/pull/276",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T14:46:46Z",
+      "mergedAt": "2025-07-22T11:04:30Z",
+      "author": "Shivu384",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 301,
+      "title": "Dark mode UI fix",
+      "url": "https://github.com/HarshS16/Civix/pull/301",
+      "state": "MERGED",
+      "createdAt": "2025-07-23T16:21:00Z",
+      "mergedAt": "2025-07-24T15:21:35Z",
+      "author": "Verma-MK",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -13859,6 +16355,1273 @@ var prs = {
       "level": "Advanced",
       "score": 40,
       "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 6,
+      "title": "Enhanced Footer Styling and Content",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/6",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:12:05Z",
+      "mergedAt": "2025-06-14T16:33:15Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 12,
+      "title": "UI improvement: Header layout and form styling",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/12",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T13:20:38Z",
+      "mergedAt": "2025-06-14T17:57:07Z",
+      "author": "pari3654",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 16,
+      "title": "SECURITY.md",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/16",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T16:01:26Z",
+      "mergedAt": "2025-06-14T16:32:44Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 31,
+      "title": "Create CODE_OF_CONDUCT.md",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/31",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T20:11:56Z",
+      "mergedAt": "2025-06-15T08:11:08Z",
+      "author": "SK8-infi",
+      "labels": [
+        "documentation",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 33,
+      "title": "Add MIT License",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/33",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T04:06:30Z",
+      "mergedAt": "2025-06-15T08:11:44Z",
+      "author": "Siri-026",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 37,
+      "title": "added feature of alert with popup with demo videos",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/37",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T06:01:48Z",
+      "mergedAt": "2025-06-15T08:12:30Z",
+      "author": "ayushjava07",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 42,
+      "title": "home page done",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/42",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:44:25Z",
+      "mergedAt": "2025-06-15T19:29:47Z",
+      "author": "Joystonm",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 43,
+      "title": "Feature/responsive home",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/43",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T08:52:39Z",
+      "mergedAt": "2025-06-15T19:29:46Z",
+      "author": "Joystonm",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 47,
+      "title": "Update README.md",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/47",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T12:15:45Z",
+      "mergedAt": "2025-06-16T14:09:22Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 51,
+      "title": "Added",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/51",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:14:52Z",
+      "mergedAt": "2025-06-15T19:31:16Z",
+      "author": "Dipanita45",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 52,
+      "title": "Feature: Color coded markers and legend",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/52",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T15:21:20Z",
+      "mergedAt": "2025-06-17T06:59:18Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 55,
+      "title": "FIX #40: Added smooth GSAP animations and interactive UI effects",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/55",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:47:59Z",
+      "mergedAt": "2025-06-15T19:27:46Z",
+      "author": "arthavjain103",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 58,
+      "title": "issue #5 - [Enhancement] Improve the Landing Page with Hero Section, Features, and Integrated Map",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/58",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T20:03:29Z",
+      "mergedAt": "2025-06-16T14:08:41Z",
+      "author": "JAYATIAHUJA",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 67,
+      "title": "Feature: Suggest events button added successfully",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/67",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T04:43:24Z",
+      "mergedAt": "2025-06-16T14:06:39Z",
+      "author": "Jidnyasa-P",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 68,
+      "title": "Feature/footer",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/68",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T06:22:38Z",
+      "mergedAt": "2025-06-17T12:54:25Z",
+      "author": "Joystonm",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 73,
+      "title": "added one more event type",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T08:46:50Z",
+      "mergedAt": "2025-06-16T14:05:41Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 74,
+      "title": "Feature/feedback form",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/74",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T09:20:52Z",
+      "mergedAt": "2025-06-16T17:04:34Z",
+      "author": "ttiwari13",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 78,
+      "title": "cleared the issue [Feature]: Save User’s Last Map View (Zoom & Locat…",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/78",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T15:55:24Z",
+      "mergedAt": "2025-06-16T17:04:23Z",
+      "author": "shanmukhchodagam",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 81,
+      "title": "Added Community forum page to the Website",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/81",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T17:58:10Z",
+      "mergedAt": "2025-06-17T05:41:09Z",
+      "author": "Jashneer",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 83,
+      "title": "Added dark mode toggle with localStorage support",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/83",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T18:38:10Z",
+      "mergedAt": "2025-06-17T12:54:35Z",
+      "author": "shreyamittal10",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 84,
+      "title": "added count up animation using GSAP and scrollTrigger",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/84",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T19:41:25Z",
+      "mergedAt": "2025-06-17T13:53:27Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 90,
+      "title": "Added custom type other",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/90",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T04:24:02Z",
+      "mergedAt": "2025-06-17T05:36:31Z",
+      "author": "anvita-09",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 91,
+      "title": "Add Contact Us page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/91",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T05:44:07Z",
+      "mergedAt": "2025-06-19T13:22:52Z",
+      "author": "arpitsehal",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 94,
+      "title": "Feature/updated site",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/94",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:58:46Z",
+      "mergedAt": "2025-06-17T07:29:11Z",
+      "author": "harshraj005",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 95,
+      "title": "Add a working gps icon on map.",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T07:36:40Z",
+      "mergedAt": "2025-06-17T12:55:22Z",
+      "author": "SHreyanSH-0",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 105,
+      "title": "Fixed map visibility in smaller window",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/105",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T14:28:26Z",
+      "mergedAt": "2025-06-17T16:55:27Z",
+      "author": "SHreyanSH-0",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 108,
+      "title": "Added firebase authentication",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/108",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T16:22:24Z",
+      "mergedAt": "2025-06-17T16:54:46Z",
+      "author": "aryarathoree",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 111,
+      "title": "Added FAQ section",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/111",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T17:13:05Z",
+      "mergedAt": "2025-06-17T17:31:28Z",
+      "author": "bwbeas",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 113,
+      "title": "added eye icon in password field to toggle visibility",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T08:38:55Z",
+      "mergedAt": "2025-06-18T08:52:35Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 115,
+      "title": "Added Badge Generator page and integrated navigation in homepage ",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/115",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T09:10:20Z",
+      "mergedAt": "2025-06-18T09:22:43Z",
+      "author": "Jashneer",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 121,
+      "title": "added smooth hover effects to login and signup buttons",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/121",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T15:56:53Z",
+      "mergedAt": "2025-06-18T16:03:38Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 126,
+      "title": "Added Weather Planner page to the website and navigation link for it in the home page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/126",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T08:22:12Z",
+      "mergedAt": "2025-06-19T14:41:32Z",
+      "author": "Jashneer",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 127,
+      "title": "added delete button",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/127",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T09:11:16Z",
+      "mergedAt": "2025-06-19T13:23:43Z",
+      "author": "anvita-09",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 130,
+      "title": "Added Scroll-to-top Button Issue #117",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/130",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T11:01:32Z",
+      "mergedAt": "2025-06-19T13:23:52Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 132,
+      "title": "added dark mode toggle button in sign-in page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/132",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T13:32:00Z",
+      "mergedAt": "2025-06-19T14:41:45Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 139,
+      "title": "Added Gallery Page to the Website",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/139",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T07:48:46Z",
+      "mergedAt": "2025-06-20T15:21:01Z",
+      "author": "Jashneer",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 143,
+      "title": "Modified the footer design",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/143",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T15:29:37Z",
+      "mergedAt": "2025-06-20T16:21:18Z",
+      "author": "Soumyosish",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 144,
+      "title": "bug-fixed- map anchor tag",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/144",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T18:10:32Z",
+      "mergedAt": "2025-06-20T19:00:11Z",
+      "author": "aryarathoree",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 154,
+      "title": "commented the words",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/154",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T13:27:22Z",
+      "mergedAt": "2025-06-21T19:07:22Z",
+      "author": "Soumyosish",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 155,
+      "title": "shifted dark mode toggle button to a better position",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/155",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T14:21:29Z",
+      "mergedAt": "2025-06-21T19:07:33Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 158,
+      "title": "Add a location button on explore page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/158",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T22:42:37Z",
+      "mergedAt": "2025-06-22T13:37:40Z",
+      "author": "SHreyanSH-0",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 159,
+      "title": "logo+",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/159",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T09:34:13Z",
+      "mergedAt": "2025-06-22T13:37:15Z",
+      "author": "Verma-MK",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 165,
+      "title": "Updated",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/165",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T16:46:41Z",
+      "mergedAt": "2025-06-23T07:08:58Z",
+      "author": "Dipanita45",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 171,
+      "title": "modified the cotact us button",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/171",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T07:13:06Z",
+      "mergedAt": "2025-06-23T11:15:21Z",
+      "author": "Soumyosish",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 172,
+      "title": "fix zoom button overlap on explore page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/172",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T11:43:02Z",
+      "mergedAt": "2025-06-23T17:23:29Z",
+      "author": "SHreyanSH-0",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 173,
+      "title": " Fixes issue-167:replace social platform name to icon",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/173",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T12:31:33Z",
+      "mergedAt": "2025-06-23T17:23:39Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 176,
+      "title": "FIX #175: Addition of map which shows office location",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/176",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T18:17:15Z",
+      "mergedAt": "2025-06-25T11:51:15Z",
+      "author": "arthavjain103",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 177,
+      "title": "modified the community event button",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/177",
+      "state": "MERGED",
+      "createdAt": "2025-06-23T19:18:10Z",
+      "mergedAt": "2025-06-24T16:11:35Z",
+      "author": "Soumyosish",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 178,
+      "title": "Fixed Scroll to Top button",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/178",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T11:16:48Z",
+      "mergedAt": "2025-06-24T16:11:48Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 180,
+      "title": "added eye button in password field to toggle visibilty",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/180",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T16:14:08Z",
+      "mergedAt": "2025-06-27T13:41:32Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 182,
+      "title": "Add tourist attractions finder using geolocation",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/182",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T09:18:02Z",
+      "mergedAt": "2025-06-28T18:04:29Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 186,
+      "title": "Implemented Privacy, Terms and Cookies Page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/186",
+      "state": "MERGED",
+      "createdAt": "2025-06-29T20:27:16Z",
+      "mergedAt": "2025-06-30T13:10:18Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 188,
+      "title": "Added Table of Contents in README",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/188",
+      "state": "MERGED",
+      "createdAt": "2025-06-30T06:27:01Z",
+      "mergedAt": "2025-06-30T13:10:28Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 192,
+      "title": "replaced old bird icon of twitter with X icon",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/192",
+      "state": "MERGED",
+      "createdAt": "2025-07-02T17:39:36Z",
+      "mergedAt": "2025-07-02T18:47:50Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 193,
+      "title": "Add about us page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/193",
+      "state": "MERGED",
+      "createdAt": "2025-07-02T18:12:15Z",
+      "mergedAt": "2025-07-02T18:48:03Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 194,
+      "title": "Add Nearby page for restaurants & hotels",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/194",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T02:53:23Z",
+      "mergedAt": "2025-07-04T12:22:35Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 196,
+      "title": "UI Fix",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/196",
+      "state": "MERGED",
+      "createdAt": "2025-07-04T16:31:08Z",
+      "mergedAt": "2025-07-05T08:28:03Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 198,
+      "title": "🚀 Added Currency Converter Widget",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/198",
+      "state": "MERGED",
+      "createdAt": "2025-07-06T17:45:21Z",
+      "mergedAt": "2025-07-06T18:40:37Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 204,
+      "title": "🚀feature: add professional loading spinner with glassmorphism design",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/204",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T08:01:18Z",
+      "mergedAt": "2025-07-07T13:21:22Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 205,
+      "title": "Fix: Remove duplicate Contact heading, add scroll-based heading anima…",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/205",
+      "state": "MERGED",
+      "createdAt": "2025-07-08T03:32:18Z",
+      "mergedAt": "2025-07-08T06:28:47Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 208,
+      "title": "Enhance About page: modern features section, scroll animations, secti…",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/208",
+      "state": "MERGED",
+      "createdAt": "2025-07-11T14:00:58Z",
+      "mergedAt": "2025-07-11T18:10:55Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 209,
+      "title": "Improved UI of about page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/209",
+      "state": "MERGED",
+      "createdAt": "2025-07-11T17:32:33Z",
+      "mergedAt": "2025-07-11T18:34:31Z",
+      "author": "Ronnit44",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 210,
+      "title": "Revamp FAQ CTA: Replace Contact button with 'Still Questions?' gradie…",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/210",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T08:01:41Z",
+      "mergedAt": "2025-07-12T15:55:26Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 212,
+      "title": "removed one extra issue badge",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/212",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T05:55:44Z",
+      "mergedAt": "2025-07-13T15:07:43Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 213,
+      "title": "🚀 Enhanced contact page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/213",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T19:04:35Z",
+      "mergedAt": "2025-07-13T20:07:24Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 218,
+      "title": "🚀 Implement counting animation for Hero Section stats (Fixes #214)",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/218",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T20:18:04Z",
+      "mergedAt": "2025-07-13T21:44:45Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 219,
+      "title": "✨ Pull Request: Add Typing Effect for \"Discover Events on Map\" in Hero Section",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/219",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T20:37:20Z",
+      "mergedAt": "2025-07-13T21:44:54Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 221,
+      "title": "fixed inconsistent gap between the navbar buttons",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/221",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T08:28:07Z",
+      "mergedAt": "2025-07-15T13:24:54Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 226,
+      "title": "fix: prevent AOS from re-animating FAQ accordion items on click",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/226",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T10:52:13Z",
+      "mergedAt": "2025-07-17T17:40:03Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 227,
+      "title": "✨ Feature Request: Add Custom-Styled Pointer Cursor for Enhanced UI Experience",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/227",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T12:05:08Z",
+      "mergedAt": "2025-07-17T17:40:14Z",
+      "author": "AkshithaReddy005",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 229,
+      "title": "ENHANCE : Improve Chatbot Header Contrast from Main UI",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/229",
+      "state": "MERGED",
+      "createdAt": "2025-07-18T20:26:16Z",
+      "mergedAt": "2025-07-19T03:23:48Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 230,
+      "title": "ENHANCE: Improve event card visibility and update time text color",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/230",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T09:54:05Z",
+      "mergedAt": "2025-07-22T15:45:58Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 231,
+      "title": "ENHANE : logo visablity",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/231",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T11:26:22Z",
+      "mergedAt": "2025-07-21T16:20:26Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "bug",
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 258,
+      "title": "ENHANCE:  change the logo color in light mode and alignment also",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/258",
+      "state": "MERGED",
+      "createdAt": "2025-07-24T06:41:54Z",
+      "mergedAt": "2025-07-24T15:40:40Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
     },
     {
       "number": 21,
@@ -14677,6 +18440,22 @@ var prs = {
       "project": "Prateek9876/NagarVikas"
     },
     {
+      "number": 157,
+      "title": "Added Form Validation",
+      "url": "https://github.com/Prateek9876/NagarVikas/pull/157",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T06:36:43Z",
+      "mergedAt": "2025-07-27T08:30:06Z",
+      "author": "GxAditya",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Prateek9876/NagarVikas"
+    },
+    {
       "number": 11,
       "title": "Feature: AI-Powered Note Summarizer",
       "url": "https://github.com/soumya813/Notes-App/pull/11",
@@ -14803,6 +18582,496 @@ var prs = {
       "level": "Beginner",
       "score": 20,
       "project": "soumya813/Notes-App"
+    },
+    {
+      "number": 89,
+      "title": "issue #38 Add Random quote generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/89",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:27:24Z",
+      "mergedAt": "2025-07-11T09:40:22Z",
+      "author": "sania0607",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 93,
+      "title": "issue #18 completed - Aschii Art generator added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/93",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T10:04:01Z",
+      "mergedAt": "2025-06-16T14:14:52Z",
+      "author": "amaansyed27",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 95,
+      "title": "Feature: modifications in login",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/95",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:11:20Z",
+      "mergedAt": "2025-07-11T09:45:28Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 98,
+      "title": "Feature: analog and digital clock",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/98",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:32:22Z",
+      "mergedAt": "2025-07-11T09:50:32Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 100,
+      "title": "Added Password Strength Visalizer/Strength Checker",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T12:44:51Z",
+      "mergedAt": "2025-07-12T09:40:37Z",
+      "author": "adwityac",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 112,
+      "title": "Issue #74 Tic Tac Toe Game Added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/112",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T16:25:39Z",
+      "mergedAt": "2025-07-11T10:26:39Z",
+      "author": "AnoushkaSamanta",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 142,
+      "title": "Added the code for physics simulation",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/142",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T14:57:26Z",
+      "mergedAt": "2025-06-16T15:12:46Z",
+      "author": "Vishisht-Dwivedi",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 150,
+      "title": "Issue #48 resolved - Add random user generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/150",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T13:52:21Z",
+      "mergedAt": "2025-07-22T11:20:13Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 151,
+      "title": "Issue #54 resolved - Add image search app",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/151",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T14:03:13Z",
+      "mergedAt": "2025-07-22T11:44:19Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 170,
+      "title": "Added Coin Flip game",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/170",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T10:09:20Z",
+      "mergedAt": "2025-07-11T10:45:14Z",
+      "author": "Radhika-dodain",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 189,
+      "title": "Issue #16 resolved- Added Correct Linkedin Link",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/189",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T19:36:03Z",
+      "mergedAt": "2025-07-20T16:15:31Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 201,
+      "title": "Issue #64 solved: URL Shortener",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/201",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T22:39:47Z",
+      "mergedAt": "2025-07-20T16:13:12Z",
+      "author": "ANTIK-007",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 202,
+      "title": "Issue #63 Solution: WaterMedic",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/202",
+      "state": "MERGED",
+      "createdAt": "2025-07-09T22:55:00Z",
+      "mergedAt": "2025-07-21T15:49:39Z",
+      "author": "dipmanmajumdar",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 207,
+      "title": "Guess My Number Game✅",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/207",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T07:20:55Z",
+      "mergedAt": "2025-07-20T16:29:19Z",
+      "author": "pahimauchil",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 210,
+      "title": "\"Navbar Issue in mobile view\"",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/210",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T17:41:15Z",
+      "mergedAt": "2025-07-19T12:51:45Z",
+      "author": "chauhangarv",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 211,
+      "title": "E- Waste Management Hub ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/211",
+      "state": "MERGED",
+      "createdAt": "2025-07-12T18:29:03Z",
+      "mergedAt": "2025-07-19T12:32:20Z",
+      "author": "Abhirup-261004",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 213,
+      "title": "fix-issue-184",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/213",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T08:51:01Z",
+      "mergedAt": "2025-07-19T12:25:36Z",
+      "author": "Nandinikumari02",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 214,
+      "title": "Character word counter",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/214",
+      "state": "MERGED",
+      "createdAt": "2025-07-13T10:52:21Z",
+      "mergedAt": "2025-07-19T12:23:13Z",
+      "author": "anchalchaturvedi08",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 216,
+      "title": "Update index.js for portfolio",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/216",
+      "state": "MERGED",
+      "createdAt": "2025-07-14T17:54:25Z",
+      "mergedAt": "2025-07-20T16:00:07Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 219,
+      "title": "Project on Dice Roll SImulatorAdd files via upload",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/219",
+      "state": "MERGED",
+      "createdAt": "2025-07-19T12:44:30Z",
+      "mergedAt": "2025-07-20T15:56:06Z",
+      "author": "HARSHMOHAN01",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 220,
+      "title": "Add countdown banner (Fixes #195)",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/220",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T09:00:55Z",
+      "mergedAt": "2025-07-20T15:58:33Z",
+      "author": "Priyanshi-prog",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 223,
+      "title": "Enhance Footer Text Visibility",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/223",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T16:28:41Z",
+      "mergedAt": "2025-07-20T16:38:32Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 224,
+      "title": "Candycrushgame",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/224",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T16:57:53Z",
+      "mergedAt": "2025-07-21T15:43:41Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 225,
+      "title": "Weather App – Initial Release",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/225",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T18:26:51Z",
+      "mergedAt": "2025-07-22T13:37:37Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 229,
+      "title": "UI update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/229",
+      "state": "MERGED",
+      "createdAt": "2025-07-21T16:46:33Z",
+      "mergedAt": "2025-07-22T13:35:41Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 242,
+      "title": "Resolved Issue #240: updated index.js",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/242",
+      "state": "MERGED",
+      "createdAt": "2025-07-22T14:13:42Z",
+      "mergedAt": "2025-07-24T15:36:22Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 288,
+      "title": "[UPDATED! - Fork] QR generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/288",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T10:26:15Z",
+      "mergedAt": "2025-07-26T04:25:23Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 296,
+      "title": "Portfolio #72",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/296",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T15:52:25Z",
+      "mergedAt": "2025-07-26T15:27:40Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 311,
+      "title": "Update the Social Links",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/311",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T10:57:47Z",
+      "mergedAt": "2025-07-26T15:35:31Z",
+      "author": "kauntiaakash2",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
       "number": 33,
