@@ -2027,6 +2027,24 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1481,
+      "title": "Bank Loan Status Prediction",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1481",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T13:39:35Z",
+      "mergedAt": "2025-07-28T08:23:26Z",
+      "author": "VenkataSarma",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -6473,6 +6491,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 152,
+      "title": "🔐 Add password strength checker to login form",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/152",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T20:25:55Z",
+      "mergedAt": "2025-07-28T07:06:44Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 153,
       "title": "fix(auth): handle JSON parsing errors during user registration",
       "url": "https://github.com/k0msenapati/study-sphere/pull/153",
@@ -6486,6 +6520,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 154,
+      "title": "Added the Quiz Section Features",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/154",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T01:17:19Z",
+      "mergedAt": "2025-07-28T07:11:39Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "k0msenapati/study-sphere"
     },
     {
@@ -6685,6 +6735,22 @@ var prs = {
       "author": "aryanguptacsvtu",
       "labels": [
         "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 32,
+      "title": "feat: add Navbar component; integrate react-scroll for smooth navigation",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/32",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:50:44Z",
+      "mergedAt": "2025-06-14T15:04:55Z",
+      "author": "DeadpoolX7",
+      "labels": [
         "SSoC25",
         "Beginner"
       ],
@@ -14994,6 +15060,38 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 57,
+      "title": "Added api endpoints for encryptions",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/57",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T19:51:55Z",
+      "mergedAt": "2025-07-28T00:49:27Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 59,
+      "title": "Added ✨Glassy Container",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/59",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T23:30:20Z",
+      "mergedAt": "2025-07-28T00:48:05Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
     },
     {
