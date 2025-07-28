@@ -1710,6 +1710,126 @@ Total Points: ${summary.summary.totalPoints}`;
         "ThePhoenix08/open-graph-visualizer",
         "Swapnil-Dhamal/EventHive"
       ].map(l => l.toLowerCase());
+      const thevaIlla = `beadarshh/Alex_Interview_Bot
+opensource-society/CodeSpace
+shivampatkar/my-portfolio
+vanshchauhan21/CryptoTracker
+bhavishya2601/skilloria
+jayraj175coder/Entertainer
+rajdeep13-coder/Resume-Generator
+Samarcodesinpython/Ni-Swarth
+Dipanita45/HEALCONNECT
+Debanjannnn/DACCY
+PerseusKyogre09/ScrollCue.js
+codeaashu/DevDisplay
+Vaibhav-kesarwani/Codeforces-Problem-Recommender
+Cyberninja30/TeleRehab
+Aryan-coder-student/NeuroVision-BHPC
+divi-24/Thrive
+divi-24/KisaanSetu-f
+divi-24/IG3D
+deskree-inc/nanoservice-ts
+sayan0328/WallGodds-App
+Parnab03/WallGodds
+avanimathur/Build-your-own-Git-opensource
+ayushghonge19/megabackendproj
+dhruvXcode247/Multi_class_animal_classification
+khushalp2004/Graphixo
+souvik-maity/StyleCart
+ayushsin9h/WanderStay-Your-Premium-Hotel-Finder
+VAIBHAVBABELE/emergency-optimizer
+AdityaRalhan/CopConnect
+ISHAAN-KKR/Entprep
+Code-A2Z/jarvis
+Code-A2Z/code-a2z
+dhairyagothi/100_days_100_web_project
+Nikkhil003/Carbon-Footprint-Detection
+Akshat111111/NexTrade
+xxRAJA/GYM-Profile-
+Drago-03/Neural-Nexus
+B4S1C-Coder/Decentralized-File-Storage
+dhairyagothi/StationGuide
+RudraniGhosh24/NyayaBot
+Premkolte/AnimateHub
+imsuryya/CSphere
+adityasingh-0803/Canvasmind
+ShrutiSawant0804/Statewise-Police-Political-Directory-Portal
+PARIGUPTA0011/Samwaad
+shuvadeepmondal/HacKerZGuiDe
+Vivek09Chahal/Medic-Search
+kashikaga/FinTrak
+GauravKarakoti/Weather-API
+ashish-um/reddiculous
+rudralpha10/Coolsphere
+Rakesh9100/Beautiify
+Rakesh9100/CalcDiverse
+Rakesh9100/Eventica
+thishika-k/IQTOPIA-NEW
+mansiruhil/fail-u-forward
+saksham0mahnot/safarr
+codingtrend/tic-tac-toe-Game
+arjunatapadkar/codeteria
+Varshitha713/good-first-issue-for-students
+Shashwat-Trivedi/Job-Dhundo
+Yogareddy107/IntraSphere-JobPortal
+Shantanu-Tiwari/CoCode
+EmailScript/EmailScript
+Mayuri734/Her-Bloom-Project
+koustavx08/academic-chain-main
+Vaibhavlanjewar/Csgpt
+atharva038/KnockNFix
+akshay0611/tanjore-degree-coffee
+git-aaditmehta/cardwise
+Kalaigar-Ayesha/Fake-interships-detection
+iDhruv03/Call-My-Lawyer
+Kaliagargi/forest-fireprotection
+apu52/Travel_Website
+apu52/METAVERSE
+vacanza/holidays
+soundarya8/Signify
+apna-college/wanderlust
+Varshini-Buggana/E-commerce-Complete-Flutter-UI
+VARUN3WARE/GroundBot
+Nandani1512/byteverse_Mavericks
+sailaja-adapa/GuruShish
+sumit-make/Smart-University
+SAMBUDAR/Styleka
+SamXop123/tools.io
+SGCODEX/Music-Recommendation-Using-Facial-Expressions
+SGCODEX/Hackathon-Website
+rimanshupatel/FitMind_Ai
+Ananta025/VIDEO_MEET
+AgrimTawani/WordBattle
+Ananta025/Financy
+owasp/nest
+Vrushti-kulkarni/Terrawise
+Vaishnavi-Manne/CSS-Masterpieces
+Nazeya86/TaskByte
+sAnandha/AWS-Project-Documentation
+efshaperveen/MindJournal
+Mohitranag18/PPT.fy
+sailaja-adapa/gurushish
+Raga-03/Twitter_Sentiment_Analysis
+Piyush-t24/NBG
+SharonIV0x86/CinderPeak
+i-amit-tiwari/E-Commerce-Website
+i-amit-tiwari/Food-Ordering
+Kalaigar-Ayesha/Job-Application-Tracker
+Jotthecode/CITY-PULSE
+akshtshrma/KinetiX
+Darshan0244/Study_Zen
+mohitcse22/Game-zone
+SrigadaAkshayKumar/chatapp-frontend
+SrigadaAkshayKumar/stock
+ThePhoenix08/open-graph-visualizer
+Swapnil-Dhamal/EventHive`
+        .split(
+          `
+`
+        )
+        .map(s => s.toLowerCase());
+      const getProjectName = url =>
+        new URL(url).pathname.split("/").slice(1, 3).join("/");
       const baseLabel = "SSoC25";
       const labelsWithPoints = {
         Beginner: 20,
@@ -1729,32 +1849,37 @@ Total Points: ${summary.summary.totalPoints}`;
 
         resultDiv.innerHTML = "<p>Validating pull request...</p>";
 
-        validatePullRequest(
-          prURL,
-          users,
-          projects,
-          baseLabel,
-          labelsWithPoints,
-          leaderboardDeploymentTime,
-          githubToken
-        )
-          .then(result => {
-            if (result.valid) {
-              resultDiv.innerHTML = `<strong>✅ Valid Pull Request ✅</strong>
+        if (thevaIlla.includes(getProjectName(prURL).toLowerCase())) {
+          resultDiv.innerHTML = `<strong>❌ Error ❌</strong>
+This project was removed from the list due to inactivity. Kindly contact the Project Admin or the Organisers.`;
+        } else {
+          validatePullRequest(
+            prURL,
+            users,
+            projects,
+            baseLabel,
+            labelsWithPoints,
+            leaderboardDeploymentTime,
+            githubToken
+          )
+            .then(result => {
+              if (result.valid) {
+                resultDiv.innerHTML = `<strong>✅ Valid Pull Request ✅</strong>
 <strong>User:</strong>       ${result.user}
 <strong>Project:</strong>    ${result.project}
 <strong>Difficulty:</strong> ${result.label}
 <strong>Points:</strong>     ${result.points}
 <strong>Merged at:</strong>  ${new Date(result.mergedAt).toLocaleString()}`;
-            } else {
-              resultDiv.innerHTML = `<strong>❌ Invalid Pull Request ❌</strong>
+              } else {
+                resultDiv.innerHTML = `<strong>❌ Invalid Pull Request ❌</strong>
 ${result.reason}`;
-            }
-          })
-          .catch(error => {
-            resultDiv.innerHTML = `<strong>❌ Error ❌</strong>
+              }
+            })
+            .catch(error => {
+              resultDiv.innerHTML = `<strong>❌ Error ❌</strong>
 ${error.message}`;
-          });
+            });
+        }
       }
     </script>
   </body>
