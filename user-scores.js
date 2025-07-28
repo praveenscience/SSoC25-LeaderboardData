@@ -6616,12 +6616,12 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 780,
-      "prCount": 25,
+      "totalScore": 930,
+      "prCount": 29,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 22,
-        "Advanced": 3
+        "Intermediate": 23,
+        "Advanced": 6
       }
     },
     "ayushjava07": {

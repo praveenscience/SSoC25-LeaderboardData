@@ -8111,6 +8111,70 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 242,
+      "title": "Pull Request of Audio Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/242",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T22:07:03Z",
+      "mergedAt": "2025-07-28T17:08:48Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 253,
+      "title": "Pull request of class imbalance problem",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/253",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T17:05:06Z",
+      "mergedAt": "2025-07-28T17:06:04Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 254,
+      "title": "Pull request of COVID_19-DATA ANALYSIS",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/254",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T17:08:54Z",
+      "mergedAt": "2025-07-28T17:11:41Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 255,
+      "title": "Pull request of Heart Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/255",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T17:15:31Z",
+      "mergedAt": "2025-07-28T17:17:41Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
