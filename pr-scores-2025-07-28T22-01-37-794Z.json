@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-28T19:19:11.643Z",
+  "timestamp": "2025-07-28T22:01:09.280Z",
   "summary": {
     "totalPRs": 1225,
     "totalPoints": 33030
@@ -12145,6 +12145,42 @@
         "Intermediate": 0,
         "Advanced": 0
       }
+    },
+    "shambhujadhav4": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "tejahussain279": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "VivekRai-gif": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "divijg19": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
     }
   },
   "projects": {
@@ -13499,7 +13535,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "mryashsinghal/Resume-Builder": {
@@ -14853,7 +14893,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "SumitGorai01/TechieBlog": {
@@ -16207,7 +16251,11 @@
         "aayishajalal": 0,
         "shriyanyk": 1,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "UTSAVS26/PyVerse": {
@@ -17561,7 +17609,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "adityas1309/RaktConnect": {
@@ -18915,7 +18967,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Dev-Dhruba/NeuroDev-Therapy": {
@@ -20269,7 +20325,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "divi-24/SheSync": {
@@ -21623,7 +21683,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "alienx5499/SortVision": {
@@ -22977,7 +23041,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "k0msenapati/study-sphere": {
@@ -24331,7 +24399,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "ShikhaMaurya212402/Plant-Disease-Classification-Model": {
@@ -25685,7 +25757,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit": {
@@ -27039,7 +27115,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Fenirok/Earthquake_app": {
@@ -28393,7 +28473,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "PRIYANSHU2026/DataSentience-AIML": {
@@ -29747,7 +29831,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Saumy1905/PYQFort": {
@@ -31101,7 +31189,11 @@
         "aayishajalal": 13,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "rutikakengal/FoodFusion-Online-Food-Ordering-Web": {
@@ -32455,7 +32547,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "ruchikakengal/100_Days_100_webprojects": {
@@ -33809,7 +33905,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "itsaryanchauhan/ThinkDSA": {
@@ -35163,7 +35263,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Mayur-Pagote/README_Design_Kit": {
@@ -36517,7 +36621,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Programmers-Paradise/Annie": {
@@ -37871,7 +37979,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "venuchander/fintrack": {
@@ -39225,7 +39337,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "sailaja-adapa/Vipreshana": {
@@ -40579,7 +40695,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool": {
@@ -41933,7 +42053,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "HarshS16/Civix": {
@@ -43287,7 +43411,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Kirti-Rathi/PromptShell": {
@@ -44641,7 +44769,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Bhavya1352/eventmappr": {
@@ -45995,7 +46127,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "Prateek9876/NagarVikas": {
@@ -47349,7 +47485,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "soumya813/Notes-App": {
@@ -48703,7 +48843,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "ruchikakengal/WebDevIn100_Days": {
@@ -50057,7 +50201,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     },
     "CLUSTER-DS-Club/cluster": {
@@ -51411,7 +51559,11 @@
         "aayishajalal": 0,
         "shriyanyk": 0,
         "harkan28": 0,
-        "aayushr22": 0
+        "aayushr22": 0,
+        "shambhujadhav4": 0,
+        "tejahussain279": 0,
+        "VivekRai-gif": 0,
+        "divijg19": 0
       }
     }
   },
