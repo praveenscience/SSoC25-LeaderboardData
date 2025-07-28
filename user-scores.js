@@ -2494,11 +2494,11 @@ var userScores = {
       }
     },
     "Ronnit44": {
-      "totalScore": 410,
-      "prCount": 19,
+      "totalScore": 440,
+      "prCount": 20,
       "prsByLevel": {
         "Beginner": 16,
-        "Intermediate": 3,
+        "Intermediate": 4,
         "Advanced": 0
       }
     },
@@ -3592,12 +3592,12 @@ var userScores = {
       }
     },
     "ThulasiPriyaS": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 40,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "Ranganivandan": {
@@ -5482,10 +5482,10 @@ var userScores = {
       }
     },
     "RAJVEER42": {
-      "totalScore": 140,
-      "prCount": 6,
+      "totalScore": 160,
+      "prCount": 7,
       "prsByLevel": {
-        "Beginner": 4,
+        "Beginner": 5,
         "Intermediate": 2,
         "Advanced": 0
       }

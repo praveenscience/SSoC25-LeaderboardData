@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-28T09:02:12.198Z",
+  "timestamp": "2025-07-28T11:37:01.551Z",
   "summary": {
-    "totalPRs": 1215,
-    "totalPoints": 32700
+    "totalPRs": 1218,
+    "totalPoints": 32790
   },
   "users": {
     "72897": {
@@ -2499,11 +2499,11 @@
       }
     },
     "Ronnit44": {
-      "totalScore": 410,
-      "prCount": 19,
+      "totalScore": 440,
+      "prCount": 20,
       "prsByLevel": {
         "Beginner": 16,
-        "Intermediate": 3,
+        "Intermediate": 4,
         "Advanced": 0
       }
     },
@@ -3597,12 +3597,12 @@
       }
     },
     "ThulasiPriyaS": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 40,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "Ranganivandan": {
@@ -5487,10 +5487,10 @@
       }
     },
     "RAJVEER42": {
-      "totalScore": 140,
-      "prCount": 6,
+      "totalScore": 160,
+      "prCount": 7,
       "prsByLevel": {
-        "Beginner": 4,
+        "Beginner": 5,
         "Intermediate": 2,
         "Advanced": 0
       }
@@ -98805,7 +98805,7 @@
       }
     },
     "sailaja-adapa/Vipreshana": {
-      "totalPRs": 57,
+      "totalPRs": 60,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -99084,7 +99084,7 @@
         "Siddhi-31": 0,
         "VJLIVE": 0,
         "AnuranjanJain": 0,
-        "Ronnit44": 4,
+        "Ronnit44": 5,
         "Priyanshiunique": 0,
         "Gauravsinghrajputt": 0,
         "rohitshankar12": 0,
@@ -99206,7 +99206,7 @@
         "Arni005": 0,
         "gauravanand809": 0,
         "lerisa1112": 0,
-        "ThulasiPriyaS": 0,
+        "ThulasiPriyaS": 1,
         "Ranganivandan": 0,
         "Samridhi-2007": 2,
         "Saitej5181": 0,
@@ -99416,7 +99416,7 @@
         "SandeepYadav2413182": 0,
         "Sachinsingh2002": 0,
         "Devansh1974": 0,
-        "RAJVEER42": 0,
+        "RAJVEER42": 1,
         "pritisingh196": 0,
         "Sanskarsn": 0,
         "themayank1729": 0,
@@ -219136,6 +219136,54 @@
       "createdAt": "2025-07-24T04:39:17Z",
       "mergedAt": "2025-07-25T13:06:56Z",
       "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 245,
+      "title": "Fix: Add missing phone-based booking retrieval functionality",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/245",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T18:10:47Z",
+      "mergedAt": "2025-07-28T11:04:57Z",
+      "author": "ThulasiPriyaS",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 247,
+      "title": "added a still questions section at end of howitworks page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/247",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T19:46:07Z",
+      "mergedAt": "2025-07-28T10:56:30Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 248,
+      "title": "🔐 Added the password checker",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/248",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T20:01:51Z",
+      "mergedAt": "2025-07-28T11:08:47Z",
+      "author": "RAJVEER42",
       "labels": [
         "SSoC25",
         "Beginner"

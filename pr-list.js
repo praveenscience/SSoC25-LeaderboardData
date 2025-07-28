@@ -14727,6 +14727,54 @@ var prs = {
       "project": "sailaja-adapa/Vipreshana"
     },
     {
+      "number": 245,
+      "title": "Fix: Add missing phone-based booking retrieval functionality",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/245",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T18:10:47Z",
+      "mergedAt": "2025-07-28T11:04:57Z",
+      "author": "ThulasiPriyaS",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 247,
+      "title": "added a still questions section at end of howitworks page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/247",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T19:46:07Z",
+      "mergedAt": "2025-07-28T10:56:30Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 248,
+      "title": "🔐 Added the password checker",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/248",
+      "state": "MERGED",
+      "createdAt": "2025-07-26T20:01:51Z",
+      "mergedAt": "2025-07-28T11:08:47Z",
+      "author": "RAJVEER42",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
       "number": 7,
       "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
       "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
