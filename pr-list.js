@@ -12067,6 +12067,22 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 346,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/346",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T12:53:41Z",
+      "mergedAt": "2025-07-28T13:18:35Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 37,
       "title": " Added Table of Contents to improve navigation",
       "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/37",
@@ -16401,11 +16417,29 @@ var prs = {
       "mergedAt": "2025-07-27T17:17:56Z",
       "author": "MaulikGupta27",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner"
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 354,
+      "title": "Smooth animation for FAQS",
+      "url": "https://github.com/HarshS16/Civix/pull/354",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T19:14:54Z",
+      "mergedAt": "2025-07-28T11:25:17Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "HarshS16/Civix"
     },
     {
@@ -19411,6 +19445,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 346,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/346",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T12:53:41Z",
+      "mergedAt": "2025-07-28T13:18:35Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {

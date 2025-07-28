@@ -6337,11 +6337,11 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 1060,
-      "prCount": 42,
+      "totalScore": 1120,
+      "prCount": 44,
       "prsByLevel": {
         "Beginner": 29,
-        "Intermediate": 4,
+        "Intermediate": 6,
         "Advanced": 9
       }
     },
@@ -9100,11 +9100,11 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 370,
-      "prCount": 14,
+      "totalScore": 400,
+      "prCount": 15,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 3,
+        "Intermediate": 4,
         "Advanced": 3
       }
     },
