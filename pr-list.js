@@ -6539,6 +6539,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 156,
+      "title": "added eye icon to toggle password visibility",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/156",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T17:21:50Z",
+      "mergedAt": "2025-07-29T11:21:12Z",
+      "author": "Ronnit44",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 16,
       "title": "Create CODE_OF_CONDUCT.md",
       "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
@@ -11641,6 +11657,40 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 209,
+      "title": "UI update",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/209",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T12:28:03Z",
+      "mergedAt": "2025-07-29T11:58:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 210,
+      "title": "Add Feedback & Reviews Section Above Footer",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/210",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T14:01:07Z",
+      "mergedAt": "2025-07-29T11:53:52Z",
+      "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 89,
       "title": "issue #38 Add Random quote generator",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/89",
@@ -12131,6 +12181,22 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 335,
+      "title": "Improved footer UI",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/335",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T07:36:42Z",
+      "mergedAt": "2025-07-29T08:44:53Z",
+      "author": "Ashi1411",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 346,
       "title": "Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/346",
@@ -12144,6 +12210,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 377,
+      "title": "Added notes app",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/377",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T22:32:10Z",
+      "mergedAt": "2025-07-29T09:20:30Z",
+      "author": "VJLIVE",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -13609,6 +13691,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-07-26T05:12:41Z",
       "mergedAt": "2025-07-26T12:40:43Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
+      "number": 245,
+      "title": "Bug Fix",
+      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/245",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T06:57:23Z",
+      "mergedAt": "2025-07-29T10:07:04Z",
       "author": "HimanshuKabra01",
       "labels": [
         "SSoC25",
@@ -15214,6 +15312,22 @@ var prs = {
       "createdAt": "2025-07-27T23:30:20Z",
       "mergedAt": "2025-07-28T00:48:05Z",
       "author": "RAJVEER42",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 60,
+      "title": "React frontend Added",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/60",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T07:14:16Z",
+      "mergedAt": "2025-07-29T07:50:50Z",
+      "author": "SK8-infi",
       "labels": [
         "SSoC25",
         "Intermediate"
@@ -19512,6 +19626,22 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 335,
+      "title": "Improved footer UI",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/335",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T07:36:42Z",
+      "mergedAt": "2025-07-29T08:44:53Z",
+      "author": "Ashi1411",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 346,
       "title": "Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/346",
@@ -19525,6 +19655,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 377,
+      "title": "Added notes app",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/377",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T22:32:10Z",
+      "mergedAt": "2025-07-29T09:20:30Z",
+      "author": "VJLIVE",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
