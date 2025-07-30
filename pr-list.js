@@ -2077,6 +2077,96 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1527,
+      "title": "SmartCLI: Natural Language Command-Line Toolkit Implementation",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1527",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T23:07:42Z",
+      "mergedAt": "2025-07-30T08:43:12Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1528,
+      "title": "Real-Time AI Noise Filter for Microphone Input - CleanSpeak",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1528",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T23:24:01Z",
+      "mergedAt": "2025-07-30T08:42:58Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1529,
+      "title": "Smart GUI-based PDF-to-Text Extractor with Advanced OCR and AI Correction",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1529",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T23:53:34Z",
+      "mergedAt": "2025-07-30T08:42:39Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1531,
+      "title": "PySleuth: Context-Aware Python Debugger Implementation",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1531",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T06:27:34Z",
+      "mergedAt": "2025-07-30T08:42:05Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1532,
+      "title": "PyFlowViz: Code-to-Flowchart Auto Generator",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1532",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T06:34:24Z",
+      "mergedAt": "2025-07-30T08:41:44Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -3557,6 +3647,38 @@ var prs = {
       "createdAt": "2025-07-29T15:05:46Z",
       "mergedAt": "2025-07-29T15:53:06Z",
       "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 304,
+      "title": "Fix footer link light theme",
+      "url": "https://github.com/divi-24/SheSync/pull/304",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T07:32:51Z",
+      "mergedAt": "2025-07-30T07:39:50Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 310,
+      "title": "Updated auth logic and UI for contributors page",
+      "url": "https://github.com/divi-24/SheSync/pull/310",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T09:14:03Z",
+      "mergedAt": "2025-07-30T09:17:24Z",
+      "author": "VJLIVE",
       "labels": [
         "SSoC25",
         "Beginner"

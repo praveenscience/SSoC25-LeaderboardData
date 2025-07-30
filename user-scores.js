@@ -2476,10 +2476,10 @@ var userScores = {
       }
     },
     "VJLIVE": {
-      "totalScore": 620,
-      "prCount": 21,
+      "totalScore": 640,
+      "prCount": 22,
       "prsByLevel": {
-        "Beginner": 6,
+        "Beginner": 7,
         "Intermediate": 10,
         "Advanced": 5
       }
@@ -7408,12 +7408,12 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 1170,
-      "prCount": 40,
+      "totalScore": 1370,
+      "prCount": 45,
       "prsByLevel": {
         "Beginner": 16,
         "Intermediate": 11,
-        "Advanced": 13
+        "Advanced": 18
       }
     },
     "Soultk1977": {
@@ -8479,10 +8479,10 @@ var userScores = {
       }
     },
     "Suhaniisingh05": {
-      "totalScore": 60,
-      "prCount": 3,
+      "totalScore": 80,
+      "prCount": 4,
       "prsByLevel": {
-        "Beginner": 3,
+        "Beginner": 4,
         "Intermediate": 0,
         "Advanced": 0
       }
