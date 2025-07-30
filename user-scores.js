@@ -136,11 +136,11 @@ var userScores = {
       }
     },
     "AasthaPoswal": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 30,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -1963,10 +1963,10 @@ var userScores = {
       }
     },
     "aliviahossain": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 70,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 1,
         "Advanced": 0
       }
@@ -2224,10 +2224,10 @@ var userScores = {
       }
     },
     "kumkumverm": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 60,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 3,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -2476,10 +2476,10 @@ var userScores = {
       }
     },
     "VJLIVE": {
-      "totalScore": 600,
-      "prCount": 20,
+      "totalScore": 620,
+      "prCount": 21,
       "prsByLevel": {
-        "Beginner": 5,
+        "Beginner": 6,
         "Intermediate": 10,
         "Advanced": 5
       }
@@ -2881,10 +2881,10 @@ var userScores = {
       }
     },
     "pari3654": {
-      "totalScore": 40,
-      "prCount": 2,
+      "totalScore": 60,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 3,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -3187,10 +3187,10 @@ var userScores = {
       }
     },
     "arjavjain5203": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -3331,10 +3331,10 @@ var userScores = {
       }
     },
     "MaulikGupta27": {
-      "totalScore": 430,
-      "prCount": 20,
+      "totalScore": 570,
+      "prCount": 27,
       "prsByLevel": {
-        "Beginner": 17,
+        "Beginner": 24,
         "Intermediate": 3,
         "Advanced": 0
       }
@@ -3916,12 +3916,12 @@ var userScores = {
       }
     },
     "Namanbanshiwala": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 40,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "shavy1910": {
@@ -3997,11 +3997,11 @@ var userScores = {
       }
     },
     "Code-writter": {
-      "totalScore": 270,
-      "prCount": 9,
+      "totalScore": 300,
+      "prCount": 10,
       "prsByLevel": {
         "Beginner": 3,
-        "Intermediate": 3,
+        "Intermediate": 4,
         "Advanced": 3
       }
     },
@@ -4501,10 +4501,10 @@ var userScores = {
       }
     },
     "arthavjain103": {
-      "totalScore": 430,
-      "prCount": 17,
+      "totalScore": 450,
+      "prCount": 18,
       "prsByLevel": {
-        "Beginner": 10,
+        "Beginner": 11,
         "Intermediate": 5,
         "Advanced": 2
       }
@@ -4915,11 +4915,11 @@ var userScores = {
       }
     },
     "tanu91112": {
-      "totalScore": 520,
-      "prCount": 16,
+      "totalScore": 550,
+      "prCount": 17,
       "prsByLevel": {
         "Beginner": 3,
-        "Intermediate": 6,
+        "Intermediate": 7,
         "Advanced": 7
       }
     },
@@ -5446,11 +5446,11 @@ var userScores = {
       }
     },
     "Kushagra888": {
-      "totalScore": 120,
-      "prCount": 6,
+      "totalScore": 150,
+      "prCount": 7,
       "prsByLevel": {
         "Beginner": 6,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -6337,10 +6337,10 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 1140,
-      "prCount": 45,
+      "totalScore": 1160,
+      "prCount": 46,
       "prsByLevel": {
-        "Beginner": 30,
+        "Beginner": 31,
         "Intermediate": 6,
         "Advanced": 9
       }
@@ -6409,11 +6409,11 @@ var userScores = {
       }
     },
     "afreenaiml": {
-      "totalScore": 110,
-      "prCount": 4,
+      "totalScore": 140,
+      "prCount": 5,
       "prsByLevel": {
         "Beginner": 2,
-        "Intermediate": 1,
+        "Intermediate": 2,
         "Advanced": 1
       }
     },
@@ -6463,11 +6463,11 @@ var userScores = {
       }
     },
     "umarsayed12": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 70,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
+        "Beginner": 2,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -6616,12 +6616,12 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 930,
-      "prCount": 29,
+      "totalScore": 1160,
+      "prCount": 36,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 23,
-        "Advanced": 6
+        "Intermediate": 28,
+        "Advanced": 8
       }
     },
     "ayushjava07": {
@@ -7408,10 +7408,10 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 1150,
-      "prCount": 39,
+      "totalScore": 1170,
+      "prCount": 40,
       "prsByLevel": {
-        "Beginner": 15,
+        "Beginner": 16,
         "Intermediate": 11,
         "Advanced": 13
       }
@@ -7543,10 +7543,10 @@ var userScores = {
       }
     },
     "vivekd16": {
-      "totalScore": 530,
-      "prCount": 23,
+      "totalScore": 570,
+      "prCount": 25,
       "prsByLevel": {
-        "Beginner": 18,
+        "Beginner": 20,
         "Intermediate": 3,
         "Advanced": 2
       }
@@ -8668,11 +8668,11 @@ var userScores = {
       }
     },
     "atul812": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 80,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
-        "Intermediate": 1,
+        "Intermediate": 2,
         "Advanced": 0
       }
     },
@@ -9118,10 +9118,10 @@ var userScores = {
       }
     },
     "Muneerali199": {
-      "totalScore": 20,
-      "prCount": 1,
+      "totalScore": 40,
+      "prCount": 2,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -9487,10 +9487,10 @@ var userScores = {
       }
     },
     "gourikasoni": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -10306,19 +10306,19 @@ var userScores = {
       }
     },
     "SubhamKojha": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 70,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 1,
         "Advanced": 0
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 260,
-      "prCount": 13,
+      "totalScore": 280,
+      "prCount": 14,
       "prsByLevel": {
-        "Beginner": 13,
+        "Beginner": 14,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -11575,12 +11575,12 @@ var userScores = {
       }
     },
     "michael-0007a": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 60,
+      "prCount": 2,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "Sanchita76": {
@@ -12160,6 +12160,24 @@ var userScores = {
       }
     },
     "Mahak0747": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "Coder-HNP": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "Deepu9981": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {

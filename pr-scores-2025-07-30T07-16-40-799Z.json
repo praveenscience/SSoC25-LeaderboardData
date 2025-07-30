@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-29T12:11:00.789Z",
+  "timestamp": "2025-07-30T07:16:18.133Z",
   "summary": {
-    "totalPRs": 1234,
-    "totalPoints": 33230
+    "totalPRs": 1276,
+    "totalPoints": 34270
   },
   "users": {
     "72897": {
@@ -141,11 +141,11 @@
       }
     },
     "AasthaPoswal": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 30,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -1968,10 +1968,10 @@
       }
     },
     "aliviahossain": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 70,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 1,
         "Advanced": 0
       }
@@ -2229,10 +2229,10 @@
       }
     },
     "kumkumverm": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 60,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 3,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -2481,10 +2481,10 @@
       }
     },
     "VJLIVE": {
-      "totalScore": 600,
-      "prCount": 20,
+      "totalScore": 620,
+      "prCount": 21,
       "prsByLevel": {
-        "Beginner": 5,
+        "Beginner": 6,
         "Intermediate": 10,
         "Advanced": 5
       }
@@ -2886,10 +2886,10 @@
       }
     },
     "pari3654": {
-      "totalScore": 40,
-      "prCount": 2,
+      "totalScore": 60,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 3,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -3192,10 +3192,10 @@
       }
     },
     "arjavjain5203": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -3336,10 +3336,10 @@
       }
     },
     "MaulikGupta27": {
-      "totalScore": 430,
-      "prCount": 20,
+      "totalScore": 570,
+      "prCount": 27,
       "prsByLevel": {
-        "Beginner": 17,
+        "Beginner": 24,
         "Intermediate": 3,
         "Advanced": 0
       }
@@ -3921,12 +3921,12 @@
       }
     },
     "Namanbanshiwala": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 40,
+      "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "shavy1910": {
@@ -4002,11 +4002,11 @@
       }
     },
     "Code-writter": {
-      "totalScore": 270,
-      "prCount": 9,
+      "totalScore": 300,
+      "prCount": 10,
       "prsByLevel": {
         "Beginner": 3,
-        "Intermediate": 3,
+        "Intermediate": 4,
         "Advanced": 3
       }
     },
@@ -4506,10 +4506,10 @@
       }
     },
     "arthavjain103": {
-      "totalScore": 430,
-      "prCount": 17,
+      "totalScore": 450,
+      "prCount": 18,
       "prsByLevel": {
-        "Beginner": 10,
+        "Beginner": 11,
         "Intermediate": 5,
         "Advanced": 2
       }
@@ -4920,11 +4920,11 @@
       }
     },
     "tanu91112": {
-      "totalScore": 520,
-      "prCount": 16,
+      "totalScore": 550,
+      "prCount": 17,
       "prsByLevel": {
         "Beginner": 3,
-        "Intermediate": 6,
+        "Intermediate": 7,
         "Advanced": 7
       }
     },
@@ -5451,11 +5451,11 @@
       }
     },
     "Kushagra888": {
-      "totalScore": 120,
-      "prCount": 6,
+      "totalScore": 150,
+      "prCount": 7,
       "prsByLevel": {
         "Beginner": 6,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -6342,10 +6342,10 @@
       }
     },
     "Verma-MK": {
-      "totalScore": 1140,
-      "prCount": 45,
+      "totalScore": 1160,
+      "prCount": 46,
       "prsByLevel": {
-        "Beginner": 30,
+        "Beginner": 31,
         "Intermediate": 6,
         "Advanced": 9
       }
@@ -6414,11 +6414,11 @@
       }
     },
     "afreenaiml": {
-      "totalScore": 110,
-      "prCount": 4,
+      "totalScore": 140,
+      "prCount": 5,
       "prsByLevel": {
         "Beginner": 2,
-        "Intermediate": 1,
+        "Intermediate": 2,
         "Advanced": 1
       }
     },
@@ -6468,11 +6468,11 @@
       }
     },
     "umarsayed12": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 70,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 0,
+        "Beginner": 2,
+        "Intermediate": 1,
         "Advanced": 0
       }
     },
@@ -6621,12 +6621,12 @@
       }
     },
     "keshripritesh": {
-      "totalScore": 930,
-      "prCount": 29,
+      "totalScore": 1160,
+      "prCount": 36,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 23,
-        "Advanced": 6
+        "Intermediate": 28,
+        "Advanced": 8
       }
     },
     "ayushjava07": {
@@ -7413,10 +7413,10 @@
       }
     },
     "SK8-infi": {
-      "totalScore": 1150,
-      "prCount": 39,
+      "totalScore": 1170,
+      "prCount": 40,
       "prsByLevel": {
-        "Beginner": 15,
+        "Beginner": 16,
         "Intermediate": 11,
         "Advanced": 13
       }
@@ -7548,10 +7548,10 @@
       }
     },
     "vivekd16": {
-      "totalScore": 530,
-      "prCount": 23,
+      "totalScore": 570,
+      "prCount": 25,
       "prsByLevel": {
-        "Beginner": 18,
+        "Beginner": 20,
         "Intermediate": 3,
         "Advanced": 2
       }
@@ -8673,11 +8673,11 @@
       }
     },
     "atul812": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 80,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
-        "Intermediate": 1,
+        "Intermediate": 2,
         "Advanced": 0
       }
     },
@@ -9123,10 +9123,10 @@
       }
     },
     "Muneerali199": {
-      "totalScore": 20,
-      "prCount": 1,
+      "totalScore": 40,
+      "prCount": 2,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -9492,10 +9492,10 @@
       }
     },
     "gourikasoni": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 20,
+      "prCount": 1,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -10311,19 +10311,19 @@
       }
     },
     "SubhamKojha": {
-      "totalScore": 50,
-      "prCount": 2,
+      "totalScore": 70,
+      "prCount": 3,
       "prsByLevel": {
-        "Beginner": 1,
+        "Beginner": 2,
         "Intermediate": 1,
         "Advanced": 0
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 260,
-      "prCount": 13,
+      "totalScore": 280,
+      "prCount": 14,
       "prsByLevel": {
-        "Beginner": 13,
+        "Beginner": 14,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -11580,12 +11580,12 @@
       }
     },
     "michael-0007a": {
-      "totalScore": 0,
-      "prCount": 0,
+      "totalScore": 60,
+      "prCount": 2,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 0,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "Sanchita76": {
@@ -12172,11 +12172,29 @@
         "Intermediate": 0,
         "Advanced": 0
       }
+    },
+    "Coder-HNP": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "Deepu9981": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
     }
   },
   "projects": {
     "amitkumardemo/EdgeCareer": {
-      "totalPRs": 1,
+      "totalPRs": 2,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -13001,7 +13019,7 @@
         "ayushdubey570": 0,
         "ak47kavan": 0,
         "Sejal-collection": 0,
-        "SK8-infi": 0,
+        "SK8-infi": 1,
         "Soultk1977": 0,
         "Adithkp03": 0,
         "03aditya-byte": 0,
@@ -13529,7 +13547,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "mryashsinghal/Resume-Builder": {
@@ -14886,11 +14906,13 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "SumitGorai01/TechieBlog": {
-      "totalPRs": 47,
+      "totalPRs": 48,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -15327,7 +15349,7 @@
         "Shyla09": 0,
         "niyatij30": 0,
         "Kasak02": 0,
-        "Namanbanshiwala": 0,
+        "Namanbanshiwala": 1,
         "shavy1910": 0,
         "aarushitandon0": 0,
         "saiusesgithub": 0,
@@ -16243,7 +16265,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "UTSAVS26/PyVerse": {
@@ -17600,7 +17624,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "adityas1309/RaktConnect": {
@@ -18957,7 +18983,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Dev-Dhruba/NeuroDev-Therapy": {
@@ -20314,11 +20342,13 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "divi-24/SheSync": {
-      "totalPRs": 28,
+      "totalPRs": 54,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -20335,7 +20365,7 @@
         "himudit": 0,
         "vasanth30672": 0,
         "sonuprasad23": 0,
-        "AasthaPoswal": 0,
+        "AasthaPoswal": 1,
         "G3miniCodes": 0,
         "aryarathoree": 0,
         "sumandey7684": 0,
@@ -20538,7 +20568,7 @@
         "nitin811": 0,
         "InMostCalmness-Rahul": 0,
         "mr-akash-22": 0,
-        "aliviahossain": 0,
+        "aliviahossain": 1,
         "Jashneer": 0,
         "Anuragsrivastava508": 0,
         "rashmeet1896": 0,
@@ -20567,7 +20597,7 @@
         "nishantrana07": 0,
         "yashsharmapvt79": 0,
         "dhananjay4554": 0,
-        "kumkumverm": 0,
+        "kumkumverm": 3,
         "SumitRathore23": 0,
         "shwet91-cyber": 0,
         "abhilash-0913": 0,
@@ -20595,7 +20625,7 @@
         "muskankhan21052003-byte": 0,
         "DivyaBarnwal21": 0,
         "Siddhi-31": 0,
-        "VJLIVE": 1,
+        "VJLIVE": 2,
         "AnuranjanJain": 0,
         "Ronnit44": 0,
         "Priyanshiunique": 0,
@@ -20640,7 +20670,7 @@
         "Fatimaq07": 0,
         "Vartekalohiya13": 0,
         "Manoj-ruler": 0,
-        "pari3654": 1,
+        "pari3654": 2,
         "rutuglave2519": 0,
         "akshita-cyber": 0,
         "shreyansh-hacker": 0,
@@ -20674,7 +20704,7 @@
         "Saurabhjk15": 0,
         "sumit2221-div": 0,
         "AbhiSingh05": 0,
-        "arjavjain5203": 0,
+        "arjavjain5203": 1,
         "calebjubal": 0,
         "ShrivastvAryan": 0,
         "VAGISHA-47": 0,
@@ -20690,7 +20720,7 @@
         "sohumvenkatadri7": 0,
         "codertanya03": 0,
         "Soumyosish": 0,
-        "MaulikGupta27": 6,
+        "MaulikGupta27": 13,
         "PalakSinha2505": 0,
         "bhartiamulya": 0,
         "aashutoshkumarbhardwaj": 0,
@@ -20764,7 +20794,7 @@
         "ac3065": 0,
         "HARSHMOHAN01": 0,
         "ARCoder181105": 0,
-        "Code-writter": 1,
+        "Code-writter": 2,
         "Harshita-HKumawat": 0,
         "Nazeya86": 0,
         "MohammedArif9092": 0,
@@ -20866,7 +20896,7 @@
         "Mrityunjya": 0,
         "daredevil17052004": 0,
         "shubhreeka": 0,
-        "tanu91112": 0,
+        "tanu91112": 1,
         "OmkarKale453": 0,
         "shrutisachan08": 0,
         "garvit-exe": 0,
@@ -21032,13 +21062,13 @@
         "Itsmeaadeesh": 0,
         "abufarisdev": 0,
         "Adityas1202": 0,
-        "afreenaiml": 0,
+        "afreenaiml": 1,
         "kalashjain9": 0,
         "thishika-k": 0,
         "Harshg33": 0,
         "Zero-Day-Smile": 0,
         "Mahak0205": 0,
-        "umarsayed12": 0,
+        "umarsayed12": 3,
         "Alokvish04": 0,
         "goldigd05": 0,
         "kunalp-singh": 0,
@@ -21283,7 +21313,7 @@
         "Shreyajain025": 0,
         "manishraj9": 0,
         "sagarayusha": 0,
-        "atul812": 2,
+        "atul812": 3,
         "Nitya-003": 0,
         "Piyushchannawar": 0,
         "AryanEjantkar": 0,
@@ -21333,7 +21363,7 @@
         "Neha-28-fluff": 0,
         "TanmayKalra09": 0,
         "Arihant-Bhandari": 0,
-        "Muneerali199": 0,
+        "Muneerali199": 1,
         "Sim2739": 0,
         "amrendra222": 0,
         "Sreejesh06": 0,
@@ -21374,7 +21404,7 @@
         "awrya-cmd": 0,
         "palakbansa05": 0,
         "Neovin-dev": 0,
-        "gourikasoni": 0,
+        "gourikasoni": 1,
         "KritikaJoshi04": 0,
         "divyam8175": 0,
         "AnirbanChatterjee912": 0,
@@ -21465,8 +21495,8 @@
         "ChakrabortyRajarshi2005": 0,
         "KavyaMunusamy": 0,
         "shambhavi0608": 0,
-        "SubhamKojha": 1,
-        "aryanguptacsvtu": 0,
+        "SubhamKojha": 2,
+        "aryanguptacsvtu": 1,
         "shambhavi099": 0,
         "COPYRIGHTXO": 0,
         "kushagra0333": 0,
@@ -21671,7 +21701,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "alienx5499/SortVision": {
@@ -23028,7 +23060,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "k0msenapati/study-sphere": {
@@ -24385,7 +24419,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "ShikhaMaurya212402/Plant-Disease-Classification-Model": {
@@ -25742,7 +25778,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit": {
@@ -27099,7 +27137,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Fenirok/Earthquake_app": {
@@ -28456,11 +28496,13 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "PRIYANSHU2026/DataSentience-AIML": {
-      "totalPRs": 81,
+      "totalPRs": 88,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -29197,7 +29239,7 @@
         "Sohi07": 0,
         "sahithi-kanjarla": 0,
         "Harilynn": 0,
-        "keshripritesh": 29,
+        "keshripritesh": 36,
         "ayushjava07": 0,
         "Umang-Kaklotar": 0,
         "shashidhar-kittur": 0,
@@ -29813,7 +29855,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Saumy1905/PYQFort": {
@@ -31170,11 +31214,13 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "rutikakengal/FoodFusion-Online-Food-Ordering-Web": {
-      "totalPRs": 14,
+      "totalPRs": 15,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -31781,7 +31827,7 @@
         "RuchikaTalele12": 0,
         "jatin-9158": 0,
         "Jayesh-Waghmare": 0,
-        "Kushagra888": 0,
+        "Kushagra888": 1,
         "SandeepYadav2413182": 0,
         "Sachinsingh2002": 0,
         "Devansh1974": 0,
@@ -32527,7 +32573,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "ruchikakengal/100_Days_100_webprojects": {
@@ -33884,7 +33932,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "itsaryanchauhan/ThinkDSA": {
@@ -35241,7 +35291,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Mayur-Pagote/README_Design_Kit": {
@@ -36598,7 +36650,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Programmers-Paradise/Annie": {
@@ -37955,7 +38009,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "venuchander/fintrack": {
@@ -39312,7 +39368,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "sailaja-adapa/Vipreshana": {
@@ -40669,7 +40727,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool": {
@@ -42026,11 +42086,13 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 75,
+      "totalPRs": 81,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -42532,7 +42594,7 @@
         "11neeja": 0,
         "Aaryandhage": 0,
         "sahukrishna27": 0,
-        "arthavjain103": 1,
+        "arthavjain103": 2,
         "projects": 0,
         "LAWSA07": 0,
         "AnvitaPrasad": 0,
@@ -42736,7 +42798,7 @@
         "PURVIK-31": 0,
         "Vikas-Verma1": 0,
         "Himanshu950": 0,
-        "Verma-MK": 6,
+        "Verma-MK": 7,
         "ErNehasharma": 0,
         "jainoshika": 0,
         "Shravya68": 0,
@@ -42870,7 +42932,7 @@
         "kasturitottadi": 0,
         "72harshrajora": 0,
         "ShreyaPandeycode": 0,
-        "vivekd16": 2,
+        "vivekd16": 4,
         "charan2r": 0,
         "jayanththalla": 0,
         "Deb2oo": 0,
@@ -43318,7 +43380,7 @@
         "Jyotiyadav1012": 0,
         "bableen123": 0,
         "Debayan-Ghosh2005": 0,
-        "michael-0007a": 0,
+        "michael-0007a": 2,
         "Sanchita76": 0,
         "vagabond-0": 0,
         "HimanshMathur": 0,
@@ -43383,7 +43445,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Kirti-Rathi/PromptShell": {
@@ -44740,7 +44804,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Bhavya1352/eventmappr": {
@@ -46097,7 +46163,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "Prateek9876/NagarVikas": {
@@ -47454,7 +47522,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "soumya813/Notes-App": {
@@ -48811,7 +48881,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "ruchikakengal/WebDevIn100_Days": {
@@ -50168,7 +50240,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     },
     "CLUSTER-DS-Club/cluster": {
@@ -51525,7 +51599,9 @@
         "tejahussain279": 0,
         "VivekRai-gif": 0,
         "divijg19": 0,
-        "Mahak0747": 0
+        "Mahak0747": 0,
+        "Coder-HNP": 0,
+        "Deepu9981": 0
       }
     }
   },
@@ -51540,6 +51616,22 @@
       "author": "aryanguptacsvtu",
       "labels": [
         "SSOC S4",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "amitkumardemo/EdgeCareer"
+    },
+    {
+      "number": 56,
+      "title": "Add contributing.md",
+      "url": "https://github.com/amitkumardemo/EdgeCareer/pull/56",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T13:25:40Z",
+      "mergedAt": "2025-06-15T14:20:11Z",
+      "author": "SK8-infi",
+      "labels": [
         "Beginner",
         "SSoC25"
       ],
@@ -52600,6 +52692,22 @@
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 503,
+      "title": "Issue #444 Resolved - Set up the application with Docker",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/503",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T12:28:03Z",
+      "mergedAt": "2025-07-29T17:44:26Z",
+      "author": "Namanbanshiwala",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "SumitGorai01/TechieBlog"
     },
     {
@@ -54200,6 +54308,38 @@
       "project": "Dev-Dhruba/NeuroDev-Therapy"
     },
     {
+      "number": 31,
+      "title": "fix: UI enhancement under shop section  (#issue 13)",
+      "url": "https://github.com/divi-24/SheSync/pull/31",
+      "state": "MERGED",
+      "createdAt": "2025-06-12T13:58:53Z",
+      "mergedAt": "2025-06-16T08:12:40Z",
+      "author": "pari3654",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 59,
+      "title": "Fix sidebar close button unresponsive in Eve section (#34)Fix: Sidebar close button working in Eve section",
+      "url": "https://github.com/divi-24/SheSync/pull/59",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:08:45Z",
+      "mergedAt": "2025-06-16T07:19:27Z",
+      "author": "atul812",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 84,
       "title": "Fix: Resolve app crash when searching products - TypeError on product.name.toLowerCase",
       "url": "https://github.com/divi-24/SheSync/pull/84",
@@ -54232,6 +54372,22 @@
       "project": "divi-24/SheSync"
     },
     {
+      "number": 98,
+      "title": "Fix: Categorized and improved UI for symptom tracking [#80]",
+      "url": "https://github.com/divi-24/SheSync/pull/98",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T14:35:42Z",
+      "mergedAt": "2025-06-16T16:24:01Z",
+      "author": "AasthaPoswal",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 99,
       "title": "Implement responsive sidebar behavior in Dashboard and Landing components",
       "url": "https://github.com/divi-24/SheSync/pull/99",
@@ -54255,6 +54411,86 @@
       "createdAt": "2025-06-16T15:16:32Z",
       "mergedAt": "2025-06-16T16:09:10Z",
       "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 103,
+      "title": "fix the theme issue issue in Chatbot and shop",
+      "url": "https://github.com/divi-24/SheSync/pull/103",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T16:52:26Z",
+      "mergedAt": "2025-06-16T19:13:15Z",
+      "author": "arjavjain5203",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 104,
+      "title": "Added multi-category selection in HealthLens with toggle and UI feedback",
+      "url": "https://github.com/divi-24/SheSync/pull/104",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T18:01:08Z",
+      "mergedAt": "2025-06-16T19:12:34Z",
+      "author": "afreenaiml",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 105,
+      "title": "Added Global Theme Toggler",
+      "url": "https://github.com/divi-24/SheSync/pull/105",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T19:37:06Z",
+      "mergedAt": "2025-06-18T09:27:38Z",
+      "author": "umarsayed12",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 113,
+      "title": "SECURITY.md",
+      "url": "https://github.com/divi-24/SheSync/pull/113",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T04:05:55Z",
+      "mergedAt": "2025-06-17T07:30:59Z",
+      "author": "aryanguptacsvtu",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 116,
+      "title": "Chatbot Sidebar Overlaps Content – Responsiveness Issues on Mobile & Desktop #112 ",
+      "url": "https://github.com/divi-24/SheSync/pull/116",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T09:42:38Z",
+      "mergedAt": "2025-06-17T17:00:27Z",
+      "author": "Muneerali199",
       "labels": [
         "SSoC25",
         "Beginner"
@@ -54293,6 +54529,22 @@
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 122,
+      "title": "Fixed Bug : React Routing Breaks on Netlify Deploy (404 on Page Refresh or Direct Link)",
+      "url": "https://github.com/divi-24/SheSync/pull/122",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T19:35:56Z",
+      "mergedAt": "2025-06-18T07:56:13Z",
+      "author": "umarsayed12",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "divi-24/SheSync"
     },
     {
@@ -54376,6 +54628,22 @@
       "project": "divi-24/SheSync"
     },
     {
+      "number": 144,
+      "title": "feat: Add real-time chat, comments, and likes to community section #136",
+      "url": "https://github.com/divi-24/SheSync/pull/144",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T15:04:16Z",
+      "mergedAt": "2025-06-18T15:06:10Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 147,
       "title": "Added Loading Page",
       "url": "https://github.com/divi-24/SheSync/pull/147",
@@ -54389,6 +54657,22 @@
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 149,
+      "title": "Fixed loader",
+      "url": "https://github.com/divi-24/SheSync/pull/149",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T16:48:32Z",
+      "mergedAt": "2025-06-18T17:04:39Z",
+      "author": "SubhamKojha",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "divi-24/SheSync"
     },
     {
@@ -54421,6 +54705,22 @@
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 175,
+      "title": "Allow per-symptom date tracking for improved accuracy",
+      "url": "https://github.com/divi-24/SheSync/pull/175",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T07:32:54Z",
+      "mergedAt": "2025-06-20T08:54:12Z",
+      "author": "gourikasoni",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "divi-24/SheSync"
     },
     {
@@ -54536,6 +54836,54 @@
       "project": "divi-24/SheSync"
     },
     {
+      "number": 214,
+      "title": "Resolved issue#203: UI improvements for light/dark mode consistency",
+      "url": "https://github.com/divi-24/SheSync/pull/214",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T16:34:07Z",
+      "mergedAt": "2025-07-29T10:37:10Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 215,
+      "title": "Add Dockerization (Frontend & Backend) with Docker Compose",
+      "url": "https://github.com/divi-24/SheSync/pull/215",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T18:34:41Z",
+      "mergedAt": "2025-07-02T07:27:04Z",
+      "author": "Code-writter",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 225,
+      "title": "Fixed Sidebar visibility on Track your Health Page",
+      "url": "https://github.com/divi-24/SheSync/pull/225",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T18:40:42Z",
+      "mergedAt": "2025-07-03T08:21:38Z",
+      "author": "umarsayed12",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 229,
       "title": "Resolved Issue#218: Updated the UI of the period tracker page",
       "url": "https://github.com/divi-24/SheSync/pull/229",
@@ -54616,6 +54964,22 @@
       "project": "divi-24/SheSync"
     },
     {
+      "number": 243,
+      "title": "Resolved issue#237: Add Share Functionality to Blog Posts",
+      "url": "https://github.com/divi-24/SheSync/pull/243",
+      "state": "MERGED",
+      "createdAt": "2025-07-03T04:26:47Z",
+      "mergedAt": "2025-07-29T10:36:03Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 248,
       "title": "Issue resolved #247: Corrected the rerender bug",
       "url": "https://github.com/divi-24/SheSync/pull/248",
@@ -54638,6 +55002,166 @@
       "state": "MERGED",
       "createdAt": "2025-07-14T10:54:47Z",
       "mergedAt": "2025-07-15T11:01:12Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 262,
+      "title": "Resolved Issue #258: Removed duplicate cart items from Shops page",
+      "url": "https://github.com/divi-24/SheSync/pull/262",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T02:31:09Z",
+      "mergedAt": "2025-07-29T10:34:45Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 263,
+      "title": "Resolved Issue #259: Bug/quote game correction",
+      "url": "https://github.com/divi-24/SheSync/pull/263",
+      "state": "MERGED",
+      "createdAt": "2025-07-16T03:36:24Z",
+      "mergedAt": "2025-07-29T10:35:07Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 266,
+      "title": "Added .editorconfig file",
+      "url": "https://github.com/divi-24/SheSync/pull/266",
+      "state": "MERGED",
+      "createdAt": "2025-07-17T06:53:30Z",
+      "mergedAt": "2025-07-29T13:30:33Z",
+      "author": "aliviahossain",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 270,
+      "title": "Fix: Sidebar Active State",
+      "url": "https://github.com/divi-24/SheSync/pull/270",
+      "state": "MERGED",
+      "createdAt": "2025-07-20T11:48:51Z",
+      "mergedAt": "2025-07-29T12:33:57Z",
+      "author": "kumkumverm",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 282,
+      "title": "solve ui issue of  heading and hamburger overlap in mobile",
+      "url": "https://github.com/divi-24/SheSync/pull/282",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T15:20:42Z",
+      "mergedAt": "2025-07-29T12:14:45Z",
+      "author": "kumkumverm",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 283,
+      "title": "Improve UI of custome component",
+      "url": "https://github.com/divi-24/SheSync/pull/283",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T16:21:01Z",
+      "mergedAt": "2025-07-29T12:28:04Z",
+      "author": "kumkumverm",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 288,
+      "title": "Updated sudoku logic",
+      "url": "https://github.com/divi-24/SheSync/pull/288",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T22:23:05Z",
+      "mergedAt": "2025-07-29T10:13:26Z",
+      "author": "VJLIVE",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 293,
+      "title": "Resolved Issue #265: Corrected the Active links issue in sidebar",
+      "url": "https://github.com/divi-24/SheSync/pull/293",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T13:32:17Z",
+      "mergedAt": "2025-07-29T13:49:23Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 294,
+      "title": "Resolved Issue #277: Bug/footer links",
+      "url": "https://github.com/divi-24/SheSync/pull/294",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T13:45:02Z",
+      "mergedAt": "2025-07-29T13:53:31Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 295,
+      "title": "Resolved Issue #272: Corrected the calculator and added alerts",
+      "url": "https://github.com/divi-24/SheSync/pull/295",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T15:05:46Z",
+      "mergedAt": "2025-07-29T15:53:06Z",
       "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
@@ -59721,6 +60245,118 @@
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 260,
+      "title": "Pull request of Email Classifier",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/260",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T10:22:00Z",
+      "mergedAt": "2025-07-29T12:40:09Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 261,
+      "title": "Pull request of Song Genre Classifier",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/261",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T10:27:35Z",
+      "mergedAt": "2025-07-29T12:40:50Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 263,
+      "title": "Pull request of Sudoku Solver using CNN",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/263",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T10:35:00Z",
+      "mergedAt": "2025-07-29T12:41:44Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 267,
+      "title": "Pull request of Time Series LSTM Model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/267",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T17:21:27Z",
+      "mergedAt": "2025-07-29T17:41:32Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 268,
+      "title": "Pull request of Website Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/268",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T17:27:19Z",
+      "mergedAt": "2025-07-29T17:42:29Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 269,
+      "title": "Pull request of Spelling Corrector",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/269",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T17:40:58Z",
+      "mergedAt": "2025-07-29T17:43:13Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 274,
+      "title": "Pull request of Alzheimer's Disease Predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/274",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T20:18:26Z",
+      "mergedAt": "2025-07-30T05:14:19Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -63211,6 +63847,23 @@
       "createdAt": "2025-07-28T14:01:07Z",
       "mergedAt": "2025-07-29T11:53:52Z",
       "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 213,
+      "title": "Improve Cart Functionality with Sound Feedback and Cross-Page Consistency",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/213",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T19:55:29Z",
+      "mergedAt": "2025-07-30T06:07:32Z",
+      "author": "Kushagra888",
       "labels": [
         "SSoC25",
         "Intermediate",
@@ -68148,6 +68801,108 @@
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 357,
+      "title": "Dummy pr for issue #112",
+      "url": "https://github.com/HarshS16/Civix/pull/357",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T05:19:40Z",
+      "mergedAt": "2025-07-28T15:01:22Z",
+      "author": "vivekd16",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 358,
+      "title": "dummy pr for issue #113",
+      "url": "https://github.com/HarshS16/Civix/pull/358",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T05:21:16Z",
+      "mergedAt": "2025-07-28T15:01:43Z",
+      "author": "vivekd16",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 366,
+      "title": "Logo redesign",
+      "url": "https://github.com/HarshS16/Civix/pull/366",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T13:44:39Z",
+      "mergedAt": "2025-07-28T15:02:01Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 369,
+      "title": "Add Dashboard link to navigation bar for authenticated users",
+      "url": "https://github.com/HarshS16/Civix/pull/369",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T15:08:50Z",
+      "mergedAt": "2025-07-28T15:12:49Z",
+      "author": "michael-0007a",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 371,
+      "title": "Add smooth page transitions to Dashboard pages",
+      "url": "https://github.com/HarshS16/Civix/pull/371",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T03:54:19Z",
+      "mergedAt": "2025-07-29T17:12:50Z",
+      "author": "michael-0007a",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 372,
+      "title": "Replace old image to new in Readme file",
+      "url": "https://github.com/HarshS16/Civix/pull/372",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T04:13:50Z",
+      "mergedAt": "2025-07-29T14:10:49Z",
+      "author": "arthavjain103",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "HarshS16/Civix"
     },
     {
