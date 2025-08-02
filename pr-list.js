@@ -970,6 +970,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 475,
+      "title": "Bug:add new event",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/475",
+      "state": "MERGED",
+      "createdAt": "2025-07-15T21:00:51Z",
+      "mergedAt": "2025-07-25T05:04:47Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 476,
       "title": "Enhance User Profile",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/476",
@@ -1089,6 +1105,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 492,
+      "title": "UI update",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/492",
+      "state": "MERGED",
+      "createdAt": "2025-07-25T16:18:55Z",
+      "mergedAt": "2025-07-30T15:00:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 503,
       "title": "Issue #444 Resolved - Set up the application with Docker",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/503",
@@ -1096,6 +1128,54 @@ var prs = {
       "createdAt": "2025-07-29T12:28:03Z",
       "mergedAt": "2025-07-29T17:44:26Z",
       "author": "Namanbanshiwala",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 513,
+      "title": "Enhancement of Login UI form",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/513",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T08:55:05Z",
+      "mergedAt": "2025-08-01T10:28:21Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 515,
+      "title": "Improved signup UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/515",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T10:15:31Z",
+      "mergedAt": "2025-08-01T10:29:23Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 521,
+      "title": "UI Enhancement of Home Page.",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/521",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T09:10:02Z",
+      "mergedAt": "2025-08-02T10:24:56Z",
+      "author": "TanmayKalra09",
       "labels": [
         "Advanced",
         "SSoC25"
@@ -2167,6 +2247,134 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1546,
+      "title": "Image Compression Analyzer - Multi-format compression analysis tool with quality metrics",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1546",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T21:05:16Z",
+      "mergedAt": "2025-08-01T07:59:15Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1547,
+      "title": "PyRecon: High-Speed Port Scanner & Service Fingerprinter - Complete Implementation",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1547",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T21:13:04Z",
+      "mergedAt": "2025-08-01T07:59:34Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1549,
+      "title": "ClipCrypt: Encrypted Clipboard Manager - Secure, searchable, and local-only clipboard history",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1549",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T21:19:03Z",
+      "mergedAt": "2025-08-01T08:00:15Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1551,
+      "title": "PyTerminus: Virtual Multi-Terminal Manager in Python - Complete Implementation",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1551",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T21:31:20Z",
+      "mergedAt": "2025-08-01T08:02:55Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1558,
+      "title": "Heart Disease Prediction (Logistic Regression, Decision Tree, Random Forest)",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1558",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T11:24:37Z",
+      "mergedAt": "2025-08-02T07:57:25Z",
+      "author": "archangel2006",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Status: Review Ongoing 🔄",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1563,
+      "title": "Behavior-Based Script Detector: Static Analysis Tool for Python Security",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1563",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T18:35:47Z",
+      "mergedAt": "2025-08-02T07:59:29Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Status: Review Ongoing 🔄",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1567,
+      "title": "PDF Intelligence Extractor - Intelligent Document Parser for PDFs",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1567",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T21:10:21Z",
+      "mergedAt": "2025-08-02T08:04:27Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -2792,900 +3000,36 @@ var prs = {
       "project": "Dev-Dhruba/NeuroDev-Therapy"
     },
     {
-      "number": 31,
-      "title": "fix: UI enhancement under shop section  (#issue 13)",
-      "url": "https://github.com/divi-24/SheSync/pull/31",
+      "number": 77,
+      "title": "Enhanced UI Green Theme - Updated page.js (Closes issue#17)",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/77",
       "state": "MERGED",
-      "createdAt": "2025-06-12T13:58:53Z",
-      "mergedAt": "2025-06-16T08:12:40Z",
-      "author": "pari3654",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 59,
-      "title": "Fix sidebar close button unresponsive in Eve section (#34)Fix: Sidebar close button working in Eve section",
-      "url": "https://github.com/divi-24/SheSync/pull/59",
-      "state": "MERGED",
-      "createdAt": "2025-06-14T09:08:45Z",
-      "mergedAt": "2025-06-16T07:19:27Z",
-      "author": "atul812",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 84,
-      "title": "Fix: Resolve app crash when searching products - TypeError on product.name.toLowerCase",
-      "url": "https://github.com/divi-24/SheSync/pull/84",
-      "state": "MERGED",
-      "createdAt": "2025-06-15T16:55:57Z",
-      "mergedAt": "2025-06-16T07:19:25Z",
-      "author": "atul812",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 96,
-      "title": "FIX #51 :Uses proper item icons",
-      "url": "https://github.com/divi-24/SheSync/pull/96",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T12:09:15Z",
-      "mergedAt": "2025-06-16T12:19:59Z",
-      "author": "arthavjain103",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 98,
-      "title": "Fix: Categorized and improved UI for symptom tracking [#80]",
-      "url": "https://github.com/divi-24/SheSync/pull/98",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T14:35:42Z",
-      "mergedAt": "2025-06-16T16:24:01Z",
-      "author": "AasthaPoswal",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 99,
-      "title": "Implement responsive sidebar behavior in Dashboard and Landing components",
-      "url": "https://github.com/divi-24/SheSync/pull/99",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T15:06:25Z",
-      "mergedAt": "2025-06-16T16:24:32Z",
-      "author": "DeadpoolX7",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 100,
-      "title": "Added Code of Conduct",
-      "url": "https://github.com/divi-24/SheSync/pull/100",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T15:16:32Z",
-      "mergedAt": "2025-06-16T16:09:10Z",
-      "author": "Dipanita45",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 103,
-      "title": "fix the theme issue issue in Chatbot and shop",
-      "url": "https://github.com/divi-24/SheSync/pull/103",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T16:52:26Z",
-      "mergedAt": "2025-06-16T19:13:15Z",
-      "author": "arjavjain5203",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 104,
-      "title": "Added multi-category selection in HealthLens with toggle and UI feedback",
-      "url": "https://github.com/divi-24/SheSync/pull/104",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T18:01:08Z",
-      "mergedAt": "2025-06-16T19:12:34Z",
-      "author": "afreenaiml",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 105,
-      "title": "Added Global Theme Toggler",
-      "url": "https://github.com/divi-24/SheSync/pull/105",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T19:37:06Z",
-      "mergedAt": "2025-06-18T09:27:38Z",
-      "author": "umarsayed12",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 113,
-      "title": "SECURITY.md",
-      "url": "https://github.com/divi-24/SheSync/pull/113",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T04:05:55Z",
-      "mergedAt": "2025-06-17T07:30:59Z",
-      "author": "aryanguptacsvtu",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 116,
-      "title": "Chatbot Sidebar Overlaps Content – Responsiveness Issues on Mobile & Desktop #112 ",
-      "url": "https://github.com/divi-24/SheSync/pull/116",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T09:42:38Z",
-      "mergedAt": "2025-06-17T17:00:27Z",
-      "author": "Muneerali199",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 117,
-      "title": "FIX #28: Added sidebar in the Parent's Dashboard Section",
-      "url": "https://github.com/divi-24/SheSync/pull/117",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T11:28:03Z",
-      "mergedAt": "2025-06-17T17:00:02Z",
-      "author": "aryannkaushikk",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 119,
-      "title": " improved ui of forum section",
-      "url": "https://github.com/divi-24/SheSync/pull/119",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T14:12:40Z",
-      "mergedAt": "2025-06-17T17:00:13Z",
-      "author": "pari3654",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 122,
-      "title": "Fixed Bug : React Routing Breaks on Netlify Deploy (404 on Page Refresh or Direct Link)",
-      "url": "https://github.com/divi-24/SheSync/pull/122",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T19:35:56Z",
-      "mergedAt": "2025-06-18T07:56:13Z",
-      "author": "umarsayed12",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 124,
-      "title": "issue #74 resolved",
-      "url": "https://github.com/divi-24/SheSync/pull/124",
-      "state": "MERGED",
-      "createdAt": "2025-06-17T20:44:08Z",
-      "mergedAt": "2025-06-18T05:26:48Z",
-      "author": "Webwizzz22",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 126,
-      "title": "side bar is scrollable",
-      "url": "https://github.com/divi-24/SheSync/pull/126",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T06:42:02Z",
-      "mergedAt": "2025-06-18T07:40:58Z",
-      "author": "Tushar-senpai",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 134,
-      "title": "improved hover in homepage",
-      "url": "https://github.com/divi-24/SheSync/pull/134",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T10:52:45Z",
-      "mergedAt": "2025-06-18T10:54:13Z",
-      "author": "kanak227",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 135,
-      "title": "Added issue and PR templates",
-      "url": "https://github.com/divi-24/SheSync/pull/135",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T11:34:07Z",
-      "mergedAt": "2025-06-18T11:35:34Z",
-      "author": "kanak227",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 139,
-      "title": "Fix: restore sidebar layout and fix toggle button (closes #129)",
-      "url": "https://github.com/divi-24/SheSync/pull/139",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T14:34:00Z",
-      "mergedAt": "2025-06-18T14:45:31Z",
-      "author": "atul812",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 144,
-      "title": "feat: Add real-time chat, comments, and likes to community section #136",
-      "url": "https://github.com/divi-24/SheSync/pull/144",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T15:04:16Z",
-      "mergedAt": "2025-06-18T15:06:10Z",
-      "author": "tanu91112",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 147,
-      "title": "Added Loading Page",
-      "url": "https://github.com/divi-24/SheSync/pull/147",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T16:09:54Z",
-      "mergedAt": "2025-06-18T16:22:27Z",
-      "author": "SubhamKojha",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 149,
-      "title": "Fixed loader",
-      "url": "https://github.com/divi-24/SheSync/pull/149",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T16:48:32Z",
-      "mergedAt": "2025-06-18T17:04:39Z",
-      "author": "SubhamKojha",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 152,
-      "title": "feat: Add ovulation calculator page with pregnancy milestones",
-      "url": "https://github.com/divi-24/SheSync/pull/152",
-      "state": "MERGED",
-      "createdAt": "2025-06-18T18:51:58Z",
-      "mergedAt": "2025-06-20T06:46:59Z",
-      "author": "aryann2319",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 162,
-      "title": "Added Context and Memory to chatbot | Fixed not working issue",
-      "url": "https://github.com/divi-24/SheSync/pull/162",
-      "state": "MERGED",
-      "createdAt": "2025-06-19T08:09:06Z",
-      "mergedAt": "2025-06-19T15:27:58Z",
-      "author": "Coden-inja",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 175,
-      "title": "Allow per-symptom date tracking for improved accuracy",
-      "url": "https://github.com/divi-24/SheSync/pull/175",
-      "state": "MERGED",
-      "createdAt": "2025-06-20T07:32:54Z",
-      "mergedAt": "2025-06-20T08:54:12Z",
-      "author": "gourikasoni",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 178,
-      "title": "fix the alignmenet of the page just like the other pages #142",
-      "url": "https://github.com/divi-24/SheSync/pull/178",
-      "state": "MERGED",
-      "createdAt": "2025-06-20T07:55:52Z",
-      "mergedAt": "2025-06-20T14:56:53Z",
-      "author": "kotlalokeshwari098",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 185,
-      "title": "fix: Calculate button in ovulation calculator was not active on mobile screen",
-      "url": "https://github.com/divi-24/SheSync/pull/185",
-      "state": "MERGED",
-      "createdAt": "2025-06-20T13:22:40Z",
-      "mergedAt": "2025-06-20T14:43:27Z",
-      "author": "aryann2319",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 187,
-      "title": "Signup and Signin buttons issue #176 ",
-      "url": "https://github.com/divi-24/SheSync/pull/187",
-      "state": "MERGED",
-      "createdAt": "2025-06-20T16:05:01Z",
-      "mergedAt": "2025-06-20T16:11:50Z",
-      "author": "kotlalokeshwari098",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 191,
-      "title": "Updated Landing.js : UI Enhancements For Better User Experience and Cleaner Look (Closes Issue#67)",
-      "url": "https://github.com/divi-24/SheSync/pull/191",
-      "state": "MERGED",
-      "createdAt": "2025-06-20T17:53:25Z",
-      "mergedAt": "2025-07-02T07:57:24Z",
+      "createdAt": "2025-06-21T14:01:31Z",
+      "mergedAt": "2025-08-01T18:02:30Z",
       "author": "archangel2006",
       "labels": [
         "SSoC25",
-        "Intermediate"
+        "Advanced"
       ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
+      "level": "Advanced",
+      "score": 40,
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
     },
     {
-      "number": 192,
-      "title": "embeded the video succesfully",
-      "url": "https://github.com/divi-24/SheSync/pull/192",
+      "number": 91,
+      "title": "Feature(auth+dashboard): integrate Supabase-based auth flow & real-time reactive analytics interface (Closes Issue #78)",
+      "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/91",
       "state": "MERGED",
-      "createdAt": "2025-06-20T18:38:01Z",
-      "mergedAt": "2025-06-20T19:07:37Z",
-      "author": "nikhil-agrawal123",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 198,
-      "title": "Feat: Period Products Section for Young Girls",
-      "url": "https://github.com/divi-24/SheSync/pull/198",
-      "state": "MERGED",
-      "createdAt": "2025-06-21T11:11:59Z",
-      "mergedAt": "2025-07-04T08:56:58Z",
-      "author": "aryann2319",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 209,
-      "title": "Bliss game",
-      "url": "https://github.com/divi-24/SheSync/pull/209",
-      "state": "MERGED",
-      "createdAt": "2025-06-23T18:54:30Z",
-      "mergedAt": "2025-06-24T09:45:59Z",
-      "author": "VJLIVE",
+      "createdAt": "2025-07-27T16:41:30Z",
+      "mergedAt": "2025-08-01T18:00:39Z",
+      "author": "michael-0007a",
       "labels": [
         "SSoC25",
         "Advanced"
       ],
       "level": "Advanced",
       "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 214,
-      "title": "Resolved issue#203: UI improvements for light/dark mode consistency",
-      "url": "https://github.com/divi-24/SheSync/pull/214",
-      "state": "MERGED",
-      "createdAt": "2025-06-24T16:34:07Z",
-      "mergedAt": "2025-07-29T10:37:10Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 215,
-      "title": "Add Dockerization (Frontend & Backend) with Docker Compose",
-      "url": "https://github.com/divi-24/SheSync/pull/215",
-      "state": "MERGED",
-      "createdAt": "2025-06-24T18:34:41Z",
-      "mergedAt": "2025-07-02T07:27:04Z",
-      "author": "Code-writter",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 225,
-      "title": "Fixed Sidebar visibility on Track your Health Page",
-      "url": "https://github.com/divi-24/SheSync/pull/225",
-      "state": "MERGED",
-      "createdAt": "2025-06-27T18:40:42Z",
-      "mergedAt": "2025-07-03T08:21:38Z",
-      "author": "umarsayed12",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 229,
-      "title": "Resolved Issue#218: Updated the UI of the period tracker page",
-      "url": "https://github.com/divi-24/SheSync/pull/229",
-      "state": "MERGED",
-      "createdAt": "2025-06-28T09:48:31Z",
-      "mergedAt": "2025-07-02T17:47:07Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 231,
-      "title": "Resolved Issue#219: Feature/complete UI change",
-      "url": "https://github.com/divi-24/SheSync/pull/231",
-      "state": "MERGED",
-      "createdAt": "2025-06-28T11:44:01Z",
-      "mergedAt": "2025-07-02T17:47:05Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 235,
-      "title": "Comprehensive Backend & Frontend Enhancements (Validation, Auth, Refactoring)",
-      "url": "https://github.com/divi-24/SheSync/pull/235",
-      "state": "MERGED",
-      "createdAt": "2025-07-01T10:20:36Z",
-      "mergedAt": "2025-07-02T07:27:02Z",
-      "author": "Code-writter",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 241,
-      "title": "Resolved issue#238: Corrected the repeated FAQ bug",
-      "url": "https://github.com/divi-24/SheSync/pull/241",
-      "state": "MERGED",
-      "createdAt": "2025-07-03T03:19:02Z",
-      "mergedAt": "2025-07-04T08:50:56Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 242,
-      "title": "Resolved issue#236: Bug/redirect to page",
-      "url": "https://github.com/divi-24/SheSync/pull/242",
-      "state": "MERGED",
-      "createdAt": "2025-07-03T03:40:38Z",
-      "mergedAt": "2025-07-04T08:51:17Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 243,
-      "title": "Resolved issue#237: Add Share Functionality to Blog Posts",
-      "url": "https://github.com/divi-24/SheSync/pull/243",
-      "state": "MERGED",
-      "createdAt": "2025-07-03T04:26:47Z",
-      "mergedAt": "2025-07-29T10:36:03Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 248,
-      "title": "Issue resolved #247: Corrected the rerender bug",
-      "url": "https://github.com/divi-24/SheSync/pull/248",
-      "state": "MERGED",
-      "createdAt": "2025-07-04T10:39:24Z",
-      "mergedAt": "2025-07-14T09:47:46Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 257,
-      "title": "Resolved Issue#252: Bug/UI updates",
-      "url": "https://github.com/divi-24/SheSync/pull/257",
-      "state": "MERGED",
-      "createdAt": "2025-07-14T10:54:47Z",
-      "mergedAt": "2025-07-15T11:01:12Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 262,
-      "title": "Resolved Issue #258: Removed duplicate cart items from Shops page",
-      "url": "https://github.com/divi-24/SheSync/pull/262",
-      "state": "MERGED",
-      "createdAt": "2025-07-16T02:31:09Z",
-      "mergedAt": "2025-07-29T10:34:45Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 263,
-      "title": "Resolved Issue #259: Bug/quote game correction",
-      "url": "https://github.com/divi-24/SheSync/pull/263",
-      "state": "MERGED",
-      "createdAt": "2025-07-16T03:36:24Z",
-      "mergedAt": "2025-07-29T10:35:07Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 266,
-      "title": "Added .editorconfig file",
-      "url": "https://github.com/divi-24/SheSync/pull/266",
-      "state": "MERGED",
-      "createdAt": "2025-07-17T06:53:30Z",
-      "mergedAt": "2025-07-29T13:30:33Z",
-      "author": "aliviahossain",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 270,
-      "title": "Fix: Sidebar Active State",
-      "url": "https://github.com/divi-24/SheSync/pull/270",
-      "state": "MERGED",
-      "createdAt": "2025-07-20T11:48:51Z",
-      "mergedAt": "2025-07-29T12:33:57Z",
-      "author": "kumkumverm",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 282,
-      "title": "solve ui issue of  heading and hamburger overlap in mobile",
-      "url": "https://github.com/divi-24/SheSync/pull/282",
-      "state": "MERGED",
-      "createdAt": "2025-07-25T15:20:42Z",
-      "mergedAt": "2025-07-29T12:14:45Z",
-      "author": "kumkumverm",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 283,
-      "title": "Improve UI of custome component",
-      "url": "https://github.com/divi-24/SheSync/pull/283",
-      "state": "MERGED",
-      "createdAt": "2025-07-25T16:21:01Z",
-      "mergedAt": "2025-07-29T12:28:04Z",
-      "author": "kumkumverm",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 288,
-      "title": "Updated sudoku logic",
-      "url": "https://github.com/divi-24/SheSync/pull/288",
-      "state": "MERGED",
-      "createdAt": "2025-07-28T22:23:05Z",
-      "mergedAt": "2025-07-29T10:13:26Z",
-      "author": "VJLIVE",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 293,
-      "title": "Resolved Issue #265: Corrected the Active links issue in sidebar",
-      "url": "https://github.com/divi-24/SheSync/pull/293",
-      "state": "MERGED",
-      "createdAt": "2025-07-29T13:32:17Z",
-      "mergedAt": "2025-07-29T13:49:23Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 294,
-      "title": "Resolved Issue #277: Bug/footer links",
-      "url": "https://github.com/divi-24/SheSync/pull/294",
-      "state": "MERGED",
-      "createdAt": "2025-07-29T13:45:02Z",
-      "mergedAt": "2025-07-29T13:53:31Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 295,
-      "title": "Resolved Issue #272: Corrected the calculator and added alerts",
-      "url": "https://github.com/divi-24/SheSync/pull/295",
-      "state": "MERGED",
-      "createdAt": "2025-07-29T15:05:46Z",
-      "mergedAt": "2025-07-29T15:53:06Z",
-      "author": "MaulikGupta27",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 304,
-      "title": "Fix footer link light theme",
-      "url": "https://github.com/divi-24/SheSync/pull/304",
-      "state": "MERGED",
-      "createdAt": "2025-07-30T07:32:51Z",
-      "mergedAt": "2025-07-30T07:39:50Z",
-      "author": "Suhaniisingh05",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
-    },
-    {
-      "number": 310,
-      "title": "Updated auth logic and UI for contributors page",
-      "url": "https://github.com/divi-24/SheSync/pull/310",
-      "state": "MERGED",
-      "createdAt": "2025-07-30T09:14:03Z",
-      "mergedAt": "2025-07-30T09:17:24Z",
-      "author": "VJLIVE",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "divi-24/SheSync"
+      "project": "Dev-Dhruba/NeuroDev-Therapy"
     },
     {
       "number": 60,
@@ -7125,6 +6469,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 160,
+      "title": "Fix: Ensure hover effect keeps text visible and improves background a…",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/160",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T07:21:12Z",
+      "mergedAt": "2025-08-01T11:34:06Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 16,
       "title": "Create CODE_OF_CONDUCT.md",
       "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
@@ -8857,6 +8217,38 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 272,
+      "title": "Pull request of Stock Price Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/272",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T19:59:53Z",
+      "mergedAt": "2025-07-30T17:28:42Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 273,
+      "title": "Pull request of Time Series Forecasting",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/273",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T20:07:58Z",
+      "mergedAt": "2025-07-30T17:29:13Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 274,
       "title": "Pull request of Alzheimer's Disease Predictor",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/274",
@@ -8864,6 +8256,310 @@ var prs = {
       "createdAt": "2025-07-29T20:18:26Z",
       "mergedAt": "2025-07-30T05:14:19Z",
       "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 279,
+      "title": "Interview success predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/279",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T12:15:08Z",
+      "mergedAt": "2025-07-30T17:33:31Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 281,
+      "title": "Candidate scoring system",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/281",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T12:33:23Z",
+      "mergedAt": "2025-07-30T17:32:57Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 284,
+      "title": "Resume filtering assistant",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/284",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T14:36:27Z",
+      "mergedAt": "2025-07-30T17:32:32Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 285,
+      "title": "Pull request of Chatbot using RASA",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/285",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:33:32Z",
+      "mergedAt": "2025-07-30T17:28:00Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 286,
+      "title": "Pull request of CBT_ChatBot",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/286",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:38:58Z",
+      "mergedAt": "2025-07-30T17:27:07Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 287,
+      "title": "Pull request of Tomato disease detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/287",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T17:31:50Z",
+      "mergedAt": "2025-07-30T17:34:51Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 292,
+      "title": "House price prediction issue#289 ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/292",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T08:39:11Z",
+      "mergedAt": "2025-07-31T09:48:22Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 296,
+      "title": "Pull request of Tweets Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/296",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T10:20:31Z",
+      "mergedAt": "2025-07-31T14:19:43Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 297,
+      "title": "Pull request of Youtube comment analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/297",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T10:26:13Z",
+      "mergedAt": "2025-07-31T14:21:10Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 301,
+      "title": "Airbnb Booking Demand Classifier",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/301",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T13:54:02Z",
+      "mergedAt": "2025-07-31T14:21:57Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 304,
+      "title": "Airbnb Optimal Price Recommendation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/304",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T14:19:46Z",
+      "mergedAt": "2025-07-31T14:22:40Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 312,
+      "title": "Add AquaGuard AI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/312",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T19:53:18Z",
+      "mergedAt": "2025-08-01T02:05:26Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 313,
+      "title": "add AudioFlow Pro",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/313",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T19:59:49Z",
+      "mergedAt": "2025-08-01T02:04:10Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 315,
+      "title": "add RestaurantInsight AI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/315",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T20:09:05Z",
+      "mergedAt": "2025-08-01T02:09:08Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 316,
+      "title": "add SentimentSense AI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/316",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T20:14:02Z",
+      "mergedAt": "2025-08-01T02:10:25Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 322,
+      "title": "LSTM-Based AQI Predictor ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/322",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T15:43:46Z",
+      "mergedAt": "2025-08-02T06:41:30Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 324,
+      "title": "Add Pollution Spike Warning System Using Random Forest Classifier",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/324",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T15:56:39Z",
+      "mergedAt": "2025-08-02T06:42:37Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 326,
+      "title": "Added Screen Time Exceedance Classifier with Full ML Pipeline",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/326",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T16:41:27Z",
+      "mergedAt": "2025-08-02T06:43:09Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 333,
+      "title": "Add Full ML Pipeline to Predict Best GenAI Tool from Company Features + Sentiment",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/333",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T13:41:37Z",
+      "mergedAt": "2025-08-02T18:42:33Z",
+      "author": "giriraj-roy-7723",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -12137,6 +11833,134 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 807,
+      "title": "Added PYQs for AIML & CST SEMESTER 1",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/807",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T08:04:28Z",
+      "mergedAt": "2025-08-01T11:09:19Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 810,
+      "title": "Added BCA Folder under `MAIT-GGSIPU` with Semester 1 PYQs",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/810",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T12:54:48Z",
+      "mergedAt": "2025-08-01T14:56:19Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 812,
+      "title": "Added 25 PYQs for BCA Semester 2 under `Data_Dump/MAIT-GGSIPU`",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/812",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T16:00:46Z",
+      "mergedAt": "2025-08-01T18:21:09Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 814,
+      "title": "Added PYQs for BCA SEM 3",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/814",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T03:33:02Z",
+      "mergedAt": "2025-08-02T03:52:56Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 822,
+      "title": "Added 23 BCA Sem 4 PYQs + MAIT-GGSIPU Academic Rules and Syllabus Files",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/822",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T07:59:37Z",
+      "mergedAt": "2025-08-02T09:20:39Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 826,
+      "title": "Added 24 PYQs in MAIT-GGSIPU",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/826",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T12:43:35Z",
+      "mergedAt": "2025-08-02T13:46:27Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 828,
+      "title": "Add academic rules and structure for Heritage Institute of Technology, Kolkata",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/828",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T14:05:36Z",
+      "mergedAt": "2025-08-02T16:11:27Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 830,
+      "title": "added PYQsof s5 and s6 of cse in ktu university in past 3 years",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/830",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T16:16:30Z",
+      "mergedAt": "2025-08-02T16:34:39Z",
+      "author": "anuvind570",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -12339,6 +12163,23 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 203,
+      "title": "Updated Search Food Option with New Items",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/203",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T14:41:23Z",
+      "mergedAt": "2025-07-31T15:07:40Z",
+      "author": "Student-ravneet",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 209,
       "title": "UI update",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/209",
@@ -12387,6 +12228,23 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 215,
+      "title": "Add User Profile Page ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/215",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T13:43:49Z",
+      "mergedAt": "2025-07-31T15:10:29Z",
+      "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -12912,6 +12770,38 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 357,
+      "title": "added wordle inspired word guess game",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/357",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T17:30:05Z",
+      "mergedAt": "2025-07-30T11:32:14Z",
+      "author": "reeteesha-roy",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 367,
+      "title": "Added Gradient Generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/367",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T13:09:33Z",
+      "mergedAt": "2025-07-30T11:44:34Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 377,
       "title": "Added notes app",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/377",
@@ -12919,6 +12809,119 @@ var prs = {
       "createdAt": "2025-07-28T22:32:10Z",
       "mergedAt": "2025-07-29T09:20:30Z",
       "author": "VJLIVE",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 385,
+      "title": " completed BMI Calculator #360 ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/385",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T10:03:23Z",
+      "mergedAt": "2025-07-30T14:21:41Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 389,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/389",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T13:13:41Z",
+      "mergedAt": "2025-07-30T12:09:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 412,
+      "title": "Contributors UI update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/412",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T13:52:30Z",
+      "mergedAt": "2025-07-30T14:03:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 417,
+      "title": "completed  Mood Based Music Suggester #383",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/417",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T14:50:53Z",
+      "mergedAt": "2025-07-30T15:30:41Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 420,
+      "title": "added E-commerce UI and wordle based game",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/420",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T15:08:50Z",
+      "mergedAt": "2025-07-30T15:35:41Z",
+      "author": "reeteesha-roy",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Intermediate"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 422,
+      "title": "memory game app",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/422",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:35:47Z",
+      "mergedAt": "2025-07-31T07:00:17Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 424,
+      "title": "Added New Project – Student Grade Analyzer 🎓📊 #419",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/424",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:39:43Z",
+      "mergedAt": "2025-07-31T09:43:03Z",
+      "author": "tanu91112",
       "labels": [
         "SSoC25",
         "Beginner"
@@ -14416,6 +14419,22 @@ var prs = {
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
+      "number": 247,
+      "title": "remove unwanted files",
+      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/247",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T16:39:00Z",
+      "mergedAt": "2025-08-02T05:36:16Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
       "number": 10,
       "title": "SECURITY.md",
       "url": "https://github.com/Venuchander/fintrack/pull/10",
@@ -15652,6 +15671,38 @@ var prs = {
       "project": "sailaja-adapa/Vipreshana"
     },
     {
+      "number": 257,
+      "title": "feat: Dual OTP Support: Email + Phone",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/257",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T12:10:53Z",
+      "mergedAt": "2025-08-01T06:10:29Z",
+      "author": "ThulasiPriyaS",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 258,
+      "title": "fixed collison of navbar and user logo icon",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/258",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T14:32:53Z",
+      "mergedAt": "2025-07-31T16:00:18Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
       "number": 7,
       "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
       "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
@@ -16027,6 +16078,38 @@ var prs = {
       "createdAt": "2025-07-28T07:14:16Z",
       "mergedAt": "2025-07-29T07:50:50Z",
       "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 62,
+      "title": "Update app.py",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/62",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:18:21Z",
+      "mergedAt": "2025-07-31T01:43:38Z",
+      "author": "ErebAsh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool"
+    },
+    {
+      "number": 63,
+      "title": "Update app.py",
+      "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/63",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T13:06:01Z",
+      "mergedAt": "2025-08-01T01:42:16Z",
+      "author": "ErebAsh",
       "labels": [
         "SSoC25",
         "Intermediate"
@@ -16726,6 +16809,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 190,
+      "title": "Resolved Issue#187 :Added FAQ section in navbar",
+      "url": "https://github.com/HarshS16/Civix/pull/190",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T04:45:46Z",
+      "mergedAt": "2025-06-26T09:22:45Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 195,
       "title": "bug fix",
       "url": "https://github.com/HarshS16/Civix/pull/195",
@@ -17419,6 +17518,166 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 378,
+      "title": "optimize File Complaint (ReportIssue) page for performance",
+      "url": "https://github.com/HarshS16/Civix/pull/378",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T09:13:56Z",
+      "mergedAt": "2025-07-30T16:04:12Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 382,
+      "title": "Apply dark mode styling to Resources page FAQs section",
+      "url": "https://github.com/HarshS16/Civix/pull/382",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T17:10:28Z",
+      "mergedAt": "2025-08-01T08:14:55Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 385,
+      "title": "FIX#377: Replace text color with gradient color with better visual in about page",
+      "url": "https://github.com/HarshS16/Civix/pull/385",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T07:56:41Z",
+      "mergedAt": "2025-08-01T08:15:38Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 387,
+      "title": "UI Enhancement of About Page",
+      "url": "https://github.com/HarshS16/Civix/pull/387",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T13:23:12Z",
+      "mergedAt": "2025-08-01T12:06:47Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 391,
+      "title": "Clustering added and some changes made to rectify error #390",
+      "url": "https://github.com/HarshS16/Civix/pull/391",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T16:56:22Z",
+      "mergedAt": "2025-08-01T08:22:14Z",
+      "author": "Ankush-ai",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 394,
+      "title": "Enhancement of User Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/394",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T12:31:36Z",
+      "mergedAt": "2025-08-01T12:37:04Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 395,
+      "title": "Minor UI update",
+      "url": "https://github.com/HarshS16/Civix/pull/395",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T14:43:02Z",
+      "mergedAt": "2025-08-01T16:20:11Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 398,
+      "title": "implement comprehensive security headers for XSS and clickjacking protection",
+      "url": "https://github.com/HarshS16/Civix/pull/398",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T17:16:25Z",
+      "mergedAt": "2025-08-02T07:05:00Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 404,
+      "title": "Minor UI Fix",
+      "url": "https://github.com/HarshS16/Civix/pull/404",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T09:57:05Z",
+      "mergedAt": "2025-08-02T17:06:13Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 409,
+      "title": "Enhancement of Contact Us Page",
+      "url": "https://github.com/HarshS16/Civix/pull/409",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T18:06:01Z",
+      "mergedAt": "2025-08-02T18:10:41Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "HarshS16/Civix"
     },
     {
@@ -18961,6 +19220,38 @@ var prs = {
       "project": "Bhavya1352/eventmappr"
     },
     {
+      "number": 298,
+      "title": " ENHANCE: change  the UI of  faq",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/298",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T15:36:18Z",
+      "mergedAt": "2025-07-30T16:06:41Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 312,
+      "title": "ENHANCE : alignment in contact us",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/312",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T09:26:13Z",
+      "mergedAt": "2025-08-02T17:12:09Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
       "number": 21,
       "title": "SECURITY.md",
       "url": "https://github.com/Prateek9876/NagarVikas/pull/21",
@@ -20459,6 +20750,38 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 357,
+      "title": "added wordle inspired word guess game",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/357",
+      "state": "MERGED",
+      "createdAt": "2025-07-27T17:30:05Z",
+      "mergedAt": "2025-07-30T11:32:14Z",
+      "author": "reeteesha-roy",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 367,
+      "title": "Added Gradient Generator",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/367",
+      "state": "MERGED",
+      "createdAt": "2025-07-28T13:09:33Z",
+      "mergedAt": "2025-07-30T11:44:34Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 377,
       "title": "Added notes app",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/377",
@@ -20466,6 +20789,119 @@ var prs = {
       "createdAt": "2025-07-28T22:32:10Z",
       "mergedAt": "2025-07-29T09:20:30Z",
       "author": "VJLIVE",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 385,
+      "title": " completed BMI Calculator #360 ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/385",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T10:03:23Z",
+      "mergedAt": "2025-07-30T14:21:41Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 389,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/389",
+      "state": "MERGED",
+      "createdAt": "2025-07-29T13:13:41Z",
+      "mergedAt": "2025-07-30T12:09:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 412,
+      "title": "Contributors UI update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/412",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T13:52:30Z",
+      "mergedAt": "2025-07-30T14:03:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 417,
+      "title": "completed  Mood Based Music Suggester #383",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/417",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T14:50:53Z",
+      "mergedAt": "2025-07-30T15:30:41Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 420,
+      "title": "added E-commerce UI and wordle based game",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/420",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T15:08:50Z",
+      "mergedAt": "2025-07-30T15:35:41Z",
+      "author": "reeteesha-roy",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "Intermediate"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 422,
+      "title": "memory game app",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/422",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:35:47Z",
+      "mergedAt": "2025-07-31T07:00:17Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 424,
+      "title": "Added New Project – Student Grade Analyzer 🎓📊 #419",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/424",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T16:39:43Z",
+      "mergedAt": "2025-07-31T09:43:03Z",
+      "author": "tanu91112",
       "labels": [
         "SSoC25",
         "Beginner"
