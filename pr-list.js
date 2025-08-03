@@ -11961,6 +11961,38 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 831,
+      "title": "Added 24 PYQs in MAIT-GGSIPU",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/831",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T17:43:45Z",
+      "mergedAt": "2025-08-03T03:13:44Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 833,
+      "title": "Added the Academic Rules for CSJMU Kanpur ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/833",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T18:51:13Z",
+      "mergedAt": "2025-08-03T03:16:54Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -17671,6 +17703,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-02T18:06:01Z",
       "mergedAt": "2025-08-02T18:10:41Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 411,
+      "title": "Enhancement of Profile UI",
+      "url": "https://github.com/HarshS16/Civix/pull/411",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T19:39:55Z",
+      "mergedAt": "2025-08-03T06:01:27Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",

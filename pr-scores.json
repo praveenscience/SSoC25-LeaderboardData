@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-02T22:01:04.768Z",
+  "timestamp": "2025-08-03T07:16:25.281Z",
   "summary": {
-    "totalPRs": 1309,
-    "totalPoints": 35670
+    "totalPRs": 1312,
+    "totalPoints": 35780
   },
   "users": {
     "72897": {
@@ -5253,12 +5253,12 @@
       }
     },
     "s4chinjha": {
-      "totalScore": 240,
-      "prCount": 6,
+      "totalScore": 280,
+      "prCount": 7,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 6
+        "Advanced": 7
       }
     },
     "bhavya21A": {
@@ -7746,11 +7746,11 @@
       }
     },
     "denshaw-09": {
-      "totalScore": 410,
-      "prCount": 15,
+      "totalScore": 440,
+      "prCount": 16,
       "prsByLevel": {
         "Beginner": 6,
-        "Intermediate": 7,
+        "Intermediate": 8,
         "Advanced": 2
       }
     },
@@ -9105,12 +9105,12 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 620,
-      "prCount": 21,
+      "totalScore": 660,
+      "prCount": 22,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 7
+        "Advanced": 8
       }
     },
     "Arihant-Bhandari": {
@@ -28460,7 +28460,7 @@
       }
     },
     "Saumy1905/PYQFort": {
-      "totalPRs": 212,
+      "totalPRs": 214,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -29045,7 +29045,7 @@
         "anshi894": 0,
         "ankur1409": 0,
         "agrixm": 0,
-        "s4chinjha": 6,
+        "s4chinjha": 7,
         "bhavya21A": 0,
         "MansiKarki": 0,
         "vanshaj2023": 0,
@@ -29322,7 +29322,7 @@
         "prathamamritkar": 0,
         "Arnabdas123456": 0,
         "niharika-mente": 0,
-        "denshaw-09": 4,
+        "denshaw-09": 5,
         "JallaDharani": 2,
         "Ayushi028": 0,
         "2024yuva": 0,
@@ -40673,7 +40673,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 92,
+      "totalPRs": 93,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -41686,7 +41686,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 8,
+        "TanmayKalra09": 9,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -62134,6 +62134,38 @@
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 831,
+      "title": "Added 24 PYQs in MAIT-GGSIPU",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/831",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T17:43:45Z",
+      "mergedAt": "2025-08-03T03:13:44Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 833,
+      "title": "Added the Academic Rules for CSJMU Kanpur ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/833",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T18:51:13Z",
+      "mergedAt": "2025-08-03T03:16:54Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -67844,6 +67876,22 @@
       "state": "MERGED",
       "createdAt": "2025-08-02T18:06:01Z",
       "mergedAt": "2025-08-02T18:10:41Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 411,
+      "title": "Enhancement of Profile UI",
+      "url": "https://github.com/HarshS16/Civix/pull/411",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T19:39:55Z",
+      "mergedAt": "2025-08-03T06:01:27Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
