@@ -1783,12 +1783,12 @@ var userScores = {
       }
     },
     "kaurpreetman": {
-      "totalScore": 80,
-      "prCount": 2,
+      "totalScore": 120,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 2
+        "Advanced": 3
       }
     },
     "Tanwarshiva": {
@@ -2476,11 +2476,11 @@ var userScores = {
       }
     },
     "VJLIVE": {
-      "totalScore": 560,
-      "prCount": 19,
+      "totalScore": 590,
+      "prCount": 20,
       "prsByLevel": {
         "Beginner": 5,
-        "Intermediate": 10,
+        "Intermediate": 11,
         "Advanced": 4
       }
     },
@@ -2494,10 +2494,10 @@ var userScores = {
       }
     },
     "Ronnit44": {
-      "totalScore": 480,
-      "prCount": 22,
+      "totalScore": 500,
+      "prCount": 23,
       "prsByLevel": {
-        "Beginner": 18,
+        "Beginner": 19,
         "Intermediate": 4,
         "Advanced": 0
       }
@@ -5248,12 +5248,12 @@ var userScores = {
       }
     },
     "s4chinjha": {
-      "totalScore": 280,
-      "prCount": 7,
+      "totalScore": 320,
+      "prCount": 8,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 7
+        "Advanced": 8
       }
     },
     "bhavya21A": {
@@ -6337,12 +6337,12 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 1300,
-      "prCount": 53,
+      "totalScore": 1340,
+      "prCount": 54,
       "prsByLevel": {
         "Beginner": 38,
         "Intermediate": 6,
-        "Advanced": 9
+        "Advanced": 10
       }
     },
     "ErNehasharma": {
@@ -6616,12 +6616,12 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 1420,
-      "prCount": 43,
+      "totalScore": 1460,
+      "prCount": 44,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 30,
-        "Advanced": 13
+        "Advanced": 14
       }
     },
     "ayushjava07": {
@@ -7408,11 +7408,11 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 1720,
-      "prCount": 55,
+      "totalScore": 1750,
+      "prCount": 56,
       "prsByLevel": {
         "Beginner": 16,
-        "Intermediate": 16,
+        "Intermediate": 17,
         "Advanced": 23
       }
     },
@@ -9100,12 +9100,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 660,
-      "prCount": 22,
+      "totalScore": 780,
+      "prCount": 25,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 8
+        "Advanced": 11
       }
     },
     "Arihant-Bhandari": {

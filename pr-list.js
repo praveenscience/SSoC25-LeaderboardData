@@ -1137,6 +1137,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 512,
+      "title": "Added confirmation message",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/512",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T08:27:33Z",
+      "mergedAt": "2025-08-03T10:15:14Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 513,
       "title": "Enhancement of Login UI form",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/513",
@@ -1176,6 +1192,22 @@ var prs = {
       "createdAt": "2025-08-02T09:10:02Z",
       "mergedAt": "2025-08-02T10:24:56Z",
       "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 528,
+      "title": "issue resolved : #520 and #518 - Fix Date-Time Format & Add Event Registration Backend",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/528",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T06:49:12Z",
+      "mergedAt": "2025-08-03T10:25:07Z",
+      "author": "kaurpreetman",
       "labels": [
         "Advanced",
         "SSoC25"
@@ -6485,6 +6517,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 161,
+      "title": "replaced twitter bird icon with X icon",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/161",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T17:52:25Z",
+      "mergedAt": "2025-08-03T07:58:59Z",
+      "author": "Ronnit44",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 16,
       "title": "Create CODE_OF_CONDUCT.md",
       "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
@@ -8473,6 +8521,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 314,
+      "title": "add HealthAI Pro",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/314",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T20:04:18Z",
+      "mergedAt": "2025-08-03T11:50:47Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 315,
       "title": "add RestaurantInsight AI",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/315",
@@ -8560,6 +8624,22 @@ var prs = {
       "createdAt": "2025-08-02T13:41:37Z",
       "mergedAt": "2025-08-02T18:42:33Z",
       "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 340,
+      "title": "Pull request of Extract Text from PDF using Python",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/340",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T06:14:20Z",
+      "mergedAt": "2025-08-03T11:50:11Z",
+      "author": "keshripritesh",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -11993,6 +12073,38 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 834,
+      "title": "Added BBA SEM 4 PYQs",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/834",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T03:26:44Z",
+      "mergedAt": "2025-08-03T09:52:03Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 836,
+      "title": "PYQ+",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/836",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T05:10:44Z",
+      "mergedAt": "2025-08-03T09:55:20Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -14651,6 +14763,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-06-25T18:17:13Z",
       "mergedAt": "2025-06-26T02:13:26Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "venuchander/fintrack"
+    },
+    {
+      "number": 69,
+      "title": "Chatbotpage modified",
+      "url": "https://github.com/Venuchander/fintrack/pull/69",
+      "state": "MERGED",
+      "createdAt": "2025-06-25T18:33:42Z",
+      "mergedAt": "2025-08-03T12:23:51Z",
       "author": "VJLIVE",
       "labels": [
         "Intermediate",
@@ -17719,6 +17847,38 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-02T19:39:55Z",
       "mergedAt": "2025-08-03T06:01:27Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 414,
+      "title": "Enhancement UI of My Complaints ",
+      "url": "https://github.com/HarshS16/Civix/pull/414",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T06:45:45Z",
+      "mergedAt": "2025-08-03T08:34:30Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 418,
+      "title": "Enhancement of Term and Privacy Page",
+      "url": "https://github.com/HarshS16/Civix/pull/418",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T09:32:46Z",
+      "mergedAt": "2025-08-03T09:42:09Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
