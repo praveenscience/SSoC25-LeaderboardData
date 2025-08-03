@@ -6037,6 +6037,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 31,
+      "title": "feat: add scroll-to-top button for improved usability",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/31",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T16:45:36Z",
+      "mergedAt": "2025-06-15T02:35:51Z",
+      "author": "Ishikacasley14",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 42,
       "title": "fix score calculation",
       "url": "https://github.com/k0msenapati/study-sphere/pull/42",
@@ -6114,6 +6130,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 73,
+      "title": "Add SEO, OG, and Twitter meta tags to homepage",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:57:53Z",
+      "mergedAt": "2025-06-18T01:50:54Z",
+      "author": "Ishikacasley14",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "k0msenapati/study-sphere"
     },
     {
@@ -12137,6 +12169,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 839,
+      "title": "Added PYQs for SEM 5",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/839",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T10:23:43Z",
+      "mergedAt": "2025-08-03T17:25:41Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -18001,6 +18049,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 432,
+      "title": "Bug resolved for File a Complaint",
+      "url": "https://github.com/HarshS16/Civix/pull/432",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T17:39:21Z",
+      "mergedAt": "2025-08-03T17:44:57Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 434,
+      "title": "Enhancement of File a Complaint Page",
+      "url": "https://github.com/HarshS16/Civix/pull/434",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:06:12Z",
+      "mergedAt": "2025-08-03T18:09:43Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -21398,6 +21478,24 @@ var prs = {
       "author": "sahithi-kanjarla",
       "labels": [
         "bug",
+        "SSoC25",
+        "Beginner",
+        "Contributor",
+        "Approved"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "CLUSTER-DS-Club/cluster"
+    },
+    {
+      "number": 65,
+      "title": "Add SEO meta tags using react-helmet",
+      "url": "https://github.com/CLUSTER-DS-Club/cluster/pull/65",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T06:33:41Z",
+      "mergedAt": "2025-06-17T07:56:27Z",
+      "author": "Ishikacasley14",
+      "labels": [
         "SSoC25",
         "Beginner",
         "Contributor",
