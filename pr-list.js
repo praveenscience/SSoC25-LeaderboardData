@@ -1217,6 +1217,38 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 533,
+      "title": "Added Chat Bot",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/533",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T12:05:20Z",
+      "mergedAt": "2025-08-03T13:09:13Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 534,
+      "title": "Improved Events Page UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/534",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T12:48:31Z",
+      "mergedAt": "2025-08-03T13:10:33Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -13075,6 +13107,22 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 441,
+      "title": "Game update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/441",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T13:29:06Z",
+      "mergedAt": "2025-08-03T15:06:06Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 37,
       "title": " Added Table of Contents to improve navigation",
       "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/37",
@@ -17889,6 +17937,70 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 422,
+      "title": "Enhancement of Our Contributors Page",
+      "url": "https://github.com/HarshS16/Civix/pull/422",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T10:03:11Z",
+      "mergedAt": "2025-08-03T12:44:24Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 428,
+      "title": "Footerui Resolve issue #416",
+      "url": "https://github.com/HarshS16/Civix/pull/428",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T10:47:29Z",
+      "mergedAt": "2025-08-03T12:45:50Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 429,
+      "title": "Improved UI of iOS Page and implemented Dark Mode",
+      "url": "https://github.com/HarshS16/Civix/pull/429",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T13:09:18Z",
+      "mergedAt": "2025-08-03T13:13:27Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 430,
+      "title": "Improved UI of Android Page with Dark Mode Implementation.",
+      "url": "https://github.com/HarshS16/Civix/pull/430",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T13:29:20Z",
+      "mergedAt": "2025-08-03T13:34:16Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -19457,6 +19569,38 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 327,
+      "title": "Workflow",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/327",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T14:03:36Z",
+      "mergedAt": "2025-08-03T14:04:37Z",
+      "author": "GauravKarakoti",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 328,
+      "title": "Improved UI of Currency Convertor",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/328",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T16:21:42Z",
+      "mergedAt": "2025-08-03T16:59:44Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Bhavya1352/eventmappr"
     },
     {
@@ -21110,6 +21254,22 @@ var prs = {
       "createdAt": "2025-07-30T16:39:43Z",
       "mergedAt": "2025-07-31T09:43:03Z",
       "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 441,
+      "title": "Game update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/441",
+      "state": "MERGED",
+      "createdAt": "2025-07-31T13:29:06Z",
+      "mergedAt": "2025-08-03T15:06:06Z",
+      "author": "Verma-MK",
       "labels": [
         "SSoC25",
         "Beginner"
