@@ -9100,12 +9100,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1140,
-      "prCount": 34,
+      "totalScore": 1180,
+      "prCount": 35,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 20
+        "Advanced": 21
       }
     },
     "Arihant-Bhandari": {
@@ -11575,10 +11575,10 @@ var userScores = {
       }
     },
     "michael-0007a": {
-      "totalScore": 180,
-      "prCount": 6,
+      "totalScore": 220,
+      "prCount": 8,
       "prsByLevel": {
-        "Beginner": 3,
+        "Beginner": 5,
         "Intermediate": 0,
         "Advanced": 3
       }

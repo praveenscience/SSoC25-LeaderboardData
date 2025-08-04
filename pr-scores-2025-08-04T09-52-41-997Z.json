@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-04T08:11:09.351Z",
+  "timestamp": "2025-08-04T09:52:19.419Z",
   "summary": {
-    "totalPRs": 1343,
-    "totalPoints": 36860
+    "totalPRs": 1346,
+    "totalPoints": 36940
   },
   "users": {
     "72897": {
@@ -9105,12 +9105,12 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1140,
-      "prCount": 34,
+      "totalScore": 1180,
+      "prCount": 35,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 20
+        "Advanced": 21
       }
     },
     "Arihant-Bhandari": {
@@ -11580,10 +11580,10 @@
       }
     },
     "michael-0007a": {
-      "totalScore": 180,
-      "prCount": 6,
+      "totalScore": 220,
+      "prCount": 8,
       "prsByLevel": {
-        "Beginner": 3,
+        "Beginner": 5,
         "Intermediate": 0,
         "Advanced": 3
       }
@@ -42154,7 +42154,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 102,
+      "totalPRs": 105,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -43167,7 +43167,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 17,
+        "TanmayKalra09": 18,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -43442,7 +43442,7 @@
         "Jyotiyadav1012": 0,
         "bableen123": 0,
         "Debayan-Ghosh2005": 0,
-        "michael-0007a": 5,
+        "michael-0007a": 7,
         "Sanchita76": 0,
         "vagabond-0": 0,
         "HimanshMathur": 0,
@@ -69840,6 +69840,54 @@
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 440,
+      "title": "UI enhancement of Community Voting + Dark Mode Implementation",
+      "url": "https://github.com/HarshS16/Civix/pull/440",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T09:13:56Z",
+      "mergedAt": "2025-08-04T09:45:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 441,
+      "title": "fix issue #351: Community Voting Page Not in Dark Mode",
+      "url": "https://github.com/HarshS16/Civix/pull/441",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T09:15:56Z",
+      "mergedAt": "2025-08-04T09:46:15Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 444,
+      "title": "fix Issue 380",
+      "url": "https://github.com/HarshS16/Civix/pull/444",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T09:33:50Z",
+      "mergedAt": "2025-08-04T09:49:57Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "HarshS16/Civix"
     },
     {
