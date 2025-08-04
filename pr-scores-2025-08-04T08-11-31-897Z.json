@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-03T19:45:29.007Z",
+  "timestamp": "2025-08-04T08:11:09.351Z",
   "summary": {
-    "totalPRs": 1338,
-    "totalPoints": 36670
+    "totalPRs": 1343,
+    "totalPoints": 36860
   },
   "users": {
     "72897": {
@@ -6621,12 +6621,12 @@
       }
     },
     "keshripritesh": {
-      "totalScore": 1460,
-      "prCount": 44,
+      "totalScore": 1570,
+      "prCount": 47,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 30,
-        "Advanced": 14
+        "Intermediate": 31,
+        "Advanced": 16
       }
     },
     "ayushjava07": {
@@ -7611,12 +7611,12 @@
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 1610,
-      "prCount": 51,
+      "totalScore": 1650,
+      "prCount": 52,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 8
+        "Advanced": 9
       }
     },
     "Aagam230": {
@@ -9105,12 +9105,12 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1100,
-      "prCount": 33,
+      "totalScore": 1140,
+      "prCount": 34,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 19
+        "Advanced": 20
       }
     },
     "Arihant-Bhandari": {
@@ -28544,7 +28544,7 @@
       }
     },
     "PRIYANSHU2026/DataSentience-AIML": {
-      "totalPRs": 111,
+      "totalPRs": 115,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -29281,7 +29281,7 @@
         "Sohi07": 0,
         "sahithi-kanjarla": 0,
         "Harilynn": 0,
-        "keshripritesh": 44,
+        "keshripritesh": 47,
         "ayushjava07": 0,
         "Umang-Kaklotar": 0,
         "shashidhar-kittur": 0,
@@ -29391,7 +29391,7 @@
         "decodekush": 0,
         "sourav349": 0,
         "preritasaini1": 1,
-        "giriraj-roy-7723": 48,
+        "giriraj-roy-7723": 49,
         "Aagam230": 0,
         "yashvardhanvats": 0,
         "SuruchiCode": 0,
@@ -42154,7 +42154,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 101,
+      "totalPRs": 102,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -43167,7 +43167,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 16,
+        "TanmayKalra09": 17,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -52884,7 +52884,7 @@
     },
     {
       "number": 528,
-      "title": "issue resolved : #520 and #518 - Fix Date-Time Format & Add Event Registration Backend",
+      "title": "issue resolved : #520 and #518 and #519 - Fix Date-Time Format & Add Event Registration Backend",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/528",
       "state": "MERGED",
       "createdAt": "2025-08-03T06:49:12Z",
@@ -60386,6 +60386,70 @@
       "createdAt": "2025-08-03T06:14:20Z",
       "mergedAt": "2025-08-03T11:50:11Z",
       "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 346,
+      "title": "Pull request of Duplicate Question Pair",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/346",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:34:56Z",
+      "mergedAt": "2025-08-04T04:24:13Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 347,
+      "title": "Pull request of Emotion Recognition Based on NLP",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/347",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:42:06Z",
+      "mergedAt": "2025-08-04T04:25:10Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 348,
+      "title": "Pull request of EDA and perform modelling",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/348",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:44:34Z",
+      "mergedAt": "2025-08-04T04:26:06Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 349,
+      "title": "Add Credit Score Regressor Using Random Forest",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/349",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:57:03Z",
+      "mergedAt": "2025-08-04T04:26:58Z",
+      "author": "giriraj-roy-7723",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -69753,6 +69817,22 @@
       "state": "MERGED",
       "createdAt": "2025-08-03T18:06:12Z",
       "mergedAt": "2025-08-03T18:09:43Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 438,
+      "title": "Improved UI of Resources Page & dark mode implementation",
+      "url": "https://github.com/HarshS16/Civix/pull/438",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T07:21:55Z",
+      "mergedAt": "2025-08-04T07:28:49Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",

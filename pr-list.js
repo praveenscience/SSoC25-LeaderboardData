@@ -1202,7 +1202,7 @@ var prs = {
     },
     {
       "number": 528,
-      "title": "issue resolved : #520 and #518 - Fix Date-Time Format & Add Event Registration Backend",
+      "title": "issue resolved : #520 and #518 and #519 - Fix Date-Time Format & Add Event Registration Backend",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/528",
       "state": "MERGED",
       "createdAt": "2025-08-03T06:49:12Z",
@@ -8704,6 +8704,70 @@ var prs = {
       "createdAt": "2025-08-03T06:14:20Z",
       "mergedAt": "2025-08-03T11:50:11Z",
       "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 346,
+      "title": "Pull request of Duplicate Question Pair",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/346",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:34:56Z",
+      "mergedAt": "2025-08-04T04:24:13Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 347,
+      "title": "Pull request of Emotion Recognition Based on NLP",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/347",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:42:06Z",
+      "mergedAt": "2025-08-04T04:25:10Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 348,
+      "title": "Pull request of EDA and perform modelling",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/348",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:44:34Z",
+      "mergedAt": "2025-08-04T04:26:06Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 349,
+      "title": "Add Credit Score Regressor Using Random Forest",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/349",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:57:03Z",
+      "mergedAt": "2025-08-04T04:26:58Z",
+      "author": "giriraj-roy-7723",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -18071,6 +18135,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-03T18:06:12Z",
       "mergedAt": "2025-08-03T18:09:43Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 438,
+      "title": "Improved UI of Resources Page & dark mode implementation",
+      "url": "https://github.com/HarshS16/Civix/pull/438",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T07:21:55Z",
+      "mergedAt": "2025-08-04T07:28:49Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
