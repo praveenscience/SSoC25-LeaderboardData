@@ -1027,11 +1027,11 @@ var userScores = {
       }
     },
     "Bavanetha27": {
-      "totalScore": 220,
-      "prCount": 6,
+      "totalScore": 250,
+      "prCount": 7,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 2,
+        "Intermediate": 3,
         "Advanced": 4
       }
     },
@@ -2566,12 +2566,12 @@ var userScores = {
       }
     },
     "dinesh-2047": {
-      "totalScore": 30,
-      "prCount": 1,
+      "totalScore": 70,
+      "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 1,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "modiraunak": {
@@ -4501,10 +4501,10 @@ var userScores = {
       }
     },
     "arthavjain103": {
-      "totalScore": 490,
-      "prCount": 20,
+      "totalScore": 510,
+      "prCount": 21,
       "prsByLevel": {
-        "Beginner": 13,
+        "Beginner": 14,
         "Intermediate": 5,
         "Advanced": 2
       }
@@ -5248,12 +5248,12 @@ var userScores = {
       }
     },
     "s4chinjha": {
-      "totalScore": 360,
-      "prCount": 9,
+      "totalScore": 400,
+      "prCount": 10,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 9
+        "Advanced": 10
       }
     },
     "bhavya21A": {
@@ -9100,12 +9100,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1180,
-      "prCount": 35,
+      "totalScore": 1300,
+      "prCount": 38,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 21
+        "Advanced": 24
       }
     },
     "Arihant-Bhandari": {
@@ -10036,11 +10036,11 @@ var userScores = {
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 270,
-      "prCount": 11,
+      "totalScore": 320,
+      "prCount": 13,
       "prsByLevel": {
-        "Beginner": 7,
-        "Intermediate": 3,
+        "Beginner": 8,
+        "Intermediate": 4,
         "Advanced": 1
       }
     },
@@ -12196,6 +12196,15 @@ var userScores = {
       }
     },
     "KALYANI2309K3s": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "SonaliK7654": {
       "totalScore": 0,
       "prCount": 0,
       "prsByLevel": {

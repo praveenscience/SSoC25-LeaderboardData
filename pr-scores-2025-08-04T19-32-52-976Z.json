@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-04T09:52:19.419Z",
+  "timestamp": "2025-08-04T19:32:27.847Z",
   "summary": {
-    "totalPRs": 1346,
-    "totalPoints": 36940
+    "totalPRs": 1355,
+    "totalPoints": 37240
   },
   "users": {
     "72897": {
@@ -1032,11 +1032,11 @@
       }
     },
     "Bavanetha27": {
-      "totalScore": 220,
-      "prCount": 6,
+      "totalScore": 250,
+      "prCount": 7,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 2,
+        "Intermediate": 3,
         "Advanced": 4
       }
     },
@@ -2571,12 +2571,12 @@
       }
     },
     "dinesh-2047": {
-      "totalScore": 30,
-      "prCount": 1,
+      "totalScore": 70,
+      "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 1,
-        "Advanced": 0
+        "Advanced": 1
       }
     },
     "modiraunak": {
@@ -4506,10 +4506,10 @@
       }
     },
     "arthavjain103": {
-      "totalScore": 490,
-      "prCount": 20,
+      "totalScore": 510,
+      "prCount": 21,
       "prsByLevel": {
-        "Beginner": 13,
+        "Beginner": 14,
         "Intermediate": 5,
         "Advanced": 2
       }
@@ -5253,12 +5253,12 @@
       }
     },
     "s4chinjha": {
-      "totalScore": 360,
-      "prCount": 9,
+      "totalScore": 400,
+      "prCount": 10,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 9
+        "Advanced": 10
       }
     },
     "bhavya21A": {
@@ -9105,12 +9105,12 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1180,
-      "prCount": 35,
+      "totalScore": 1300,
+      "prCount": 38,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 6,
-        "Advanced": 21
+        "Advanced": 24
       }
     },
     "Arihant-Bhandari": {
@@ -10041,11 +10041,11 @@
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 270,
-      "prCount": 11,
+      "totalScore": 320,
+      "prCount": 13,
       "prsByLevel": {
-        "Beginner": 7,
-        "Intermediate": 3,
+        "Beginner": 8,
+        "Intermediate": 4,
         "Advanced": 1
       }
     },
@@ -12208,6 +12208,15 @@
         "Intermediate": 0,
         "Advanced": 0
       }
+    },
+    "SonaliK7654": {
+      "totalScore": 0,
+      "prCount": 0,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 0
+      }
     }
   },
   "projects": {
@@ -13569,7 +13578,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "vanshchauhan21/CryptoTracker": {
@@ -14930,7 +14940,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "mryashsinghal/Resume-Builder": {
@@ -16291,11 +16302,12 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "SumitGorai01/TechieBlog": {
-      "totalPRs": 57,
+      "totalPRs": 58,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -17308,7 +17320,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 7,
+        "TanmayKalra09": 8,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -17652,7 +17664,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "UTSAVS26/PyVerse": {
@@ -19013,7 +19026,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "adityas1309/RaktConnect": {
@@ -20374,7 +20388,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Dev-Dhruba/NeuroDev-Therapy": {
@@ -21735,7 +21750,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "alienx5499/SortVision": {
@@ -23096,7 +23112,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "k0msenapati/study-sphere": {
@@ -24457,7 +24474,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 2,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "ShikhaMaurya212402/Plant-Disease-Classification-Model": {
@@ -25818,7 +25836,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit": {
@@ -27179,7 +27198,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Fenirok/Earthquake_app": {
@@ -28540,7 +28560,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "PRIYANSHU2026/DataSentience-AIML": {
@@ -29901,11 +29922,12 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Saumy1905/PYQFort": {
-      "totalPRs": 217,
+      "totalPRs": 218,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -30490,7 +30512,7 @@
         "anshi894": 0,
         "ankur1409": 0,
         "agrixm": 0,
-        "s4chinjha": 9,
+        "s4chinjha": 10,
         "bhavya21A": 0,
         "MansiKarki": 0,
         "vanshaj2023": 0,
@@ -31262,7 +31284,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "rutikakengal/FoodFusion-Online-Food-Ordering-Web": {
@@ -32623,7 +32646,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "ruchikakengal/100_Days_100_webprojects": {
@@ -33984,7 +34008,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "itsaryanchauhan/ThinkDSA": {
@@ -35345,7 +35370,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Mayur-Pagote/README_Design_Kit": {
@@ -36706,7 +36732,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Programmers-Paradise/Annie": {
@@ -38067,7 +38094,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "venuchander/fintrack": {
@@ -39428,7 +39456,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "sailaja-adapa/Vipreshana": {
@@ -40789,7 +40818,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool": {
@@ -42150,11 +42180,12 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 105,
+      "totalPRs": 110,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -42270,7 +42301,7 @@
         "Asterioxer": 0,
         "samim29": 0,
         "rohit-debnath24": 0,
-        "Bavanetha27": 4,
+        "Bavanetha27": 5,
         "ChinmayaBiswal7": 0,
         "Shrey3satdeve": 0,
         "Sitaram8472": 0,
@@ -42656,7 +42687,7 @@
         "11neeja": 0,
         "Aaryandhage": 0,
         "sahukrishna27": 0,
-        "arthavjain103": 3,
+        "arthavjain103": 4,
         "projects": 0,
         "LAWSA07": 0,
         "AnvitaPrasad": 0,
@@ -43167,7 +43198,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 18,
+        "TanmayKalra09": 19,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -43271,7 +43302,7 @@
         "Payal12-max": 0,
         "Anushka-Naik28": 0,
         "koushikreddybachu": 1,
-        "dishaagrawalcodes": 1,
+        "dishaagrawalcodes": 3,
         "Harshi-max": 1,
         "Hima-Bindhu6527": 0,
         "achieveramrit": 0,
@@ -43511,7 +43542,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Kirti-Rathi/PromptShell": {
@@ -44872,11 +44904,12 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Bhavya1352/eventmappr": {
-      "totalPRs": 78,
+      "totalPRs": 80,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -45163,7 +45196,7 @@
         "saaranshg": 0,
         "chayanC7mondal": 0,
         "manishgithubri": 0,
-        "dinesh-2047": 0,
+        "dinesh-2047": 1,
         "modiraunak": 0,
         "Payel647": 0,
         "Jotthecode": 0,
@@ -45889,7 +45922,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 3,
+        "TanmayKalra09": 4,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -46233,7 +46266,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "Prateek9876/NagarVikas": {
@@ -47594,7 +47628,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "soumya813/Notes-App": {
@@ -48955,7 +48990,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "ruchikakengal/WebDevIn100_Days": {
@@ -50316,7 +50352,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 0,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     },
     "CLUSTER-DS-Club/cluster": {
@@ -51677,7 +51714,8 @@
         "Coder-HNP": 0,
         "Deepu9981": 0,
         "Ishikacasley14": 1,
-        "KALYANI2309K3s": 0
+        "KALYANI2309K3s": 0,
+        "SonaliK7654": 0
       }
     }
   },
@@ -52921,6 +52959,22 @@
       "state": "MERGED",
       "createdAt": "2025-08-03T12:48:31Z",
       "mergedAt": "2025-08-03T13:10:33Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 538,
+      "title": "Improved UI of Contributors Page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/538",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T14:42:33Z",
+      "mergedAt": "2025-08-04T16:26:55Z",
       "author": "TanmayKalra09",
       "labels": [
         "Advanced",
@@ -63931,6 +63985,22 @@
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 842,
+      "title": "Added all remaining PYQs for BBA",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/842",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:07:16Z",
+      "mergedAt": "2025-08-04T10:29:22Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -69891,6 +69961,86 @@
       "project": "HarshS16/Civix"
     },
     {
+      "number": 446,
+      "title": "Fix letter clip in heading of privacy page",
+      "url": "https://github.com/HarshS16/Civix/pull/446",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T12:09:55Z",
+      "mergedAt": "2025-08-04T13:52:27Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 454,
+      "title": "Enhancement of Features Section",
+      "url": "https://github.com/HarshS16/Civix/pull/454",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T14:46:08Z",
+      "mergedAt": "2025-08-04T16:30:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 456,
+      "title": "testimonial files added",
+      "url": "https://github.com/HarshS16/Civix/pull/456",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T15:46:18Z",
+      "mergedAt": "2025-08-04T16:31:06Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 460,
+      "title": "solved empty submission bug resolves issue#417",
+      "url": "https://github.com/HarshS16/Civix/pull/460",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T17:15:17Z",
+      "mergedAt": "2025-08-04T18:07:10Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 461,
+      "title": "Howitworks resolves issue#418",
+      "url": "https://github.com/HarshS16/Civix/pull/461",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T17:24:30Z",
+      "mergedAt": "2025-08-04T18:09:10Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -71488,6 +71638,39 @@
       "labels": [
         "SSoC25",
         "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 333,
+      "title": "Improved UI of Cookies, Terms & Privacy",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/333",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T08:24:15Z",
+      "mergedAt": "2025-08-04T16:35:42Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 337,
+      "title": "backend setup complete ",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/337",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T12:39:38Z",
+      "mergedAt": "2025-08-04T16:39:54Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Advanced",
+        "GSSOC25"
       ],
       "level": "Advanced",
       "score": 40,

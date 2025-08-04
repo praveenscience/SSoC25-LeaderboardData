@@ -1249,6 +1249,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 538,
+      "title": "Improved UI of Contributors Page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/538",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T14:42:33Z",
+      "mergedAt": "2025-08-04T16:26:55Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -12249,6 +12265,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 842,
+      "title": "Added all remaining PYQs for BBA",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/842",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T18:07:16Z",
+      "mergedAt": "2025-08-04T10:29:22Z",
+      "author": "s4chinjha",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 106,
       "title": "Footer Updated (Reference and Modified image attached) Issue #27",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/106",
@@ -18209,6 +18241,86 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 446,
+      "title": "Fix letter clip in heading of privacy page",
+      "url": "https://github.com/HarshS16/Civix/pull/446",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T12:09:55Z",
+      "mergedAt": "2025-08-04T13:52:27Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 454,
+      "title": "Enhancement of Features Section",
+      "url": "https://github.com/HarshS16/Civix/pull/454",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T14:46:08Z",
+      "mergedAt": "2025-08-04T16:30:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 456,
+      "title": "testimonial files added",
+      "url": "https://github.com/HarshS16/Civix/pull/456",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T15:46:18Z",
+      "mergedAt": "2025-08-04T16:31:06Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 460,
+      "title": "solved empty submission bug resolves issue#417",
+      "url": "https://github.com/HarshS16/Civix/pull/460",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T17:15:17Z",
+      "mergedAt": "2025-08-04T18:07:10Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 461,
+      "title": "Howitworks resolves issue#418",
+      "url": "https://github.com/HarshS16/Civix/pull/461",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T17:24:30Z",
+      "mergedAt": "2025-08-04T18:09:10Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -19806,6 +19918,39 @@ var prs = {
       "labels": [
         "SSoC25",
         "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 333,
+      "title": "Improved UI of Cookies, Terms & Privacy",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/333",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T08:24:15Z",
+      "mergedAt": "2025-08-04T16:35:42Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 337,
+      "title": "backend setup complete ",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/337",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T12:39:38Z",
+      "mergedAt": "2025-08-04T16:39:54Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Advanced",
+        "GSSOC25"
       ],
       "level": "Advanced",
       "score": 40,
