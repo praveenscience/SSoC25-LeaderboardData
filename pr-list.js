@@ -18672,6 +18672,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 467,
+      "title": "fix Issue 379: \"Sign in with Google\" Missing on Login Page",
+      "url": "https://github.com/HarshS16/Civix/pull/467",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T11:22:56Z",
+      "mergedAt": "2025-08-05T13:56:40Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 468,
+      "title": "Improved UI of Testimonial Carousel",
+      "url": "https://github.com/HarshS16/Civix/pull/468",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T11:24:58Z",
+      "mergedAt": "2025-08-05T13:58:08Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",

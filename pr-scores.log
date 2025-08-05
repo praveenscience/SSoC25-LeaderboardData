@@ -1,12 +1,12 @@
 Fetching bonus points from GitHub: praveenscience/SSoC25-LeaderboardData-Bonus/bonus-points.json...
-Successfully loaded bonus points for 3 entries
+Successfully loaded bonus points for 253 entries
 
 Skipping beadarshh/Alex_Interview_Bot (removed from the list due to inactivity).
 
 Fetching PRs for amitkumardemo/EdgeCareer with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4999/5000 (resets at 3:23:31 PM)
+Rate limit: 4987/5000 (resets at 3:23:31 PM)
 Retrieved 2 PRs in this page
 Total PRs fetched for amitkumardemo/EdgeCareer: 2
 Qualifying PR: #50 by aryanguptacsvtu in amitkumardemo/EdgeCareer - Beginner (20 points)
@@ -19,7 +19,7 @@ Skipping shivampatkar/my-portfolio (removed from the list due to inactivity).
 Fetching PRs for vanshchauhan21/CryptoTracker with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4999/5000 (resets at 3:23:32 PM)
+Rate limit: 4988/5000 (resets at 3:23:32 PM)
 Retrieved 11 PRs in this page
 Total PRs fetched for vanshchauhan21/CryptoTracker: 11
 
@@ -28,7 +28,7 @@ Skipping bhavishya2601/skilloria (removed from the list due to inactivity).
 Fetching PRs for mryashsinghal/Resume-Builder with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4999/5000 (resets at 3:23:33 PM)
+Rate limit: 4988/5000 (resets at 3:23:33 PM)
 Retrieved 16 PRs in this page
 Total PRs fetched for mryashsinghal/Resume-Builder: 16
 Qualifying PR: #23 by Soumyosish in mryashsinghal/Resume-Builder - Beginner (20 points)
@@ -51,7 +51,7 @@ Qualifying PR: #142 by Sahil-Chahal in mryashsinghal/Resume-Builder - Beginner (
 Fetching PRs for SumitGorai01/TechieBlog with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4998/5000 (resets at 3:23:31 PM)
+Rate limit: 4986/5000 (resets at 3:23:31 PM)
 Retrieved 72 PRs in this page
 Total PRs fetched for SumitGorai01/TechieBlog: 72
 Qualifying PR: #352 by TanmayKalra09 in SumitGorai01/TechieBlog - Beginner (20 points)
@@ -124,7 +124,7 @@ Skipping jayraj175coder/Entertainer (removed from the list due to inactivity).
 Fetching PRs for UTSAVS26/PyVerse with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4998/5000 (resets at 3:23:32 PM)
+Rate limit: 4987/5000 (resets at 3:23:32 PM)
 Retrieved 67 PRs in this page
 Total PRs fetched for UTSAVS26/PyVerse: 67
 Qualifying PR: #1312 by adwityac in UTSAVS26/PyVerse - Intermediate (30 points)
@@ -201,7 +201,7 @@ Skipping Samarcodesinpython/Ni-Swarth (removed from the list due to inactivity).
 Fetching PRs for adityas1309/RaktConnect with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4998/5000 (resets at 3:23:33 PM)
+Rate limit: 4987/5000 (resets at 3:23:33 PM)
 Retrieved 33 PRs in this page
 Total PRs fetched for adityas1309/RaktConnect: 33
 Qualifying PR: #13 by Ranganivandan in adityas1309/RaktConnect - Beginner (20 points)
@@ -242,7 +242,7 @@ Skipping Dipanita45/HEALCONNECT (removed from the list due to inactivity).
 Fetching PRs for Dev-Dhruba/NeuroDev-Therapy with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4997/5000 (resets at 3:23:31 PM)
+Rate limit: 4985/5000 (resets at 3:23:31 PM)
 Retrieved 9 PRs in this page
 Total PRs fetched for Dev-Dhruba/NeuroDev-Therapy: 9
 Qualifying PR: #26 by kauntiaakash2 in Dev-Dhruba/NeuroDev-Therapy - Beginner (20 points)
@@ -270,11 +270,11 @@ Skipping Aryan-coder-student/NeuroVision-BHPC (removed from the list due to inac
 Fetching PRs for alienx5499/SortVision with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4997/5000 (resets at 3:23:32 PM)
+Rate limit: 4986/5000 (resets at 3:23:32 PM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...7HYO
-Rate limit: 4997/5000 (resets at 3:23:33 PM)
+Rate limit: 4986/5000 (resets at 3:23:33 PM)
 Retrieved 74 PRs in this page
 Total PRs fetched for alienx5499/SortVision: 174
 Qualifying PR: #60 by piyushdhoka in alienx5499/SortVision - Intermediate (30 points)
@@ -457,7 +457,7 @@ Skipping divi-24/IG3D (removed from the list due to inactivity).
 Fetching PRs for k0msenapati/study-sphere with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4996/5000 (resets at 3:23:31 PM)
+Rate limit: 4984/5000 (resets at 3:23:31 PM)
 Retrieved 40 PRs in this page
 Total PRs fetched for k0msenapati/study-sphere: 40
 Qualifying PR: #21 by jyotsna030 in k0msenapati/study-sphere - Beginner (20 points)
@@ -500,7 +500,7 @@ Qualifying PR: #161 by Ronnit44 in k0msenapati/study-sphere - Beginner (20 point
 Fetching PRs for ShikhaMaurya212402/Plant-Disease-Classification-Model with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4996/5000 (resets at 3:23:32 PM)
+Rate limit: 4985/5000 (resets at 3:23:32 PM)
 Retrieved 14 PRs in this page
 Total PRs fetched for ShikhaMaurya212402/Plant-Disease-Classification-Model: 14
 Qualifying PR: #16 by SK8-infi in ShikhaMaurya212402/Plant-Disease-Classification-Model - Beginner (20 points)
@@ -534,7 +534,7 @@ Skipping souvik-maity/StyleCart (removed from the list due to inactivity).
 Fetching PRs for Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4996/5000 (resets at 3:23:33 PM)
+Rate limit: 4985/5000 (resets at 3:23:33 PM)
 Retrieved 8 PRs in this page
 Total PRs fetched for Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit: 8
 Qualifying PR: #25 by aryanguptacsvtu in Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit - Beginner (20 points)
@@ -551,7 +551,7 @@ Skipping ayushsin9h/WanderStay-Your-Premium-Hotel-Finder (removed from the list 
 Fetching PRs for Fenirok/Earthquake_app with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4995/5000 (resets at 3:23:31 PM)
+Rate limit: 4983/5000 (resets at 3:23:31 PM)
 Retrieved 3 PRs in this page
 Total PRs fetched for Fenirok/Earthquake_app: 3
 Qualifying PR: #35 by Sandhya251 in Fenirok/Earthquake_app - Advanced (40 points)
@@ -559,11 +559,11 @@ Qualifying PR: #35 by Sandhya251 in Fenirok/Earthquake_app - Advanced (40 points
 Fetching PRs for PRIYANSHU2026/DataSentience-AIML with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4995/5000 (resets at 3:23:32 PM)
+Rate limit: 4984/5000 (resets at 3:23:32 PM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...7HYO
-Rate limit: 4995/5000 (resets at 3:23:33 PM)
+Rate limit: 4984/5000 (resets at 3:23:33 PM)
 Retrieved 29 PRs in this page
 Total PRs fetched for PRIYANSHU2026/DataSentience-AIML: 129
 Qualifying PR: #16 by keshripritesh in PRIYANSHU2026/DataSentience-AIML - Intermediate (30 points)
@@ -689,15 +689,15 @@ Skipping AdityaRalhan/CopConnect (removed from the list due to inactivity).
 Fetching PRs for Saumy1905/PYQFort with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4994/5000 (resets at 3:23:31 PM)
+Rate limit: 4982/5000 (resets at 3:23:31 PM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...eN9J
-Rate limit: 4994/5000 (resets at 3:23:32 PM)
+Rate limit: 4983/5000 (resets at 3:23:32 PM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...7HYO
-Rate limit: 4994/5000 (resets at 3:23:33 PM)
+Rate limit: 4983/5000 (resets at 3:23:33 PM)
 Retrieved 25 PRs in this page
 Total PRs fetched for Saumy1905/PYQFort: 225
 Qualifying PR: #83 by Pixel20coder in Saumy1905/PYQFort - Advanced (40 points)
@@ -928,7 +928,7 @@ Skipping Code-A2Z/code-a2z (removed from the list due to inactivity).
 Fetching PRs for rutikakengal/FoodFusion-Online-Food-Ordering-Web with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4993/5000 (resets at 3:23:31 PM)
+Rate limit: 4981/5000 (resets at 3:23:31 PM)
 Retrieved 28 PRs in this page
 Total PRs fetched for rutikakengal/FoodFusion-Online-Food-Ordering-Web: 28
 Qualifying PR: #106 by archangel2006 in rutikakengal/FoodFusion-Online-Food-Ordering-Web - Intermediate (30 points)
@@ -957,7 +957,7 @@ Qualifying PR: #233 by dinesh-2047 in rutikakengal/FoodFusion-Online-Food-Orderi
 Fetching PRs for ruchikakengal/100_Days_100_webprojects with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4993/5000 (resets at 3:23:32 PM)
+Rate limit: 4982/5000 (resets at 3:23:32 PM)
 Retrieved 53 PRs in this page
 Total PRs fetched for ruchikakengal/100_Days_100_webprojects: 53
 Qualifying PR: #89 by sania0607 in ruchikakengal/100_Days_100_webprojects - Beginner (20 points)
@@ -1018,7 +1018,7 @@ Skipping Akshat111111/NexTrade (removed from the list due to inactivity).
 Fetching PRs for itsaryanchauhan/ThinkDSA with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4993/5000 (resets at 3:23:33 PM)
+Rate limit: 4982/5000 (resets at 3:23:33 PM)
 Retrieved 9 PRs in this page
 Total PRs fetched for itsaryanchauhan/ThinkDSA: 9
 Qualifying PR: #37 by m1ss-chief in itsaryanchauhan/ThinkDSA - Beginner (20 points)
@@ -1036,7 +1036,7 @@ Skipping xxRAJA/GYM-Profile- (removed from the list due to inactivity).
 Fetching PRs for Mayur-Pagote/README_Design_Kit with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4992/5000 (resets at 3:23:31 PM)
+Rate limit: 4980/5000 (resets at 3:23:31 PM)
 Retrieved 90 PRs in this page
 Total PRs fetched for Mayur-Pagote/README_Design_Kit: 90
 Qualifying PR: #8 by aryanguptacsvtu in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
@@ -1136,7 +1136,7 @@ Skipping RudraniGhosh24/NyayaBot (removed from the list due to inactivity).
 Fetching PRs for Programmers-Paradise/Annie with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4992/5000 (resets at 3:23:32 PM)
+Rate limit: 4981/5000 (resets at 3:23:32 PM)
 Retrieved 1 PRs in this page
 Total PRs fetched for Programmers-Paradise/Annie: 1
 
@@ -1145,7 +1145,7 @@ Skipping Premkolte/AnimateHub (removed from the list due to inactivity).
 Fetching PRs for venuchander/fintrack with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4992/5000 (resets at 3:23:33 PM)
+Rate limit: 4981/5000 (resets at 3:23:33 PM)
 Retrieved 20 PRs in this page
 Total PRs fetched for venuchander/fintrack: 20
 Qualifying PR: #10 by aryanguptacsvtu in venuchander/fintrack - Beginner (20 points)
@@ -1176,7 +1176,7 @@ Skipping ShrutiSawant0804/Statewise-Police-Political-Directory-Portal (removed f
 Fetching PRs for sailaja-adapa/Vipreshana with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4991/5000 (resets at 3:23:31 PM)
+Rate limit: 4979/5000 (resets at 3:23:31 PM)
 Retrieved 75 PRs in this page
 Total PRs fetched for sailaja-adapa/Vipreshana: 75
 Qualifying PR: #28 by shreesriv12 in sailaja-adapa/Vipreshana - Advanced (40 points)
@@ -1248,7 +1248,7 @@ Skipping PARIGUPTA0011/Samwaad (removed from the list due to inactivity).
 Fetching PRs for surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4991/5000 (resets at 3:23:32 PM)
+Rate limit: 4980/5000 (resets at 3:23:32 PM)
 Retrieved 27 PRs in this page
 Total PRs fetched for surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool: 27
 Qualifying PR: #7 by Mohamad-Owais in surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool - Intermediate (30 points)
@@ -1287,13 +1287,13 @@ Skipping kashikaga/FinTrak (removed from the list due to inactivity).
 Fetching PRs for HarshS16/Civix with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4991/5000 (resets at 3:23:33 PM)
+Rate limit: 4980/5000 (resets at 3:23:33 PM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...ix2X
-Rate limit: 4990/5000 (resets at 3:23:31 PM)
-Retrieved 21 PRs in this page
-Total PRs fetched for HarshS16/Civix: 121
+Rate limit: 4978/5000 (resets at 3:23:31 PM)
+Retrieved 24 PRs in this page
+Total PRs fetched for HarshS16/Civix: 124
 Qualifying PR: #41 by mukul-sharma-tech in HarshS16/Civix - Beginner (20 points)
 Qualifying PR: #44 by TanmayKalra09 in HarshS16/Civix - Advanced (40 points)
 Qualifying PR: #46 by SK8-infi in HarshS16/Civix - Beginner (20 points)
@@ -1407,11 +1407,13 @@ Qualifying PR: #461 by dishaagrawalcodes in HarshS16/Civix - Beginner (20 points
 Qualifying PR: #462 by dishaagrawalcodes in HarshS16/Civix - Intermediate (30 points)
 Qualifying PR: #464 by TanmayKalra09 in HarshS16/Civix - Advanced (40 points)
 Qualifying PR: #466 by Bavanetha27 in HarshS16/Civix - Beginner (20 points)
+Qualifying PR: #467 by michael-0007a in HarshS16/Civix - Advanced (40 points)
+Qualifying PR: #468 by TanmayKalra09 in HarshS16/Civix - Advanced (40 points)
 
 Fetching PRs for Kirti-Rathi/PromptShell with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4990/5000 (resets at 3:23:32 PM)
+Rate limit: 4979/5000 (resets at 3:23:32 PM)
 Retrieved 17 PRs in this page
 Total PRs fetched for Kirti-Rathi/PromptShell: 17
 Qualifying PR: #21 by GauravKarakoti in Kirti-Rathi/PromptShell - Advanced (40 points)
@@ -1441,7 +1443,7 @@ Skipping rudralpha10/Coolsphere (removed from the list due to inactivity).
 Fetching PRs for Bhavya1352/eventmappr with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4990/5000 (resets at 3:23:33 PM)
+Rate limit: 4979/5000 (resets at 3:23:33 PM)
 Retrieved 87 PRs in this page
 Total PRs fetched for Bhavya1352/eventmappr: 87
 Qualifying PR: #6 by TanmayKalra09 in Bhavya1352/eventmappr - Beginner (20 points)
@@ -1538,7 +1540,7 @@ Skipping thishika-k/IQTOPIA-NEW (removed from the list due to inactivity).
 Fetching PRs for Prateek9876/NagarVikas with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4989/5000 (resets at 3:23:31 PM)
+Rate limit: 4977/5000 (resets at 3:23:31 PM)
 Retrieved 53 PRs in this page
 Total PRs fetched for Prateek9876/NagarVikas: 53
 Qualifying PR: #21 by aryanguptacsvtu in Prateek9876/NagarVikas - Beginner (20 points)
@@ -1608,7 +1610,7 @@ Skipping Varshitha713/good-first-issue-for-students (removed from the list due t
 Fetching PRs for soumya813/Notes-App with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...eN9J
-Rate limit: 4989/5000 (resets at 3:23:32 PM)
+Rate limit: 4978/5000 (resets at 3:23:32 PM)
 Retrieved 8 PRs in this page
 Total PRs fetched for soumya813/Notes-App: 8
 Qualifying PR: #11 by Bavanetha27 in soumya813/Notes-App - Advanced (40 points)
@@ -1635,7 +1637,7 @@ Skipping koustavx08/academic-chain-main (removed from the list due to inactivity
 Fetching PRs for ruchikakengal/WebDevIn100_Days with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4989/5000 (resets at 3:23:33 PM)
+Rate limit: 4978/5000 (resets at 3:23:33 PM)
 Retrieved 53 PRs in this page
 Total PRs fetched for ruchikakengal/WebDevIn100_Days: 53
 Qualifying PR: #89 by sania0607 in ruchikakengal/WebDevIn100_Days - Beginner (20 points)
@@ -1732,7 +1734,7 @@ Skipping SGCODEX/Hackathon-Website (removed from the list due to inactivity).
 Fetching PRs for CLUSTER-DS-Club/cluster with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4988/5000 (resets at 3:23:31 PM)
+Rate limit: 4976/5000 (resets at 3:23:31 PM)
 Retrieved 47 PRs in this page
 Total PRs fetched for CLUSTER-DS-Club/cluster: 47
 Qualifying PR: #33 by aryanguptacsvtu in CLUSTER-DS-Club/cluster - Beginner (20 points)
@@ -1831,14 +1833,264 @@ Skipping ThePhoenix08/open-graph-visualizer (removed from the list due to inacti
 Skipping Swapnil-Dhamal/EventHive (removed from the list due to inactivity).
 
 ===== APPLYING BONUS POINTS =====
-Warning: Bonus points for unknown user praveenscience-example - skipping
-Warning: Bonus points for unknown user jaysaadhana-example - skipping
-Warning: Bonus points for unknown user rohit-example - skipping
+Bonus: vishnukothakapu awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aryarathoree awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Somilg11 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: amaansyed27 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Neha-Singh-j awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sayan922 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: IamPritamAcharya awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: HimanshuKabra01 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Anujanthwal-dotcom awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Y4shu awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Gurashish73 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sushma-1706 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kanik-snippet awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Dipanita45 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AbhinaySngh awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SRILSHUKLA awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sanskarlohani awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Tanishq-789 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Asterioxer awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: rohit-debnath24 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Bavanetha27 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: YashChauhan-2303 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SHIV-360 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Megha-sing awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Rakshit002 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: shreesriv12 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Priyakatariya awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: BalajiMittapalli awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Lalitha216 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: akashbisht004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: chehak2004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ananyaa03 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AnishSambhwani8278 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Vitalvarma awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ashi1411 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Samriddhi903 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: renuvarma67 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kanishgit09 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: MRohit-2003 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: GopalDwivedii awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kaurpreetman awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: piyushdhoka awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: nupurmadaan04 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: InMostCalmness-Rahul awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aliviahossain awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Jashneer awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AkshithaMuttangi awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: pahimauchil awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: GxAditya awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ItsMeAnanyaSrivastava awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AnoushkaSamanta awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: adwityac awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: VJLIVE awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ronnit44 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Priyanshiunique awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: dinesh-2047 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: pkbros awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: bwbeas awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Apurba-01 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Mohamad-Owais awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Vartekalohiya13 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: pari3654 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: naveenmvoff awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kavitha308 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Vishisht-Dwivedi awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Shreya-Gupta-SG awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: archangel2006 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ssz2605 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SHreyanSH-0 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Samiran2004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ssid18 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Saurabhjk15 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Tushar-senpai awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Soumyosish awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: MaulikGupta27 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: mav01-code awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Samiksha-bajoria awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ThulasiPriyaS awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ranganivandan awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Samridhi-2007 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Shoury-Rana awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Joystonm awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sneha842 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Siri-026 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: jyotsna030 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Namanbanshiwala awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: GauravKarakoti awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: HARSHMOHAN01 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Code-writter awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: imBharathkumarp awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sania0607 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SrigadaAkshayKumar awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: DivyaMandve awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Nandinikumari02 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: mansiruhil awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Jahnavi-de awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sushmithashettigar29 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Gargibajpai awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: DeadpoolX7 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Bhaanavee awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kotlalokeshwari098 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Aaryandhage awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: arthavjain103 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: arpitsehal awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AshutoshSingh058 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: tanu91112 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: shrutisachan08 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Lavi-hk awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: varun935 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: anuvind570 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: s4chinjha awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AskitEndo awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Kushagra888 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: RAJVEER42 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SamridhiAhuja2075 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AbhishekSharma-9 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: maheswari8074 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Anneshabhakta2005 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Mitali-119 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: TheAnumaan awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Poushali-Mitra awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: anchalchaturvedi08 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Jidnyasa-P awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: RinkiJhunjhunwala awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: VenkataSarma awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Kanwalgunkaur1111 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: tejaswinihatkar awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ravneet27062004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ankush-ai awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Coden-inja awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Verma-MK awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: afreenaiml awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: coddingjatin awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: anvita-09 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sohi07 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sahithi-kanjarla awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: keshripritesh awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ayushjava07 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kamran-asif awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ParthNema13 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: vineela49 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kanak227 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Mayankjain2624 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: YashSavalkar321 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: saarang2003 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Renu-code123 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: dini-5002 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: manavi-24 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Tarushiiiii awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Anamikaghosh18 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Shivu384 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aryann2319 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sejal-collection awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SK8-infi awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Adithkp03 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: vivekd16 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: decodekush awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: preritasaini1 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: giriraj-roy-7723 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: niharika-mente awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: denshaw-09 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: JallaDharani awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: 2024yuva awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Shashikumar-ezhilarasu awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SnehaghoshBarsha444 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Mmadan128 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: noshmachowdary awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ANTIK-007 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: suri5790 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ErebAsh awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ttiwari13 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Chavva-Harshita awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Radhika-dodain awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: code-well0 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: psp2535 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: bishal7448 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Student-ravneet awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: dipmanmajumdar awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: m1ss-chief awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: sumit-make awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: NandaGunasri awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Suhaniisingh05 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: architasaha21 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: jaylm10 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kauntiaakash2 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Saksham-Jaiswal-2004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Piyushchannawar awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Abhirup-261004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Priyanshi-prog awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ankit2061 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: isha0325 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sanjna07 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: swethapadmavathimukku awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Dru-429 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: TanmayKalra09 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Arihant-Bhandari awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Muneerali199 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: NehaSaini011 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: shreyamittal10 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: MayankV004 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sayan-206 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: awrya-cmd awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: divyam8175 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: imDarshanGK awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: VenkataSrujana11 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: NA-VNEET awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AkshithaReddy005 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: pratham15541 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Webwizzz22 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: chauhangarv awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sainava awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: koushikreddybachu awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: dishaagrawalcodes awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Harshi-max awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: tulikaroyy awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: UjjWaL-0911 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: JAYATIAHUJA awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Deekshithshaiva05 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: KavyaMunusamy awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: shambhavi0608 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: SubhamKojha awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aryanguptacsvtu awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: pooja1932 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aerinpatel awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Vrushti-kulkarni awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Atharva-Kale1 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Varshitha713 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Vaishnavi-Manne awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Harsh16Bhardwaj awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sundhar-Balamoorthy awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ZarrarPeshimam awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: VAISHNAVISTUDENT awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sandhya251 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: GarimaYadav29 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sudhanshu517 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Alam9835 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: ultimatrix2 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Yamuna-b awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: reeteesha-roy awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: krabhis awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: VEDAPRIYAMUTYAM awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: harshraj005 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: mukul-sharma-tech awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: jeevaananthan52 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: michael-0007a awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sahil-Chahal awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: rajusharmadata awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Vijayashree-tech awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Pixel20coder awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: shanmukhchodagam awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aayishajalal awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: shriyanyk awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ishikacasley14 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 
 ===== SUMMARY =====
-Total qualifying PRs: 1384
-Total points awarded: 38060
-(including 0 bonus points)
+Total qualifying PRs: 1386
+Total points awarded: 63440
+(including 25300 bonus points)
 
 ===== USER SCORES =====
 72897: No qualifying PRs or bonus points
@@ -1847,9 +2099,11 @@ adityamaitreya: No qualifying PRs or bonus points
 jay1466: No qualifying PRs or bonus points
 heykcer: No qualifying PRs or bonus points
 Nimisha987: No qualifying PRs or bonus points
-vishnukothakapu: 130 points (4 PRs)
+vishnukothakapu: 230 points (includes 100 bonus points) (4 PRs)
   - Intermediate: 3 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Nehakumarigupta: No qualifying PRs or bonus points
 ParnaRoyChowdhury777: No qualifying PRs or bonus points
 KollaGautami: No qualifying PRs or bonus points
@@ -1860,45 +2114,61 @@ vasanth30672: No qualifying PRs or bonus points
 sonuprasad23: No qualifying PRs or bonus points
 AasthaPoswal: No qualifying PRs or bonus points
 G3miniCodes: No qualifying PRs or bonus points
-aryarathoree: 60 points (2 PRs)
+aryarathoree: 160 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sumandey7684: No qualifying PRs or bonus points
 AkshayHaldar: No qualifying PRs or bonus points
-Somilg11: 190 points (9 PRs)
+Somilg11: 290 points (includes 100 bonus points) (9 PRs)
   - Beginner: 8 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 anuscaa: No qualifying PRs or bonus points
-amaansyed27: 890 points (29 PRs)
+amaansyed27: 990 points (includes 100 bonus points) (29 PRs)
   - Beginner: 7 PRs
   - Intermediate: 13 PRs
   - Advanced: 9 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 tamatar-23: No qualifying PRs or bonus points
 adityas72: No qualifying PRs or bonus points
 MeghanaDG04: No qualifying PRs or bonus points
 Lakshya0104: No qualifying PRs or bonus points
-Neha-Singh-j: 20 points (1 PRs)
+Neha-Singh-j: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 annant2005: No qualifying PRs or bonus points
 deepanshi-codes: No qualifying PRs or bonus points
-sayan922: 80 points (3 PRs)
+sayan922: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Advanced: 1 PRs
-IamPritamAcharya: 290 points (8 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+IamPritamAcharya: 390 points (includes 100 bonus points) (8 PRs)
   - Intermediate: 3 PRs
   - Advanced: 5 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 SanjanaJ20: No qualifying PRs or bonus points
 Nithin0306: No qualifying PRs or bonus points
 Preksha07-ap: No qualifying PRs or bonus points
-HimanshuKabra01: 1100 points (49 PRs)
+HimanshuKabra01: 1200 points (includes 100 bonus points) (49 PRs)
   - Beginner: 38 PRs
   - Intermediate: 10 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Sarvesh221007: No qualifying PRs or bonus points
 sourav0006: No qualifying PRs or bonus points
-Anujanthwal-dotcom: 70 points (3 PRs)
+Anujanthwal-dotcom: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Aditya-Roy-code: No qualifying PRs or bonus points
 mahakagarwal45: No qualifying PRs or bonus points
 OJASWANI-tech: No qualifying PRs or bonus points
@@ -1929,28 +2199,38 @@ dreamerboy92: No qualifying PRs or bonus points
 Sachinrautela: No qualifying PRs or bonus points
 Er-luffy-d: No qualifying PRs or bonus points
 SayantikaLaskar: No qualifying PRs or bonus points
-Y4shu: 240 points (7 PRs)
+Y4shu: 340 points (includes 100 bonus points) (7 PRs)
   - Beginner: 2 PRs
   - Advanced: 5 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 erenyeager101: No qualifying PRs or bonus points
 Ayirr: No qualifying PRs or bonus points
 anikaaggarwal23: No qualifying PRs or bonus points
 Er-Afzal: No qualifying PRs or bonus points
-Gurashish73: 30 points (1 PRs)
+Gurashish73: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 aartisonigra: No qualifying PRs or bonus points
-Sushma-1706: 20 points (1 PRs)
+Sushma-1706: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-kanik-snippet: 30 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+kanik-snippet: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 anusha-codes: No qualifying PRs or bonus points
 anshuman444: No qualifying PRs or bonus points
 kasmya: No qualifying PRs or bonus points
 tanvipawase30: No qualifying PRs or bonus points
-Dipanita45: 760 points (27 PRs)
+Dipanita45: 860 points (includes 100 bonus points) (27 PRs)
   - Beginner: 8 PRs
   - Intermediate: 16 PRs
   - Advanced: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sayanMU007: No qualifying PRs or bonus points
 IshitaAgrawal-dev: No qualifying PRs or bonus points
 BYTEBENDER-ML: No qualifying PRs or bonus points
@@ -1962,20 +2242,28 @@ Manvitha3004: No qualifying PRs or bonus points
 sakshig130: No qualifying PRs or bonus points
 rudresh05: No qualifying PRs or bonus points
 Jayantjha17: No qualifying PRs or bonus points
-AbhinaySngh: 60 points (3 PRs)
+AbhinaySngh: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Kalaigar-Ayesha: No qualifying PRs or bonus points
-SRILSHUKLA: 40 points (1 PRs)
+SRILSHUKLA: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Chetanck03: No qualifying PRs or bonus points
 ayesha2104: No qualifying PRs or bonus points
 beastcodershivam007: No qualifying PRs or bonus points
 vinayakpandeya: No qualifying PRs or bonus points
-sanskarlohani: 40 points (1 PRs)
+sanskarlohani: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 manoharbari: No qualifying PRs or bonus points
-Tanishq-789: 30 points (1 PRs)
+Tanishq-789: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 AbhienayaSri9509: No qualifying PRs or bonus points
 hitesh-reddy-k: No qualifying PRs or bonus points
 MNaveenReddy123: No qualifying PRs or bonus points
@@ -1983,38 +2271,52 @@ paul-srijan: No qualifying PRs or bonus points
 yash-sisodia22: No qualifying PRs or bonus points
 iamshubham1704: No qualifying PRs or bonus points
 Harishchandra-26: No qualifying PRs or bonus points
-Asterioxer: 300 points (14 PRs)
+Asterioxer: 400 points (includes 100 bonus points) (14 PRs)
   - Beginner: 13 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 samim29: No qualifying PRs or bonus points
-rohit-debnath24: 30 points (1 PRs)
+rohit-debnath24: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
-Bavanetha27: 270 points (8 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bavanetha27: 370 points (includes 100 bonus points) (8 PRs)
   - Beginner: 1 PRs
   - Intermediate: 3 PRs
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ChinmayaBiswal7: No qualifying PRs or bonus points
 Shrey3satdeve: No qualifying PRs or bonus points
 Sitaram8472: No qualifying PRs or bonus points
 Ariifff: No qualifying PRs or bonus points
 ADITYASINGH0175: No qualifying PRs or bonus points
-YashChauhan-2303: 80 points (3 PRs)
+YashChauhan-2303: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Laiba-AbdulQuddus: No qualifying PRs or bonus points
-SHIV-360: 60 points (2 PRs)
+SHIV-360: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Shruti1128: No qualifying PRs or bonus points
 tanvisatija: No qualifying PRs or bonus points
-Megha-sing: 100 points (3 PRs)
+Megha-sing: 200 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 vishes-i: No qualifying PRs or bonus points
 himanshu950: No qualifying PRs or bonus points
 goyal-nandini: No qualifying PRs or bonus points
 Sai-Dangade777: No qualifying PRs or bonus points
-Rakshit002: 30 points (1 PRs)
+Rakshit002: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 VanshRaghav5: No qualifying PRs or bonus points
 darkseid03: No qualifying PRs or bonus points
 LavanyaBanga: No qualifying PRs or bonus points
@@ -2022,25 +2324,35 @@ Suteexxx: No qualifying PRs or bonus points
 yashiiika299: No qualifying PRs or bonus points
 Harshawardhan2209: No qualifying PRs or bonus points
 Riti2407: No qualifying PRs or bonus points
-shreesriv12: 80 points (2 PRs)
+shreesriv12: 180 points (includes 100 bonus points) (2 PRs)
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Blackdragon04: No qualifying PRs or bonus points
-Priyakatariya: 370 points (16 PRs)
+Priyakatariya: 470 points (includes 100 bonus points) (16 PRs)
   - Beginner: 11 PRs
   - Intermediate: 5 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 vivek459verma: No qualifying PRs or bonus points
 Palakpk954: No qualifying PRs or bonus points
 pranav-gujar: No qualifying PRs or bonus points
 Kushika-Agarwal: No qualifying PRs or bonus points
 NityaSriDeepakRaj: No qualifying PRs or bonus points
-BalajiMittapalli: 20 points (1 PRs)
+BalajiMittapalli: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-Lalitha216: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Lalitha216: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 kevaleaditya1: No qualifying PRs or bonus points
-akashbisht004: 80 points (3 PRs)
+akashbisht004: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Jeenal0818: No qualifying PRs or bonus points
 Piyush00715: No qualifying PRs or bonus points
 Pradhyumn72: No qualifying PRs or bonus points
@@ -2048,29 +2360,43 @@ Roavinsh: No qualifying PRs or bonus points
 rudra-bansal: No qualifying PRs or bonus points
 Sumit1122005: No qualifying PRs or bonus points
 Akhilnagavelli: No qualifying PRs or bonus points
-chehak2004: 20 points (1 PRs)
+chehak2004: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-Ananyaa03: 40 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Ananyaa03: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sanjanashah05: No qualifying PRs or bonus points
 kimbohlovette: No qualifying PRs or bonus points
 kalyanshnu: No qualifying PRs or bonus points
-AnishSambhwani8278: 120 points (5 PRs)
+AnishSambhwani8278: 220 points (includes 100 bonus points) (5 PRs)
   - Beginner: 3 PRs
   - Intermediate: 2 PRs
-Vitalvarma: 60 points (3 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Vitalvarma: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ankur2606: No qualifying PRs or bonus points
 Aditya-Matta: No qualifying PRs or bonus points
-Ashi1411: 60 points (3 PRs)
+Ashi1411: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
-Samriddhi903: 40 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Samriddhi903: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 richabudhori: No qualifying PRs or bonus points
 Shonal-prog: No qualifying PRs or bonus points
-renuvarma67: 100 points (3 PRs)
+renuvarma67: 200 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Kinnariii: No qualifying PRs or bonus points
 shivampatkar: No qualifying PRs or bonus points
 TanishaBansal101: No qualifying PRs or bonus points
@@ -2084,8 +2410,10 @@ dheeraxspidey: No qualifying PRs or bonus points
 soasmi: No qualifying PRs or bonus points
 sg6724: No qualifying PRs or bonus points
 Ankitbhati06: No qualifying PRs or bonus points
-kanishgit09: 40 points (1 PRs)
+kanishgit09: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Radi8ion: No qualifying PRs or bonus points
 Lavanesswary: No qualifying PRs or bonus points
 ManiKumar061: No qualifying PRs or bonus points
@@ -2095,15 +2423,21 @@ priyanshuchawda: No qualifying PRs or bonus points
 AdnanSiddiqui95: No qualifying PRs or bonus points
 yashdeep370: No qualifying PRs or bonus points
 rachelllxo: No qualifying PRs or bonus points
-MRohit-2003: 40 points (1 PRs)
+MRohit-2003: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 abhiraj646: No qualifying PRs or bonus points
-GopalDwivedii: 100 points (3 PRs)
+GopalDwivedii: 200 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Prachii2396: No qualifying PRs or bonus points
-kaurpreetman: 160 points (4 PRs)
+kaurpreetman: 260 points (includes 100 bonus points) (4 PRs)
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Tanwarshiva: No qualifying PRs or bonus points
 herin7: No qualifying PRs or bonus points
 dashmeet2023: No qualifying PRs or bonus points
@@ -2112,31 +2446,41 @@ gauravjain0377: No qualifying PRs or bonus points
 yadavkanishk07: No qualifying PRs or bonus points
 Uhashini: No qualifying PRs or bonus points
 RishabhV28: No qualifying PRs or bonus points
-piyushdhoka: 900 points (41 PRs)
+piyushdhoka: 1000 points (includes 100 bonus points) (41 PRs)
   - Beginner: 35 PRs
   - Intermediate: 4 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Anjanipatnaik: No qualifying PRs or bonus points
 Shubh-Rawat7: No qualifying PRs or bonus points
-nupurmadaan04: 70 points (3 PRs)
+nupurmadaan04: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 DarKnight890980: No qualifying PRs or bonus points
 HimanshuHeda: No qualifying PRs or bonus points
 riyaraj-web: No qualifying PRs or bonus points
 tejaskankhar: No qualifying PRs or bonus points
 nitin811: No qualifying PRs or bonus points
-InMostCalmness-Rahul: 100 points (4 PRs)
+InMostCalmness-Rahul: 200 points (includes 100 bonus points) (4 PRs)
   - Beginner: 3 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 mr-akash-22: No qualifying PRs or bonus points
-aliviahossain: 50 points (2 PRs)
+aliviahossain: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
-Jashneer: 370 points (12 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Jashneer: 470 points (includes 100 bonus points) (12 PRs)
   - Beginner: 2 PRs
   - Intermediate: 7 PRs
   - Advanced: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Anuragsrivastava508: No qualifying PRs or bonus points
 rashmeet1896: No qualifying PRs or bonus points
 Atlantafiles: No qualifying PRs or bonus points
@@ -2145,25 +2489,33 @@ Vanshaj14Mohan: No qualifying PRs or bonus points
 ojasvsingh71: No qualifying PRs or bonus points
 titasgarai: No qualifying PRs or bonus points
 Arnab-dot: No qualifying PRs or bonus points
-AkshithaMuttangi: 40 points (1 PRs)
+AkshithaMuttangi: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 pratheekv39: No qualifying PRs or bonus points
 harshithabs109: No qualifying PRs or bonus points
 Diwansu-pilania: No qualifying PRs or bonus points
 k-shushh: No qualifying PRs or bonus points
-pahimauchil: 150 points (6 PRs)
+pahimauchil: 250 points (includes 100 bonus points) (6 PRs)
   - Beginner: 3 PRs
   - Intermediate: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 otAdarshP: No qualifying PRs or bonus points
 gemmishra: No qualifying PRs or bonus points
-GxAditya: 220 points (7 PRs)
+GxAditya: 320 points (includes 100 bonus points) (7 PRs)
   - Beginner: 2 PRs
   - Intermediate: 2 PRs
   - Advanced: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 pushkar-web: No qualifying PRs or bonus points
 methrearchana: No qualifying PRs or bonus points
-ItsMeAnanyaSrivastava: 20 points (1 PRs)
+ItsMeAnanyaSrivastava: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Akshita-2006: No qualifying PRs or bonus points
 SandipGhorai-max: No qualifying PRs or bonus points
 Konikakonika: No qualifying PRs or bonus points
@@ -2176,9 +2528,11 @@ SumitRathore23: No qualifying PRs or bonus points
 shwet91-cyber: No qualifying PRs or bonus points
 abhilash-0913: No qualifying PRs or bonus points
 gupta-ritik: No qualifying PRs or bonus points
-AnoushkaSamanta: 70 points (3 PRs)
+AnoushkaSamanta: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Akshit0707: No qualifying PRs or bonus points
 shreenn: No qualifying PRs or bonus points
 BhavanaGupta1st: No qualifying PRs or bonus points
@@ -2197,33 +2551,43 @@ pranao0609: No qualifying PRs or bonus points
 techy-snehali-07: No qualifying PRs or bonus points
 nihalsareddy: No qualifying PRs or bonus points
 saoud30: No qualifying PRs or bonus points
-adwityac: 110 points (4 PRs)
+adwityac: 210 points (includes 100 bonus points) (4 PRs)
   - Beginner: 1 PRs
   - Intermediate: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 muskankhan21052003-byte: No qualifying PRs or bonus points
 DivyaBarnwal21: No qualifying PRs or bonus points
 Siddhi-31: No qualifying PRs or bonus points
-VJLIVE: 590 points (20 PRs)
+VJLIVE: 690 points (includes 100 bonus points) (20 PRs)
   - Beginner: 5 PRs
   - Intermediate: 11 PRs
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 AnuranjanJain: No qualifying PRs or bonus points
-Ronnit44: 500 points (23 PRs)
+Ronnit44: 600 points (includes 100 bonus points) (23 PRs)
   - Beginner: 19 PRs
   - Intermediate: 4 PRs
-Priyanshiunique: 50 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Priyanshiunique: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Gauravsinghrajputt: No qualifying PRs or bonus points
 rohitshankar12: No qualifying PRs or bonus points
 Sanskriti-Saran: No qualifying PRs or bonus points
 saaranshg: No qualifying PRs or bonus points
 chayanC7mondal: No qualifying PRs or bonus points
 manishgithubri: No qualifying PRs or bonus points
-dinesh-2047: 380 points (16 PRs)
+dinesh-2047: 480 points (includes 100 bonus points) (16 PRs)
   - Beginner: 11 PRs
   - Intermediate: 4 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 modiraunak: No qualifying PRs or bonus points
 Payel647: No qualifying PRs or bonus points
 Jotthecode: No qualifying PRs or bonus points
@@ -2235,19 +2599,25 @@ Paparx: No qualifying PRs or bonus points
 varunkumarcs22055: No qualifying PRs or bonus points
 jatinkaushik-jk: No qualifying PRs or bonus points
 SUPREME-AKASH-DEVELOPER: No qualifying PRs or bonus points
-pkbros: 70 points (2 PRs)
+pkbros: 170 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 predator-911: No qualifying PRs or bonus points
 dharanireddydadi: No qualifying PRs or bonus points
 itz-nirmal: No qualifying PRs or bonus points
-bwbeas: 110 points (4 PRs)
+bwbeas: 210 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
-Apurba-01: 210 points (10 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Apurba-01: 310 points (includes 100 bonus points) (10 PRs)
   - Beginner: 9 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ayushsin9h: No qualifying PRs or bonus points
 Esheshwari: No qualifying PRs or bonus points
 Anshul117: No qualifying PRs or bonus points
@@ -2256,68 +2626,94 @@ anusha-kr01: No qualifying PRs or bonus points
 shreya22070: No qualifying PRs or bonus points
 Vanshika110: No qualifying PRs or bonus points
 Shaheen614: No qualifying PRs or bonus points
-Mohamad-Owais: 70 points (3 PRs)
+Mohamad-Owais: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ashwin-kumar9405: No qualifying PRs or bonus points
 mihika1110: No qualifying PRs or bonus points
 Divyakumari18: No qualifying PRs or bonus points
 b21renu: No qualifying PRs or bonus points
 MehulDev0228: No qualifying PRs or bonus points
 Fatimaq07: No qualifying PRs or bonus points
-Vartekalohiya13: 60 points (2 PRs)
+Vartekalohiya13: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Manoj-ruler: No qualifying PRs or bonus points
-pari3654: 20 points (1 PRs)
+pari3654: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 rutuglave2519: No qualifying PRs or bonus points
 akshita-cyber: No qualifying PRs or bonus points
 shreyansh-hacker: No qualifying PRs or bonus points
-naveenmvoff: 30 points (1 PRs)
+naveenmvoff: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
-kavitha308: 50 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+kavitha308: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 VasuGx: No qualifying PRs or bonus points
-Vishisht-Dwivedi: 120 points (4 PRs)
+Vishisht-Dwivedi: 220 points (includes 100 bonus points) (4 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Varshini-Buggana: No qualifying PRs or bonus points
 Shambhujadhav4: No qualifying PRs or bonus points
-Shreya-Gupta-SG: 20 points (1 PRs)
+Shreya-Gupta-SG: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-archangel2006: 210 points (8 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+archangel2006: 310 points (includes 100 bonus points) (8 PRs)
   - Beginner: 4 PRs
   - Intermediate: 3 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 nithin434: No qualifying PRs or bonus points
 aasthax1: No qualifying PRs or bonus points
 ShifanaRajamohamed: No qualifying PRs or bonus points
-ssz2605: 40 points (1 PRs)
+ssz2605: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Mayukh-001: No qualifying PRs or bonus points
-SHreyanSH-0: 80 points (4 PRs)
+SHreyanSH-0: 180 points (includes 100 bonus points) (4 PRs)
   - Beginner: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Akay-saifi: No qualifying PRs or bonus points
 ayush-33: No qualifying PRs or bonus points
 Parul-Byte: No qualifying PRs or bonus points
 kanikaa-3018: No qualifying PRs or bonus points
 Shubham-Kanyal: No qualifying PRs or bonus points
-Samiran2004: 130 points (4 PRs)
+Samiran2004: 230 points (includes 100 bonus points) (4 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 kr8865: No qualifying PRs or bonus points
-ssid18: 40 points (2 PRs)
+ssid18: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Chhavi0104: No qualifying PRs or bonus points
 ABHILASH9519: No qualifying PRs or bonus points
 03-SudheshnaReddy: No qualifying PRs or bonus points
 TejaswiMahadev: No qualifying PRs or bonus points
 Durgesh4254: No qualifying PRs or bonus points
-Saurabhjk15: 40 points (1 PRs)
+Saurabhjk15: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sumit2221-div: No qualifying PRs or bonus points
 AbhiSingh05: No qualifying PRs or bonus points
 arjavjain5203: No qualifying PRs or bonus points
@@ -2330,19 +2726,25 @@ aniket0807: No qualifying PRs or bonus points
 ri5hika: No qualifying PRs or bonus points
 Siddhi-Nagapure-5: No qualifying PRs or bonus points
 tentasan: No qualifying PRs or bonus points
-Tushar-senpai: 70 points (2 PRs)
+Tushar-senpai: 170 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Nevil1234: No qualifying PRs or bonus points
 Akshaya2720: No qualifying PRs or bonus points
 sohumvenkatadri7: No qualifying PRs or bonus points
 codertanya03: No qualifying PRs or bonus points
-Soumyosish: 340 points (14 PRs)
+Soumyosish: 440 points (includes 100 bonus points) (14 PRs)
   - Beginner: 8 PRs
   - Intermediate: 6 PRs
-MaulikGupta27: 330 points (15 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+MaulikGupta27: 430 points (includes 100 bonus points) (15 PRs)
   - Beginner: 12 PRs
   - Intermediate: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 PalakSinha2505: No qualifying PRs or bonus points
 bhartiamulya: No qualifying PRs or bonus points
 aashutoshkumarbhardwaj: No qualifying PRs or bonus points
@@ -2356,11 +2758,15 @@ Abhinaytechie: No qualifying PRs or bonus points
 aksh1009: No qualifying PRs or bonus points
 chandikasarkar: No qualifying PRs or bonus points
 Hritikverma018: No qualifying PRs or bonus points
-mav01-code: 20 points (1 PRs)
+mav01-code: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 SanjayUG: No qualifying PRs or bonus points
-Samiksha-bajoria: 60 points (3 PRs)
+Samiksha-bajoria: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 VanshGosavi07: No qualifying PRs or bonus points
 Giradhar744: No qualifying PRs or bonus points
 gatlaharshada: No qualifying PRs or bonus points
@@ -2373,37 +2779,51 @@ Dipan2004: No qualifying PRs or bonus points
 Arni005: No qualifying PRs or bonus points
 gauravanand809: No qualifying PRs or bonus points
 lerisa1112: No qualifying PRs or bonus points
-ThulasiPriyaS: 110 points (3 PRs)
+ThulasiPriyaS: 210 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 1 PRs
   - Advanced: 2 PRs
-Ranganivandan: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Ranganivandan: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-Samridhi-2007: 70 points (3 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Samridhi-2007: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Saitej5181: No qualifying PRs or bonus points
 Athenavar: No qualifying PRs or bonus points
 Vadrevuharipriya: No qualifying PRs or bonus points
-Shoury-Rana: 160 points (5 PRs)
+Shoury-Rana: 260 points (includes 100 bonus points) (5 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 HarshitaDeewan9: No qualifying PRs or bonus points
 chanukyalucky: No qualifying PRs or bonus points
 Saafin000: No qualifying PRs or bonus points
 Paddu909: No qualifying PRs or bonus points
 soha160: No qualifying PRs or bonus points
-Joystonm: 80 points (3 PRs)
+Joystonm: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ankit2023-git: No qualifying PRs or bonus points
 Deepakfile: No qualifying PRs or bonus points
 vignesh19032005: No qualifying PRs or bonus points
-sneha842: 50 points (2 PRs)
+sneha842: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
-Siri-026: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Siri-026: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Yashbhu: No qualifying PRs or bonus points
 amitya369: No qualifying PRs or bonus points
 Arjun140205: No qualifying PRs or bonus points
@@ -2418,42 +2838,58 @@ khushbuusingh: No qualifying PRs or bonus points
 shbhmexe: No qualifying PRs or bonus points
 shreyagaur-10: No qualifying PRs or bonus points
 Hima0611: No qualifying PRs or bonus points
-jyotsna030: 80 points (3 PRs)
+jyotsna030: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Shyla09: No qualifying PRs or bonus points
 niyatij30: No qualifying PRs or bonus points
 Kasak02: No qualifying PRs or bonus points
-Namanbanshiwala: 40 points (1 PRs)
+Namanbanshiwala: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 shavy1910: No qualifying PRs or bonus points
 aarushitandon0: No qualifying PRs or bonus points
 saiusesgithub: No qualifying PRs or bonus points
 Rishitha-32: No qualifying PRs or bonus points
-GauravKarakoti: 140 points (4 PRs)
+GauravKarakoti: 240 points (includes 100 bonus points) (4 PRs)
   - Intermediate: 2 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ac3065: No qualifying PRs or bonus points
-HARSHMOHAN01: 360 points (12 PRs)
+HARSHMOHAN01: 460 points (includes 100 bonus points) (12 PRs)
   - Beginner: 6 PRs
   - Advanced: 6 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ARCoder181105: No qualifying PRs or bonus points
-Code-writter: 230 points (8 PRs)
+Code-writter: 330 points (includes 100 bonus points) (8 PRs)
   - Beginner: 3 PRs
   - Intermediate: 3 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Harshita-HKumawat: No qualifying PRs or bonus points
 Nazeya86: No qualifying PRs or bonus points
 MohammedArif9092: No qualifying PRs or bonus points
 ritik-123456: No qualifying PRs or bonus points
-imBharathkumarp: 310 points (12 PRs)
+imBharathkumarp: 410 points (includes 100 bonus points) (12 PRs)
   - Beginner: 6 PRs
   - Intermediate: 5 PRs
   - Advanced: 1 PRs
-sania0607: 40 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+sania0607: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
-SrigadaAkshayKumar: 40 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+SrigadaAkshayKumar: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ritesh-raushan: No qualifying PRs or bonus points
 sagarchauhan2516: No qualifying PRs or bonus points
 sasolanki03: No qualifying PRs or bonus points
@@ -2466,62 +2902,84 @@ jhaabhijeet864: No qualifying PRs or bonus points
 SrinithaBasireddy: No qualifying PRs or bonus points
 Antara-code19: No qualifying PRs or bonus points
 saminadamn: No qualifying PRs or bonus points
-DivyaMandve: 30 points (1 PRs)
+DivyaMandve: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 kiran797979: No qualifying PRs or bonus points
 pushkarsinghh: No qualifying PRs or bonus points
-Nandinikumari02: 40 points (2 PRs)
+Nandinikumari02: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
-mansiruhil: 30 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+mansiruhil: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Amcodeit: No qualifying PRs or bonus points
 Richasharma03: No qualifying PRs or bonus points
 Yash-Karakoti: No qualifying PRs or bonus points
-Jahnavi-de: 80 points (3 PRs)
+Jahnavi-de: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Rakza31: No qualifying PRs or bonus points
 Guruprasad-11: No qualifying PRs or bonus points
 deekshith-b48: No qualifying PRs or bonus points
 batmnnn: No qualifying PRs or bonus points
 Twinkleigdtuw: No qualifying PRs or bonus points
 Rohitku10: No qualifying PRs or bonus points
-sushmithashettigar29: 20 points (1 PRs)
+sushmithashettigar29: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 anshumalapandit: No qualifying PRs or bonus points
 LittleCodr: No qualifying PRs or bonus points
-Gargibajpai: 110 points (5 PRs)
+Gargibajpai: 210 points (includes 100 bonus points) (5 PRs)
   - Beginner: 4 PRs
   - Intermediate: 1 PRs
-DeadpoolX7: 110 points (4 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+DeadpoolX7: 210 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 NitikaSheoran: No qualifying PRs or bonus points
 Soumadeep1221: No qualifying PRs or bonus points
 rishithadasari2005: No qualifying PRs or bonus points
-Bhaanavee: 80 points (3 PRs)
+Bhaanavee: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 2006pritam: No qualifying PRs or bonus points
 aryan10092: No qualifying PRs or bonus points
 Vrajc: No qualifying PRs or bonus points
 AditiGupta-tech: No qualifying PRs or bonus points
-kotlalokeshwari098: 20 points (1 PRs)
+kotlalokeshwari098: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Sagolsa78: No qualifying PRs or bonus points
 vineela-bollineni: No qualifying PRs or bonus points
 yendlurisony: No qualifying PRs or bonus points
 AnujUpadhayay07: No qualifying PRs or bonus points
 11neeja: No qualifying PRs or bonus points
-Aaryandhage: 60 points (2 PRs)
+Aaryandhage: 160 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sahukrishna27: No qualifying PRs or bonus points
-arthavjain103: 510 points (21 PRs)
+arthavjain103: 610 points (includes 100 bonus points) (21 PRs)
   - Beginner: 14 PRs
   - Intermediate: 5 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 projects: No qualifying PRs or bonus points
 LAWSA07: No qualifying PRs or bonus points
 AnvitaPrasad: No qualifying PRs or bonus points
@@ -2538,8 +2996,10 @@ SuhaniKaushal: No qualifying PRs or bonus points
 Harshtiwari2-TIT: No qualifying PRs or bonus points
 Code-Rachit: No qualifying PRs or bonus points
 yayyyyshi: No qualifying PRs or bonus points
-arpitsehal: 30 points (1 PRs)
+arpitsehal: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 1203gauri: No qualifying PRs or bonus points
 Shrehitha: No qualifying PRs or bonus points
 mdaadil786: No qualifying PRs or bonus points
@@ -2552,8 +3012,10 @@ suranjanamuahaha: No qualifying PRs or bonus points
 kamranahmad786: No qualifying PRs or bonus points
 bhargavi1608: No qualifying PRs or bonus points
 Aditya20032004: No qualifying PRs or bonus points
-AshutoshSingh058: 120 points (4 PRs)
+AshutoshSingh058: 220 points (includes 100 bonus points) (4 PRs)
   - Intermediate: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Anshulgupta280104: No qualifying PRs or bonus points
 BhavanaTiwari16: No qualifying PRs or bonus points
 ShezaAnam08: No qualifying PRs or bonus points
@@ -2569,20 +3031,26 @@ DarshiniKurasa: No qualifying PRs or bonus points
 Mrityunjya: No qualifying PRs or bonus points
 daredevil17052004: No qualifying PRs or bonus points
 shubhreeka: No qualifying PRs or bonus points
-tanu91112: 640 points (22 PRs)
+tanu91112: 740 points (includes 100 bonus points) (22 PRs)
   - Beginner: 9 PRs
   - Intermediate: 6 PRs
   - Advanced: 7 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 OmkarKale453: No qualifying PRs or bonus points
-shrutisachan08: 90 points (3 PRs)
+shrutisachan08: 190 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 garvit-exe: No qualifying PRs or bonus points
 satnamalhan: No qualifying PRs or bonus points
-Lavi-hk: 90 points (4 PRs)
+Lavi-hk: 190 points (includes 100 bonus points) (4 PRs)
   - Beginner: 3 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ayushirochi21: No qualifying PRs or bonus points
 dhruvi2403: No qualifying PRs or bonus points
 rayanakarthikeyan: No qualifying PRs or bonus points
@@ -2601,11 +3069,15 @@ adiancodes: No qualifying PRs or bonus points
 mohan182004: No qualifying PRs or bonus points
 divy-03: No qualifying PRs or bonus points
 kg7825881: No qualifying PRs or bonus points
-varun935: 30 points (1 PRs)
+varun935: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 alphabet28: No qualifying PRs or bonus points
-anuvind570: 40 points (2 PRs)
+anuvind570: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Shivang-dadhich: No qualifying PRs or bonus points
 Ramharsh-aidev: No qualifying PRs or bonus points
 ZakiyaMiller: No qualifying PRs or bonus points
@@ -2616,15 +3088,19 @@ sumitchopkar2005: No qualifying PRs or bonus points
 anshi894: No qualifying PRs or bonus points
 ankur1409: No qualifying PRs or bonus points
 agrixm: No qualifying PRs or bonus points
-s4chinjha: 400 points (10 PRs)
+s4chinjha: 500 points (includes 100 bonus points) (10 PRs)
   - Advanced: 10 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 bhavya21A: No qualifying PRs or bonus points
 MansiKarki: No qualifying PRs or bonus points
 vanshaj2023: No qualifying PRs or bonus points
 mahi-pandey: No qualifying PRs or bonus points
 ESTROC: No qualifying PRs or bonus points
-AskitEndo: 40 points (1 PRs)
+AskitEndo: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Anjali096: No qualifying PRs or bonus points
 tutankhaman: No qualifying PRs or bonus points
 04arvind: No qualifying PRs or bonus points
@@ -2640,26 +3116,34 @@ Yogeshnema2412: No qualifying PRs or bonus points
 RuchikaTalele12: No qualifying PRs or bonus points
 jatin-9158: No qualifying PRs or bonus points
 Jayesh-Waghmare: No qualifying PRs or bonus points
-Kushagra888: 180 points (8 PRs)
+Kushagra888: 280 points (includes 100 bonus points) (8 PRs)
   - Beginner: 6 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 SandeepYadav2413182: No qualifying PRs or bonus points
 Sachinsingh2002: No qualifying PRs or bonus points
 Devansh1974: No qualifying PRs or bonus points
-RAJVEER42: 160 points (7 PRs)
+RAJVEER42: 260 points (includes 100 bonus points) (7 PRs)
   - Beginner: 5 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 pritisingh196: No qualifying PRs or bonus points
 Sanskarsn: No qualifying PRs or bonus points
 themayank1729: No qualifying PRs or bonus points
 IsmailGaur: No qualifying PRs or bonus points
 dhruv457457: No qualifying PRs or bonus points
 priyanshiii7: No qualifying PRs or bonus points
-SamridhiAhuja2075: 20 points (1 PRs)
+SamridhiAhuja2075: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-AbhishekSharma-9: 140 points (4 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+AbhishekSharma-9: 240 points (includes 100 bonus points) (4 PRs)
   - Intermediate: 2 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 gurjarsachin: No qualifying PRs or bonus points
 Rishwanth-Naguri: No qualifying PRs or bonus points
 amancoderhub: No qualifying PRs or bonus points
@@ -2668,9 +3152,11 @@ rajdeepdas108: No qualifying PRs or bonus points
 priyamish58: No qualifying PRs or bonus points
 laaghvii: No qualifying PRs or bonus points
 SaLTanaTuruz: No qualifying PRs or bonus points
-maheswari8074: 210 points (10 PRs)
+maheswari8074: 310 points (includes 100 bonus points) (10 PRs)
   - Beginner: 9 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Adarsh25449: No qualifying PRs or bonus points
 susmetaa01: No qualifying PRs or bonus points
 Nirmalfageria: No qualifying PRs or bonus points
@@ -2678,8 +3164,10 @@ niteshcipher: No qualifying PRs or bonus points
 creeembrees: No qualifying PRs or bonus points
 NeetuNaikya: No qualifying PRs or bonus points
 sarthakmangal9: No qualifying PRs or bonus points
-Anneshabhakta2005: 40 points (1 PRs)
+Anneshabhakta2005: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 nipuna12345678: No qualifying PRs or bonus points
 Adityajain991: No qualifying PRs or bonus points
 shivenpatro: No qualifying PRs or bonus points
@@ -2688,15 +3176,21 @@ saranshjagwani: No qualifying PRs or bonus points
 MDMOINAKHTARR: No qualifying PRs or bonus points
 yadavkapil23: No qualifying PRs or bonus points
 fonsecajr2: No qualifying PRs or bonus points
-Mitali-119: 20 points (1 PRs)
+Mitali-119: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Vaish0223: No qualifying PRs or bonus points
 chetan2835: No qualifying PRs or bonus points
 lokeshjakhar7781: No qualifying PRs or bonus points
-TheAnumaan: 40 points (1 PRs)
+TheAnumaan: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
-Poushali-Mitra: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Poushali-Mitra: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 K-Vaishnavi12: No qualifying PRs or bonus points
 naitik-01: No qualifying PRs or bonus points
 AshmitA-8: No qualifying PRs or bonus points
@@ -2706,18 +3200,22 @@ Nikhil210206: No qualifying PRs or bonus points
 Bharat269: No qualifying PRs or bonus points
 jeev170: No qualifying PRs or bonus points
 MANASA-NUKALA: No qualifying PRs or bonus points
-anchalchaturvedi08: 140 points (5 PRs)
+anchalchaturvedi08: 240 points (includes 100 bonus points) (5 PRs)
   - Beginner: 3 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 swet40: No qualifying PRs or bonus points
 Amankumar140: No qualifying PRs or bonus points
 sAnandha: No qualifying PRs or bonus points
 6Hu7harshita: No qualifying PRs or bonus points
 jaat-Hr: No qualifying PRs or bonus points
-Jidnyasa-P: 510 points (24 PRs)
+Jidnyasa-P: 610 points (includes 100 bonus points) (24 PRs)
   - Beginner: 22 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Bhatt005: No qualifying PRs or bonus points
 satvika1234: No qualifying PRs or bonus points
 rashmi895: No qualifying PRs or bonus points
@@ -2725,38 +3223,52 @@ sandeepbehera21: No qualifying PRs or bonus points
 DivyanshiGupta-18: No qualifying PRs or bonus points
 rishabh514: No qualifying PRs or bonus points
 jashwanthnani: No qualifying PRs or bonus points
-RinkiJhunjhunwala: 60 points (3 PRs)
+RinkiJhunjhunwala: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ananya818181: No qualifying PRs or bonus points
-VenkataSarma: 20 points (1 PRs)
+VenkataSarma: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 BeingRoaster-Raj: No qualifying PRs or bonus points
-Kanwalgunkaur1111: 20 points (1 PRs)
+Kanwalgunkaur1111: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 devanshimishra2: No qualifying PRs or bonus points
 amanverma100: No qualifying PRs or bonus points
 SleepDeprivedShi: No qualifying PRs or bonus points
 Ujjwal-Singh-20: No qualifying PRs or bonus points
 Pawnios: No qualifying PRs or bonus points
 MAHADEVAN-007: No qualifying PRs or bonus points
-tejaswinihatkar: 60 points (2 PRs)
+tejaswinihatkar: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 mohdfarmaan322: No qualifying PRs or bonus points
 Shary28-art: No qualifying PRs or bonus points
 kumarakshu: No qualifying PRs or bonus points
-ravneet27062004: 420 points (18 PRs)
+ravneet27062004: 520 points (includes 100 bonus points) (18 PRs)
   - Beginner: 13 PRs
   - Intermediate: 4 PRs
   - Advanced: 1 PRs
-Ankush-ai: 220 points (6 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Ankush-ai: 320 points (includes 100 bonus points) (6 PRs)
   - Beginner: 1 PRs
   - Advanced: 5 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Nav3005: No qualifying PRs or bonus points
 chockalingam131: No qualifying PRs or bonus points
 Chetanchhetri: No qualifying PRs or bonus points
 ashmita-web: No qualifying PRs or bonus points
-Coden-inja: 80 points (2 PRs)
+Coden-inja: 180 points (includes 100 bonus points) (2 PRs)
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 govindtilwani07: No qualifying PRs or bonus points
 harry-the-captain: No qualifying PRs or bonus points
 rhythmarora070: No qualifying PRs or bonus points
@@ -2767,10 +3279,12 @@ aryaman0406: No qualifying PRs or bonus points
 PURVIK-31: No qualifying PRs or bonus points
 Vikas-Verma1: No qualifying PRs or bonus points
 Himanshu950: No qualifying PRs or bonus points
-Verma-MK: 1440 points (58 PRs)
+Verma-MK: 1540 points (includes 100 bonus points) (58 PRs)
   - Beginner: 40 PRs
   - Intermediate: 8 PRs
   - Advanced: 10 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ErNehasharma: No qualifying PRs or bonus points
 jainoshika: No qualifying PRs or bonus points
 Shravya68: No qualifying PRs or bonus points
@@ -2778,10 +3292,12 @@ aryanorastar: No qualifying PRs or bonus points
 Itsmeaadeesh: No qualifying PRs or bonus points
 abufarisdev: No qualifying PRs or bonus points
 Adityas1202: No qualifying PRs or bonus points
-afreenaiml: 110 points (4 PRs)
+afreenaiml: 210 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 kalashjain9: No qualifying PRs or bonus points
 thishika-k: No qualifying PRs or bonus points
 Harshg33: No qualifying PRs or bonus points
@@ -2795,27 +3311,39 @@ Amaayu: No qualifying PRs or bonus points
 Abhash0307: No qualifying PRs or bonus points
 saurabhkumarsuman20: No qualifying PRs or bonus points
 SlothSlayer: No qualifying PRs or bonus points
-coddingjatin: 60 points (2 PRs)
+coddingjatin: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
-anvita-09: 40 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+anvita-09: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 swaraj-sh: No qualifying PRs or bonus points
 peehugahlot: No qualifying PRs or bonus points
 deepanshu921372: No qualifying PRs or bonus points
 Shadabkhan-007: No qualifying PRs or bonus points
-Sohi07: 100 points (4 PRs)
+Sohi07: 200 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Intermediate: 2 PRs
-sahithi-kanjarla: 70 points (3 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+sahithi-kanjarla: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Harilynn: No qualifying PRs or bonus points
-keshripritesh: 1570 points (47 PRs)
+keshripritesh: 1670 points (includes 100 bonus points) (47 PRs)
   - Intermediate: 31 PRs
   - Advanced: 16 PRs
-ayushjava07: 120 points (4 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+ayushjava07: 220 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Umang-Kaklotar: No qualifying PRs or bonus points
 shashidhar-kittur: No qualifying PRs or bonus points
 Chitranshu2411: No qualifying PRs or bonus points
@@ -2837,32 +3365,46 @@ SamXop123: No qualifying PRs or bonus points
 lohitha-2206: No qualifying PRs or bonus points
 prem-ramamoorthy: No qualifying PRs or bonus points
 Harshapendli: No qualifying PRs or bonus points
-kamran-asif: 50 points (2 PRs)
+kamran-asif: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
-ParthNema13: 220 points (7 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+ParthNema13: 320 points (includes 100 bonus points) (7 PRs)
   - Beginner: 1 PRs
   - Intermediate: 4 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 yatish-debug: No qualifying PRs or bonus points
 milanprajapati571: No qualifying PRs or bonus points
-vineela49: 30 points (1 PRs)
+vineela49: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Stutyay: No qualifying PRs or bonus points
 rheaadotcom: No qualifying PRs or bonus points
 Shaziya-Noorien09: No qualifying PRs or bonus points
 priyanshu5291: No qualifying PRs or bonus points
-kanak227: 30 points (1 PRs)
+kanak227: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
-Mayankjain2624: 30 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Mayankjain2624: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
-YashSavalkar321: 130 points (4 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+YashSavalkar321: 230 points (includes 100 bonus points) (4 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 chiiinmay: No qualifying PRs or bonus points
-saarang2003: 20 points (1 PRs)
+saarang2003: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 rishita2305: No qualifying PRs or bonus points
 Raghuvansyn: No qualifying PRs or bonus points
 sriganarupesh: No qualifying PRs or bonus points
@@ -2871,53 +3413,67 @@ RIP-Skillan: No qualifying PRs or bonus points
 Sriram00000: No qualifying PRs or bonus points
 Sirivennela04: No qualifying PRs or bonus points
 TANISHQDAS: No qualifying PRs or bonus points
-Renu-code123: 50 points (2 PRs)
+Renu-code123: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 guptaksht10: No qualifying PRs or bonus points
 Tamannameh2305: No qualifying PRs or bonus points
 abhisek2004: No qualifying PRs or bonus points
 pocket-flight: No qualifying PRs or bonus points
-dini-5002: 30 points (1 PRs)
+dini-5002: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ernitishpaswan: No qualifying PRs or bonus points
-manavi-24: 150 points (5 PRs)
+manavi-24: 250 points (includes 100 bonus points) (5 PRs)
   - Beginner: 1 PRs
   - Intermediate: 3 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Kuldeep-022: No qualifying PRs or bonus points
 khanjan2024: No qualifying PRs or bonus points
 dhami200: No qualifying PRs or bonus points
 ChetanSaini726: No qualifying PRs or bonus points
-Tarushiiiii: 50 points (2 PRs)
+Tarushiiiii: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Micha062301: No qualifying PRs or bonus points
 RACHITALAAD: No qualifying PRs or bonus points
 RahilAlam929: No qualifying PRs or bonus points
 fatimaa-dev: No qualifying PRs or bonus points
 SohaRatnam2005: No qualifying PRs or bonus points
 Snehakummari: No qualifying PRs or bonus points
-Anamikaghosh18: 30 points (1 PRs)
+Anamikaghosh18: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Harsh-Bajpay: No qualifying PRs or bonus points
 BossHNP2011: No qualifying PRs or bonus points
 aaryaveer-19: No qualifying PRs or bonus points
 Anushtha05: No qualifying PRs or bonus points
 Sarthak003khurana: No qualifying PRs or bonus points
 aryancodealchemy26: No qualifying PRs or bonus points
-Shivu384: 260 points (8 PRs)
+Shivu384: 360 points (includes 100 bonus points) (8 PRs)
   - Beginner: 2 PRs
   - Intermediate: 2 PRs
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 kunaltechwiz: No qualifying PRs or bonus points
 soumyaranjan4446: No qualifying PRs or bonus points
 Abhijeetkumar17: No qualifying PRs or bonus points
 saksham0mahnot: No qualifying PRs or bonus points
 Jaswithadabbiru: No qualifying PRs or bonus points
 Sim14code: No qualifying PRs or bonus points
-aryann2319: 30 points (1 PRs)
+aryann2319: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 diogocccarvalho: No qualifying PRs or bonus points
 AditiVerma07: No qualifying PRs or bonus points
 tusharson: No qualifying PRs or bonus points
@@ -2926,17 +3482,23 @@ CoderFleet: No qualifying PRs or bonus points
 shaheeramjad: No qualifying PRs or bonus points
 ayushdubey570: No qualifying PRs or bonus points
 ak47kavan: No qualifying PRs or bonus points
-Sejal-collection: 150 points (6 PRs)
+Sejal-collection: 250 points (includes 100 bonus points) (6 PRs)
   - Beginner: 4 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
-SK8-infi: 1750 points (56 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+SK8-infi: 1850 points (includes 100 bonus points) (56 PRs)
   - Beginner: 16 PRs
   - Intermediate: 17 PRs
   - Advanced: 23 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Soultk1977: No qualifying PRs or bonus points
-Adithkp03: 20 points (1 PRs)
+Adithkp03: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 03aditya-byte: No qualifying PRs or bonus points
 manas2124: No qualifying PRs or bonus points
 ayushiagg24: No qualifying PRs or bonus points
@@ -2949,23 +3511,31 @@ mishra2arya: No qualifying PRs or bonus points
 kasturitottadi: No qualifying PRs or bonus points
 72harshrajora: No qualifying PRs or bonus points
 ShreyaPandeycode: No qualifying PRs or bonus points
-vivekd16: 570 points (25 PRs)
+vivekd16: 670 points (includes 100 bonus points) (25 PRs)
   - Beginner: 20 PRs
   - Intermediate: 3 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 charan2r: No qualifying PRs or bonus points
 jayanththalla: No qualifying PRs or bonus points
 Deb2oo: No qualifying PRs or bonus points
-decodekush: 100 points (3 PRs)
+decodekush: 200 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sourav349: No qualifying PRs or bonus points
-preritasaini1: 70 points (2 PRs)
+preritasaini1: 170 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
-giriraj-roy-7723: 1650 points (52 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+giriraj-roy-7723: 1750 points (includes 100 bonus points) (52 PRs)
   - Intermediate: 43 PRs
   - Advanced: 9 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Aagam230: No qualifying PRs or bonus points
 yashvardhanvats: No qualifying PRs or bonus points
 SuruchiCode: No qualifying PRs or bonus points
@@ -2979,62 +3549,94 @@ Dishaaa-T: No qualifying PRs or bonus points
 chiraagsharma24: No qualifying PRs or bonus points
 prathamamritkar: No qualifying PRs or bonus points
 Arnabdas123456: No qualifying PRs or bonus points
-niharika-mente: 20 points (1 PRs)
+niharika-mente: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-denshaw-09: 440 points (16 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+denshaw-09: 540 points (includes 100 bonus points) (16 PRs)
   - Beginner: 6 PRs
   - Intermediate: 8 PRs
   - Advanced: 2 PRs
-JallaDharani: 50 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+JallaDharani: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ayushi028: No qualifying PRs or bonus points
-2024yuva: 70 points (3 PRs)
+2024yuva: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
-Shashikumar-ezhilarasu: 90 points (3 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Shashikumar-ezhilarasu: 190 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
-SnehaghoshBarsha444: 40 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+SnehaghoshBarsha444: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 glider-vinnie: No qualifying PRs or bonus points
-Mmadan128: 30 points (1 PRs)
+Mmadan128: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Premkolte: No qualifying PRs or bonus points
 Shivanjaligithub: No qualifying PRs or bonus points
 saishivamerugu: No qualifying PRs or bonus points
-noshmachowdary: 50 points (2 PRs)
+noshmachowdary: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ranjanxh: No qualifying PRs or bonus points
-ANTIK-007: 40 points (2 PRs)
+ANTIK-007: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
-suri5790: 50 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+suri5790: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
-ErebAsh: 60 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+ErebAsh: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 BDutta18: No qualifying PRs or bonus points
 14anshuman: No qualifying PRs or bonus points
 krithikgokuls: No qualifying PRs or bonus points
-ttiwari13: 30 points (1 PRs)
+ttiwari13: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Mansi2821: No qualifying PRs or bonus points
 YadavGaya031: No qualifying PRs or bonus points
 anikchand461: No qualifying PRs or bonus points
-Chavva-Harshita: 40 points (2 PRs)
+Chavva-Harshita: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
-Radhika-dodain: 90 points (3 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Radhika-dodain: 190 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 3 PRs
-code-well0: 40 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+code-well0: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 omansharora5: No qualifying PRs or bonus points
 Gunankkaushal: No qualifying PRs or bonus points
 KavyaKankonkar: No qualifying PRs or bonus points
 Arya3077: No qualifying PRs or bonus points
-psp2535: 20 points (1 PRs)
+psp2535: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 shashank-kuldeep: No qualifying PRs or bonus points
 lavanyabandla27: No qualifying PRs or bonus points
 Somya453: No qualifying PRs or bonus points
@@ -3047,8 +3649,10 @@ NavyaAgarwal02: No qualifying PRs or bonus points
 raadhika-N: No qualifying PRs or bonus points
 mery-top: No qualifying PRs or bonus points
 Pavanid2325: No qualifying PRs or bonus points
-bishal7448: 20 points (1 PRs)
+bishal7448: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 anjaliyoga: No qualifying PRs or bonus points
 shushant0603: No qualifying PRs or bonus points
 dia3325: No qualifying PRs or bonus points
@@ -3065,9 +3669,11 @@ muskanyadav28: No qualifying PRs or bonus points
 nubiivagant: No qualifying PRs or bonus points
 saurabh-vit: No qualifying PRs or bonus points
 raghavjha10: No qualifying PRs or bonus points
-Student-ravneet: 150 points (7 PRs)
+Student-ravneet: 250 points (includes 100 bonus points) (7 PRs)
   - Beginner: 6 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 The-Asterix: No qualifying PRs or bonus points
 Preeti0705: No qualifying PRs or bonus points
 Vaishnavi231104: No qualifying PRs or bonus points
@@ -3076,48 +3682,66 @@ shreyacupcake: No qualifying PRs or bonus points
 komaldevi202006: No qualifying PRs or bonus points
 Sujal212004: No qualifying PRs or bonus points
 talib007-56: No qualifying PRs or bonus points
-dipmanmajumdar: 60 points (2 PRs)
+dipmanmajumdar: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 raman0925: No qualifying PRs or bonus points
 RishiRaj292: No qualifying PRs or bonus points
-m1ss-chief: 240 points (9 PRs)
+m1ss-chief: 340 points (includes 100 bonus points) (9 PRs)
   - Beginner: 5 PRs
   - Intermediate: 2 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 UTKARSHJHA-2005: No qualifying PRs or bonus points
 shaheen412: No qualifying PRs or bonus points
-sumit-make: 20 points (1 PRs)
+sumit-make: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 rajdeep13-coder: No qualifying PRs or bonus points
 Sadiya-125: No qualifying PRs or bonus points
 mattral: No qualifying PRs or bonus points
-NandaGunasri: 20 points (1 PRs)
+NandaGunasri: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Krish-chaudharii: No qualifying PRs or bonus points
 dhangar007A: No qualifying PRs or bonus points
-Suhaniisingh05: 80 points (4 PRs)
+Suhaniisingh05: 180 points (includes 100 bonus points) (4 PRs)
   - Beginner: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 dhruvXcode247: No qualifying PRs or bonus points
-architasaha21: 90 points (4 PRs)
+architasaha21: 190 points (includes 100 bonus points) (4 PRs)
   - Beginner: 3 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 M-zhar: No qualifying PRs or bonus points
 tanishk001-ai: No qualifying PRs or bonus points
 thulasiramk-2310: No qualifying PRs or bonus points
 Pratiksha-dewarde: No qualifying PRs or bonus points
 jashan-26: No qualifying PRs or bonus points
-jaylm10: 20 points (1 PRs)
+jaylm10: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 arpityadavofficial: No qualifying PRs or bonus points
-kauntiaakash2: 90 points (4 PRs)
+kauntiaakash2: 190 points (includes 100 bonus points) (4 PRs)
   - Beginner: 3 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Divya-A10: No qualifying PRs or bonus points
 CouchPtato: No qualifying PRs or bonus points
 riyarane46: No qualifying PRs or bonus points
 RajanPatel0: No qualifying PRs or bonus points
-Saksham-Jaiswal-2004: 40 points (2 PRs)
+Saksham-Jaiswal-2004: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 dharanitharan27: No qualifying PRs or bonus points
 Chandni9852: No qualifying PRs or bonus points
 Shreyajain025: No qualifying PRs or bonus points
@@ -3125,8 +3749,10 @@ manishraj9: No qualifying PRs or bonus points
 sagarayusha: No qualifying PRs or bonus points
 atul812: No qualifying PRs or bonus points
 Nitya-003: No qualifying PRs or bonus points
-Piyushchannawar: 20 points (1 PRs)
+Piyushchannawar: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 AryanEjantkar: No qualifying PRs or bonus points
 1809gaurav: No qualifying PRs or bonus points
 Snig10dha: No qualifying PRs or bonus points
@@ -3142,61 +3768,83 @@ nameishyam: No qualifying PRs or bonus points
 Shaikaneespasha: No qualifying PRs or bonus points
 lahari-b5: No qualifying PRs or bonus points
 ankit271400: No qualifying PRs or bonus points
-Abhirup-261004: 40 points (2 PRs)
+Abhirup-261004: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Prem294: No qualifying PRs or bonus points
 sonalshruti02: No qualifying PRs or bonus points
-Priyanshi-prog: 40 points (2 PRs)
+Priyanshi-prog: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
-ankit2061: 40 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+ankit2061: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Palak1725: No qualifying PRs or bonus points
 ship1220: No qualifying PRs or bonus points
 Arushmita89: No qualifying PRs or bonus points
 vir123-devf: No qualifying PRs or bonus points
 rajputnishant29: No qualifying PRs or bonus points
-isha0325: 280 points (7 PRs)
+isha0325: 380 points (includes 100 bonus points) (7 PRs)
   - Advanced: 7 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sauravs296: No qualifying PRs or bonus points
 saileed05: No qualifying PRs or bonus points
 izajay: No qualifying PRs or bonus points
 Tejaswini123-45: No qualifying PRs or bonus points
-Sanjna07: 30 points (1 PRs)
+Sanjna07: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 DeathSquat: No qualifying PRs or bonus points
 prernaprachi96: No qualifying PRs or bonus points
 DebugDyanmo: No qualifying PRs or bonus points
 devdandekar24: No qualifying PRs or bonus points
-swethapadmavathimukku: 20 points (1 PRs)
+swethapadmavathimukku: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 saishghatol: No qualifying PRs or bonus points
 rittika03: No qualifying PRs or bonus points
-Dru-429: 70 points (3 PRs)
+Dru-429: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 aravindakuthota: No qualifying PRs or bonus points
 Pooja-y05: No qualifying PRs or bonus points
 MeLiveAkshay: No qualifying PRs or bonus points
 cybersword1001: No qualifying PRs or bonus points
 Santoshi-2k24: No qualifying PRs or bonus points
 Neha-28-fluff: No qualifying PRs or bonus points
-TanmayKalra09: 1570 points (45 PRs)
+TanmayKalra09: 1710 points (includes 100 bonus points) (46 PRs)
   - Beginner: 8 PRs
   - Intermediate: 7 PRs
-  - Advanced: 30 PRs
-Arihant-Bhandari: 80 points (2 PRs)
+  - Advanced: 31 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Arihant-Bhandari: 180 points (includes 100 bonus points) (2 PRs)
   - Advanced: 2 PRs
-Muneerali199: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Muneerali199: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Sim2739: No qualifying PRs or bonus points
 amrendra222: No qualifying PRs or bonus points
 Sreejesh06: No qualifying PRs or bonus points
 Dhananjay4yu: No qualifying PRs or bonus points
 yash720: No qualifying PRs or bonus points
 satyajit-patel: No qualifying PRs or bonus points
-NehaSaini011: 50 points (2 PRs)
+NehaSaini011: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 yashodipmore: No qualifying PRs or bonus points
 pratiksha0407314: No qualifying PRs or bonus points
 priyanshuuzz: No qualifying PRs or bonus points
@@ -3209,20 +3857,26 @@ Prestigious526: No qualifying PRs or bonus points
 codershivangi: No qualifying PRs or bonus points
 sammy0318: No qualifying PRs or bonus points
 HarjotKaurr: No qualifying PRs or bonus points
-shreyamittal10: 30 points (1 PRs)
+shreyamittal10: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 DrDeveloperr: No qualifying PRs or bonus points
 Tanishka-bhatti: No qualifying PRs or bonus points
 Riti-Varshney: No qualifying PRs or bonus points
 saismrutiranjan18: No qualifying PRs or bonus points
 khushalsarode: No qualifying PRs or bonus points
-MayankV004: 20 points (1 PRs)
+MayankV004: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ragavi-632007: No qualifying PRs or bonus points
 NiharikaSaxena18: No qualifying PRs or bonus points
-Sayan-206: 420 points (11 PRs)
+Sayan-206: 520 points (includes 100 bonus points) (11 PRs)
   - Beginner: 1 PRs
   - Advanced: 10 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 vithula30: No qualifying PRs or bonus points
 pani-siri: No qualifying PRs or bonus points
 Atharvverma1234: No qualifying PRs or bonus points
@@ -3231,23 +3885,29 @@ nikhil-agrawal123: No qualifying PRs or bonus points
 rochanshah15: No qualifying PRs or bonus points
 khushiiiip: No qualifying PRs or bonus points
 vishvshah123: No qualifying PRs or bonus points
-awrya-cmd: 40 points (2 PRs)
+awrya-cmd: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 palakbansa05: No qualifying PRs or bonus points
 Neovin-dev: No qualifying PRs or bonus points
 gourikasoni: No qualifying PRs or bonus points
 KritikaJoshi04: No qualifying PRs or bonus points
-divyam8175: 50 points (2 PRs)
+divyam8175: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 AnirbanChatterjee912: No qualifying PRs or bonus points
 Srishti0307: No qualifying PRs or bonus points
 TabassumSK: No qualifying PRs or bonus points
 Sneha41sb: No qualifying PRs or bonus points
 Kushagra1taneja: No qualifying PRs or bonus points
 HitiPanghal: No qualifying PRs or bonus points
-imDarshanGK: 20 points (1 PRs)
+imDarshanGK: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 monark1: No qualifying PRs or bonus points
 moin-dbud: No qualifying PRs or bonus points
 Pranavraj09: No qualifying PRs or bonus points
@@ -3257,29 +3917,37 @@ Sanika2020: No qualifying PRs or bonus points
 drishtig06: No qualifying PRs or bonus points
 Bhartix07: No qualifying PRs or bonus points
 mruna18: No qualifying PRs or bonus points
-VenkataSrujana11: 220 points (7 PRs)
+VenkataSrujana11: 320 points (includes 100 bonus points) (7 PRs)
   - Beginner: 1 PRs
   - Intermediate: 4 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Vinay-1105: No qualifying PRs or bonus points
 Apurba0313: No qualifying PRs or bonus points
 Anjali-ops156: No qualifying PRs or bonus points
 Tani0211: No qualifying PRs or bonus points
 Chaitanya2812-dev: No qualifying PRs or bonus points
 parinita78: No qualifying PRs or bonus points
-NA-VNEET: 20 points (1 PRs)
+NA-VNEET: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 geekypooky: No qualifying PRs or bonus points
 PrashantSinghUP64: No qualifying PRs or bonus points
 akshay0611: No qualifying PRs or bonus points
 shashiranjan567: No qualifying PRs or bonus points
-AkshithaReddy005: 400 points (12 PRs)
+AkshithaReddy005: 500 points (includes 100 bonus points) (12 PRs)
   - Beginner: 1 PRs
   - Intermediate: 6 PRs
   - Advanced: 5 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 AdroitPhilocalist: No qualifying PRs or bonus points
-pratham15541: 40 points (1 PRs)
+pratham15541: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 rohit-7620: No qualifying PRs or bonus points
 priyachugh2606: No qualifying PRs or bonus points
 KanishkaGarg04: No qualifying PRs or bonus points
@@ -3288,10 +3956,12 @@ Pooja6-9: No qualifying PRs or bonus points
 GUN33Tk: No qualifying PRs or bonus points
 priyan-inspires: No qualifying PRs or bonus points
 joyprakashk: No qualifying PRs or bonus points
-Webwizzz22: 210 points (9 PRs)
+Webwizzz22: 310 points (includes 100 bonus points) (9 PRs)
   - Beginner: 7 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 gauravsingh1281: No qualifying PRs or bonus points
 dubeyharshit0605: No qualifying PRs or bonus points
 coder-cutie: No qualifying PRs or bonus points
@@ -3299,11 +3969,15 @@ vineelprince: No qualifying PRs or bonus points
 vvanshikachauhan: No qualifying PRs or bonus points
 nexpectArpit: No qualifying PRs or bonus points
 sushobhan500: No qualifying PRs or bonus points
-chauhangarv: 60 points (3 PRs)
+chauhangarv: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
-Sainava: 360 points (14 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Sainava: 460 points (includes 100 bonus points) (14 PRs)
   - Beginner: 10 PRs
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 kartik0827: No qualifying PRs or bonus points
 Vanishar9880: No qualifying PRs or bonus points
 RupshaBiswas: No qualifying PRs or bonus points
@@ -3312,29 +3986,41 @@ sunnyviraj9: No qualifying PRs or bonus points
 divya7202: No qualifying PRs or bonus points
 Payal12-max: No qualifying PRs or bonus points
 Anushka-Naik28: No qualifying PRs or bonus points
-koushikreddybachu: 20 points (1 PRs)
+koushikreddybachu: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-dishaagrawalcodes: 380 points (15 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+dishaagrawalcodes: 480 points (includes 100 bonus points) (15 PRs)
   - Beginner: 8 PRs
   - Intermediate: 6 PRs
   - Advanced: 1 PRs
-Harshi-max: 60 points (2 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Harshi-max: 160 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Hima-Bindhu6527: No qualifying PRs or bonus points
 achieveramrit: No qualifying PRs or bonus points
 Sam94GIT: No qualifying PRs or bonus points
 aalokhya: No qualifying PRs or bonus points
 Nandani-Guptaa: No qualifying PRs or bonus points
-tulikaroyy: 30 points (1 PRs)
+tulikaroyy: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 yakshitranga: No qualifying PRs or bonus points
-UjjWaL-0911: 30 points (1 PRs)
+UjjWaL-0911: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ayushnema704: No qualifying PRs or bonus points
 yatishsj-27: No qualifying PRs or bonus points
-JAYATIAHUJA: 30 points (1 PRs)
+JAYATIAHUJA: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Fark0910: No qualifying PRs or bonus points
 deepuchary03: No qualifying PRs or bonus points
 Praveenmaila: No qualifying PRs or bonus points
@@ -3347,18 +4033,28 @@ aatmaj28: No qualifying PRs or bonus points
 shakthishankar: No qualifying PRs or bonus points
 anushika006: No qualifying PRs or bonus points
 kaur1504: No qualifying PRs or bonus points
-Deekshithshaiva05: 60 points (2 PRs)
+Deekshithshaiva05: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 arundhati101: No qualifying PRs or bonus points
 ChakrabortyRajarshi2005: No qualifying PRs or bonus points
-KavyaMunusamy: 40 points (1 PRs)
+KavyaMunusamy: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
-shambhavi0608: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+shambhavi0608: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-SubhamKojha: 20 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+SubhamKojha: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
-aryanguptacsvtu: 260 points (13 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+aryanguptacsvtu: 360 points (includes 100 bonus points) (13 PRs)
   - Beginner: 13 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 shambhavi099: No qualifying PRs or bonus points
 COPYRIGHTXO: No qualifying PRs or bonus points
 kushagra0333: No qualifying PRs or bonus points
@@ -3369,9 +4065,11 @@ okaydebarghya: No qualifying PRs or bonus points
 Blacksujit: No qualifying PRs or bonus points
 Pooja-git27: No qualifying PRs or bonus points
 Shakshi2602: No qualifying PRs or bonus points
-pooja1932: 180 points (5 PRs)
+pooja1932: 280 points (includes 100 bonus points) (5 PRs)
   - Beginner: 1 PRs
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Kirti123x: No qualifying PRs or bonus points
 riitikasharma08: No qualifying PRs or bonus points
 ashdev-7: No qualifying PRs or bonus points
@@ -3379,27 +4077,37 @@ syedmohammadaquib: No qualifying PRs or bonus points
 abhinayaRajarajan: No qualifying PRs or bonus points
 Bhupendra-glitch: No qualifying PRs or bonus points
 jashika2410: No qualifying PRs or bonus points
-aerinpatel: 30 points (1 PRs)
+aerinpatel: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 shreyoshi2409: No qualifying PRs or bonus points
-Vrushti-kulkarni: 50 points (2 PRs)
+Vrushti-kulkarni: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 devp-with-V: No qualifying PRs or bonus points
 Haripriya-M619: No qualifying PRs or bonus points
 Mohammedmaaz541: No qualifying PRs or bonus points
 Vishesh394: No qualifying PRs or bonus points
 rajeevkush1: No qualifying PRs or bonus points
-Atharva-Kale1: 100 points (5 PRs)
+Atharva-Kale1: 200 points (includes 100 bonus points) (5 PRs)
   - Beginner: 5 PRs
-Varshitha713: 150 points (6 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Varshitha713: 250 points (includes 100 bonus points) (6 PRs)
   - Beginner: 4 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 KALYANI2309K3: No qualifying PRs or bonus points
-Vaishnavi-Manne: 120 points (4 PRs)
+Vaishnavi-Manne: 220 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 narutonamikaze: No qualifying PRs or bonus points
 harshitaS19: No qualifying PRs or bonus points
 PrudhviRajGK: No qualifying PRs or bonus points
@@ -3421,17 +4129,23 @@ Yashraghuvans: No qualifying PRs or bonus points
 sacheetkumar: No qualifying PRs or bonus points
 bhaviii17: No qualifying PRs or bonus points
 harsh17-ops: No qualifying PRs or bonus points
-Harsh16Bhardwaj: 40 points (1 PRs)
+Harsh16Bhardwaj: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ankita-kuntal: No qualifying PRs or bonus points
 AdityaJani616: No qualifying PRs or bonus points
 Lekkhasri: No qualifying PRs or bonus points
-Sundhar-Balamoorthy: 30 points (1 PRs)
+Sundhar-Balamoorthy: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 muskan23-lgtm: No qualifying PRs or bonus points
-ZarrarPeshimam: 140 points (6 PRs)
+ZarrarPeshimam: 240 points (includes 100 bonus points) (6 PRs)
   - Beginner: 4 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 TheAnushree25: No qualifying PRs or bonus points
 Shivangi0009: No qualifying PRs or bonus points
 Nandini12004: No qualifying PRs or bonus points
@@ -3441,10 +4155,14 @@ vi-decodes: No qualifying PRs or bonus points
 balraj009: No qualifying PRs or bonus points
 akshara123: No qualifying PRs or bonus points
 Tirumalashreya: No qualifying PRs or bonus points
-VAISHNAVISTUDENT: 40 points (1 PRs)
+VAISHNAVISTUDENT: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
-Sandhya251: 40 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Sandhya251: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Jai1203: No qualifying PRs or bonus points
 srujith7: No qualifying PRs or bonus points
 Assistant0307: No qualifying PRs or bonus points
@@ -3454,11 +4172,15 @@ Ruhin575: No qualifying PRs or bonus points
 akashk6697: No qualifying PRs or bonus points
 harshit-05: No qualifying PRs or bonus points
 shri-69: No qualifying PRs or bonus points
-GarimaYadav29: 60 points (2 PRs)
+GarimaYadav29: 160 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
   - Advanced: 1 PRs
-Sudhanshu517: 30 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Sudhanshu517: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 lovelymahor: No qualifying PRs or bonus points
 initishkumaryadav: No qualifying PRs or bonus points
 hr10j44t: No qualifying PRs or bonus points
@@ -3467,22 +4189,30 @@ jen713: No qualifying PRs or bonus points
 abhinov956tech-developer: No qualifying PRs or bonus points
 AnmollCodes: No qualifying PRs or bonus points
 mansisharma31: No qualifying PRs or bonus points
-Alam9835: 40 points (2 PRs)
+Alam9835: 140 points (includes 100 bonus points) (2 PRs)
   - Beginner: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Kruti68: No qualifying PRs or bonus points
 Atomic-Shadow7002: No qualifying PRs or bonus points
-ultimatrix2: 40 points (1 PRs)
+ultimatrix2: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Dhruvsachdeva07: No qualifying PRs or bonus points
 Nandani1512: No qualifying PRs or bonus points
 adiibaba239: No qualifying PRs or bonus points
 Saksham8540: No qualifying PRs or bonus points
 KajalKumari16: No qualifying PRs or bonus points
-Yamuna-b: 280 points (7 PRs)
+Yamuna-b: 380 points (includes 100 bonus points) (7 PRs)
   - Advanced: 7 PRs
-reeteesha-roy: 130 points (5 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+reeteesha-roy: 230 points (includes 100 bonus points) (5 PRs)
   - Beginner: 2 PRs
   - Intermediate: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Vikas84214: No qualifying PRs or bonus points
 deep-ghosh: No qualifying PRs or bonus points
 akshithakarlapudi: No qualifying PRs or bonus points
@@ -3494,27 +4224,35 @@ anu-rrn1: No qualifying PRs or bonus points
 Ronaldo-001: No qualifying PRs or bonus points
 nikhil-kodes: No qualifying PRs or bonus points
 subhankar18r: No qualifying PRs or bonus points
-krabhis: 30 points (1 PRs)
+krabhis: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 vanixyz: No qualifying PRs or bonus points
 arnab9957: No qualifying PRs or bonus points
 Dhanalaxmi-debug: No qualifying PRs or bonus points
 Ayushi0507-dot: No qualifying PRs or bonus points
 himanidobriyal: No qualifying PRs or bonus points
-VEDAPRIYAMUTYAM: 90 points (3 PRs)
+VEDAPRIYAMUTYAM: 190 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Khushi0806: No qualifying PRs or bonus points
 DBALAMURUGAN555: No qualifying PRs or bonus points
-harshraj005: 100 points (3 PRs)
+harshraj005: 200 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 2 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 anjalibind17: No qualifying PRs or bonus points
 AmulyaJain2004: No qualifying PRs or bonus points
 sans-creator: No qualifying PRs or bonus points
-mukul-sharma-tech: 60 points (3 PRs)
+mukul-sharma-tech: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 dhnnypatil: No qualifying PRs or bonus points
 Jyotibrat: No qualifying PRs or bonus points
 Rohinth-S: No qualifying PRs or bonus points
@@ -3524,16 +4262,20 @@ rue19: No qualifying PRs or bonus points
 dhruvawani17: No qualifying PRs or bonus points
 Ishan007-bot: No qualifying PRs or bonus points
 dhruvt293: No qualifying PRs or bonus points
-jeevaananthan52: 20 points (1 PRs)
+jeevaananthan52: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Aksh-Agrawal: No qualifying PRs or bonus points
 shweta-mi: No qualifying PRs or bonus points
 Jyotiyadav1012: No qualifying PRs or bonus points
 bableen123: No qualifying PRs or bonus points
 Debayan-Ghosh2005: No qualifying PRs or bonus points
-michael-0007a: 220 points (8 PRs)
+michael-0007a: 360 points (includes 100 bonus points) (9 PRs)
   - Beginner: 5 PRs
-  - Advanced: 3 PRs
+  - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Sanchita76: No qualifying PRs or bonus points
 vagabond-0: No qualifying PRs or bonus points
 HimanshMathur: No qualifying PRs or bonus points
@@ -3545,8 +4287,10 @@ awheee: No qualifying PRs or bonus points
 VINAY050805: No qualifying PRs or bonus points
 Kawshikk-Shrii: No qualifying PRs or bonus points
 SaiOmkar058: No qualifying PRs or bonus points
-Sahil-Chahal: 20 points (1 PRs)
+Sahil-Chahal: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Snehagupta68: No qualifying PRs or bonus points
 Shreyas-Mohan: No qualifying PRs or bonus points
 manasam: No qualifying PRs or bonus points
@@ -3571,23 +4315,29 @@ rutikakengal: No qualifying PRs or bonus points
 MUSKANMEHTO: No qualifying PRs or bonus points
 gurman2301: No qualifying PRs or bonus points
 AnushkaMaheshwari4: No qualifying PRs or bonus points
-rajusharmadata: 20 points (1 PRs)
+rajusharmadata: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 amit-sharma-ds: No qualifying PRs or bonus points
 Sanjanadharanikota: No qualifying PRs or bonus points
 Mischa0099: No qualifying PRs or bonus points
 lalwanianjali21: No qualifying PRs or bonus points
-Vijayashree-tech: 340 points (12 PRs)
+Vijayashree-tech: 440 points (includes 100 bonus points) (12 PRs)
   - Beginner: 6 PRs
   - Intermediate: 2 PRs
   - Advanced: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 pashaarshad: No qualifying PRs or bonus points
 ShreyaSingh1515: No qualifying PRs or bonus points
 BhargaviBathini: No qualifying PRs or bonus points
-Pixel20coder: 300 points (10 PRs)
+Pixel20coder: 400 points (includes 100 bonus points) (10 PRs)
   - Beginner: 2 PRs
   - Intermediate: 6 PRs
   - Advanced: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Shashankvuddagiri: No qualifying PRs or bonus points
 priya250805: No qualifying PRs or bonus points
 Ayushigupta1110: No qualifying PRs or bonus points
@@ -3597,13 +4347,19 @@ EshwariBorade29: No qualifying PRs or bonus points
 khushis28: No qualifying PRs or bonus points
 JogiRohithKumar: No qualifying PRs or bonus points
 IshuSinghSE: No qualifying PRs or bonus points
-shanmukhchodagam: 30 points (1 PRs)
+shanmukhchodagam: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
-aayishajalal: 500 points (13 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+aayishajalal: 600 points (includes 100 bonus points) (13 PRs)
   - Beginner: 1 PRs
   - Advanced: 12 PRs
-shriyanyk: 30 points (1 PRs)
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+shriyanyk: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 harkan28: No qualifying PRs or bonus points
 aayushr22: No qualifying PRs or bonus points
 shambhujadhav4: No qualifying PRs or bonus points
@@ -3613,11 +4369,13 @@ divijg19: No qualifying PRs or bonus points
 Mahak0747: No qualifying PRs or bonus points
 Coder-HNP: No qualifying PRs or bonus points
 Deepu9981: No qualifying PRs or bonus points
-Ishikacasley14: 60 points (3 PRs)
+Ishikacasley14: 160 points (includes 100 bonus points) (3 PRs)
   - Beginner: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 KALYANI2309K3s: No qualifying PRs or bonus points
 SonaliK7654: No qualifying PRs or bonus points
-Results saved to output/pr-scores-2025-08-05T13-23-54-546Z.json
+Results saved to output/pr-scores-2025-08-05T14-16-29-337Z.json
 Results saved to output/pr-scores.json
 User scores saved to output/user-scores.js
 PR list saved to output/pr-list.js

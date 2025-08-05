@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-05T13:23:31.368Z",
+  "timestamp": "2025-08-05T14:16:03.470Z",
   "summary": {
-    "totalPRs": 1384,
-    "totalPoints": 38060
+    "totalPRs": 1386,
+    "totalPoints": 63440
   },
   "users": {
     "72897": {
@@ -60,7 +60,7 @@
       }
     },
     "vishnukothakapu": {
-      "totalScore": 130,
+      "totalScore": 230,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
@@ -159,7 +159,7 @@
       }
     },
     "aryarathoree": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -186,7 +186,7 @@
       }
     },
     "Somilg11": {
-      "totalScore": 190,
+      "totalScore": 290,
       "prCount": 9,
       "prsByLevel": {
         "Beginner": 8,
@@ -204,7 +204,7 @@
       }
     },
     "amaansyed27": {
-      "totalScore": 890,
+      "totalScore": 990,
       "prCount": 29,
       "prsByLevel": {
         "Beginner": 7,
@@ -249,7 +249,7 @@
       }
     },
     "Neha-Singh-j": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -276,7 +276,7 @@
       }
     },
     "sayan922": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -285,7 +285,7 @@
       }
     },
     "IamPritamAcharya": {
-      "totalScore": 290,
+      "totalScore": 390,
       "prCount": 8,
       "prsByLevel": {
         "Beginner": 0,
@@ -321,7 +321,7 @@
       }
     },
     "HimanshuKabra01": {
-      "totalScore": 1100,
+      "totalScore": 1200,
       "prCount": 49,
       "prsByLevel": {
         "Beginner": 38,
@@ -348,7 +348,7 @@
       }
     },
     "Anujanthwal-dotcom": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -627,7 +627,7 @@
       }
     },
     "Y4shu": {
-      "totalScore": 240,
+      "totalScore": 340,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 2,
@@ -672,7 +672,7 @@
       }
     },
     "Gurashish73": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -690,7 +690,7 @@
       }
     },
     "Sushma-1706": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -699,7 +699,7 @@
       }
     },
     "kanik-snippet": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -744,7 +744,7 @@
       }
     },
     "Dipanita45": {
-      "totalScore": 760,
+      "totalScore": 860,
       "prCount": 27,
       "prsByLevel": {
         "Beginner": 8,
@@ -852,7 +852,7 @@
       }
     },
     "AbhinaySngh": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -870,7 +870,7 @@
       }
     },
     "SRILSHUKLA": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -915,7 +915,7 @@
       }
     },
     "sanskarlohani": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -933,7 +933,7 @@
       }
     },
     "Tanishq-789": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -1005,7 +1005,7 @@
       }
     },
     "Asterioxer": {
-      "totalScore": 300,
+      "totalScore": 400,
       "prCount": 14,
       "prsByLevel": {
         "Beginner": 13,
@@ -1023,7 +1023,7 @@
       }
     },
     "rohit-debnath24": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -1032,7 +1032,7 @@
       }
     },
     "Bavanetha27": {
-      "totalScore": 270,
+      "totalScore": 370,
       "prCount": 8,
       "prsByLevel": {
         "Beginner": 1,
@@ -1086,7 +1086,7 @@
       }
     },
     "YashChauhan-2303": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -1104,7 +1104,7 @@
       }
     },
     "SHIV-360": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -1131,7 +1131,7 @@
       }
     },
     "Megha-sing": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -1176,7 +1176,7 @@
       }
     },
     "Rakshit002": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -1248,7 +1248,7 @@
       }
     },
     "shreesriv12": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -1266,7 +1266,7 @@
       }
     },
     "Priyakatariya": {
-      "totalScore": 370,
+      "totalScore": 470,
       "prCount": 16,
       "prsByLevel": {
         "Beginner": 11,
@@ -1320,7 +1320,7 @@
       }
     },
     "BalajiMittapalli": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -1329,7 +1329,7 @@
       }
     },
     "Lalitha216": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -1347,7 +1347,7 @@
       }
     },
     "akashbisht004": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -1419,7 +1419,7 @@
       }
     },
     "chehak2004": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -1428,7 +1428,7 @@
       }
     },
     "Ananyaa03": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -1464,7 +1464,7 @@
       }
     },
     "AnishSambhwani8278": {
-      "totalScore": 120,
+      "totalScore": 220,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 3,
@@ -1473,7 +1473,7 @@
       }
     },
     "Vitalvarma": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -1500,7 +1500,7 @@
       }
     },
     "Ashi1411": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -1509,7 +1509,7 @@
       }
     },
     "Samriddhi903": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -1536,7 +1536,7 @@
       }
     },
     "renuvarma67": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
@@ -1662,7 +1662,7 @@
       }
     },
     "kanishgit09": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -1752,7 +1752,7 @@
       }
     },
     "MRohit-2003": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -1770,7 +1770,7 @@
       }
     },
     "GopalDwivedii": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
@@ -1788,7 +1788,7 @@
       }
     },
     "kaurpreetman": {
-      "totalScore": 160,
+      "totalScore": 260,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
@@ -1869,7 +1869,7 @@
       }
     },
     "piyushdhoka": {
-      "totalScore": 900,
+      "totalScore": 1000,
       "prCount": 41,
       "prsByLevel": {
         "Beginner": 35,
@@ -1896,7 +1896,7 @@
       }
     },
     "nupurmadaan04": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -1950,7 +1950,7 @@
       }
     },
     "InMostCalmness-Rahul": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 3,
@@ -1968,7 +1968,7 @@
       }
     },
     "aliviahossain": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -1977,7 +1977,7 @@
       }
     },
     "Jashneer": {
-      "totalScore": 370,
+      "totalScore": 470,
       "prCount": 12,
       "prsByLevel": {
         "Beginner": 2,
@@ -2058,7 +2058,7 @@
       }
     },
     "AkshithaMuttangi": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -2103,7 +2103,7 @@
       }
     },
     "pahimauchil": {
-      "totalScore": 150,
+      "totalScore": 250,
       "prCount": 6,
       "prsByLevel": {
         "Beginner": 3,
@@ -2130,7 +2130,7 @@
       }
     },
     "GxAditya": {
-      "totalScore": 220,
+      "totalScore": 320,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 2,
@@ -2157,7 +2157,7 @@
       }
     },
     "ItsMeAnanyaSrivastava": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -2274,7 +2274,7 @@
       }
     },
     "AnoushkaSamanta": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -2445,7 +2445,7 @@
       }
     },
     "adwityac": {
-      "totalScore": 110,
+      "totalScore": 210,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 1,
@@ -2481,7 +2481,7 @@
       }
     },
     "VJLIVE": {
-      "totalScore": 590,
+      "totalScore": 690,
       "prCount": 20,
       "prsByLevel": {
         "Beginner": 5,
@@ -2499,7 +2499,7 @@
       }
     },
     "Ronnit44": {
-      "totalScore": 500,
+      "totalScore": 600,
       "prCount": 23,
       "prsByLevel": {
         "Beginner": 19,
@@ -2508,7 +2508,7 @@
       }
     },
     "Priyanshiunique": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -2571,7 +2571,7 @@
       }
     },
     "dinesh-2047": {
-      "totalScore": 380,
+      "totalScore": 480,
       "prCount": 16,
       "prsByLevel": {
         "Beginner": 11,
@@ -2679,7 +2679,7 @@
       }
     },
     "pkbros": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -2715,7 +2715,7 @@
       }
     },
     "bwbeas": {
-      "totalScore": 110,
+      "totalScore": 210,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 2,
@@ -2724,7 +2724,7 @@
       }
     },
     "Apurba-01": {
-      "totalScore": 210,
+      "totalScore": 310,
       "prCount": 10,
       "prsByLevel": {
         "Beginner": 9,
@@ -2805,7 +2805,7 @@
       }
     },
     "Mohamad-Owais": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -2868,7 +2868,7 @@
       }
     },
     "Vartekalohiya13": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -2886,7 +2886,7 @@
       }
     },
     "pari3654": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -2922,7 +2922,7 @@
       }
     },
     "naveenmvoff": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -2931,7 +2931,7 @@
       }
     },
     "kavitha308": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -2949,7 +2949,7 @@
       }
     },
     "Vishisht-Dwivedi": {
-      "totalScore": 120,
+      "totalScore": 220,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 1,
@@ -2976,7 +2976,7 @@
       }
     },
     "Shreya-Gupta-SG": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -2985,7 +2985,7 @@
       }
     },
     "archangel2006": {
-      "totalScore": 210,
+      "totalScore": 310,
       "prCount": 8,
       "prsByLevel": {
         "Beginner": 4,
@@ -3021,7 +3021,7 @@
       }
     },
     "ssz2605": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -3039,7 +3039,7 @@
       }
     },
     "SHreyanSH-0": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 4,
@@ -3093,7 +3093,7 @@
       }
     },
     "Samiran2004": {
-      "totalScore": 130,
+      "totalScore": 230,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 1,
@@ -3111,7 +3111,7 @@
       }
     },
     "ssid18": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -3165,7 +3165,7 @@
       }
     },
     "Saurabhjk15": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -3282,7 +3282,7 @@
       }
     },
     "Tushar-senpai": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -3327,7 +3327,7 @@
       }
     },
     "Soumyosish": {
-      "totalScore": 340,
+      "totalScore": 440,
       "prCount": 14,
       "prsByLevel": {
         "Beginner": 8,
@@ -3336,7 +3336,7 @@
       }
     },
     "MaulikGupta27": {
-      "totalScore": 330,
+      "totalScore": 430,
       "prCount": 15,
       "prsByLevel": {
         "Beginner": 12,
@@ -3462,7 +3462,7 @@
       }
     },
     "mav01-code": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -3480,7 +3480,7 @@
       }
     },
     "Samiksha-bajoria": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -3597,7 +3597,7 @@
       }
     },
     "ThulasiPriyaS": {
-      "totalScore": 110,
+      "totalScore": 210,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
@@ -3606,7 +3606,7 @@
       }
     },
     "Ranganivandan": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -3615,7 +3615,7 @@
       }
     },
     "Samridhi-2007": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -3651,7 +3651,7 @@
       }
     },
     "Shoury-Rana": {
-      "totalScore": 160,
+      "totalScore": 260,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 1,
@@ -3705,7 +3705,7 @@
       }
     },
     "Joystonm": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -3741,7 +3741,7 @@
       }
     },
     "sneha842": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -3750,7 +3750,7 @@
       }
     },
     "Siri-026": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -3885,7 +3885,7 @@
       }
     },
     "jyotsna030": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -3921,7 +3921,7 @@
       }
     },
     "Namanbanshiwala": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -3966,7 +3966,7 @@
       }
     },
     "GauravKarakoti": {
-      "totalScore": 140,
+      "totalScore": 240,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
@@ -3984,7 +3984,7 @@
       }
     },
     "HARSHMOHAN01": {
-      "totalScore": 360,
+      "totalScore": 460,
       "prCount": 12,
       "prsByLevel": {
         "Beginner": 6,
@@ -4002,7 +4002,7 @@
       }
     },
     "Code-writter": {
-      "totalScore": 230,
+      "totalScore": 330,
       "prCount": 8,
       "prsByLevel": {
         "Beginner": 3,
@@ -4047,7 +4047,7 @@
       }
     },
     "imBharathkumarp": {
-      "totalScore": 310,
+      "totalScore": 410,
       "prCount": 12,
       "prsByLevel": {
         "Beginner": 6,
@@ -4056,7 +4056,7 @@
       }
     },
     "sania0607": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -4065,7 +4065,7 @@
       }
     },
     "SrigadaAkshayKumar": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -4182,7 +4182,7 @@
       }
     },
     "DivyaMandve": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -4209,7 +4209,7 @@
       }
     },
     "Nandinikumari02": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -4218,7 +4218,7 @@
       }
     },
     "mansiruhil": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -4254,7 +4254,7 @@
       }
     },
     "Jahnavi-de": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -4317,7 +4317,7 @@
       }
     },
     "sushmithashettigar29": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -4344,7 +4344,7 @@
       }
     },
     "Gargibajpai": {
-      "totalScore": 110,
+      "totalScore": 210,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 4,
@@ -4353,7 +4353,7 @@
       }
     },
     "DeadpoolX7": {
-      "totalScore": 110,
+      "totalScore": 210,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 2,
@@ -4389,7 +4389,7 @@
       }
     },
     "Bhaanavee": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -4434,7 +4434,7 @@
       }
     },
     "kotlalokeshwari098": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -4488,7 +4488,7 @@
       }
     },
     "Aaryandhage": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -4506,7 +4506,7 @@
       }
     },
     "arthavjain103": {
-      "totalScore": 510,
+      "totalScore": 610,
       "prCount": 21,
       "prsByLevel": {
         "Beginner": 14,
@@ -4659,7 +4659,7 @@
       }
     },
     "arpitsehal": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -4776,7 +4776,7 @@
       }
     },
     "AshutoshSingh058": {
-      "totalScore": 120,
+      "totalScore": 220,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
@@ -4920,7 +4920,7 @@
       }
     },
     "tanu91112": {
-      "totalScore": 640,
+      "totalScore": 740,
       "prCount": 22,
       "prsByLevel": {
         "Beginner": 9,
@@ -4938,7 +4938,7 @@
       }
     },
     "shrutisachan08": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -4965,7 +4965,7 @@
       }
     },
     "Lavi-hk": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 3,
@@ -5136,7 +5136,7 @@
       }
     },
     "varun935": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -5154,7 +5154,7 @@
       }
     },
     "anuvind570": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -5253,7 +5253,7 @@
       }
     },
     "s4chinjha": {
-      "totalScore": 400,
+      "totalScore": 500,
       "prCount": 10,
       "prsByLevel": {
         "Beginner": 0,
@@ -5307,7 +5307,7 @@
       }
     },
     "AskitEndo": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -5451,7 +5451,7 @@
       }
     },
     "Kushagra888": {
-      "totalScore": 180,
+      "totalScore": 280,
       "prCount": 8,
       "prsByLevel": {
         "Beginner": 6,
@@ -5487,7 +5487,7 @@
       }
     },
     "RAJVEER42": {
-      "totalScore": 160,
+      "totalScore": 260,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 5,
@@ -5550,7 +5550,7 @@
       }
     },
     "SamridhiAhuja2075": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -5559,7 +5559,7 @@
       }
     },
     "AbhishekSharma-9": {
-      "totalScore": 140,
+      "totalScore": 240,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
@@ -5640,7 +5640,7 @@
       }
     },
     "maheswari8074": {
-      "totalScore": 210,
+      "totalScore": 310,
       "prCount": 10,
       "prsByLevel": {
         "Beginner": 9,
@@ -5712,7 +5712,7 @@
       }
     },
     "Anneshabhakta2005": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -5793,7 +5793,7 @@
       }
     },
     "Mitali-119": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -5829,7 +5829,7 @@
       }
     },
     "TheAnumaan": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -5838,7 +5838,7 @@
       }
     },
     "Poushali-Mitra": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -5928,7 +5928,7 @@
       }
     },
     "anchalchaturvedi08": {
-      "totalScore": 140,
+      "totalScore": 240,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 3,
@@ -5982,7 +5982,7 @@
       }
     },
     "Jidnyasa-P": {
-      "totalScore": 510,
+      "totalScore": 610,
       "prCount": 24,
       "prsByLevel": {
         "Beginner": 22,
@@ -6054,7 +6054,7 @@
       }
     },
     "RinkiJhunjhunwala": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -6072,7 +6072,7 @@
       }
     },
     "VenkataSarma": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -6090,7 +6090,7 @@
       }
     },
     "Kanwalgunkaur1111": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -6153,7 +6153,7 @@
       }
     },
     "tejaswinihatkar": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -6189,7 +6189,7 @@
       }
     },
     "ravneet27062004": {
-      "totalScore": 420,
+      "totalScore": 520,
       "prCount": 18,
       "prsByLevel": {
         "Beginner": 13,
@@ -6198,7 +6198,7 @@
       }
     },
     "Ankush-ai": {
-      "totalScore": 220,
+      "totalScore": 320,
       "prCount": 6,
       "prsByLevel": {
         "Beginner": 1,
@@ -6243,7 +6243,7 @@
       }
     },
     "Coden-inja": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -6342,7 +6342,7 @@
       }
     },
     "Verma-MK": {
-      "totalScore": 1440,
+      "totalScore": 1540,
       "prCount": 58,
       "prsByLevel": {
         "Beginner": 40,
@@ -6414,7 +6414,7 @@
       }
     },
     "afreenaiml": {
-      "totalScore": 110,
+      "totalScore": 210,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 2,
@@ -6540,7 +6540,7 @@
       }
     },
     "coddingjatin": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -6549,7 +6549,7 @@
       }
     },
     "anvita-09": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -6594,7 +6594,7 @@
       }
     },
     "Sohi07": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 2,
@@ -6603,7 +6603,7 @@
       }
     },
     "sahithi-kanjarla": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -6621,7 +6621,7 @@
       }
     },
     "keshripritesh": {
-      "totalScore": 1570,
+      "totalScore": 1670,
       "prCount": 47,
       "prsByLevel": {
         "Beginner": 0,
@@ -6630,7 +6630,7 @@
       }
     },
     "ayushjava07": {
-      "totalScore": 120,
+      "totalScore": 220,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 2,
@@ -6828,7 +6828,7 @@
       }
     },
     "kamran-asif": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -6837,7 +6837,7 @@
       }
     },
     "ParthNema13": {
-      "totalScore": 220,
+      "totalScore": 320,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 1,
@@ -6864,7 +6864,7 @@
       }
     },
     "vineela49": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -6909,7 +6909,7 @@
       }
     },
     "kanak227": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -6918,7 +6918,7 @@
       }
     },
     "Mayankjain2624": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -6927,7 +6927,7 @@
       }
     },
     "YashSavalkar321": {
-      "totalScore": 130,
+      "totalScore": 230,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 1,
@@ -6945,7 +6945,7 @@
       }
     },
     "saarang2003": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -7026,7 +7026,7 @@
       }
     },
     "Renu-code123": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -7071,7 +7071,7 @@
       }
     },
     "dini-5002": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -7089,7 +7089,7 @@
       }
     },
     "manavi-24": {
-      "totalScore": 150,
+      "totalScore": 250,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 1,
@@ -7134,7 +7134,7 @@
       }
     },
     "Tarushiiiii": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -7197,7 +7197,7 @@
       }
     },
     "Anamikaghosh18": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -7260,7 +7260,7 @@
       }
     },
     "Shivu384": {
-      "totalScore": 260,
+      "totalScore": 360,
       "prCount": 8,
       "prsByLevel": {
         "Beginner": 2,
@@ -7323,7 +7323,7 @@
       }
     },
     "aryann2319": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -7404,7 +7404,7 @@
       }
     },
     "Sejal-collection": {
-      "totalScore": 150,
+      "totalScore": 250,
       "prCount": 6,
       "prsByLevel": {
         "Beginner": 4,
@@ -7413,7 +7413,7 @@
       }
     },
     "SK8-infi": {
-      "totalScore": 1750,
+      "totalScore": 1850,
       "prCount": 56,
       "prsByLevel": {
         "Beginner": 16,
@@ -7431,7 +7431,7 @@
       }
     },
     "Adithkp03": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -7548,7 +7548,7 @@
       }
     },
     "vivekd16": {
-      "totalScore": 570,
+      "totalScore": 670,
       "prCount": 25,
       "prsByLevel": {
         "Beginner": 20,
@@ -7584,7 +7584,7 @@
       }
     },
     "decodekush": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
@@ -7602,7 +7602,7 @@
       }
     },
     "preritasaini1": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -7611,7 +7611,7 @@
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 1650,
+      "totalScore": 1750,
       "prCount": 52,
       "prsByLevel": {
         "Beginner": 0,
@@ -7737,7 +7737,7 @@
       }
     },
     "niharika-mente": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -7746,7 +7746,7 @@
       }
     },
     "denshaw-09": {
-      "totalScore": 440,
+      "totalScore": 540,
       "prCount": 16,
       "prsByLevel": {
         "Beginner": 6,
@@ -7755,7 +7755,7 @@
       }
     },
     "JallaDharani": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -7773,7 +7773,7 @@
       }
     },
     "2024yuva": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -7782,7 +7782,7 @@
       }
     },
     "Shashikumar-ezhilarasu": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -7791,7 +7791,7 @@
       }
     },
     "SnehaghoshBarsha444": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -7809,7 +7809,7 @@
       }
     },
     "Mmadan128": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -7845,7 +7845,7 @@
       }
     },
     "noshmachowdary": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -7863,7 +7863,7 @@
       }
     },
     "ANTIK-007": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -7872,7 +7872,7 @@
       }
     },
     "suri5790": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -7881,7 +7881,7 @@
       }
     },
     "ErebAsh": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -7917,7 +7917,7 @@
       }
     },
     "ttiwari13": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -7953,7 +7953,7 @@
       }
     },
     "Chavva-Harshita": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -7962,7 +7962,7 @@
       }
     },
     "Radhika-dodain": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
@@ -7971,7 +7971,7 @@
       }
     },
     "code-well0": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -8016,7 +8016,7 @@
       }
     },
     "psp2535": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -8133,7 +8133,7 @@
       }
     },
     "bishal7448": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -8286,7 +8286,7 @@
       }
     },
     "Student-ravneet": {
-      "totalScore": 150,
+      "totalScore": 250,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 6,
@@ -8367,7 +8367,7 @@
       }
     },
     "dipmanmajumdar": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -8394,7 +8394,7 @@
       }
     },
     "m1ss-chief": {
-      "totalScore": 240,
+      "totalScore": 340,
       "prCount": 9,
       "prsByLevel": {
         "Beginner": 5,
@@ -8421,7 +8421,7 @@
       }
     },
     "sumit-make": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -8457,7 +8457,7 @@
       }
     },
     "NandaGunasri": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -8484,7 +8484,7 @@
       }
     },
     "Suhaniisingh05": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 4,
@@ -8502,7 +8502,7 @@
       }
     },
     "architasaha21": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 3,
@@ -8556,7 +8556,7 @@
       }
     },
     "jaylm10": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -8574,7 +8574,7 @@
       }
     },
     "kauntiaakash2": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 3,
@@ -8619,7 +8619,7 @@
       }
     },
     "Saksham-Jaiswal-2004": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -8691,7 +8691,7 @@
       }
     },
     "Piyushchannawar": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -8835,7 +8835,7 @@
       }
     },
     "Abhirup-261004": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -8862,7 +8862,7 @@
       }
     },
     "Priyanshi-prog": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -8871,7 +8871,7 @@
       }
     },
     "ankit2061": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -8925,7 +8925,7 @@
       }
     },
     "isha0325": {
-      "totalScore": 280,
+      "totalScore": 380,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 0,
@@ -8970,7 +8970,7 @@
       }
     },
     "Sanjna07": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -9015,7 +9015,7 @@
       }
     },
     "swethapadmavathimukku": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -9042,7 +9042,7 @@
       }
     },
     "Dru-429": {
-      "totalScore": 70,
+      "totalScore": 170,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 2,
@@ -9105,16 +9105,16 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1570,
-      "prCount": 45,
+      "totalScore": 1710,
+      "prCount": 46,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 7,
-        "Advanced": 30
+        "Advanced": 31
       }
     },
     "Arihant-Bhandari": {
-      "totalScore": 80,
+      "totalScore": 180,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -9123,7 +9123,7 @@
       }
     },
     "Muneerali199": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -9186,7 +9186,7 @@
       }
     },
     "NehaSaini011": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -9303,7 +9303,7 @@
       }
     },
     "shreyamittal10": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -9357,7 +9357,7 @@
       }
     },
     "MayankV004": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -9384,7 +9384,7 @@
       }
     },
     "Sayan-206": {
-      "totalScore": 420,
+      "totalScore": 520,
       "prCount": 11,
       "prsByLevel": {
         "Beginner": 1,
@@ -9465,7 +9465,7 @@
       }
     },
     "awrya-cmd": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -9510,7 +9510,7 @@
       }
     },
     "divyam8175": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -9573,7 +9573,7 @@
       }
     },
     "imDarshanGK": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -9663,7 +9663,7 @@
       }
     },
     "VenkataSrujana11": {
-      "totalScore": 220,
+      "totalScore": 320,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 1,
@@ -9726,7 +9726,7 @@
       }
     },
     "NA-VNEET": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -9771,7 +9771,7 @@
       }
     },
     "AkshithaReddy005": {
-      "totalScore": 400,
+      "totalScore": 500,
       "prCount": 12,
       "prsByLevel": {
         "Beginner": 1,
@@ -9789,7 +9789,7 @@
       }
     },
     "pratham15541": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -9870,7 +9870,7 @@
       }
     },
     "Webwizzz22": {
-      "totalScore": 210,
+      "totalScore": 310,
       "prCount": 9,
       "prsByLevel": {
         "Beginner": 7,
@@ -9942,7 +9942,7 @@
       }
     },
     "chauhangarv": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -9951,7 +9951,7 @@
       }
     },
     "Sainava": {
-      "totalScore": 360,
+      "totalScore": 460,
       "prCount": 14,
       "prsByLevel": {
         "Beginner": 10,
@@ -10032,7 +10032,7 @@
       }
     },
     "koushikreddybachu": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -10041,7 +10041,7 @@
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 380,
+      "totalScore": 480,
       "prCount": 15,
       "prsByLevel": {
         "Beginner": 8,
@@ -10050,7 +10050,7 @@
       }
     },
     "Harshi-max": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -10104,7 +10104,7 @@
       }
     },
     "tulikaroyy": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10122,7 +10122,7 @@
       }
     },
     "UjjWaL-0911": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10149,7 +10149,7 @@
       }
     },
     "JAYATIAHUJA": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10266,7 +10266,7 @@
       }
     },
     "Deekshithshaiva05": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
@@ -10293,7 +10293,7 @@
       }
     },
     "KavyaMunusamy": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10302,7 +10302,7 @@
       }
     },
     "shambhavi0608": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -10311,7 +10311,7 @@
       }
     },
     "SubhamKojha": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -10320,7 +10320,7 @@
       }
     },
     "aryanguptacsvtu": {
-      "totalScore": 260,
+      "totalScore": 360,
       "prCount": 13,
       "prsByLevel": {
         "Beginner": 13,
@@ -10419,7 +10419,7 @@
       }
     },
     "pooja1932": {
-      "totalScore": 180,
+      "totalScore": 280,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 1,
@@ -10491,7 +10491,7 @@
       }
     },
     "aerinpatel": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10509,7 +10509,7 @@
       }
     },
     "Vrushti-kulkarni": {
-      "totalScore": 50,
+      "totalScore": 150,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -10563,7 +10563,7 @@
       }
     },
     "Atharva-Kale1": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 5,
@@ -10572,7 +10572,7 @@
       }
     },
     "Varshitha713": {
-      "totalScore": 150,
+      "totalScore": 250,
       "prCount": 6,
       "prsByLevel": {
         "Beginner": 4,
@@ -10590,7 +10590,7 @@
       }
     },
     "Vaishnavi-Manne": {
-      "totalScore": 120,
+      "totalScore": 220,
       "prCount": 4,
       "prsByLevel": {
         "Beginner": 2,
@@ -10788,7 +10788,7 @@
       }
     },
     "Harsh16Bhardwaj": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10824,7 +10824,7 @@
       }
     },
     "Sundhar-Balamoorthy": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10842,7 +10842,7 @@
       }
     },
     "ZarrarPeshimam": {
-      "totalScore": 140,
+      "totalScore": 240,
       "prCount": 6,
       "prsByLevel": {
         "Beginner": 4,
@@ -10932,7 +10932,7 @@
       }
     },
     "VAISHNAVISTUDENT": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -10941,7 +10941,7 @@
       }
     },
     "Sandhya251": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -11031,7 +11031,7 @@
       }
     },
     "GarimaYadav29": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 1,
@@ -11040,7 +11040,7 @@
       }
     },
     "Sudhanshu517": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -11121,7 +11121,7 @@
       }
     },
     "Alam9835": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 2,
@@ -11148,7 +11148,7 @@
       }
     },
     "ultimatrix2": {
-      "totalScore": 40,
+      "totalScore": 140,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -11202,7 +11202,7 @@
       }
     },
     "Yamuna-b": {
-      "totalScore": 280,
+      "totalScore": 380,
       "prCount": 7,
       "prsByLevel": {
         "Beginner": 0,
@@ -11211,7 +11211,7 @@
       }
     },
     "reeteesha-roy": {
-      "totalScore": 130,
+      "totalScore": 230,
       "prCount": 5,
       "prsByLevel": {
         "Beginner": 2,
@@ -11319,7 +11319,7 @@
       }
     },
     "krabhis": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -11373,7 +11373,7 @@
       }
     },
     "VEDAPRIYAMUTYAM": {
-      "totalScore": 90,
+      "totalScore": 190,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 1,
@@ -11400,7 +11400,7 @@
       }
     },
     "harshraj005": {
-      "totalScore": 100,
+      "totalScore": 200,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
@@ -11436,7 +11436,7 @@
       }
     },
     "mukul-sharma-tech": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -11526,7 +11526,7 @@
       }
     },
     "jeevaananthan52": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -11580,12 +11580,12 @@
       }
     },
     "michael-0007a": {
-      "totalScore": 220,
-      "prCount": 8,
+      "totalScore": 360,
+      "prCount": 9,
       "prsByLevel": {
         "Beginner": 5,
         "Intermediate": 0,
-        "Advanced": 3
+        "Advanced": 4
       }
     },
     "Sanchita76": {
@@ -11688,7 +11688,7 @@
       }
     },
     "Sahil-Chahal": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -11913,7 +11913,7 @@
       }
     },
     "rajusharmadata": {
-      "totalScore": 20,
+      "totalScore": 120,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 1,
@@ -11958,7 +11958,7 @@
       }
     },
     "Vijayashree-tech": {
-      "totalScore": 340,
+      "totalScore": 440,
       "prCount": 12,
       "prsByLevel": {
         "Beginner": 6,
@@ -11994,7 +11994,7 @@
       }
     },
     "Pixel20coder": {
-      "totalScore": 300,
+      "totalScore": 400,
       "prCount": 10,
       "prsByLevel": {
         "Beginner": 2,
@@ -12084,7 +12084,7 @@
       }
     },
     "shanmukhchodagam": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -12093,7 +12093,7 @@
       }
     },
     "aayishajalal": {
-      "totalScore": 500,
+      "totalScore": 600,
       "prCount": 13,
       "prsByLevel": {
         "Beginner": 1,
@@ -12102,7 +12102,7 @@
       }
     },
     "shriyanyk": {
-      "totalScore": 30,
+      "totalScore": 130,
       "prCount": 1,
       "prsByLevel": {
         "Beginner": 0,
@@ -12192,7 +12192,7 @@
       }
     },
     "Ishikacasley14": {
-      "totalScore": 60,
+      "totalScore": 160,
       "prCount": 3,
       "prsByLevel": {
         "Beginner": 3,
@@ -42185,7 +42185,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 113,
+      "totalPRs": 115,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -43198,7 +43198,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 20,
+        "TanmayKalra09": 21,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -43473,7 +43473,7 @@
         "Jyotiyadav1012": 0,
         "bableen123": 0,
         "Debayan-Ghosh2005": 0,
-        "michael-0007a": 7,
+        "michael-0007a": 8,
         "Sanchita76": 0,
         "vagabond-0": 0,
         "HimanshMathur": 0,
@@ -70392,6 +70392,38 @@
       "project": "HarshS16/Civix"
     },
     {
+      "number": 467,
+      "title": "fix Issue 379: \"Sign in with Google\" Missing on Login Page",
+      "url": "https://github.com/HarshS16/Civix/pull/467",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T11:22:56Z",
+      "mergedAt": "2025-08-05T13:56:40Z",
+      "author": "michael-0007a",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 468,
+      "title": "Improved UI of Testimonial Carousel",
+      "url": "https://github.com/HarshS16/Civix/pull/468",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T11:24:58Z",
+      "mergedAt": "2025-08-05T13:58:08Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -74605,7 +74637,2538 @@
     }
   ],
   "bonus": {
-    "totalBonusPoints": 0,
-    "bonusByUser": {}
+    "totalBonusPoints": 25300,
+    "bonusByUser": {
+      "vishnukothakapu": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "aryarathoree": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "Somilg11": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "amaansyed27": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "Neha-Singh-j": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "sayan922": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "IamPritamAcharya": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "HimanshuKabra01": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "Anujanthwal-dotcom": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.306Z"
+          }
+        ]
+      },
+      "Y4shu": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Gurashish73": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Sushma-1706": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "kanik-snippet": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Dipanita45": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "AbhinaySngh": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "SRILSHUKLA": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "sanskarlohani": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Tanishq-789": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Asterioxer": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "rohit-debnath24": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Bavanetha27": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "YashChauhan-2303": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "SHIV-360": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Megha-sing": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Rakshit002": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "shreesriv12": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Priyakatariya": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "BalajiMittapalli": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Lalitha216": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "akashbisht004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "chehak2004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Ananyaa03": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "AnishSambhwani8278": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Vitalvarma": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Ashi1411": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Samriddhi903": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "renuvarma67": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "kanishgit09": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "MRohit-2003": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "GopalDwivedii": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "kaurpreetman": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "piyushdhoka": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "nupurmadaan04": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "InMostCalmness-Rahul": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "aliviahossain": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.307Z"
+          }
+        ]
+      },
+      "Jashneer": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "AkshithaMuttangi": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "pahimauchil": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "GxAditya": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "ItsMeAnanyaSrivastava": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "AnoushkaSamanta": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "adwityac": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "VJLIVE": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Ronnit44": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Priyanshiunique": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "dinesh-2047": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "pkbros": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "bwbeas": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Apurba-01": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Mohamad-Owais": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Vartekalohiya13": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "pari3654": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "naveenmvoff": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "kavitha308": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Vishisht-Dwivedi": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Shreya-Gupta-SG": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "archangel2006": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "ssz2605": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "SHreyanSH-0": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.308Z"
+          }
+        ]
+      },
+      "Samiran2004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "ssid18": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Saurabhjk15": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Tushar-senpai": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Soumyosish": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "MaulikGupta27": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "mav01-code": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Samiksha-bajoria": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "ThulasiPriyaS": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Ranganivandan": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Samridhi-2007": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Shoury-Rana": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Joystonm": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "sneha842": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Siri-026": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "jyotsna030": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.309Z"
+          }
+        ]
+      },
+      "Namanbanshiwala": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "GauravKarakoti": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "HARSHMOHAN01": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "Code-writter": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "imBharathkumarp": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "sania0607": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "SrigadaAkshayKumar": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "DivyaMandve": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "Nandinikumari02": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "mansiruhil": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "Jahnavi-de": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "sushmithashettigar29": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "Gargibajpai": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "DeadpoolX7": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "Bhaanavee": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "kotlalokeshwari098": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "Aaryandhage": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "arthavjain103": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "arpitsehal": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "AshutoshSingh058": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.310Z"
+          }
+        ]
+      },
+      "tanu91112": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "shrutisachan08": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Lavi-hk": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "varun935": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "anuvind570": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "s4chinjha": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "AskitEndo": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Kushagra888": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "RAJVEER42": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "SamridhiAhuja2075": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "AbhishekSharma-9": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "maheswari8074": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Anneshabhakta2005": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Mitali-119": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "TheAnumaan": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Poushali-Mitra": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "anchalchaturvedi08": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Jidnyasa-P": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "RinkiJhunjhunwala": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "VenkataSarma": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Kanwalgunkaur1111": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "tejaswinihatkar": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "ravneet27062004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Ankush-ai": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Coden-inja": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Verma-MK": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "afreenaiml": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "coddingjatin": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "anvita-09": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "Sohi07": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "sahithi-kanjarla": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "keshripritesh": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.311Z"
+          }
+        ]
+      },
+      "ayushjava07": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "kamran-asif": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "ParthNema13": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "vineela49": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "kanak227": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Mayankjain2624": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "YashSavalkar321": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "saarang2003": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Renu-code123": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "dini-5002": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "manavi-24": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Tarushiiiii": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Anamikaghosh18": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Shivu384": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "aryann2319": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Sejal-collection": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "SK8-infi": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Adithkp03": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "vivekd16": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "decodekush": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "preritasaini1": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "giriraj-roy-7723": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "niharika-mente": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "denshaw-09": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "JallaDharani": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "2024yuva": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Shashikumar-ezhilarasu": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "SnehaghoshBarsha444": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Mmadan128": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "noshmachowdary": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "ANTIK-007": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "suri5790": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "ErebAsh": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "ttiwari13": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Chavva-Harshita": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Radhika-dodain": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "code-well0": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "psp2535": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "bishal7448": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Student-ravneet": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "dipmanmajumdar": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "m1ss-chief": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "sumit-make": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "NandaGunasri": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Suhaniisingh05": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "architasaha21": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "jaylm10": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "kauntiaakash2": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Saksham-Jaiswal-2004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Piyushchannawar": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Abhirup-261004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Priyanshi-prog": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "ankit2061": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "isha0325": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Sanjna07": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "swethapadmavathimukku": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "Dru-429": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.312Z"
+          }
+        ]
+      },
+      "TanmayKalra09": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Arihant-Bhandari": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Muneerali199": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "NehaSaini011": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "shreyamittal10": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "MayankV004": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Sayan-206": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "awrya-cmd": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "divyam8175": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "imDarshanGK": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "VenkataSrujana11": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "NA-VNEET": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "AkshithaReddy005": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "pratham15541": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Webwizzz22": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "chauhangarv": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Sainava": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "koushikreddybachu": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "dishaagrawalcodes": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Harshi-max": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "tulikaroyy": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "UjjWaL-0911": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "JAYATIAHUJA": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Deekshithshaiva05": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "KavyaMunusamy": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "shambhavi0608": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "SubhamKojha": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "aryanguptacsvtu": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "pooja1932": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "aerinpatel": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Vrushti-kulkarni": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Atharva-Kale1": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Varshitha713": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Vaishnavi-Manne": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Harsh16Bhardwaj": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Sundhar-Balamoorthy": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "ZarrarPeshimam": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "VAISHNAVISTUDENT": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Sandhya251": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "GarimaYadav29": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Sudhanshu517": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Alam9835": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "ultimatrix2": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Yamuna-b": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "reeteesha-roy": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "krabhis": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "VEDAPRIYAMUTYAM": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "harshraj005": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "mukul-sharma-tech": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "jeevaananthan52": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "michael-0007a": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Sahil-Chahal": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "rajusharmadata": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Vijayashree-tech": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Pixel20coder": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "shanmukhchodagam": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "aayishajalal": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "shriyanyk": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      },
+      "Ishikacasley14": {
+        "totalBonusPoints": 100,
+        "bonuses": [
+          {
+            "points": 100,
+            "reason": "Bonus Score (Participation in Giveaway / Sessions)",
+            "awardedAt": "2025-08-05T14:16:29.313Z"
+          }
+        ]
+      }
+    }
   }
 }
