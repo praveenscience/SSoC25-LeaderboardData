@@ -2566,11 +2566,11 @@ var userScores = {
       }
     },
     "dinesh-2047": {
-      "totalScore": 290,
-      "prCount": 12,
+      "totalScore": 380,
+      "prCount": 16,
       "prsByLevel": {
-        "Beginner": 8,
-        "Intermediate": 3,
+        "Beginner": 11,
+        "Intermediate": 4,
         "Advanced": 1
       }
     },
@@ -5446,11 +5446,11 @@ var userScores = {
       }
     },
     "Kushagra888": {
-      "totalScore": 150,
-      "prCount": 7,
+      "totalScore": 180,
+      "prCount": 8,
       "prsByLevel": {
         "Beginner": 6,
-        "Intermediate": 1,
+        "Intermediate": 2,
         "Advanced": 0
       }
     },

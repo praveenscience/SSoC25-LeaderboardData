@@ -12647,6 +12647,23 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 214,
+      "title": "Random Meal Suggestion Feature",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/214",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T10:37:53Z",
+      "mergedAt": "2025-08-05T12:10:42Z",
+      "author": "Kushagra888",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 215,
       "title": "Add User Profile Page ",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/215",
@@ -12654,6 +12671,74 @@ var prs = {
       "createdAt": "2025-07-30T13:43:49Z",
       "mergedAt": "2025-07-31T15:10:29Z",
       "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 230,
+      "title": "report fraud page added",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/230",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T10:34:36Z",
+      "mergedAt": "2025-08-05T11:52:04Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 231,
+      "title": "404 error page added ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/231",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T10:50:52Z",
+      "mergedAt": "2025-08-05T11:56:51Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 232,
+      "title": "Login Page Redesigned ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/232",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T11:04:12Z",
+      "mergedAt": "2025-08-05T11:58:32Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 233,
+      "title": "Lodge complaint page added ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/233",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T11:15:49Z",
+      "mergedAt": "2025-08-05T12:00:23Z",
+      "author": "dinesh-2047",
       "labels": [
         "SSoC25",
         "Beginner",
