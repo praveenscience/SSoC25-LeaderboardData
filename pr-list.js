@@ -1361,6 +1361,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 559,
+      "title": "Modern UI of Alerts",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/559",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T11:07:36Z",
+      "mergedAt": "2025-08-05T15:27:38Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
