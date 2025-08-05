@@ -8889,6 +8889,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 361,
+      "title": "Add KMeans-Based Car Performance Classifier with Centroid-Based Label Mapping",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/361",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:17:43Z",
+      "mergedAt": "2025-08-05T14:40:14Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",

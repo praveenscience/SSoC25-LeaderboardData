@@ -16,6 +16,7 @@
           return {
             username: username,
             totalScore: user.totalScore,
+            bonusScore: user.bonusScore,
             prCount: user.prCount,
             Beginner: user.prsByLevel.Beginner,
             Intermediate: user.prsByLevel.Intermediate,
@@ -45,22 +46,22 @@
         // Also provide ISO format date for international recognition
         const isoDate = now.toISOString();
 
-        var output = `---------------------------------------------------------
-      SSoC 25 Official Leaderboard (Beta)
----------------------------------------------------------
+        var output = `-----------------------------------------------------------------
+               SSoC 25 Official Leaderboard (Beta)
+-----------------------------------------------------------------
 See: <strong>Top 10</strong> | <a href="/top100">Top 100</a> | <a href="/all">All</a>
 Something wrong? Check the <a href="/validator">PR Validator</a>. <strong>Or <a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7354480650457899008/">ask me</a></strong>.
----------------------------------------------------------
-Rank | Username          | Score | PRs |  B  |  I  |  A
------+-------------------+-------+-----+-----+-----+-----
+-----+-------------------+-------+-----+-----+-----+-----+-------
+Rank | Username          | Score | PRs |  B  |  I  |  A  |   O 
+-----+-------------------+-------+-----+-----+-----+-----+-------
 `;
 
         topTen.forEach((user, index) => {
           const rank = index + 1;
           // Pad and truncate username to ensure consistent spacing
           const username =
-            user.username.length > 15
-              ? user.username.substring(0, 14) + "..."
+            user.username.length > 17
+              ? `<abbr title="${user.username}">${user.username.substring(0, 14) + "..."}</abbr>`
               : user.username.padEnd(17);
 
           output += `${String(rank).padStart(3)}  | ${username} | ${String(
@@ -69,16 +70,22 @@ Rank | Username          | Score | PRs |  B  |  I  |  A
             user.Beginner
           ).padStart(3)} | ${String(user.Intermediate).padStart(3)} | ${String(
             user.Advanced
-          ).padStart(3)}\n`;
+          ).padStart(3)} | ${String(
+            user.bonusScore
+          ).padStart(5)}\n`;
         });
 
-        output += `---------------------------------------------------------
-B: Beginner, I: Intermediate, A: Advanced PRs
+        output += `-----+-------------------+-------+-----+-----+-----+-----+-------
+<strong>Legend:</strong>
+B: Beginner, I: Intermediate, A: Advanced PRs, O: Other (incl. Bonuses)
+<strong>Dates:</strong>
 Updated: ${formattedDate} (Local Time)
 UTC: ${isoDate.replace("T", " ").substr(0, 19)} (UTC / GMT Time)
 <strong>Summary:</strong>
-Total PRs:    ${summary.summary.totalPRs}
-Total Points: ${summary.summary.totalPoints}`;
+Total PRs:            ${String(summary.summary.totalPRs).padStart(5)}
+Total Points:         ${String(summary.summary.totalPoints).padStart(5)}
+  Total PR Points:    ${String(summary.summary.totalPoints - summary.summary.totalBonusPoints).padStart(5)}
+  Total Bonus Points: ${String(summary.summary.totalBonusPoints).padStart(5)}`;
 
         return output;
       }

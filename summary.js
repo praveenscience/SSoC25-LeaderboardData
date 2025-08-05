@@ -1,7 +1,8 @@
 var summary = {
-  "timestamp": "2025-08-05T14:15:00.000Z",
+  "timestamp": "2025-08-05T15:00:00.000Z",
   "summary": {
-    "totalPRs": 1386,
-    "totalPoints": 63440
+    "totalPRs": 1387,
+    "totalPoints": 63480,
+    "totalBonusPoints": 25300
   }
 };
