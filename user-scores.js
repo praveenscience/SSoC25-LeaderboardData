@@ -1027,10 +1027,10 @@ var userScores = {
       }
     },
     "Bavanetha27": {
-      "totalScore": 250,
-      "prCount": 7,
+      "totalScore": 270,
+      "prCount": 8,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 3,
         "Advanced": 4
       }
@@ -1783,12 +1783,12 @@ var userScores = {
       }
     },
     "kaurpreetman": {
-      "totalScore": 120,
-      "prCount": 3,
+      "totalScore": 160,
+      "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 3
+        "Advanced": 4
       }
     },
     "Tanwarshiva": {
@@ -2566,11 +2566,11 @@ var userScores = {
       }
     },
     "dinesh-2047": {
-      "totalScore": 70,
-      "prCount": 2,
+      "totalScore": 290,
+      "prCount": 12,
       "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 1,
+        "Beginner": 8,
+        "Intermediate": 3,
         "Advanced": 1
       }
     },
@@ -3592,11 +3592,11 @@ var userScores = {
       }
     },
     "ThulasiPriyaS": {
-      "totalScore": 80,
-      "prCount": 2,
+      "totalScore": 110,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 2
       }
     },
@@ -6337,11 +6337,11 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 1380,
-      "prCount": 56,
+      "totalScore": 1440,
+      "prCount": 58,
       "prsByLevel": {
         "Beginner": 40,
-        "Intermediate": 6,
+        "Intermediate": 8,
         "Advanced": 10
       }
     },
@@ -9100,12 +9100,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1300,
-      "prCount": 38,
+      "totalScore": 1570,
+      "prCount": 45,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 6,
-        "Advanced": 24
+        "Intermediate": 7,
+        "Advanced": 30
       }
     },
     "Arihant-Bhandari": {
@@ -10036,11 +10036,11 @@ var userScores = {
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 320,
-      "prCount": 13,
+      "totalScore": 380,
+      "prCount": 15,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 4,
+        "Intermediate": 6,
         "Advanced": 1
       }
     },

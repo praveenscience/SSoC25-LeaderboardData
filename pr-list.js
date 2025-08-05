@@ -1201,6 +1201,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 524,
+      "title": "Improved Feedback form with Email JS",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/524",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T17:07:54Z",
+      "mergedAt": "2025-08-05T05:46:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 528,
       "title": "issue resolved : #520 and #518 and #519 - Fix Date-Time Format & Add Event Registration Backend",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/528",
@@ -1255,6 +1271,86 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-03T14:42:33Z",
       "mergedAt": "2025-08-04T16:26:55Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 546,
+      "title": "Dummy pull request on behalf of #519 (Advance)",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/546",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T18:17:00Z",
+      "mergedAt": "2025-08-05T04:58:40Z",
+      "author": "kaurpreetman",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 553,
+      "title": "Enhancement of Footer UI + Responsive",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/553",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T08:29:52Z",
+      "mergedAt": "2025-08-05T08:36:50Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 556,
+      "title": "Enhancement of the UI of Contact Us page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/556",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:06:02Z",
+      "mergedAt": "2025-08-05T09:33:57Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 557,
+      "title": "Enhancement of Terms & Conditons page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/557",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:16:08Z",
+      "mergedAt": "2025-08-05T09:39:20Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 558,
+      "title": "Addition of the Privacy Policy Page.",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/558",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:35:24Z",
+      "mergedAt": "2025-08-05T09:43:00Z",
       "author": "TanmayKalra09",
       "labels": [
         "Advanced",
@@ -13267,6 +13363,112 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 481,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/481",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T15:21:39Z",
+      "mergedAt": "2025-08-05T08:12:00Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 496,
+      "title": "contributor page limit increased upto 200",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/496",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T13:44:30Z",
+      "mergedAt": "2025-08-05T08:22:49Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 501,
+      "title": "Fruit slicer game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/501",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T14:37:01Z",
+      "mergedAt": "2025-08-05T08:29:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 506,
+      "title": "GitHub profile finder Project added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/506",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:37:22Z",
+      "mergedAt": "2025-08-05T08:42:34Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 507,
+      "title": "404 error page added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/507",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:45:13Z",
+      "mergedAt": "2025-08-05T08:49:19Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 518,
+      "title": "LeetMatrix  project added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/518",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:12:19Z",
+      "mergedAt": "2025-08-05T09:15:43Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 37,
       "title": " Added Table of Contents to improve navigation",
       "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/37",
@@ -16055,6 +16257,22 @@ var prs = {
       "project": "sailaja-adapa/Vipreshana"
     },
     {
+      "number": 259,
+      "title": "feat: Improving password strength with real time feedback",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/259",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T04:49:21Z",
+      "mergedAt": "2025-08-05T05:07:19Z",
+      "author": "ThulasiPriyaS",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
       "number": 7,
       "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
       "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
@@ -18321,6 +18539,54 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 462,
+      "title": "Mainpageui resolves issue#421",
+      "url": "https://github.com/HarshS16/Civix/pull/462",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T18:56:26Z",
+      "mergedAt": "2025-08-05T08:05:08Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 464,
+      "title": "Enhancement of the UI of How it Works section",
+      "url": "https://github.com/HarshS16/Civix/pull/464",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T19:26:21Z",
+      "mergedAt": "2025-08-05T08:05:52Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 466,
+      "title": "Backbutton added in user dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/466",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T04:44:52Z",
+      "mergedAt": "2025-08-05T08:06:38Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -19951,6 +20217,38 @@ var prs = {
         "SSoC25",
         "Advanced",
         "GSSOC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 341,
+      "title": "footeruiimprove resolves issue#324",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/341",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T18:35:14Z",
+      "mergedAt": "2025-08-05T08:09:35Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 346,
+      "title": "Improved UI of Near By Page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/346",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T07:52:26Z",
+      "mergedAt": "2025-08-05T08:12:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
       ],
       "level": "Advanced",
       "score": 40,
@@ -21626,6 +21924,112 @@ var prs = {
       "labels": [
         "SSoC25",
         "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 481,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/481",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T15:21:39Z",
+      "mergedAt": "2025-08-05T08:12:00Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 496,
+      "title": "contributor page limit increased upto 200",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/496",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T13:44:30Z",
+      "mergedAt": "2025-08-05T08:22:49Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 501,
+      "title": "Fruit slicer game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/501",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T14:37:01Z",
+      "mergedAt": "2025-08-05T08:29:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 506,
+      "title": "GitHub profile finder Project added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/506",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:37:22Z",
+      "mergedAt": "2025-08-05T08:42:34Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 507,
+      "title": "404 error page added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/507",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:45:13Z",
+      "mergedAt": "2025-08-05T08:49:19Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 518,
+      "title": "LeetMatrix  project added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/518",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:12:19Z",
+      "mergedAt": "2025-08-05T09:15:43Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
       ],
       "level": "Beginner",
       "score": 20,

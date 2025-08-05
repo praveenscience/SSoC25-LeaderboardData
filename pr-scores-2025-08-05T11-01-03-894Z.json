@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-04T19:32:27.847Z",
+  "timestamp": "2025-08-05T11:00:40.728Z",
   "summary": {
-    "totalPRs": 1355,
-    "totalPoints": 37240
+    "totalPRs": 1379,
+    "totalPoints": 37940
   },
   "users": {
     "72897": {
@@ -1032,10 +1032,10 @@
       }
     },
     "Bavanetha27": {
-      "totalScore": 250,
-      "prCount": 7,
+      "totalScore": 270,
+      "prCount": 8,
       "prsByLevel": {
-        "Beginner": 0,
+        "Beginner": 1,
         "Intermediate": 3,
         "Advanced": 4
       }
@@ -1788,12 +1788,12 @@
       }
     },
     "kaurpreetman": {
-      "totalScore": 120,
-      "prCount": 3,
+      "totalScore": 160,
+      "prCount": 4,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
-        "Advanced": 3
+        "Advanced": 4
       }
     },
     "Tanwarshiva": {
@@ -2571,11 +2571,11 @@
       }
     },
     "dinesh-2047": {
-      "totalScore": 70,
-      "prCount": 2,
+      "totalScore": 290,
+      "prCount": 12,
       "prsByLevel": {
-        "Beginner": 0,
-        "Intermediate": 1,
+        "Beginner": 8,
+        "Intermediate": 3,
         "Advanced": 1
       }
     },
@@ -3597,11 +3597,11 @@
       }
     },
     "ThulasiPriyaS": {
-      "totalScore": 80,
-      "prCount": 2,
+      "totalScore": 110,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 0,
+        "Intermediate": 1,
         "Advanced": 2
       }
     },
@@ -6342,11 +6342,11 @@
       }
     },
     "Verma-MK": {
-      "totalScore": 1380,
-      "prCount": 56,
+      "totalScore": 1440,
+      "prCount": 58,
       "prsByLevel": {
         "Beginner": 40,
-        "Intermediate": 6,
+        "Intermediate": 8,
         "Advanced": 10
       }
     },
@@ -9105,12 +9105,12 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1300,
-      "prCount": 38,
+      "totalScore": 1570,
+      "prCount": 45,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 6,
-        "Advanced": 24
+        "Intermediate": 7,
+        "Advanced": 30
       }
     },
     "Arihant-Bhandari": {
@@ -10041,11 +10041,11 @@
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 320,
-      "prCount": 13,
+      "totalScore": 380,
+      "prCount": 15,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 4,
+        "Intermediate": 6,
         "Advanced": 1
       }
     },
@@ -16307,7 +16307,7 @@
       }
     },
     "SumitGorai01/TechieBlog": {
-      "totalPRs": 58,
+      "totalPRs": 64,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -16507,7 +16507,7 @@
         "abhiraj646": 0,
         "GopalDwivedii": 0,
         "Prachii2396": 0,
-        "kaurpreetman": 3,
+        "kaurpreetman": 4,
         "Tanwarshiva": 0,
         "herin7": 0,
         "dashmeet2023": 0,
@@ -17320,7 +17320,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 8,
+        "TanmayKalra09": 13,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -32651,7 +32651,7 @@
       }
     },
     "ruchikakengal/100_Days_100_webprojects": {
-      "totalPRs": 42,
+      "totalPRs": 48,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -32938,7 +32938,7 @@
         "saaranshg": 0,
         "chayanC7mondal": 0,
         "manishgithubri": 0,
-        "dinesh-2047": 0,
+        "dinesh-2047": 5,
         "modiraunak": 0,
         "Payel647": 0,
         "Jotthecode": 0,
@@ -33357,7 +33357,7 @@
         "PURVIK-31": 0,
         "Vikas-Verma1": 0,
         "Himanshu950": 0,
-        "Verma-MK": 5,
+        "Verma-MK": 6,
         "ErNehasharma": 0,
         "jainoshika": 0,
         "Shravya68": 0,
@@ -39461,7 +39461,7 @@
       }
     },
     "sailaja-adapa/Vipreshana": {
-      "totalPRs": 62,
+      "totalPRs": 63,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -39862,7 +39862,7 @@
         "Arni005": 0,
         "gauravanand809": 0,
         "lerisa1112": 0,
-        "ThulasiPriyaS": 2,
+        "ThulasiPriyaS": 3,
         "Ranganivandan": 0,
         "Samridhi-2007": 2,
         "Saitej5181": 0,
@@ -42185,7 +42185,7 @@
       }
     },
     "HarshS16/Civix": {
-      "totalPRs": 110,
+      "totalPRs": 113,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -42301,7 +42301,7 @@
         "Asterioxer": 0,
         "samim29": 0,
         "rohit-debnath24": 0,
-        "Bavanetha27": 5,
+        "Bavanetha27": 6,
         "ChinmayaBiswal7": 0,
         "Shrey3satdeve": 0,
         "Sitaram8472": 0,
@@ -43198,7 +43198,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 19,
+        "TanmayKalra09": 20,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -43302,7 +43302,7 @@
         "Payal12-max": 0,
         "Anushka-Naik28": 0,
         "koushikreddybachu": 1,
-        "dishaagrawalcodes": 3,
+        "dishaagrawalcodes": 4,
         "Harshi-max": 1,
         "Hima-Bindhu6527": 0,
         "achieveramrit": 0,
@@ -44909,7 +44909,7 @@
       }
     },
     "Bhavya1352/eventmappr": {
-      "totalPRs": 80,
+      "totalPRs": 82,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -45922,7 +45922,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 4,
+        "TanmayKalra09": 5,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -46026,7 +46026,7 @@
         "Payal12-max": 0,
         "Anushka-Naik28": 0,
         "koushikreddybachu": 0,
-        "dishaagrawalcodes": 0,
+        "dishaagrawalcodes": 1,
         "Harshi-max": 0,
         "Hima-Bindhu6527": 0,
         "achieveramrit": 0,
@@ -48995,7 +48995,7 @@
       }
     },
     "ruchikakengal/WebDevIn100_Days": {
-      "totalPRs": 42,
+      "totalPRs": 48,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -49282,7 +49282,7 @@
         "saaranshg": 0,
         "chayanC7mondal": 0,
         "manishgithubri": 0,
-        "dinesh-2047": 0,
+        "dinesh-2047": 5,
         "modiraunak": 0,
         "Payel647": 0,
         "Jotthecode": 0,
@@ -49701,7 +49701,7 @@
         "PURVIK-31": 0,
         "Vikas-Verma1": 0,
         "Himanshu950": 0,
-        "Verma-MK": 5,
+        "Verma-MK": 6,
         "ErNehasharma": 0,
         "jainoshika": 0,
         "Shravya68": 0,
@@ -52921,6 +52921,22 @@
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 524,
+      "title": "Improved Feedback form with Email JS",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/524",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T17:07:54Z",
+      "mergedAt": "2025-08-05T05:46:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 528,
       "title": "issue resolved : #520 and #518 and #519 - Fix Date-Time Format & Add Event Registration Backend",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/528",
@@ -52975,6 +52991,86 @@
       "state": "MERGED",
       "createdAt": "2025-08-03T14:42:33Z",
       "mergedAt": "2025-08-04T16:26:55Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 546,
+      "title": "Dummy pull request on behalf of #519 (Advance)",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/546",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T18:17:00Z",
+      "mergedAt": "2025-08-05T04:58:40Z",
+      "author": "kaurpreetman",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 553,
+      "title": "Enhancement of Footer UI + Responsive",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/553",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T08:29:52Z",
+      "mergedAt": "2025-08-05T08:36:50Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 556,
+      "title": "Enhancement of the UI of Contact Us page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/556",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:06:02Z",
+      "mergedAt": "2025-08-05T09:33:57Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 557,
+      "title": "Enhancement of Terms & Conditons page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/557",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:16:08Z",
+      "mergedAt": "2025-08-05T09:39:20Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 558,
+      "title": "Addition of the Privacy Policy Page.",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/558",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:35:24Z",
+      "mergedAt": "2025-08-05T09:43:00Z",
       "author": "TanmayKalra09",
       "labels": [
         "Advanced",
@@ -64987,6 +65083,112 @@
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 481,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/481",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T15:21:39Z",
+      "mergedAt": "2025-08-05T08:12:00Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 496,
+      "title": "contributor page limit increased upto 200",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/496",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T13:44:30Z",
+      "mergedAt": "2025-08-05T08:22:49Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 501,
+      "title": "Fruit slicer game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/501",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T14:37:01Z",
+      "mergedAt": "2025-08-05T08:29:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 506,
+      "title": "GitHub profile finder Project added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/506",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:37:22Z",
+      "mergedAt": "2025-08-05T08:42:34Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 507,
+      "title": "404 error page added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/507",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:45:13Z",
+      "mergedAt": "2025-08-05T08:49:19Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 518,
+      "title": "LeetMatrix  project added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/518",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:12:19Z",
+      "mergedAt": "2025-08-05T09:15:43Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 37,
       "title": " Added Table of Contents to improve navigation",
       "url": "https://github.com/itsaryanchauhan/ThinkDSA/pull/37",
@@ -67775,6 +67977,22 @@
       "project": "sailaja-adapa/Vipreshana"
     },
     {
+      "number": 259,
+      "title": "feat: Improving password strength with real time feedback",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/259",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T04:49:21Z",
+      "mergedAt": "2025-08-05T05:07:19Z",
+      "author": "ThulasiPriyaS",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
       "number": 7,
       "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
       "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
@@ -70041,6 +70259,54 @@
       "project": "HarshS16/Civix"
     },
     {
+      "number": 462,
+      "title": "Mainpageui resolves issue#421",
+      "url": "https://github.com/HarshS16/Civix/pull/462",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T18:56:26Z",
+      "mergedAt": "2025-08-05T08:05:08Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 464,
+      "title": "Enhancement of the UI of How it Works section",
+      "url": "https://github.com/HarshS16/Civix/pull/464",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T19:26:21Z",
+      "mergedAt": "2025-08-05T08:05:52Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 466,
+      "title": "Backbutton added in user dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/466",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T04:44:52Z",
+      "mergedAt": "2025-08-05T08:06:38Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -71671,6 +71937,38 @@
         "SSoC25",
         "Advanced",
         "GSSOC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 341,
+      "title": "footeruiimprove resolves issue#324",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/341",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T18:35:14Z",
+      "mergedAt": "2025-08-05T08:09:35Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 346,
+      "title": "Improved UI of Near By Page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/346",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T07:52:26Z",
+      "mergedAt": "2025-08-05T08:12:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
       ],
       "level": "Advanced",
       "score": 40,
@@ -73346,6 +73644,112 @@
       "labels": [
         "SSoC25",
         "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 481,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/481",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T15:21:39Z",
+      "mergedAt": "2025-08-05T08:12:00Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 496,
+      "title": "contributor page limit increased upto 200",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/496",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T13:44:30Z",
+      "mergedAt": "2025-08-05T08:22:49Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 501,
+      "title": "Fruit slicer game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/501",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T14:37:01Z",
+      "mergedAt": "2025-08-05T08:29:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 506,
+      "title": "GitHub profile finder Project added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/506",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:37:22Z",
+      "mergedAt": "2025-08-05T08:42:34Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 507,
+      "title": "404 error page added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/507",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T16:45:13Z",
+      "mergedAt": "2025-08-05T08:49:19Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 518,
+      "title": "LeetMatrix  project added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/518",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:12:19Z",
+      "mergedAt": "2025-08-05T09:15:43Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
       ],
       "level": "Beginner",
       "score": 20,
