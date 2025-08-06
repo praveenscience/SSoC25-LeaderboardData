@@ -6903,6 +6903,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 169,
+      "title": "Google recaptcha",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/169",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T16:28:59Z",
+      "mergedAt": "2025-08-06T16:59:09Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 16,
       "title": "Create CODE_OF_CONDUCT.md",
       "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
@@ -19255,6 +19271,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 480,
+      "title": "SOS page added",
+      "url": "https://github.com/HarshS16/Civix/pull/480",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T08:43:45Z",
+      "mergedAt": "2025-08-06T16:50:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "HarshS16/Civix"
     },
     {

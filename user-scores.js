@@ -2751,13 +2751,13 @@ var userScores = {
       }
     },
     "VJLIVE": {
-      "totalScore": 690,
+      "totalScore": 730,
       "bonusScore": 100,
-      "prCount": 20,
+      "prCount": 21,
       "prsByLevel": {
         "Beginner": 5,
         "Intermediate": 11,
-        "Advanced": 4
+        "Advanced": 5
       }
     },
     "AnuranjanJain": {
@@ -10111,13 +10111,13 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 2030,
+      "totalScore": 2070,
       "bonusScore": 100,
-      "prCount": 55,
+      "prCount": 56,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 11,
-        "Advanced": 36
+        "Advanced": 37
       }
     },
     "Arihant-Bhandari": {
