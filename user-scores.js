@@ -10191,8 +10191,8 @@ var userScores = {
       }
     },
     "satyajit-patel": {
-      "totalScore": 60,
-      "bonusScore": 0,
+      "totalScore": 160,
+      "bonusScore": 100,
       "prCount": 2,
       "prsByLevel": {
         "Beginner": 0,
