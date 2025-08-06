@@ -19114,6 +19114,54 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 475,
+      "title": "Logo corrected",
+      "url": "https://github.com/HarshS16/Civix/pull/475",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:43:47Z",
+      "mergedAt": "2025-08-06T08:07:45Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 477,
+      "title": "Improved UI of Testimonials Section",
+      "url": "https://github.com/HarshS16/Civix/pull/477",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T18:23:52Z",
+      "mergedAt": "2025-08-06T08:13:55Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 479,
+      "title": "contributor page limit increased",
+      "url": "https://github.com/HarshS16/Civix/pull/479",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T20:44:25Z",
+      "mergedAt": "2025-08-06T08:14:23Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
