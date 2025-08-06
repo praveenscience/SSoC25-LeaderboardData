@@ -9293,6 +9293,118 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 386,
+      "title": "Added ForexForesight: USD Exchange Rate Predictor using Prophet",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/386",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T14:43:20Z",
+      "mergedAt": "2025-08-06T18:05:44Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 388,
+      "title": "Added OilSight: Oil Price Prediction Using Gradient Boosting - SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/388",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T14:57:29Z",
+      "mergedAt": "2025-08-06T18:06:23Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 391,
+      "title": "Pull request of Advanced Visualizations",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/391",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:13:57Z",
+      "mergedAt": "2025-08-06T18:07:32Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 392,
+      "title": "Pull Request on Data Analysis & predict Black Friday Sale",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/392",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:18:42Z",
+      "mergedAt": "2025-08-06T18:08:11Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 393,
+      "title": "Pull Request of Automatic Summarization of Scientific Papers",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/393",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:21:32Z",
+      "mergedAt": "2025-08-06T18:08:47Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 394,
+      "title": "Pull request of Bitcoin Price Predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/394",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:25:03Z",
+      "mergedAt": "2025-08-06T18:09:28Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 395,
+      "title": "Pull request of Data Filling and Cleaning Techniques",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/395",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:30:52Z",
+      "mergedAt": "2025-08-06T18:10:23Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -12795,6 +12907,55 @@ var prs = {
       "level": "Advanced",
       "score": 40,
       "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 292,
+      "title": "docs: Add SETUP.md with installation and configuration steps",
+      "url": "https://github.com/Code-A2Z/jarvis/pull/292",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T11:10:39Z",
+      "mergedAt": "2025-06-16T09:01:32Z",
+      "author": "Siri-026",
+      "labels": [
+        "documentation",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Code-A2Z/jarvis"
+    },
+    {
+      "number": 295,
+      "title": "Added text summarization model using Groq API",
+      "url": "https://github.com/Code-A2Z/jarvis/pull/295",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T09:28:57Z",
+      "mergedAt": "2025-06-18T03:36:09Z",
+      "author": "satyajit-patel",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Code-A2Z/jarvis"
+    },
+    {
+      "number": 301,
+      "title": "Feature/pdf chat rag 298",
+      "url": "https://github.com/Code-A2Z/jarvis/pull/301",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T12:35:21Z",
+      "mergedAt": "2025-06-19T15:58:35Z",
+      "author": "satyajit-patel",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Code-A2Z/jarvis"
     },
     {
       "number": 106,
@@ -19290,6 +19451,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 485,
+      "title": "Improved Footer Section",
+      "url": "https://github.com/HarshS16/Civix/pull/485",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:25:38Z",
+      "mergedAt": "2025-08-06T18:16:09Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 487,
+      "title": "Fixed redirect issue in about page",
+      "url": "https://github.com/HarshS16/Civix/pull/487",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T18:08:20Z",
+      "mergedAt": "2025-08-06T18:16:35Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -20948,6 +21141,55 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-05T07:52:26Z",
       "mergedAt": "2025-08-05T08:12:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 350,
+      "title": "Cursorcolor resolves issue#340",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/350",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T15:34:18Z",
+      "mergedAt": "2025-08-06T08:57:15Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 351,
+      "title": "BUG FIX : working sign up with google",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/351",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T15:35:24Z",
+      "mergedAt": "2025-08-06T18:18:39Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSOC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 356,
+      "title": "Improved UI of Tourist Places",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/356",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T10:22:58Z",
+      "mergedAt": "2025-08-06T18:56:33Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
