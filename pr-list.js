@@ -1441,6 +1441,86 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 570,
+      "title": "Enhancement of About Page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/570",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T05:56:08Z",
+      "mergedAt": "2025-08-06T06:16:18Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 571,
+      "title": "Addition of Event Registration Form",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/571",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T06:50:33Z",
+      "mergedAt": "2025-08-06T10:40:23Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 572,
+      "title": "News Page Added",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/572",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T07:22:57Z",
+      "mergedAt": "2025-08-06T10:35:53Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 580,
+      "title": "improveui",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/580",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T09:28:25Z",
+      "mergedAt": "2025-08-06T10:33:01Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 582,
+      "title": "Footer resolves issue#531",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/582",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T09:53:26Z",
+      "mergedAt": "2025-08-06T10:33:00Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -6804,6 +6884,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 163,
+      "title": "Added the Bookmark feature for Notes section",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/163",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:05:23Z",
+      "mergedAt": "2025-08-06T11:52:37Z",
+      "author": "denshaw-09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "k0msenapati/study-sphere"
     },
     {
