@@ -2851,11 +2851,11 @@ var userScores = {
       }
     },
     "dinesh-2047": {
-      "totalScore": 480,
+      "totalScore": 600,
       "bonusScore": 100,
-      "prCount": 16,
+      "prCount": 22,
       "prsByLevel": {
-        "Beginner": 11,
+        "Beginner": 17,
         "Intermediate": 4,
         "Advanced": 1
       }
@@ -7351,13 +7351,13 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 1670,
+      "totalScore": 1820,
       "bonusScore": 100,
-      "prCount": 47,
+      "prCount": 51,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 31,
-        "Advanced": 16
+        "Intermediate": 32,
+        "Advanced": 19
       }
     },
     "ayushjava07": {
@@ -8231,13 +8231,13 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 1850,
+      "totalScore": 2020,
       "bonusScore": 100,
-      "prCount": 56,
+      "prCount": 61,
       "prsByLevel": {
         "Beginner": 16,
-        "Intermediate": 17,
-        "Advanced": 23
+        "Intermediate": 20,
+        "Advanced": 25
       }
     },
     "Soultk1977": {
@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 1790,
+      "totalScore": 1830,
       "bonusScore": 100,
-      "prCount": 53,
+      "prCount": 54,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 10
+        "Advanced": 11
       }
     },
     "Aagam230": {
@@ -10111,13 +10111,13 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 1750,
+      "totalScore": 1880,
       "bonusScore": 100,
-      "prCount": 47,
+      "prCount": 51,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 7,
-        "Advanced": 32
+        "Intermediate": 10,
+        "Advanced": 33
       }
     },
     "Arihant-Bhandari": {
@@ -13567,6 +13567,26 @@ var userScores = {
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 0,
+        "Advanced": 0
+      }
+    },
+    "Kirti8Singh": {
+      "totalScore": 40,
+      "bonusScore": 0,
+      "prCount": 1,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 0,
+        "Advanced": 1
+      }
+    },
+    "roushnisareen": {
+      "totalScore": 60,
+      "bonusScore": 0,
+      "prCount": 2,
+      "prsByLevel": {
+        "Beginner": 0,
+        "Intermediate": 2,
         "Advanced": 0
       }
     }

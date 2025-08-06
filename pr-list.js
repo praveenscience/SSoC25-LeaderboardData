@@ -1377,6 +1377,70 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 563,
+      "title": "Improved UI of Forget password page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/563",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T15:17:24Z",
+      "mergedAt": "2025-08-05T15:26:45Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 564,
+      "title": "Modern UI of header",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/564",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:17:30Z",
+      "mergedAt": "2025-08-05T16:35:31Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 565,
+      "title": "Enhancement of FAQs Page",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/565",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:36:41Z",
+      "mergedAt": "2025-08-06T02:15:18Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 566,
+      "title": "Articles Page added",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/566",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T17:20:58Z",
+      "mergedAt": "2025-08-06T02:16:27Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -2481,6 +2545,24 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-07-30T21:19:03Z",
       "mergedAt": "2025-08-01T08:00:15Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1550,
+      "title": "LightFlow: A Lightweight Parallel Task Pipeline Framework",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1550",
+      "state": "MERGED",
+      "createdAt": "2025-07-30T21:26:11Z",
+      "mergedAt": "2025-08-06T07:29:22Z",
       "author": "SK8-infi",
       "labels": [
         "Contributor",
@@ -7159,6 +7241,23 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 35,
+      "title": "Feature/federated learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/35",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T01:06:39Z",
+      "mergedAt": "2025-06-16T05:28:51Z",
+      "author": "roushnisareen",
+      "labels": [
+        "documentation",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 37,
       "title": "Stock sentiment predictor",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/37",
@@ -7747,6 +7846,23 @@ var prs = {
       "labels": [
         "SSoC25",
         "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 127,
+      "title": "Add Facial Emotion Detection module inside Healthcare/Health Monitoring",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/127",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T18:58:47Z",
+      "mergedAt": "2025-06-25T16:23:09Z",
+      "author": "roushnisareen",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "Advanced"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -8921,6 +9037,150 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 374,
+      "title": "AI DiceMaster: Reinforcement Learning for Dice Games",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/374",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:31:53Z",
+      "mergedAt": "2025-08-05T19:00:49Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 375,
+      "title": " FlapAI: Flappy Bird Learns to Fly - Complete AI Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/375",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:36:19Z",
+      "mergedAt": "2025-08-05T19:02:21Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 377,
+      "title": "TextPersona: Personality Type Predictor from Text Prompts",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/377",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:46:21Z",
+      "mergedAt": "2025-08-05T19:03:24Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 378,
+      "title": "TicTacRL: Self-Play Tic-Tac-Toe Agent using Reinforcement Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/378",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:50:24Z",
+      "mergedAt": "2025-08-05T19:01:33Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 380,
+      "title": "This PR adds a complete regression pipeline for predicting the gold closing price:",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/380",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T17:12:38Z",
+      "mergedAt": "2025-08-05T19:00:06Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 381,
+      "title": "Pull Request of Unique Chatbot",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/381",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T18:17:07Z",
+      "mergedAt": "2025-08-05T18:56:44Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 382,
+      "title": "Pull Request of Tweets Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/382",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T18:20:29Z",
+      "mergedAt": "2025-08-05T18:57:22Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 383,
+      "title": "Pull request of Web Scrapping",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/383",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T18:24:33Z",
+      "mergedAt": "2025-08-05T18:58:02Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 384,
+      "title": "Pull Request of Transfer Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/384",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T18:33:03Z",
+      "mergedAt": "2025-08-05T18:59:16Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -9360,6 +9620,22 @@ var prs = {
       "createdAt": "2025-06-16T07:26:06Z",
       "mergedAt": "2025-06-16T09:55:29Z",
       "author": "ParthNema13",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 147,
+      "title": "Added PYQs and Syllabus for IGDTUW, Delhi",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/147",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T07:40:57Z",
+      "mergedAt": "2025-06-16T11:17:43Z",
+      "author": "Kirti8Singh",
       "labels": [
         "Advanced",
         "SSoC25"
@@ -12770,6 +13046,108 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-04T11:15:49Z",
       "mergedAt": "2025-08-05T12:00:23Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 245,
+      "title": "privacy policy page added",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/245",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T14:53:31Z",
+      "mergedAt": "2025-08-06T05:08:18Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 248,
+      "title": "Testimonial page added ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/248",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T17:04:55Z",
+      "mergedAt": "2025-08-06T05:10:03Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 249,
+      "title": "Admin dashboard added",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/249",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T17:58:14Z",
+      "mergedAt": "2025-08-06T05:14:42Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 250,
+      "title": "admin meal panel added ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/250",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T19:52:20Z",
+      "mergedAt": "2025-08-06T05:18:24Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 251,
+      "title": "Admin manage user panel added ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/251",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T20:13:44Z",
+      "mergedAt": "2025-08-06T05:22:08Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 252,
+      "title": "Admin login page created with dummy id pass ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/252",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T20:31:34Z",
+      "mergedAt": "2025-08-06T05:37:00Z",
       "author": "dinesh-2047",
       "labels": [
         "SSoC25",
