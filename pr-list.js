@@ -1521,6 +1521,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 589,
+      "title": "sidebar rendering location issue fixed",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/589",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:22:37Z",
+      "mergedAt": "2025-08-07T09:51:56Z",
+      "author": "rohit-debnath24",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -15741,6 +15757,22 @@ var prs = {
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
+      "number": 251,
+      "title": "Add Links",
+      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/251",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T18:36:53Z",
+      "mergedAt": "2025-08-07T09:25:23Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
       "number": 10,
       "title": "SECURITY.md",
       "url": "https://github.com/Venuchander/fintrack/pull/10",
@@ -19548,6 +19580,38 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 495,
+      "title": "Chatroom Added",
+      "url": "https://github.com/HarshS16/Civix/pull/495",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T07:33:43Z",
+      "mergedAt": "2025-08-07T07:39:40Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 497,
+      "title": "Updated UI of SOS page",
+      "url": "https://github.com/HarshS16/Civix/pull/497",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T07:53:24Z",
+      "mergedAt": "2025-08-07T08:28:16Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "HarshS16/Civix"
     },
     {
