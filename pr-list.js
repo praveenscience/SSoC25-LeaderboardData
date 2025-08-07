@@ -3257,6 +3257,22 @@ var prs = {
       "project": "adityas1309/RaktConnect"
     },
     {
+      "number": 127,
+      "title": "raised for dummy pr",
+      "url": "https://github.com/adityas1309/RaktConnect/pull/127",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T07:48:09Z",
+      "mergedAt": "2025-08-07T15:54:12Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "adityas1309/RaktConnect"
+    },
+    {
       "number": 26,
       "title": "Enhancement of CONTRIBUTING.md",
       "url": "https://github.com/Dev-Dhruba/NeuroDev-Therapy/pull/26",

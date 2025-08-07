@@ -11151,13 +11151,13 @@ var userScores = {
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 540,
+      "totalScore": 580,
       "bonusScore": 100,
-      "prCount": 18,
+      "prCount": 19,
       "prsByLevel": {
         "Beginner": 11,
         "Intermediate": 6,
-        "Advanced": 1
+        "Advanced": 2
       }
     },
     "Harshi-max": {
