@@ -18883,6 +18883,7 @@ var prs = {
       "mergedAt": "2025-08-01T08:14:55Z",
       "author": "michael-0007a",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner"
       ],
@@ -18899,6 +18900,7 @@ var prs = {
       "mergedAt": "2025-08-01T08:15:38Z",
       "author": "arthavjain103",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Beginner"
       ],
@@ -18915,6 +18917,7 @@ var prs = {
       "mergedAt": "2025-08-01T12:06:47Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Intermediate"
       ],
@@ -18931,6 +18934,7 @@ var prs = {
       "mergedAt": "2025-08-01T08:22:14Z",
       "author": "Ankush-ai",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -18947,6 +18951,7 @@ var prs = {
       "mergedAt": "2025-08-01T12:37:04Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Intermediate"
       ],
@@ -18963,6 +18968,7 @@ var prs = {
       "mergedAt": "2025-08-01T16:20:11Z",
       "author": "Verma-MK",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Beginner"
       ],
@@ -18979,6 +18985,7 @@ var prs = {
       "mergedAt": "2025-08-02T07:05:00Z",
       "author": "michael-0007a",
       "labels": [
+        "bug",
         "SSoC25",
         "Advanced"
       ],
@@ -19011,6 +19018,7 @@ var prs = {
       "mergedAt": "2025-08-02T18:10:41Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19027,6 +19035,7 @@ var prs = {
       "mergedAt": "2025-08-03T06:01:27Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19043,6 +19052,7 @@ var prs = {
       "mergedAt": "2025-08-03T08:34:30Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19059,6 +19069,7 @@ var prs = {
       "mergedAt": "2025-08-03T09:42:09Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19075,6 +19086,7 @@ var prs = {
       "mergedAt": "2025-08-03T12:44:24Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19091,6 +19103,7 @@ var prs = {
       "mergedAt": "2025-08-03T12:45:50Z",
       "author": "dishaagrawalcodes",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Intermediate"
       ],
@@ -19107,6 +19120,7 @@ var prs = {
       "mergedAt": "2025-08-03T13:13:27Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19123,6 +19137,7 @@ var prs = {
       "mergedAt": "2025-08-03T13:34:16Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19139,6 +19154,7 @@ var prs = {
       "mergedAt": "2025-08-03T17:44:57Z",
       "author": "TanmayKalra09",
       "labels": [
+        "bug",
         "SSoC25",
         "Advanced"
       ],
@@ -19155,6 +19171,7 @@ var prs = {
       "mergedAt": "2025-08-03T18:09:43Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19171,6 +19188,7 @@ var prs = {
       "mergedAt": "2025-08-04T07:28:49Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19187,6 +19205,7 @@ var prs = {
       "mergedAt": "2025-08-04T09:45:12Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19203,6 +19222,7 @@ var prs = {
       "mergedAt": "2025-08-04T09:46:15Z",
       "author": "michael-0007a",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner"
       ],
@@ -19219,6 +19239,7 @@ var prs = {
       "mergedAt": "2025-08-04T09:49:57Z",
       "author": "michael-0007a",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner"
       ],
@@ -19235,11 +19256,30 @@ var prs = {
       "mergedAt": "2025-08-04T13:52:27Z",
       "author": "arthavjain103",
       "labels": [
+        "bug",
         "SSoC25",
-        "Beginner"
+        "Beginner",
+        "GSSOC"
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 447,
+      "title": "Notification Bell Added",
+      "url": "https://github.com/HarshS16/Civix/pull/447",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T12:19:00Z",
+      "mergedAt": "2025-08-04T13:53:04Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "HarshS16/Civix"
     },
     {
@@ -19251,6 +19291,7 @@ var prs = {
       "mergedAt": "2025-08-04T16:30:19Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19267,11 +19308,29 @@ var prs = {
       "mergedAt": "2025-08-04T16:31:06Z",
       "author": "Bavanetha27",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Intermediate"
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 457,
+      "title": "fix Issue 353: Quick Profile Access from Navbar",
+      "url": "https://github.com/HarshS16/Civix/pull/457",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T15:49:02Z",
+      "mergedAt": "2025-08-04T16:32:03Z",
+      "author": "michael-0007a",
+      "labels": [
+        "enhancement",
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "HarshS16/Civix"
     },
     {
@@ -19283,6 +19342,7 @@ var prs = {
       "mergedAt": "2025-08-04T18:07:10Z",
       "author": "dishaagrawalcodes",
       "labels": [
+        "bug",
         "SSoC25",
         "Intermediate"
       ],
@@ -19299,6 +19359,7 @@ var prs = {
       "mergedAt": "2025-08-04T18:09:10Z",
       "author": "dishaagrawalcodes",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Beginner"
       ],
@@ -19315,6 +19376,7 @@ var prs = {
       "mergedAt": "2025-08-05T08:05:08Z",
       "author": "dishaagrawalcodes",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Intermediate"
       ],
@@ -19331,6 +19393,7 @@ var prs = {
       "mergedAt": "2025-08-05T08:05:52Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Advanced"
       ],
@@ -19347,6 +19410,7 @@ var prs = {
       "mergedAt": "2025-08-05T08:06:38Z",
       "author": "Bavanetha27",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Beginner"
       ],
@@ -19363,6 +19427,7 @@ var prs = {
       "mergedAt": "2025-08-05T13:56:40Z",
       "author": "michael-0007a",
       "labels": [
+        "bug",
         "SSoC25",
         "Advanced"
       ],
@@ -19395,6 +19460,7 @@ var prs = {
       "mergedAt": "2025-08-06T08:07:45Z",
       "author": "Bavanetha27",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner"
       ],
@@ -19459,6 +19525,7 @@ var prs = {
       "mergedAt": "2025-08-06T18:16:09Z",
       "author": "TanmayKalra09",
       "labels": [
+        "enhancement",
         "SSoC25",
         "Intermediate"
       ],
@@ -19475,6 +19542,7 @@ var prs = {
       "mergedAt": "2025-08-06T18:16:35Z",
       "author": "arthavjain103",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner"
       ],
