@@ -6935,6 +6935,38 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 171,
+      "title": "Fixed spelling mistake",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/171",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T17:55:37Z",
+      "mergedAt": "2025-08-07T14:42:59Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 173,
+      "title": "Fixed navbar status according to authentication",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/173",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T18:25:29Z",
+      "mergedAt": "2025-08-07T14:42:16Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 16,
       "title": "Create CODE_OF_CONDUCT.md",
       "url": "https://github.com/ShikhaMaurya212402/Plant-Disease-Classification-Model/pull/16",
@@ -12922,6 +12954,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 847,
+      "title": "Add rules",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/847",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T15:08:51Z",
+      "mergedAt": "2025-08-07T15:14:09Z",
+      "author": "Sejal-collection",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -19606,6 +19654,38 @@ var prs = {
       "createdAt": "2025-08-07T07:53:24Z",
       "mergedAt": "2025-08-07T08:28:16Z",
       "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 499,
+      "title": "Added Confirmation feature in Contact US with Email JS",
+      "url": "https://github.com/HarshS16/Civix/pull/499",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T10:14:07Z",
+      "mergedAt": "2025-08-07T11:34:31Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 500,
+      "title": "Resolved Issue #494: updated the card hover",
+      "url": "https://github.com/HarshS16/Civix/pull/500",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T11:07:52Z",
+      "mergedAt": "2025-08-07T11:37:51Z",
+      "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
         "Intermediate"
