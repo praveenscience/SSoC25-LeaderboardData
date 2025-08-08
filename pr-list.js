@@ -1537,6 +1537,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 597,
+      "title": "Improvement of change password page.",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/597",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T05:53:29Z",
+      "mergedAt": "2025-08-08T07:59:35Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -2727,6 +2743,24 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1566,
+      "title": "Chroot",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1566",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T21:01:33Z",
+      "mergedAt": "2025-08-08T08:20:58Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 1567,
       "title": "PDF Intelligence Extractor - Intelligent Document Parser for PDFs",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1567",
@@ -2742,6 +2776,24 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1587,
+      "title": "Student Social Media Addiction Analysis (Exploring Encoding & Scaling Techniques, Regression & Classification) (issue #1574)",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1587",
+      "state": "MERGED",
+      "createdAt": "2025-08-03T08:51:35Z",
+      "mergedAt": "2025-08-08T08:23:17Z",
+      "author": "archangel2006",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "UTSAVS26/PyVerse"
     },
     {
@@ -9459,6 +9511,86 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-06T17:30:52Z",
       "mergedAt": "2025-08-06T18:10:23Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 398,
+      "title": "Add Stock Price Predictor using Yahoo Finance Data SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/398",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T16:37:29Z",
+      "mergedAt": "2025-08-07T17:28:22Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 399,
+      "title": "Pull request of Automatic Summarization of Scientific Papers",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/399",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T17:26:50Z",
+      "mergedAt": "2025-08-07T17:28:58Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 400,
+      "title": "Pull request of Classification Algorithms",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/400",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T17:31:06Z",
+      "mergedAt": "2025-08-07T17:35:27Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 401,
+      "title": "Pull Request of Cloud Details",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/401",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T17:43:09Z",
+      "mergedAt": "2025-08-07T18:05:37Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 402,
+      "title": "Pull Request of Different types of scaling method",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/402",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T17:48:14Z",
+      "mergedAt": "2025-08-07T18:06:05Z",
       "author": "keshripritesh",
       "labels": [
         "SSoC25",
@@ -21425,6 +21557,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 370,
+      "title": "Improved UI of About Page",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/370",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T18:40:10Z",
+      "mergedAt": "2025-08-08T08:34:42Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Bhavya1352/eventmappr"
     },
     {
