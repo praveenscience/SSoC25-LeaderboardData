@@ -7222,6 +7222,38 @@ var prs = {
       "project": "ShikhaMaurya212402/Plant-Disease-Classification-Model"
     },
     {
+      "number": 8,
+      "title": "csv upload done",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/8",
+      "state": "MERGED",
+      "createdAt": "2025-06-07T16:36:02Z",
+      "mergedAt": "2025-06-08T10:27:08Z",
+      "author": "vagabond-0",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 18,
+      "title": "done with backend url",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/18",
+      "state": "MERGED",
+      "createdAt": "2025-06-10T16:02:50Z",
+      "mergedAt": "2025-06-14T05:22:58Z",
+      "author": "vagabond-0",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 25,
       "title": "SECURITY.md",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/25",
@@ -7236,6 +7268,38 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 30,
+      "title": "Fixes #23 Scaled Values",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/30",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T07:25:44Z",
+      "mergedAt": "2025-06-14T13:05:44Z",
+      "author": "Sparsh2105",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 31,
+      "title": "ML: Prototype functions in Notebook that handle null values in CSV Data",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/31",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T07:36:58Z",
+      "mergedAt": "2025-06-14T12:42:25Z",
+      "author": "Aksh-Agrawal",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
@@ -7255,6 +7319,38 @@ var prs = {
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
+      "number": 33,
+      "title": "Eda license addition",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/33",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T09:51:13Z",
+      "mergedAt": "2025-06-14T12:19:44Z",
+      "author": "nupurmadaan04",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 34,
+      "title": "Encoded Categorial data",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/34",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T11:15:05Z",
+      "mergedAt": "2025-06-17T12:45:06Z",
+      "author": "nupurmadaan04",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 44,
       "title": "CONTRIBUTING.md + CODE_OF_CONDUCT.md + readme enhancements",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/44",
@@ -7265,6 +7361,134 @@ var prs = {
       "labels": [
         "documentation",
         "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 47,
+      "title": "Add data type optimization notebook",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/47",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T18:31:43Z",
+      "mergedAt": "2025-06-16T03:42:24Z",
+      "author": "MANASA-NUKALA",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 56,
+      "title": "Refactor code structure for improved readability and maintainability",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/56",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T05:52:16Z",
+      "mergedAt": "2025-06-16T09:17:53Z",
+      "author": "jayanththalla",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 58,
+      "title": "Added Toggle Button of Dark/Light Modes",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/58",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T09:07:52Z",
+      "mergedAt": "2025-06-16T09:19:48Z",
+      "author": "imBharathkumarp",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 59,
+      "title": "feat added modular outlier pipline entry point",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/59",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T09:29:24Z",
+      "mergedAt": "2025-06-16T17:25:47Z",
+      "author": "dheeraxspidey",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 60,
+      "title": "Footer Enhancement Suggestion for Better UI",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/60",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T12:02:23Z",
+      "mergedAt": "2025-06-16T14:07:10Z",
+      "author": "Neha-Singh-j",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 61,
+      "title": "outliers implementation",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/61",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T14:29:37Z",
+      "mergedAt": "2025-06-16T17:18:39Z",
+      "author": "Aksh-Agrawal",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 63,
+      "title": "feat: add How It Works section with smooth scroll and icons",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/63",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T16:42:02Z",
+      "mergedAt": "2025-06-16T17:15:21Z",
+      "author": "MANASA-NUKALA",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 67,
+      "title": "Bug Fix",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/67",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T05:55:06Z",
+      "mergedAt": "2025-06-17T12:40:13Z",
+      "author": "vivekd16",
+      "labels": [
         "SSoC25",
         "Beginner"
       ],
@@ -7289,6 +7513,86 @@ var prs = {
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
+      "number": 72,
+      "title": "Implement Google Authentication (GAuth) in Login/Signup Page",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/72",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T13:08:32Z",
+      "mergedAt": "2025-06-18T14:50:51Z",
+      "author": "Ujjwal-Singh-20",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 73,
+      "title": "Add CI workflow for Python linting and React build",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/73",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T15:41:54Z",
+      "mergedAt": "2025-06-18T18:07:26Z",
+      "author": "sneha842",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 74,
+      "title": "Sub-Issue: Convert Feature Selection Notebook to Python Module (#55)",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/74",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T17:38:46Z",
+      "mergedAt": "2025-06-18T18:03:36Z",
+      "author": "Asterioxer",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 82,
+      "title": "Convert PCA Notebook to Python Module in /autoeda",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/82",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T15:32:16Z",
+      "mergedAt": "2025-06-21T15:19:03Z",
+      "author": "Ujjwal-Singh-20",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 84,
+      "title": "Added Python Module for Feature Scaling",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/84",
+      "state": "MERGED",
+      "createdAt": "2025-06-19T18:14:42Z",
+      "mergedAt": "2025-06-23T07:17:38Z",
+      "author": "Apurba-01",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
       "number": 86,
       "title": "Feat/contact us route",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/86",
@@ -7302,6 +7606,86 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 87,
+      "title": "Logo+",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/87",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T12:42:46Z",
+      "mergedAt": "2025-06-20T12:45:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 89,
+      "title": "Readme Update",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/89",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T12:55:21Z",
+      "mergedAt": "2025-06-21T14:43:34Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 90,
+      "title": "Task #76: Added PCA notebook and saved transformed output",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/90",
+      "state": "MERGED",
+      "createdAt": "2025-06-20T17:59:15Z",
+      "mergedAt": "2025-06-21T14:50:22Z",
+      "author": "VEDAPRIYAMUTYAM",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 92,
+      "title": "Add modular null handler and runner script for AutoEDA backend",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/92",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T08:09:22Z",
+      "mergedAt": "2025-06-22T16:59:54Z",
+      "author": "Tirumalashreya",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 93,
+      "title": "Convert Datatype optimization notebook logic into python module (#52)",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/93",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T08:09:45Z",
+      "mergedAt": "2025-06-21T14:55:09Z",
+      "author": "Asterioxer",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
@@ -7319,6 +7703,167 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 99,
+      "title": "Add null handler log",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/99",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T16:13:22Z",
+      "mergedAt": "2025-06-22T16:59:53Z",
+      "author": "Tirumalashreya",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 100,
+      "title": "Feature/add pca tests",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/100",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T16:40:42Z",
+      "mergedAt": "2025-06-22T17:06:23Z",
+      "author": "Tirumalashreya",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 101,
+      "title": "ML: Convert Data Optimization Notebook to Reusable Python Module",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/101",
+      "state": "MERGED",
+      "createdAt": "2025-06-21T21:54:09Z",
+      "mergedAt": "2025-06-22T17:02:45Z",
+      "author": "Asterioxer",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 102,
+      "title": "ScrollWithRocket",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/102",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T08:39:36Z",
+      "mergedAt": "2025-06-22T17:01:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 103,
+      "title": "Refactored encoding_categorical_data.ipynb into reusable encoding module",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/103",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T09:23:57Z",
+      "mergedAt": "2025-06-25T08:10:09Z",
+      "author": "Surbhiiiiiii",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 104,
+      "title": "ML Integration: Implemented Summary Stats into Backend API and Fronte…",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/104",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T17:26:33Z",
+      "mergedAt": "2025-06-23T07:16:09Z",
+      "author": "Ujjwal-Singh-20",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 106,
+      "title": "Sub-Issue: Integrate PCA Module into /autoeda/pipeline (#78)",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/106",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T12:54:13Z",
+      "mergedAt": "2025-06-25T08:07:21Z",
+      "author": "Asterioxer",
+      "labels": [
+        "duplicate",
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 108,
+      "title": "Created Contact Form: Dark/Light Mode Support + Emerald Theme #3",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/108",
+      "state": "MERGED",
+      "createdAt": "2025-06-24T17:25:09Z",
+      "mergedAt": "2025-06-25T08:02:35Z",
+      "author": "Sub-codes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 111,
+      "title": "Fixes #95",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/111",
+      "state": "MERGED",
+      "createdAt": "2025-06-26T17:11:25Z",
+      "mergedAt": "2025-07-03T11:06:59Z",
+      "author": "Sparsh2105",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
+    },
+    {
+      "number": 112,
+      "title": "Added unit tests for encoding_categorical.py",
+      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/112",
+      "state": "MERGED",
+      "createdAt": "2025-06-27T01:04:03Z",
+      "mergedAt": "2025-07-03T11:05:42Z",
+      "author": "Tirumalashreya",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
@@ -9592,6 +10137,70 @@ var prs = {
       "createdAt": "2025-08-07T17:48:14Z",
       "mergedAt": "2025-08-07T18:06:05Z",
       "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 403,
+      "title": "MathWhiz: AI-Powered Expression Generator & Step-by-Step Solver",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/403",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T05:52:33Z",
+      "mergedAt": "2025-08-08T09:01:12Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 406,
+      "title": "Added MultiLingualToxicShield: Multilingual Toxic/NSFW Content Detection SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/406",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T11:42:47Z",
+      "mergedAt": "2025-08-08T17:20:19Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 409,
+      "title": "Implement Heuristic Scoring Framework for LLM Response Quality Evaluation SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/409",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T13:46:52Z",
+      "mergedAt": "2025-08-08T17:21:08Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 411,
+      "title": "Prompt Topic Classifier Using NLP Techniques",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/411",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T13:58:32Z",
+      "mergedAt": "2025-08-08T17:22:34Z",
+      "author": "giriraj-roy-7723",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -14437,6 +15046,24 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-05T09:12:19Z",
       "mergedAt": "2025-08-05T09:15:43Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 543,
+      "title": "more category added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/543",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T12:58:41Z",
+      "mergedAt": "2025-08-08T15:07:47Z",
       "author": "dinesh-2047",
       "labels": [
         "SSoC25",
@@ -19843,6 +20470,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 508,
+      "title": "Resolved Issue #505 : removed the image",
+      "url": "https://github.com/HarshS16/Civix/pull/508",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T06:29:59Z",
+      "mergedAt": "2025-08-08T13:20:19Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 511,
+      "title": "Improved UI of Admin dashboard Page",
+      "url": "https://github.com/HarshS16/Civix/pull/511",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T08:35:57Z",
+      "mergedAt": "2025-08-08T13:23:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -23345,6 +24004,24 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-05T09:12:19Z",
       "mergedAt": "2025-08-05T09:15:43Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 543,
+      "title": "more category added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/543",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T12:58:41Z",
+      "mergedAt": "2025-08-08T15:07:47Z",
       "author": "dinesh-2047",
       "labels": [
         "SSoC25",
