@@ -6987,6 +6987,22 @@ var prs = {
       "project": "k0msenapati/study-sphere"
     },
     {
+      "number": 167,
+      "title": "Add study area",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/167",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T21:22:04Z",
+      "mergedAt": "2025-08-09T04:57:01Z",
+      "author": "amaansyed27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
       "number": 169,
       "title": "Google recaptcha",
       "url": "https://github.com/k0msenapati/study-sphere/pull/169",
@@ -7025,6 +7041,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-06T18:25:29Z",
       "mergedAt": "2025-08-07T14:42:16Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "k0msenapati/study-sphere"
+    },
+    {
+      "number": 175,
+      "title": "Resized all cards in The Learning Crisis to same height",
+      "url": "https://github.com/k0msenapati/study-sphere/pull/175",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T15:11:21Z",
+      "mergedAt": "2025-08-09T04:58:17Z",
       "author": "VJLIVE",
       "labels": [
         "Beginner",
@@ -20502,6 +20534,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 517,
+      "title": "Location feature added in Report Issue  page",
+      "url": "https://github.com/HarshS16/Civix/pull/517",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T18:12:34Z",
+      "mergedAt": "2025-08-09T08:20:16Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 522,
+      "title": "Tax Impact Calculator Page added",
+      "url": "https://github.com/HarshS16/Civix/pull/522",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T17:32:30Z",
+      "mergedAt": "2025-08-09T17:37:35Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -22232,6 +22296,23 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 373,
+      "title": "FEATURE : add event btn",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/373",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T12:13:29Z",
+      "mergedAt": "2025-08-09T08:24:01Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSOC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Bhavya1352/eventmappr"
     },
     {
