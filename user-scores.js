@@ -7321,11 +7321,11 @@ var userScores = {
       }
     },
     "Sohi07": {
-      "totalScore": 200,
+      "totalScore": 220,
       "bonusScore": 100,
-      "prCount": 4,
+      "prCount": 5,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 3,
         "Intermediate": 2,
         "Advanced": 0
       }

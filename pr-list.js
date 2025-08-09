@@ -16918,6 +16918,22 @@ var prs = {
       "project": "venuchander/fintrack"
     },
     {
+      "number": 91,
+      "title": "Added mobile responsiveness to the income page",
+      "url": "https://github.com/Venuchander/fintrack/pull/91",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T21:16:24Z",
+      "mergedAt": "2025-08-09T20:31:31Z",
+      "author": "Sohi07",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
       "number": 28,
       "title": "ISSUE NUMBER:24   feat(theme): add global dark/light mode toggle across all UI pages",
       "url": "https://github.com/sailaja-adapa/Vipreshana/pull/28",
