@@ -271,11 +271,11 @@ var userScores = {
       }
     },
     "Neha-Singh-j": {
-      "totalScore": 140,
+      "totalScore": 180,
       "bonusScore": 100,
-      "prCount": 2,
+      "prCount": 4,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 4,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -1141,12 +1141,12 @@ var userScores = {
       }
     },
     "Bavanetha27": {
-      "totalScore": 390,
+      "totalScore": 420,
       "bonusScore": 100,
-      "prCount": 9,
+      "prCount": 10,
       "prsByLevel": {
         "Beginner": 2,
-        "Intermediate": 3,
+        "Intermediate": 4,
         "Advanced": 4
       }
     },
@@ -5461,12 +5461,12 @@ var userScores = {
       }
     },
     "tanu91112": {
-      "totalScore": 740,
+      "totalScore": 800,
       "bonusScore": 100,
-      "prCount": 22,
+      "prCount": 24,
       "prsByLevel": {
         "Beginner": 9,
-        "Intermediate": 6,
+        "Intermediate": 8,
         "Advanced": 7
       }
     },
@@ -7041,13 +7041,13 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 1600,
+      "totalScore": 2180,
       "bonusScore": 100,
-      "prCount": 61,
+      "prCount": 84,
       "prsByLevel": {
-        "Beginner": 43,
-        "Intermediate": 8,
-        "Advanced": 10
+        "Beginner": 55,
+        "Intermediate": 18,
+        "Advanced": 11
       }
     },
     "ErNehasharma": {
@@ -8221,11 +8221,11 @@ var userScores = {
       }
     },
     "Sejal-collection": {
-      "totalScore": 280,
+      "totalScore": 320,
       "bonusScore": 100,
-      "prCount": 7,
+      "prCount": 9,
       "prsByLevel": {
-        "Beginner": 4,
+        "Beginner": 6,
         "Intermediate": 2,
         "Advanced": 1
       }
@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 2070,
+      "totalScore": 2150,
       "bonusScore": 100,
-      "prCount": 60,
+      "prCount": 62,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 17
+        "Advanced": 19
       }
     },
     "Aagam230": {
@@ -10111,12 +10111,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 2470,
+      "totalScore": 2500,
       "bonusScore": 100,
-      "prCount": 67,
+      "prCount": 68,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 15,
+        "Intermediate": 16,
         "Advanced": 44
       }
     },
@@ -10421,13 +10421,13 @@ var userScores = {
       }
     },
     "Sayan-206": {
-      "totalScore": 520,
+      "totalScore": 560,
       "bonusScore": 100,
-      "prCount": 11,
+      "prCount": 12,
       "prsByLevel": {
         "Beginner": 1,
         "Intermediate": 0,
-        "Advanced": 10
+        "Advanced": 11
       }
     },
     "vithula30": {

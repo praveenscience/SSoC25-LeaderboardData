@@ -290,6 +290,22 @@ var prs = {
       "project": "mryashsinghal/Resume-Builder"
     },
     {
+      "number": 145,
+      "title": "Add Responsive Contact Page with Formspree Integration",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/145",
+      "state": "MERGED",
+      "createdAt": "2025-08-04T09:25:09Z",
+      "mergedAt": "2025-08-10T14:19:15Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
       "number": 352,
       "title": "Added social media links to Contact Us page",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/352",
@@ -10242,6 +10258,38 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 416,
+      "title": "Implement Influencer Campaign ROI Predictor with Full Preprocessing & Prediction Pipeline SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/416",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T16:29:22Z",
+      "mergedAt": "2025-08-10T07:42:06Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 418,
+      "title": "Add Drug Discovery Virtual Screening Compound Activity Classifier SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/418",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T16:49:00Z",
+      "mergedAt": "2025-08-10T07:42:51Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -13762,6 +13810,38 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 849,
+      "title": "Added 24 PYQs for EE branch of HITK",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/849",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T19:40:53Z",
+      "mergedAt": "2025-08-10T06:10:03Z",
+      "author": "Sayan-206",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 850,
+      "title": "PYQ+",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/850",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T03:41:41Z",
+      "mergedAt": "2025-08-10T06:11:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -15090,6 +15170,22 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 528,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/528",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T13:44:35Z",
+      "mergedAt": "2025-08-10T07:29:47Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 543,
       "title": "more category added ",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/543",
@@ -15105,6 +15201,216 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 561,
+      "title": "BattleShip Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/561",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T13:29:27Z",
+      "mergedAt": "2025-08-10T07:36:49Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 562,
+      "title": "Helicopter Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/562",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T13:47:32Z",
+      "mergedAt": "2025-08-10T07:37:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 563,
+      "title": "Robo Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/563",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T13:59:52Z",
+      "mergedAt": "2025-08-10T07:58:15Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 576,
+      "title": "Readme update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/576",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T05:51:25Z",
+      "mergedAt": "2025-08-10T07:53:23Z",
+      "author": "Sejal-collection",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 577,
+      "title": "Issue 131 solved",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/577",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:10:36Z",
+      "mergedAt": "2025-08-10T07:55:32Z",
+      "author": "Neha-Singh-j",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 578,
+      "title": "Solitaire Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/578",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:12:09Z",
+      "mergedAt": "2025-08-10T07:59:10Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 579,
+      "title": "Door Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/579",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:22:02Z",
+      "mergedAt": "2025-08-10T08:00:25Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 580,
+      "title": "Roast Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/580",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:29:45Z",
+      "mergedAt": "2025-08-10T08:01:16Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 581,
+      "title": "Compliment Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/581",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:40:21Z",
+      "mergedAt": "2025-08-10T08:02:03Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 588,
+      "title": "PickUp Line Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/588",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T03:54:55Z",
+      "mergedAt": "2025-08-10T08:03:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 589,
+      "title": "Hero Identity Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/589",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T04:03:55Z",
+      "mergedAt": "2025-08-10T08:04:53Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 590,
+      "title": "Mystry Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/590",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T04:13:54Z",
+      "mergedAt": "2025-08-10T08:05:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 594,
+      "title": "ADDED  Fitness Tracker #425",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/594",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T08:01:29Z",
+      "mergedAt": "2025-08-10T08:08:21Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -20582,6 +20888,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 524,
+      "title": "Repersentative Finder Page added",
+      "url": "https://github.com/HarshS16/Civix/pull/524",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T09:34:43Z",
+      "mergedAt": "2025-08-10T13:00:03Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -24113,6 +24435,22 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 528,
+      "title": "Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/528",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T13:44:35Z",
+      "mergedAt": "2025-08-10T07:29:47Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 543,
       "title": "more category added ",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/543",
@@ -24128,6 +24466,216 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 561,
+      "title": "BattleShip Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/561",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T13:29:27Z",
+      "mergedAt": "2025-08-10T07:36:49Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 562,
+      "title": "Helicopter Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/562",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T13:47:32Z",
+      "mergedAt": "2025-08-10T07:37:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 563,
+      "title": "Robo Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/563",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T13:59:52Z",
+      "mergedAt": "2025-08-10T07:58:15Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 576,
+      "title": "Readme update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/576",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T05:51:25Z",
+      "mergedAt": "2025-08-10T07:53:23Z",
+      "author": "Sejal-collection",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 577,
+      "title": "Issue 131 solved",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/577",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:10:36Z",
+      "mergedAt": "2025-08-10T07:55:32Z",
+      "author": "Neha-Singh-j",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 578,
+      "title": "Solitaire Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/578",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:12:09Z",
+      "mergedAt": "2025-08-10T07:59:10Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 579,
+      "title": "Door Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/579",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:22:02Z",
+      "mergedAt": "2025-08-10T08:00:25Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 580,
+      "title": "Roast Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/580",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:29:45Z",
+      "mergedAt": "2025-08-10T08:01:16Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 581,
+      "title": "Compliment Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/581",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T14:40:21Z",
+      "mergedAt": "2025-08-10T08:02:03Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 588,
+      "title": "PickUp Line Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/588",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T03:54:55Z",
+      "mergedAt": "2025-08-10T08:03:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 589,
+      "title": "Hero Identity Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/589",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T04:03:55Z",
+      "mergedAt": "2025-08-10T08:04:53Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 590,
+      "title": "Mystry Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/590",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T04:13:54Z",
+      "mergedAt": "2025-08-10T08:05:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 594,
+      "title": "ADDED  Fitness Tracker #425",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/594",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T08:01:29Z",
+      "mergedAt": "2025-08-10T08:08:21Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
