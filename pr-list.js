@@ -13874,6 +13874,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 852,
+      "title": "Added Delhi-University PYQs for CS till 4th Semester",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/852",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T14:37:38Z",
+      "mergedAt": "2025-08-10T18:41:01Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -18282,6 +18298,22 @@ var prs = {
       "project": "sailaja-adapa/Vipreshana"
     },
     {
+      "number": 262,
+      "title": "removed extra dark mode toggle button from forgotpassword page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/262",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T09:03:42Z",
+      "mergedAt": "2025-08-11T15:34:00Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
       "number": 7,
       "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
       "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
@@ -20926,6 +20958,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-10T09:34:43Z",
       "mergedAt": "2025-08-10T13:00:03Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 530,
+      "title": "Download pdf option added in Report Issue.",
+      "url": "https://github.com/HarshS16/Civix/pull/530",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T13:52:47Z",
+      "mergedAt": "2025-08-11T15:41:31Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
