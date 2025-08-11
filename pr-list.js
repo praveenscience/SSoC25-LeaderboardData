@@ -1569,6 +1569,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 600,
+      "title": "Implementation of Real-Time News Feature Using NewsAPI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/600",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T14:48:24Z",
+      "mergedAt": "2025-08-09T14:25:16Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 611,
       "title": "Bug Fix",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/611",
