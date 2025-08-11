@@ -351,11 +351,11 @@ var userScores = {
       }
     },
     "HimanshuKabra01": {
-      "totalScore": 1220,
+      "totalScore": 1240,
       "bonusScore": 100,
-      "prCount": 50,
+      "prCount": 51,
       "prsByLevel": {
-        "Beginner": 39,
+        "Beginner": 40,
         "Intermediate": 10,
         "Advanced": 1
       }
@@ -4051,13 +4051,13 @@ var userScores = {
       }
     },
     "Shoury-Rana": {
-      "totalScore": 260,
+      "totalScore": 300,
       "bonusScore": 100,
-      "prCount": 5,
+      "prCount": 6,
       "prsByLevel": {
         "Beginner": 1,
         "Intermediate": 2,
-        "Advanced": 2
+        "Advanced": 3
       }
     },
     "HarshitaDeewan9": {

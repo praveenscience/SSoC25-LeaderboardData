@@ -1569,6 +1569,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 611,
+      "title": "Bug Fix",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/611",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T08:23:22Z",
+      "mergedAt": "2025-08-11T03:15:41Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -21168,6 +21184,23 @@ var prs = {
       "mergedAt": "2025-06-28T05:54:12Z",
       "author": "pkbros",
       "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Kirti-Rathi/PromptShell"
+    },
+    {
+      "number": 82,
+      "title": "Added themes ",
+      "url": "https://github.com/Kirti-Rathi/PromptShell/pull/82",
+      "state": "MERGED",
+      "createdAt": "2025-08-02T19:08:37Z",
+      "mergedAt": "2025-08-10T20:32:58Z",
+      "author": "Shoury-Rana",
+      "labels": [
+        "enhancement",
         "Advanced",
         "SSoC25"
       ],
