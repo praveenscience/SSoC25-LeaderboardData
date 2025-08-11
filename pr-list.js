@@ -10066,6 +10066,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 390,
+      "title": "Added MacroShield: Country Risk Scoring Model Using Macroeconomic Indicators SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/390",
+      "state": "MERGED",
+      "createdAt": "2025-08-06T15:53:27Z",
+      "mergedAt": "2025-08-06T18:06:54Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 391,
       "title": "Pull request of Advanced Visualizations",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/391",
@@ -10312,6 +10328,38 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-09T16:49:00Z",
       "mergedAt": "2025-08-10T07:42:51Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 425,
+      "title": "\"FutureSight\" — End-to-End Crypto Forecasting Pipeline SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/425",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T15:41:47Z",
+      "mergedAt": "2025-08-11T17:30:57Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 427,
+      "title": "Added AI Market Mood Classifier with Trend + Volatility Detection SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/427",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T16:18:23Z",
+      "mergedAt": "2025-08-11T17:31:22Z",
       "author": "giriraj-roy-7723",
       "labels": [
         "SSoC25",

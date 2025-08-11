@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 2150,
+      "totalScore": 2270,
       "bonusScore": 100,
-      "prCount": 62,
+      "prCount": 65,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 19
+        "Advanced": 22
       }
     },
     "Aagam230": {
