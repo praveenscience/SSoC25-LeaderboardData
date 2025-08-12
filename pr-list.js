@@ -11474,6 +11474,54 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 428,
+      "title": "Pull Request of Tensorflow.js Demo",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/428",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T19:12:32Z",
+      "mergedAt": "2025-08-12T04:07:10Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 429,
+      "title": "Pull request of Sentiment Analysis for depression based on social med…",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/429",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T19:20:28Z",
+      "mergedAt": "2025-08-12T04:08:38Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 431,
+      "title": "Pull Request of Content based recommendation system",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/431",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T19:41:54Z",
+      "mergedAt": "2025-08-12T04:10:09Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -22133,6 +22181,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 533,
+      "title": "Voting page is now functional",
+      "url": "https://github.com/HarshS16/Civix/pull/533",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T16:07:09Z",
+      "mergedAt": "2025-08-12T08:02:05Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "HarshS16/Civix"
     },
     {
