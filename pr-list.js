@@ -22024,6 +22024,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 491,
+      "title": "Resolved Issue #482: corrected the redirect issue and hover css on it",
+      "url": "https://github.com/HarshS16/Civix/pull/491",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T03:04:46Z",
+      "mergedAt": "2025-08-07T07:03:47Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 492,
+      "title": "Resolved Issue #483: Bug/contributors redirect",
+      "url": "https://github.com/HarshS16/Civix/pull/492",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T03:25:49Z",
+      "mergedAt": "2025-08-07T07:04:45Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 495,
       "title": "Chatroom Added",
       "url": "https://github.com/HarshS16/Civix/pull/495",
@@ -22191,6 +22223,22 @@ var prs = {
       "createdAt": "2025-08-11T16:07:09Z",
       "mergedAt": "2025-08-12T08:02:05Z",
       "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 540,
+      "title": "New Chatbot with enhanced Functionality and style Updated",
+      "url": "https://github.com/HarshS16/Civix/pull/540",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T09:02:49Z",
+      "mergedAt": "2025-08-12T09:04:24Z",
+      "author": "Bavanetha27",
       "labels": [
         "SSoC25",
         "Advanced"

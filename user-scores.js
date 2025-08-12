@@ -1141,13 +1141,13 @@ var userScores = {
       }
     },
     "Bavanetha27": {
-      "totalScore": 420,
+      "totalScore": 460,
       "bonusScore": 100,
-      "prCount": 10,
+      "prCount": 11,
       "prsByLevel": {
         "Beginner": 2,
         "Intermediate": 4,
-        "Advanced": 4
+        "Advanced": 5
       }
     },
     "ChinmayaBiswal7": {
@@ -3701,11 +3701,11 @@ var userScores = {
       }
     },
     "MaulikGupta27": {
-      "totalScore": 800,
+      "totalScore": 840,
       "bonusScore": 100,
-      "prCount": 32,
+      "prCount": 34,
       "prsByLevel": {
-        "Beginner": 27,
+        "Beginner": 29,
         "Intermediate": 4,
         "Advanced": 1
       }
