@@ -1141,11 +1141,11 @@ var userScores = {
       }
     },
     "Bavanetha27": {
-      "totalScore": 460,
+      "totalScore": 480,
       "bonusScore": 100,
-      "prCount": 11,
+      "prCount": 12,
       "prsByLevel": {
-        "Beginner": 2,
+        "Beginner": 3,
         "Intermediate": 4,
         "Advanced": 5
       }
@@ -10111,13 +10111,13 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 2740,
+      "totalScore": 2780,
       "bonusScore": 100,
-      "prCount": 75,
+      "prCount": 76,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 20,
-        "Advanced": 47
+        "Advanced": 48
       }
     },
     "Arihant-Bhandari": {

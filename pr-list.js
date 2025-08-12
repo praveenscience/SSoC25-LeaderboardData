@@ -22729,6 +22729,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 543,
+      "title": "Enhancement of Voting System",
+      "url": "https://github.com/HarshS16/Civix/pull/543",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T12:20:47Z",
+      "mergedAt": "2025-08-12T17:56:34Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 544,
+      "title": "About Page UI Enhanced",
+      "url": "https://github.com/HarshS16/Civix/pull/544",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T15:59:22Z",
+      "mergedAt": "2025-08-12T20:52:31Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
