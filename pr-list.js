@@ -1601,6 +1601,54 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 621,
+      "title": "Profile Page UI Updated",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/621",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T05:45:05Z",
+      "mergedAt": "2025-08-12T12:34:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 622,
+      "title": "Improved Navbar design",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/622",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T08:34:32Z",
+      "mergedAt": "2025-08-12T12:38:00Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 623,
+      "title": "Post Modal Now have Modern UI",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/623",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T09:43:57Z",
+      "mergedAt": "2025-08-12T12:40:09Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -7547,6 +7595,86 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
+      "number": 363,
+      "title": "Resolved Issue #362: added the privacy policy page",
+      "url": "https://github.com/divi-24/SheSync/pull/363",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T12:59:02Z",
+      "mergedAt": "2025-08-12T13:15:02Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 366,
+      "title": "Resolved Issue #364: added the terms of service page and corrected **",
+      "url": "https://github.com/divi-24/SheSync/pull/366",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T13:26:20Z",
+      "mergedAt": "2025-08-12T13:53:07Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 367,
+      "title": "Resolved Issue #365: Create/cookie policy",
+      "url": "https://github.com/divi-24/SheSync/pull/367",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T13:38:51Z",
+      "mergedAt": "2025-08-12T14:00:22Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 370,
+      "title": "Resolved Issue #368: Update/footer connect",
+      "url": "https://github.com/divi-24/SheSync/pull/370",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:35:03Z",
+      "mergedAt": "2025-08-12T17:12:40Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 372,
+      "title": "Resolved Issue #371: updated company column of the footer and created About Us page also",
+      "url": "https://github.com/divi-24/SheSync/pull/372",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T17:27:04Z",
+      "mergedAt": "2025-08-12T17:45:26Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 21,
       "title": "docs(contributing): add CONTRIBUTING.md and DEVELOPMENT.md for commun…",
       "url": "https://github.com/k0msenapati/study-sphere/pull/21",
@@ -11522,6 +11650,294 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 432,
+      "title": "Pull request of Number of People counter",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/432",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T19:49:59Z",
+      "mergedAt": "2025-08-12T17:06:19Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 434,
+      "title": "Added AI-Driven Stock Impact Predictor SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/434",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T06:14:38Z",
+      "mergedAt": "2025-08-12T17:00:19Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 440,
+      "title": "SSOC: MemoAI: Adaptive Memory Card Game Powered by Player Behavior",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/440",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T13:15:35Z",
+      "mergedAt": "2025-08-12T17:01:36Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 441,
+      "title": "SSOC: KeyAuthAI: Keystroke Dynamics-Based User Authentication",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/441",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T13:17:02Z",
+      "mergedAt": "2025-08-12T17:00:55Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 442,
+      "title": "SSOC: MoodMeet: AI-Powered Meeting Mood Analyzer",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/442",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T13:18:23Z",
+      "mergedAt": "2025-08-12T17:02:12Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 443,
+      "title": "SSOC: PassClass: AI-Powered Password Strength Classifier",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/443",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T13:19:52Z",
+      "mergedAt": "2025-08-12T17:02:52Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 445,
+      "title": "SSoC 25: Heart Disease Prediction (LogisticRegression, DecisionTree, RandomForest) : issue #293 ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/445",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T14:28:33Z",
+      "mergedAt": "2025-08-12T17:07:36Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 448,
+      "title": "Pull Request of Titanic Assignment Logistic Regression",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/448",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:28:15Z",
+      "mergedAt": "2025-08-12T16:56:14Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 449,
+      "title": "Pull Request of car data analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/449",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:31:38Z",
+      "mergedAt": "2025-08-12T16:57:38Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 450,
+      "title": "Pull Request of Movie review analysis using NLP",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/450",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:35:06Z",
+      "mergedAt": "2025-08-12T16:56:40Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 451,
+      "title": "Pull request of gradient descent for 2d data",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/451",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:37:46Z",
+      "mergedAt": "2025-08-12T16:57:08Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 452,
+      "title": "Pull Request of Basics with Numpy",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/452",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:40:41Z",
+      "mergedAt": "2025-08-12T16:58:11Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 457,
+      "title": "SSOC: AI Habit Tracker with Pattern Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/457",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:59:32Z",
+      "mergedAt": "2025-08-12T17:03:34Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 458,
+      "title": "Pull request of Power BI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/458",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T16:59:49Z",
+      "mergedAt": "2025-08-12T17:04:11Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 459,
+      "title": "SSOC25: Accent Strength Estimator",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/459",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T17:02:01Z",
+      "mergedAt": "2025-08-12T17:04:38Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 460,
+      "title": "FlashGenie: AI Flashcard Generator from PDFs",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/460",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T17:04:45Z",
+      "mergedAt": "2025-08-12T17:05:13Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 461,
+      "title": "Pull Request of Financial Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/461",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T17:04:56Z",
+      "mergedAt": "2025-08-12T17:05:43Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 462,
+      "title": "Pull Request of NLP Password",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/462",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T17:10:09Z",
+      "mergedAt": "2025-08-12T17:10:25Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -15026,6 +15442,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 846,
+      "title": "Adding Delhi University PYQs",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/846",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T11:22:34Z",
+      "mergedAt": "2025-08-07T14:43:36Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 847,
       "title": "Add rules",
       "url": "https://github.com/Saumy1905/PYQFort/pull/847",
@@ -15087,6 +15519,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 854,
+      "title": "PYQ+",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/854",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T12:31:58Z",
+      "mergedAt": "2025-08-12T13:16:25Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Saumy1905/PYQFort"
     },
     {
@@ -15603,6 +16051,23 @@ var prs = {
       "createdAt": "2025-08-05T20:31:34Z",
       "mergedAt": "2025-08-06T05:37:00Z",
       "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 254,
+      "title": "Resolved Issue #221: Bug/cart items rem",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/254",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T06:36:41Z",
+      "mergedAt": "2025-08-12T14:06:17Z",
+      "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
         "Beginner",
@@ -22245,6 +22710,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 542,
+      "title": "Improved UI of navbar",
+      "url": "https://github.com/HarshS16/Civix/pull/542",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T11:38:03Z",
+      "mergedAt": "2025-08-12T12:35:26Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "HarshS16/Civix"
     },
     {
