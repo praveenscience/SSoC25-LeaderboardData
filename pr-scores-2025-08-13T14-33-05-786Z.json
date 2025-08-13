@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-08-13T09:33:46.127Z",
+  "timestamp": "2025-08-13T14:32:38.741Z",
   "summary": {
-    "totalPRs": 1658,
-    "totalPoints": 71750,
+    "totalPRs": 1663,
+    "totalPoints": 71940,
     "totalBonusPoints": 25600
   },
   "users": {
@@ -3707,13 +3707,13 @@
       }
     },
     "MaulikGupta27": {
-      "totalScore": 1060,
+      "totalScore": 1180,
       "bonusScore": 100,
-      "prCount": 40,
+      "prCount": 43,
       "prsByLevel": {
         "Beginner": 30,
         "Intermediate": 4,
-        "Advanced": 6
+        "Advanced": 9
       }
     },
     "PalakSinha2505": {
@@ -10117,13 +10117,13 @@
       }
     },
     "TanmayKalra09": {
-      "totalScore": 2820,
+      "totalScore": 2890,
       "bonusScore": 100,
-      "prCount": 77,
+      "prCount": 79,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 20,
-        "Advanced": 49
+        "Intermediate": 21,
+        "Advanced": 50
       }
     },
     "Arihant-Bhandari": {
@@ -17717,7 +17717,7 @@
       }
     },
     "SumitGorai01/TechieBlog": {
-      "totalPRs": 81,
+      "totalPRs": 83,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -18730,7 +18730,7 @@
         "cybersword1001": 0,
         "Santoshi-2k24": 0,
         "Neha-28-fluff": 0,
-        "TanmayKalra09": 26,
+        "TanmayKalra09": 28,
         "Arihant-Bhandari": 0,
         "Muneerali199": 0,
         "Sim2739": 0,
@@ -24547,7 +24547,7 @@
       }
     },
     "divi-24/SheSync": {
-      "totalPRs": 74,
+      "totalPRs": 77,
       "prsByUser": {
         "72897": 0,
         "198737": 0,
@@ -24919,7 +24919,7 @@
         "sohumvenkatadri7": 0,
         "codertanya03": 0,
         "Soumyosish": 0,
-        "MaulikGupta27": 20,
+        "MaulikGupta27": 23,
         "PalakSinha2505": 0,
         "bhartiamulya": 0,
         "aashutoshkumarbhardwaj": 0,
@@ -57615,6 +57615,38 @@
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 630,
+      "title": "Post-login Dashboard redesigned",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/630",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T11:00:29Z",
+      "mergedAt": "2025-08-13T14:18:06Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 631,
+      "title": "Redesigned the All post page with glassmorphism.",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/631",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T12:24:06Z",
+      "mergedAt": "2025-08-13T14:18:40Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -63631,6 +63663,54 @@
       "state": "MERGED",
       "createdAt": "2025-08-12T17:27:04Z",
       "mergedAt": "2025-08-12T17:45:26Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 376,
+      "title": "Resolved Issue #375: removed the line TEAM: WEB PIONEERS",
+      "url": "https://github.com/divi-24/SheSync/pull/376",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T07:42:40Z",
+      "mergedAt": "2025-08-13T10:41:49Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 378,
+      "title": "Resolved Issue #377: Create/help center page",
+      "url": "https://github.com/divi-24/SheSync/pull/378",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T08:15:02Z",
+      "mergedAt": "2025-08-13T10:44:37Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 380,
+      "title": "Resolved Issue #Create/community page",
+      "url": "https://github.com/divi-24/SheSync/pull/380",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T08:32:10Z",
+      "mergedAt": "2025-08-13T10:47:31Z",
       "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
@@ -83307,7 +83387,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.587Z"
+            "awardedAt": "2025-08-13T14:33:05.742Z"
           }
         ]
       },
@@ -83317,7 +83397,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.587Z"
+            "awardedAt": "2025-08-13T14:33:05.742Z"
           }
         ]
       },
@@ -83327,7 +83407,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.587Z"
+            "awardedAt": "2025-08-13T14:33:05.742Z"
           }
         ]
       },
@@ -83337,7 +83417,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.587Z"
+            "awardedAt": "2025-08-13T14:33:05.742Z"
           }
         ]
       },
@@ -83347,7 +83427,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83357,7 +83437,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83367,7 +83447,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83377,7 +83457,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83387,7 +83467,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83397,7 +83477,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83407,7 +83487,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83417,7 +83497,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83427,7 +83507,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83437,7 +83517,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83447,7 +83527,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83457,7 +83537,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83467,7 +83547,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83477,7 +83557,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83487,7 +83567,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83497,7 +83577,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83507,7 +83587,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83517,7 +83597,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83527,7 +83607,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83537,7 +83617,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83547,7 +83627,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83557,7 +83637,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83567,7 +83647,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83577,7 +83657,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83587,7 +83667,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83597,7 +83677,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.588Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83607,7 +83687,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.743Z"
           }
         ]
       },
@@ -83617,7 +83697,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83627,7 +83707,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83637,7 +83717,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83647,7 +83727,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83657,7 +83737,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83667,7 +83747,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83677,7 +83757,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83687,7 +83767,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83697,7 +83777,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83707,7 +83787,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83717,7 +83797,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83727,7 +83807,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.589Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83737,7 +83817,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83747,7 +83827,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83757,7 +83837,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83767,7 +83847,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83777,7 +83857,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83787,7 +83867,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83797,7 +83877,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83807,7 +83887,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83817,7 +83897,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83827,7 +83907,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83837,7 +83917,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83847,7 +83927,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83857,7 +83937,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.590Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83867,7 +83947,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83877,7 +83957,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83887,7 +83967,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83897,7 +83977,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83907,7 +83987,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83917,7 +83997,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83927,7 +84007,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83937,7 +84017,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83947,7 +84027,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83957,7 +84037,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.744Z"
           }
         ]
       },
@@ -83967,7 +84047,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.745Z"
           }
         ]
       },
@@ -83977,7 +84057,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.745Z"
           }
         ]
       },
@@ -83987,7 +84067,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.745Z"
           }
         ]
       },
@@ -83997,7 +84077,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.745Z"
           }
         ]
       },
@@ -84007,7 +84087,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.745Z"
           }
         ]
       },
@@ -84017,7 +84097,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84027,7 +84107,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84037,7 +84117,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84047,7 +84127,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84057,7 +84137,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84067,7 +84147,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84077,7 +84157,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84087,7 +84167,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84097,7 +84177,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84107,7 +84187,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84117,7 +84197,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84127,7 +84207,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84137,7 +84217,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84147,7 +84227,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84157,7 +84237,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84167,7 +84247,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84177,7 +84257,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84187,7 +84267,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84197,7 +84277,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84207,7 +84287,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.591Z"
+            "awardedAt": "2025-08-13T14:33:05.746Z"
           }
         ]
       },
@@ -84217,7 +84297,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84227,7 +84307,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84237,7 +84317,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84247,7 +84327,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84257,7 +84337,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84267,7 +84347,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84277,7 +84357,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84287,7 +84367,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84297,7 +84377,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84307,7 +84387,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84317,7 +84397,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84327,7 +84407,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84337,7 +84417,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84347,7 +84427,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84357,7 +84437,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84367,7 +84447,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84377,7 +84457,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84387,7 +84467,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84397,7 +84477,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84407,7 +84487,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84417,7 +84497,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84427,7 +84507,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84437,7 +84517,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84447,7 +84527,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84457,7 +84537,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84467,7 +84547,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84477,7 +84557,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84487,7 +84567,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84497,7 +84577,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84507,7 +84587,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84517,7 +84597,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84527,7 +84607,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.747Z"
           }
         ]
       },
@@ -84537,7 +84617,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84547,7 +84627,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84557,7 +84637,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84567,7 +84647,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84577,7 +84657,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84587,7 +84667,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84597,7 +84677,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84607,7 +84687,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84617,7 +84697,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84627,7 +84707,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.592Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84637,7 +84717,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84647,7 +84727,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84657,7 +84737,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84667,7 +84747,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84677,7 +84757,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84687,7 +84767,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84697,7 +84777,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84707,7 +84787,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84717,7 +84797,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84727,7 +84807,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84737,7 +84817,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84747,7 +84827,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84757,7 +84837,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84767,7 +84847,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84777,7 +84857,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84787,7 +84867,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84797,7 +84877,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84807,7 +84887,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84817,7 +84897,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84827,7 +84907,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84837,7 +84917,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84847,7 +84927,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.593Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84857,7 +84937,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84867,7 +84947,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84877,7 +84957,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84887,7 +84967,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84897,7 +84977,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84907,7 +84987,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84917,7 +84997,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84927,7 +85007,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84937,7 +85017,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84947,7 +85027,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84957,7 +85037,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84967,7 +85047,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84977,7 +85057,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84987,7 +85067,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -84997,7 +85077,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85007,7 +85087,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85017,7 +85097,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85027,7 +85107,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.594Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85037,7 +85117,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85047,7 +85127,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85057,7 +85137,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85067,7 +85147,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85077,7 +85157,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85087,7 +85167,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85097,7 +85177,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85107,7 +85187,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85117,7 +85197,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85127,7 +85207,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85137,7 +85217,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85147,7 +85227,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85157,7 +85237,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85167,7 +85247,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85177,7 +85257,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85187,7 +85267,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.748Z"
           }
         ]
       },
@@ -85197,7 +85277,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85207,7 +85287,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85217,7 +85297,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85227,7 +85307,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85237,7 +85317,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85247,7 +85327,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85257,7 +85337,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85267,7 +85347,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85277,7 +85357,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85287,7 +85367,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85297,7 +85377,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85307,7 +85387,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.595Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85317,7 +85397,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85327,7 +85407,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85337,7 +85417,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85347,7 +85427,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85357,7 +85437,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85367,7 +85447,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85377,7 +85457,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85387,7 +85467,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85397,7 +85477,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85407,7 +85487,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85417,7 +85497,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85427,7 +85507,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85437,7 +85517,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85447,7 +85527,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85457,7 +85537,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85467,7 +85547,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85477,7 +85557,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85487,7 +85567,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85497,7 +85577,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85507,7 +85587,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85517,7 +85597,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85527,7 +85607,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85537,7 +85617,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85547,7 +85627,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85557,7 +85637,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85567,7 +85647,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85577,7 +85657,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85587,7 +85667,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85597,7 +85677,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85607,7 +85687,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85617,7 +85697,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85627,7 +85707,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85637,7 +85717,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85647,7 +85727,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85657,7 +85737,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85667,7 +85747,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85677,7 +85757,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85687,7 +85767,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85697,7 +85777,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85707,7 +85787,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85717,7 +85797,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.749Z"
           }
         ]
       },
@@ -85727,7 +85807,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85737,7 +85817,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85747,7 +85827,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.596Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85757,7 +85837,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85767,7 +85847,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85777,7 +85857,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85787,7 +85867,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85797,7 +85877,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85807,7 +85887,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85817,7 +85897,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85827,7 +85907,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85837,7 +85917,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85847,7 +85927,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       },
@@ -85857,7 +85937,7 @@
           {
             "points": 100,
             "reason": "Bonus Score (Participation in Giveaway / Sessions)",
-            "awardedAt": "2025-08-13T09:34:12.597Z"
+            "awardedAt": "2025-08-13T14:33:05.750Z"
           }
         ]
       }

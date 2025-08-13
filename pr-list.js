@@ -1649,6 +1649,38 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 630,
+      "title": "Post-login Dashboard redesigned",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/630",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T11:00:29Z",
+      "mergedAt": "2025-08-13T14:18:06Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 631,
+      "title": "Redesigned the All post page with glassmorphism.",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/631",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T12:24:06Z",
+      "mergedAt": "2025-08-13T14:18:40Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
@@ -7665,6 +7697,54 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-12T17:27:04Z",
       "mergedAt": "2025-08-12T17:45:26Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 376,
+      "title": "Resolved Issue #375: removed the line TEAM: WEB PIONEERS",
+      "url": "https://github.com/divi-24/SheSync/pull/376",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T07:42:40Z",
+      "mergedAt": "2025-08-13T10:41:49Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 378,
+      "title": "Resolved Issue #377: Create/help center page",
+      "url": "https://github.com/divi-24/SheSync/pull/378",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T08:15:02Z",
+      "mergedAt": "2025-08-13T10:44:37Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 380,
+      "title": "Resolved Issue #Create/community page",
+      "url": "https://github.com/divi-24/SheSync/pull/380",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T08:32:10Z",
+      "mergedAt": "2025-08-13T10:47:31Z",
       "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
