@@ -22761,6 +22761,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 548,
+      "title": "Sidebar menu in Admin Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/548",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T05:54:47Z",
+      "mergedAt": "2025-08-13T06:43:24Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
