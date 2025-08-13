@@ -2851,12 +2851,12 @@ var userScores = {
       }
     },
     "dinesh-2047": {
-      "totalScore": 660,
+      "totalScore": 720,
       "bonusScore": 100,
-      "prCount": 25,
+      "prCount": 27,
       "prsByLevel": {
         "Beginner": 20,
-        "Intermediate": 4,
+        "Intermediate": 6,
         "Advanced": 1
       }
     },
@@ -3701,13 +3701,13 @@ var userScores = {
       }
     },
     "MaulikGupta27": {
-      "totalScore": 1180,
+      "totalScore": 1220,
       "bonusScore": 100,
-      "prCount": 43,
+      "prCount": 44,
       "prsByLevel": {
         "Beginner": 30,
         "Intermediate": 4,
-        "Advanced": 9
+        "Advanced": 10
       }
     },
     "PalakSinha2505": {
@@ -7041,12 +7041,12 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 2220,
+      "totalScore": 2500,
       "bonusScore": 100,
-      "prCount": 85,
+      "prCount": 97,
       "prsByLevel": {
-        "Beginner": 55,
-        "Intermediate": 18,
+        "Beginner": 63,
+        "Intermediate": 22,
         "Advanced": 12
       }
     },
@@ -7351,13 +7351,13 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 2660,
+      "totalScore": 2780,
       "bonusScore": 100,
-      "prCount": 72,
+      "prCount": 75,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 32,
-        "Advanced": 40
+        "Advanced": 43
       }
     },
     "ayushjava07": {
@@ -8231,13 +8231,13 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 2350,
+      "totalScore": 2390,
       "bonusScore": 100,
-      "prCount": 70,
+      "prCount": 71,
       "prsByLevel": {
         "Beginner": 16,
         "Intermediate": 23,
-        "Advanced": 31
+        "Advanced": 32
       }
     },
     "Soultk1977": {
@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 2310,
+      "totalScore": 2350,
       "bonusScore": 100,
-      "prCount": 66,
+      "prCount": 67,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 23
+        "Advanced": 24
       }
     },
     "Aagam230": {

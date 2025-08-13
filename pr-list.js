@@ -7755,6 +7755,22 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
+      "number": 384,
+      "title": "Resolved Issue #383: Update/consultations page",
+      "url": "https://github.com/divi-24/SheSync/pull/384",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T16:56:18Z",
+      "mergedAt": "2025-08-13T17:39:29Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 21,
       "title": "docs(contributing): add CONTRIBUTING.md and DEVELOPMENT.md for commun…",
       "url": "https://github.com/k0msenapati/study-sphere/pull/21",
@@ -12008,6 +12024,86 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-12T17:10:09Z",
       "mergedAt": "2025-08-12T17:10:25Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 463,
+      "title": "Real-Time Voice Emotion Analyzer & Feedback",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/463",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T18:00:29Z",
+      "mergedAt": "2025-08-13T18:07:52Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 474,
+      "title": "Pull Request Of Data Cleaning Techniques",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/474",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T16:50:10Z",
+      "mergedAt": "2025-08-13T18:01:25Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 476,
+      "title": "Pull Request Of Different Types Of Clustering",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/476",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T16:53:09Z",
+      "mergedAt": "2025-08-13T18:02:03Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 477,
+      "title": "Implement AI Assistant Reuse Prediction Model   SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/477",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T16:53:31Z",
+      "mergedAt": "2025-08-13T18:02:59Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 478,
+      "title": "Puull Request of Ensemble methods in ML",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/478",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T16:57:42Z",
+      "mergedAt": "2025-08-13T18:02:32Z",
       "author": "keshripritesh",
       "labels": [
         "SSoC25",
@@ -16963,6 +17059,24 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 523,
+      "title": "flappy-bird game added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/523",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:57:56Z",
+      "mergedAt": "2025-08-13T14:55:15Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 528,
       "title": "Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/528",
@@ -17198,6 +17312,102 @@ var prs = {
       "createdAt": "2025-08-10T08:01:29Z",
       "mergedAt": "2025-08-10T08:08:21Z",
       "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 611,
+      "title": "Netflix Clone+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/611",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T13:41:16Z",
+      "mergedAt": "2025-08-13T15:18:01Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 612,
+      "title": "RouleteSpin Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/612",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T13:53:45Z",
+      "mergedAt": "2025-08-13T15:20:08Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 613,
+      "title": "Puzzle Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/613",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T14:20:57Z",
+      "mergedAt": "2025-08-13T15:20:58Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 614,
+      "title": "Carrom Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/614",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T14:38:29Z",
+      "mergedAt": "2025-08-13T15:21:43Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 615,
+      "title": "Sudoku Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/615",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T14:51:07Z",
+      "mergedAt": "2025-08-13T15:30:22Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 616,
+      "title": "PuckMan Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/616",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T15:09:05Z",
+      "mergedAt": "2025-08-13T15:31:25Z",
+      "author": "Verma-MK",
       "labels": [
         "SSoC25",
         "Intermediate"
@@ -26405,6 +26615,24 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 523,
+      "title": "flappy-bird game added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/523",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T09:57:56Z",
+      "mergedAt": "2025-08-13T14:55:15Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 528,
       "title": "Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/528",
@@ -26640,6 +26868,102 @@ var prs = {
       "createdAt": "2025-08-10T08:01:29Z",
       "mergedAt": "2025-08-10T08:08:21Z",
       "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 611,
+      "title": "Netflix Clone+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/611",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T13:41:16Z",
+      "mergedAt": "2025-08-13T15:18:01Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 612,
+      "title": "RouleteSpin Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/612",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T13:53:45Z",
+      "mergedAt": "2025-08-13T15:20:08Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 613,
+      "title": "Puzzle Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/613",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T14:20:57Z",
+      "mergedAt": "2025-08-13T15:20:58Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 614,
+      "title": "Carrom Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/614",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T14:38:29Z",
+      "mergedAt": "2025-08-13T15:21:43Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 615,
+      "title": "Sudoku Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/615",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T14:51:07Z",
+      "mergedAt": "2025-08-13T15:30:22Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 616,
+      "title": "PuckMan Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/616",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T15:09:05Z",
+      "mergedAt": "2025-08-13T15:31:25Z",
+      "author": "Verma-MK",
       "labels": [
         "SSoC25",
         "Intermediate"
