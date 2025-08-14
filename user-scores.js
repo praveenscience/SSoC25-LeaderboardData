@@ -3311,12 +3311,12 @@ var userScores = {
       }
     },
     "archangel2006": {
-      "totalScore": 390,
+      "totalScore": 420,
       "bonusScore": 100,
-      "prCount": 11,
+      "prCount": 12,
       "prsByLevel": {
         "Beginner": 5,
-        "Intermediate": 5,
+        "Intermediate": 6,
         "Advanced": 1
       }
     },
@@ -7351,13 +7351,13 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 2780,
+      "totalScore": 2900,
       "bonusScore": 100,
-      "prCount": 75,
+      "prCount": 78,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 32,
-        "Advanced": 43
+        "Advanced": 46
       }
     },
     "ayushjava07": {

@@ -12082,6 +12082,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 465,
+      "title": "Issue #295 Student Social Media Addiction Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/465",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T05:01:59Z",
+      "mergedAt": "2025-08-14T10:20:30Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 474,
       "title": "Pull Request Of Data Cleaning Techniques",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/474",
@@ -12136,6 +12152,54 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-13T16:57:42Z",
       "mergedAt": "2025-08-13T18:02:32Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 482,
+      "title": "Pull Request of Ensemble Methods for Machine Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/482",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T08:19:23Z",
+      "mergedAt": "2025-08-14T10:18:32Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 483,
+      "title": "Pull Request Of Add P-Value Concept Explanation and Python Implementa…",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/483",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T08:22:28Z",
+      "mergedAt": "2025-08-14T10:18:59Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 484,
+      "title": "Pull Request of Fake News Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/484",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T08:26:38Z",
+      "mergedAt": "2025-08-14T10:19:32Z",
       "author": "keshripritesh",
       "labels": [
         "SSoC25",
