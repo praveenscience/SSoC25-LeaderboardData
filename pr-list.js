@@ -23163,6 +23163,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 549,
+      "title": "Features Section in About Page now have color scheme as of Civix",
+      "url": "https://github.com/HarshS16/Civix/pull/549",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T08:45:03Z",
+      "mergedAt": "2025-08-14T11:40:20Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
