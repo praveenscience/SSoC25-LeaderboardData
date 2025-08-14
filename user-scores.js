@@ -351,11 +351,11 @@ var userScores = {
       }
     },
     "HimanshuKabra01": {
-      "totalScore": 1240,
+      "totalScore": 1260,
       "bonusScore": 100,
-      "prCount": 51,
+      "prCount": 52,
       "prsByLevel": {
-        "Beginner": 40,
+        "Beginner": 41,
         "Intermediate": 10,
         "Advanced": 1
       }

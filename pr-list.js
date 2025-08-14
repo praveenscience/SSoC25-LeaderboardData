@@ -1697,6 +1697,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 636,
+      "title": "bug fix",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/636",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T05:46:47Z",
+      "mergedAt": "2025-08-14T08:06:00Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",
