@@ -15810,6 +15810,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 856,
+      "title": "Add academic rules and structure for St. Thomas' college of Engg. & Technology, Kolkata- issue #819",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/856",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T11:57:04Z",
+      "mergedAt": "2025-08-14T16:29:48Z",
+      "author": "InMostCalmness-Rahul",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -17507,6 +17523,24 @@ var prs = {
       "labels": [
         "SSoC25",
         "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 630,
+      "title": "invoice Generator project added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/630",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T20:38:27Z",
+      "mergedAt": "2025-08-14T16:47:45Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 2"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -23179,6 +23213,54 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 556,
+      "title": "Resolved Issue #555: updated the notifications page",
+      "url": "https://github.com/HarshS16/Civix/pull/556",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T13:46:53Z",
+      "mergedAt": "2025-08-14T19:14:23Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 558,
+      "title": "Resolved issue #557: Update/voting mech",
+      "url": "https://github.com/HarshS16/Civix/pull/558",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T14:01:22Z",
+      "mergedAt": "2025-08-14T19:18:57Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 562,
+      "title": "Analytics Page added to admin dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/562",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T18:51:16Z",
+      "mergedAt": "2025-08-14T19:30:17Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -27079,6 +27161,24 @@ var prs = {
       "labels": [
         "SSoC25",
         "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 630,
+      "title": "invoice Generator project added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/630",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T20:38:27Z",
+      "mergedAt": "2025-08-14T16:47:45Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "GSSoC'25",
+        "Level 2"
       ],
       "level": "Intermediate",
       "score": 30,
