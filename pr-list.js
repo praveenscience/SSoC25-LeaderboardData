@@ -1681,6 +1681,22 @@ var prs = {
       "project": "SumitGorai01/TechieBlog"
     },
     {
+      "number": 633,
+      "title": "Improved UI of Saved Blogs Page with glassmorphism",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/633",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T16:23:34Z",
+      "mergedAt": "2025-08-14T03:21:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
       "number": 1312,
       "title": "Added file organizer gui",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1312",

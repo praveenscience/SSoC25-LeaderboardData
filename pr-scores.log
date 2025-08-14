@@ -1,12 +1,12 @@
 Fetching bonus points from GitHub: praveenscience/SSoC25-LeaderboardData-Bonus/bonus-points.json...
-Successfully loaded bonus points for 256 entries
+Successfully loaded bonus points for 274 entries
 
 Skipping beadarshh/Alex_Interview_Bot (removed from the list due to inactivity).
 
 Fetching PRs for amitkumardemo/EdgeCareer with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4999/5000 (resets at 2:01:31 AM)
+Rate limit: 4999/5000 (resets at 10:01:19 AM)
 Retrieved 2 PRs in this page
 Total PRs fetched for amitkumardemo/EdgeCareer: 2
 Qualifying PR: #50 by aryanguptacsvtu in amitkumardemo/EdgeCareer - Beginner (20 points)
@@ -19,7 +19,7 @@ Skipping shivampatkar/my-portfolio (removed from the list due to inactivity).
 Fetching PRs for vanshchauhan21/CryptoTracker with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4999/5000 (resets at 2:01:31 AM)
+Rate limit: 4999/5000 (resets at 10:01:19 AM)
 Retrieved 11 PRs in this page
 Total PRs fetched for vanshchauhan21/CryptoTracker: 11
 
@@ -28,7 +28,7 @@ Skipping bhavishya2601/skilloria (removed from the list due to inactivity).
 Fetching PRs for mryashsinghal/Resume-Builder with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4998/5000 (resets at 2:01:31 AM)
+Rate limit: 4998/5000 (resets at 10:01:19 AM)
 Retrieved 17 PRs in this page
 Total PRs fetched for mryashsinghal/Resume-Builder: 17
 Qualifying PR: #23 by Soumyosish in mryashsinghal/Resume-Builder - Beginner (20 points)
@@ -52,9 +52,9 @@ Qualifying PR: #145 by Bavanetha27 in mryashsinghal/Resume-Builder - Intermediat
 Fetching PRs for SumitGorai01/TechieBlog with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4998/5000 (resets at 2:01:31 AM)
-Retrieved 92 PRs in this page
-Total PRs fetched for SumitGorai01/TechieBlog: 92
+Rate limit: 4998/5000 (resets at 10:01:19 AM)
+Retrieved 93 PRs in this page
+Total PRs fetched for SumitGorai01/TechieBlog: 93
 Qualifying PR: #352 by TanmayKalra09 in SumitGorai01/TechieBlog - Beginner (20 points)
 Qualifying PR: #353 by SK8-infi in SumitGorai01/TechieBlog - Intermediate (30 points)
 Qualifying PR: #354 by shreesriv12 in SumitGorai01/TechieBlog - Advanced (40 points)
@@ -138,13 +138,14 @@ Qualifying PR: #622 by TanmayKalra09 in SumitGorai01/TechieBlog - Advanced (40 p
 Qualifying PR: #623 by TanmayKalra09 in SumitGorai01/TechieBlog - Intermediate (30 points)
 Qualifying PR: #630 by TanmayKalra09 in SumitGorai01/TechieBlog - Advanced (40 points)
 Qualifying PR: #631 by TanmayKalra09 in SumitGorai01/TechieBlog - Intermediate (30 points)
+Qualifying PR: #633 by TanmayKalra09 in SumitGorai01/TechieBlog - Intermediate (30 points)
 
 Skipping jayraj175coder/Entertainer (removed from the list due to inactivity).
 
 Fetching PRs for UTSAVS26/PyVerse with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4997/5000 (resets at 2:01:31 AM)
+Rate limit: 4997/5000 (resets at 10:01:19 AM)
 Retrieved 70 PRs in this page
 Total PRs fetched for UTSAVS26/PyVerse: 70
 Qualifying PR: #1312 by adwityac in UTSAVS26/PyVerse - Intermediate (30 points)
@@ -224,7 +225,7 @@ Skipping Samarcodesinpython/Ni-Swarth (removed from the list due to inactivity).
 Fetching PRs for adityas1309/RaktConnect with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4997/5000 (resets at 2:01:31 AM)
+Rate limit: 4997/5000 (resets at 10:01:19 AM)
 Retrieved 34 PRs in this page
 Total PRs fetched for adityas1309/RaktConnect: 34
 Qualifying PR: #13 by Ranganivandan in adityas1309/RaktConnect - Beginner (20 points)
@@ -266,7 +267,7 @@ Skipping Dipanita45/HEALCONNECT (removed from the list due to inactivity).
 Fetching PRs for Dev-Dhruba/NeuroDev-Therapy with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4996/5000 (resets at 2:01:31 AM)
+Rate limit: 4996/5000 (resets at 10:01:19 AM)
 Retrieved 9 PRs in this page
 Total PRs fetched for Dev-Dhruba/NeuroDev-Therapy: 9
 Qualifying PR: #26 by kauntiaakash2 in Dev-Dhruba/NeuroDev-Therapy - Beginner (20 points)
@@ -294,11 +295,11 @@ Skipping Aryan-coder-student/NeuroVision-BHPC (removed from the list due to inac
 Fetching PRs for alienx5499/SortVision with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4996/5000 (resets at 2:01:31 AM)
+Rate limit: 4996/5000 (resets at 10:01:19 AM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...ix2X
-Rate limit: 4995/5000 (resets at 2:01:31 AM)
+Rate limit: 4995/5000 (resets at 10:01:19 AM)
 Retrieved 74 PRs in this page
 Total PRs fetched for alienx5499/SortVision: 174
 Qualifying PR: #60 by piyushdhoka in alienx5499/SortVision - Intermediate (30 points)
@@ -477,7 +478,7 @@ Qualifying PR: #614 by 2024yuva in alienx5499/SortVision - Intermediate (30 poin
 Fetching PRs for divi-24/SheSync with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4995/5000 (resets at 2:01:31 AM)
+Rate limit: 4995/5000 (resets at 10:01:19 AM)
 Retrieved 92 PRs in this page
 Total PRs fetched for divi-24/SheSync: 92
 Qualifying PR: #31 by pari3654 in divi-24/SheSync - Beginner (20 points)
@@ -564,7 +565,7 @@ Skipping divi-24/IG3D (removed from the list due to inactivity).
 Fetching PRs for k0msenapati/study-sphere with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4994/5000 (resets at 2:01:31 AM)
+Rate limit: 4994/5000 (resets at 10:01:19 AM)
 Retrieved 46 PRs in this page
 Total PRs fetched for k0msenapati/study-sphere: 46
 Qualifying PR: #21 by jyotsna030 in k0msenapati/study-sphere - Beginner (20 points)
@@ -613,7 +614,7 @@ Qualifying PR: #175 by VJLIVE in k0msenapati/study-sphere - Beginner (20 points)
 Fetching PRs for ShikhaMaurya212402/Plant-Disease-Classification-Model with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4994/5000 (resets at 2:01:31 AM)
+Rate limit: 4994/5000 (resets at 10:01:19 AM)
 Retrieved 14 PRs in this page
 Total PRs fetched for ShikhaMaurya212402/Plant-Disease-Classification-Model: 14
 Qualifying PR: #16 by SK8-infi in ShikhaMaurya212402/Plant-Disease-Classification-Model - Beginner (20 points)
@@ -647,7 +648,7 @@ Skipping souvik-maity/StyleCart (removed from the list due to inactivity).
 Fetching PRs for Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4993/5000 (resets at 2:01:31 AM)
+Rate limit: 4993/5000 (resets at 10:01:19 AM)
 Retrieved 45 PRs in this page
 Total PRs fetched for Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit: 45
 Qualifying PR: #8 by vagabond-0 in Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit - Intermediate (30 points)
@@ -698,7 +699,7 @@ Skipping ayushsin9h/WanderStay-Your-Premium-Hotel-Finder (removed from the list 
 Fetching PRs for Fenirok/Earthquake_app with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4993/5000 (resets at 2:01:31 AM)
+Rate limit: 4993/5000 (resets at 10:01:19 AM)
 Retrieved 3 PRs in this page
 Total PRs fetched for Fenirok/Earthquake_app: 3
 Qualifying PR: #35 by Sandhya251 in Fenirok/Earthquake_app - Advanced (40 points)
@@ -706,11 +707,11 @@ Qualifying PR: #35 by Sandhya251 in Fenirok/Earthquake_app - Advanced (40 points
 Fetching PRs for PRIYANSHU2026/DataSentience-AIML with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4992/5000 (resets at 2:01:31 AM)
+Rate limit: 4992/5000 (resets at 10:01:19 AM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...7HYO
-Rate limit: 4992/5000 (resets at 2:01:31 AM)
+Rate limit: 4992/5000 (resets at 10:01:19 AM)
 Retrieved 87 PRs in this page
 Total PRs fetched for PRIYANSHU2026/DataSentience-AIML: 187
 Qualifying PR: #16 by keshripritesh in PRIYANSHU2026/DataSentience-AIML - Intermediate (30 points)
@@ -895,15 +896,15 @@ Skipping AdityaRalhan/CopConnect (removed from the list due to inactivity).
 Fetching PRs for Saumy1905/PYQFort with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4991/5000 (resets at 2:01:31 AM)
+Rate limit: 4991/5000 (resets at 10:01:19 AM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...7HYO
-Rate limit: 4991/5000 (resets at 2:01:31 AM)
+Rate limit: 4991/5000 (resets at 10:01:19 AM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...ix2X
-Rate limit: 4990/5000 (resets at 2:01:31 AM)
+Rate limit: 4990/5000 (resets at 10:01:19 AM)
 Retrieved 31 PRs in this page
 Total PRs fetched for Saumy1905/PYQFort: 231
 Qualifying PR: #83 by Pixel20coder in Saumy1905/PYQFort - Advanced (40 points)
@@ -1137,7 +1138,7 @@ Skipping ISHAAN-KKR/Entprep (removed from the list due to inactivity).
 Fetching PRs for Code-A2Z/jarvis with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4990/5000 (resets at 2:01:31 AM)
+Rate limit: 4990/5000 (resets at 10:01:19 AM)
 Retrieved 3 PRs in this page
 Total PRs fetched for Code-A2Z/jarvis: 3
 Qualifying PR: #292 by Siri-026 in Code-A2Z/jarvis - Intermediate (30 points)
@@ -1149,7 +1150,7 @@ Skipping Code-A2Z/code-a2z (removed from the list due to inactivity).
 Fetching PRs for rutikakengal/FoodFusion-Online-Food-Ordering-Web with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4989/5000 (resets at 2:01:31 AM)
+Rate limit: 4989/5000 (resets at 10:01:19 AM)
 Retrieved 35 PRs in this page
 Total PRs fetched for rutikakengal/FoodFusion-Online-Food-Ordering-Web: 35
 Qualifying PR: #106 by archangel2006 in rutikakengal/FoodFusion-Online-Food-Ordering-Web - Intermediate (30 points)
@@ -1185,7 +1186,7 @@ Qualifying PR: #254 by MaulikGupta27 in rutikakengal/FoodFusion-Online-Food-Orde
 Fetching PRs for ruchikakengal/100_Days_100_webprojects with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4989/5000 (resets at 2:01:31 AM)
+Rate limit: 4989/5000 (resets at 10:01:19 AM)
 Retrieved 75 PRs in this page
 Total PRs fetched for ruchikakengal/100_Days_100_webprojects: 75
 Qualifying PR: #89 by sania0607 in ruchikakengal/100_Days_100_webprojects - Beginner (20 points)
@@ -1268,7 +1269,7 @@ Skipping Akshat111111/NexTrade (removed from the list due to inactivity).
 Fetching PRs for itsaryanchauhan/ThinkDSA with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4988/5000 (resets at 2:01:31 AM)
+Rate limit: 4988/5000 (resets at 10:01:19 AM)
 Retrieved 9 PRs in this page
 Total PRs fetched for itsaryanchauhan/ThinkDSA: 9
 Qualifying PR: #37 by m1ss-chief in itsaryanchauhan/ThinkDSA - Beginner (20 points)
@@ -1286,7 +1287,7 @@ Skipping xxRAJA/GYM-Profile- (removed from the list due to inactivity).
 Fetching PRs for Mayur-Pagote/README_Design_Kit with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4988/5000 (resets at 2:01:31 AM)
+Rate limit: 4988/5000 (resets at 10:01:19 AM)
 Retrieved 91 PRs in this page
 Total PRs fetched for Mayur-Pagote/README_Design_Kit: 91
 Qualifying PR: #8 by aryanguptacsvtu in Mayur-Pagote/README_Design_Kit - Beginner (20 points)
@@ -1387,7 +1388,7 @@ Skipping RudraniGhosh24/NyayaBot (removed from the list due to inactivity).
 Fetching PRs for Programmers-Paradise/Annie with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4987/5000 (resets at 2:01:31 AM)
+Rate limit: 4987/5000 (resets at 10:01:19 AM)
 Retrieved 1 PRs in this page
 Total PRs fetched for Programmers-Paradise/Annie: 1
 
@@ -1396,7 +1397,7 @@ Skipping Premkolte/AnimateHub (removed from the list due to inactivity).
 Fetching PRs for venuchander/fintrack with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4987/5000 (resets at 2:01:31 AM)
+Rate limit: 4987/5000 (resets at 10:01:19 AM)
 Retrieved 21 PRs in this page
 Total PRs fetched for venuchander/fintrack: 21
 Qualifying PR: #10 by aryanguptacsvtu in venuchander/fintrack - Beginner (20 points)
@@ -1428,7 +1429,7 @@ Skipping ShrutiSawant0804/Statewise-Police-Political-Directory-Portal (removed f
 Fetching PRs for sailaja-adapa/Vipreshana with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4986/5000 (resets at 2:01:31 AM)
+Rate limit: 4986/5000 (resets at 10:01:19 AM)
 Retrieved 76 PRs in this page
 Total PRs fetched for sailaja-adapa/Vipreshana: 76
 Qualifying PR: #28 by shreesriv12 in sailaja-adapa/Vipreshana - Advanced (40 points)
@@ -1501,7 +1502,7 @@ Skipping PARIGUPTA0011/Samwaad (removed from the list due to inactivity).
 Fetching PRs for surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4986/5000 (resets at 2:01:31 AM)
+Rate limit: 4986/5000 (resets at 10:01:19 AM)
 Retrieved 27 PRs in this page
 Total PRs fetched for surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool: 27
 Qualifying PR: #7 by Mohamad-Owais in surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool - Intermediate (30 points)
@@ -1540,11 +1541,11 @@ Skipping kashikaga/FinTrak (removed from the list due to inactivity).
 Fetching PRs for HarshS16/Civix with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4985/5000 (resets at 2:01:31 AM)
+Rate limit: 4985/5000 (resets at 10:01:19 AM)
 Retrieved 100 PRs in this page
 Fetching page of PRs with cursor...
 Using token ending with ...7HYO
-Rate limit: 4985/5000 (resets at 2:01:31 AM)
+Rate limit: 4985/5000 (resets at 10:01:19 AM)
 Retrieved 50 PRs in this page
 Total PRs fetched for HarshS16/Civix: 150
 Qualifying PR: #41 by mukul-sharma-tech in HarshS16/Civix - Beginner (20 points)
@@ -1692,7 +1693,7 @@ Qualifying PR: #548 by TanmayKalra09 in HarshS16/Civix - Advanced (40 points)
 Fetching PRs for Kirti-Rathi/PromptShell with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4984/5000 (resets at 2:01:31 AM)
+Rate limit: 4984/5000 (resets at 10:01:19 AM)
 Retrieved 18 PRs in this page
 Total PRs fetched for Kirti-Rathi/PromptShell: 18
 Qualifying PR: #21 by GauravKarakoti in Kirti-Rathi/PromptShell - Advanced (40 points)
@@ -1723,7 +1724,7 @@ Skipping rudralpha10/Coolsphere (removed from the list due to inactivity).
 Fetching PRs for Bhavya1352/eventmappr with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4984/5000 (resets at 2:01:31 AM)
+Rate limit: 4984/5000 (resets at 10:01:19 AM)
 Retrieved 92 PRs in this page
 Total PRs fetched for Bhavya1352/eventmappr: 92
 Qualifying PR: #6 by TanmayKalra09 in Bhavya1352/eventmappr - Beginner (20 points)
@@ -1825,7 +1826,7 @@ Skipping thishika-k/IQTOPIA-NEW (removed from the list due to inactivity).
 Fetching PRs for Prateek9876/NagarVikas with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4983/5000 (resets at 2:01:31 AM)
+Rate limit: 4983/5000 (resets at 10:01:19 AM)
 Retrieved 53 PRs in this page
 Total PRs fetched for Prateek9876/NagarVikas: 53
 Qualifying PR: #21 by aryanguptacsvtu in Prateek9876/NagarVikas - Beginner (20 points)
@@ -1895,7 +1896,7 @@ Skipping Varshitha713/good-first-issue-for-students (removed from the list due t
 Fetching PRs for soumya813/Notes-App with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4983/5000 (resets at 2:01:31 AM)
+Rate limit: 4983/5000 (resets at 10:01:19 AM)
 Retrieved 8 PRs in this page
 Total PRs fetched for soumya813/Notes-App: 8
 Qualifying PR: #11 by Bavanetha27 in soumya813/Notes-App - Advanced (40 points)
@@ -1922,7 +1923,7 @@ Skipping koustavx08/academic-chain-main (removed from the list due to inactivity
 Fetching PRs for ruchikakengal/WebDevIn100_Days with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...ix2X
-Rate limit: 4982/5000 (resets at 2:01:31 AM)
+Rate limit: 4982/5000 (resets at 10:01:19 AM)
 Retrieved 75 PRs in this page
 Total PRs fetched for ruchikakengal/WebDevIn100_Days: 75
 Qualifying PR: #89 by sania0607 in ruchikakengal/WebDevIn100_Days - Beginner (20 points)
@@ -2041,7 +2042,7 @@ Skipping SGCODEX/Hackathon-Website (removed from the list due to inactivity).
 Fetching PRs for CLUSTER-DS-Club/cluster with label SSoC25...
 Fetching page of PRs...
 Using token ending with ...7HYO
-Rate limit: 4982/5000 (resets at 2:01:31 AM)
+Rate limit: 4982/5000 (resets at 10:01:19 AM)
 Retrieved 47 PRs in this page
 Total PRs fetched for CLUSTER-DS-Club/cluster: 47
 Qualifying PR: #33 by aryanguptacsvtu in CLUSTER-DS-Club/cluster - Beginner (20 points)
@@ -2396,12 +2397,30 @@ Bonus: Ishikacasley14 awarded 100 points for "Bonus Score (Participation in Give
 Bonus: roushnisareen awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Bonus: Kirti8Singh awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Bonus: satyajit-patel awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Tirumalashreya awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Ujjwal-Singh-20 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: kumkumverm awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: atul812 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sparsh2105 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: umarsayed12 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: vagabond-0 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: MANASA-NUKALA awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Aksh-Agrawal awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: dheeraxspidey awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: AasthaPoswal awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: aryannkaushikk awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: arjavjain5203 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Sub-codes awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: Surbhiiiiiii awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: jayanththalla awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: nikhil-agrawal123 awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
+Bonus: gourikasoni awarded 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 
 ===== SUMMARY =====
-Total qualifying PRs: 1683
-Total points awarded: 72520
-Total bonus points: 25600
-PR points: 46920
+Total qualifying PRs: 1684
+Total points awarded: 74350
+Total bonus points: 27400
+PR points: 46950
 
 ===== USER SCORES =====
 72897: No qualifying PRs or bonus points
@@ -2423,8 +2442,10 @@ Ayushgit51: No qualifying PRs or bonus points
 himudit: No qualifying PRs or bonus points
 vasanth30672: No qualifying PRs or bonus points
 sonuprasad23: No qualifying PRs or bonus points
-AasthaPoswal: 30 points (1 PRs)
+AasthaPoswal: 130 points (includes 100 bonus points) (1 PRs)
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 G3miniCodes: No qualifying PRs or bonus points
 aryarathoree: 160 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
@@ -2486,8 +2507,10 @@ mahakagarwal45: No qualifying PRs or bonus points
 OJASWANI-tech: No qualifying PRs or bonus points
 parshvi1508: No qualifying PRs or bonus points
 Syed-Shamsheer-Ali: No qualifying PRs or bonus points
-aryannkaushikk: 20 points (1 PRs)
+aryannkaushikk: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Ayush170306: No qualifying PRs or bonus points
 SHlok06majmundar: No qualifying PRs or bonus points
 Aadiarya0: No qualifying PRs or bonus points
@@ -2721,8 +2744,10 @@ pragyakuumarimishra: No qualifying PRs or bonus points
 keval025: No qualifying PRs or bonus points
 akashadsare: No qualifying PRs or bonus points
 pleasecodekomal: No qualifying PRs or bonus points
-dheeraxspidey: 40 points (1 PRs)
+dheeraxspidey: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 soasmi: No qualifying PRs or bonus points
 sg6724: No qualifying PRs or bonus points
 Ankitbhati06: No qualifying PRs or bonus points
@@ -2839,8 +2864,10 @@ Pranjali-2004: No qualifying PRs or bonus points
 nishantrana07: No qualifying PRs or bonus points
 yashsharmapvt79: No qualifying PRs or bonus points
 dhananjay4554: No qualifying PRs or bonus points
-kumkumverm: 80 points (4 PRs)
+kumkumverm: 180 points (includes 100 bonus points) (4 PRs)
   - Beginner: 4 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 SumitRathore23: No qualifying PRs or bonus points
 shwet91-cyber: No qualifying PRs or bonus points
 abhilash-0913: No qualifying PRs or bonus points
@@ -3033,8 +3060,10 @@ Saurabhjk15: 140 points (includes 100 bonus points) (1 PRs)
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 sumit2221-div: No qualifying PRs or bonus points
 AbhiSingh05: No qualifying PRs or bonus points
-arjavjain5203: 20 points (1 PRs)
+arjavjain5203: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 calebjubal: No qualifying PRs or bonus points
 ShrivastvAryan: No qualifying PRs or bonus points
 VAGISHA-47: No qualifying PRs or bonus points
@@ -3347,8 +3376,10 @@ suto6: No qualifying PRs or bonus points
 Chakrika2004: No qualifying PRs or bonus points
 Arnabzone: No qualifying PRs or bonus points
 sujal-ece28: No qualifying PRs or bonus points
-Sub-codes: 20 points (1 PRs)
+Sub-codes: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Charul192: No qualifying PRs or bonus points
 DarshiniKurasa: No qualifying PRs or bonus points
 Mrityunjya: No qualifying PRs or bonus points
@@ -3386,8 +3417,10 @@ RahulDasari1: No qualifying PRs or bonus points
 rupinderkaur03: No qualifying PRs or bonus points
 MANISHLINGADEVARU: No qualifying PRs or bonus points
 Abhilash332: No qualifying PRs or bonus points
-Surbhiiiiiii: 20 points (1 PRs)
+Surbhiiiiiii: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Alien0427: No qualifying PRs or bonus points
 adiancodes: No qualifying PRs or bonus points
 mohan182004: No qualifying PRs or bonus points
@@ -3406,9 +3439,11 @@ Shivang-dadhich: No qualifying PRs or bonus points
 Ramharsh-aidev: No qualifying PRs or bonus points
 ZakiyaMiller: No qualifying PRs or bonus points
 Surajhub21: No qualifying PRs or bonus points
-Sparsh2105: 70 points (2 PRs)
+Sparsh2105: 170 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 prince803tiwari: No qualifying PRs or bonus points
 sumitchopkar2005: No qualifying PRs or bonus points
 anshi894: No qualifying PRs or bonus points
@@ -3525,8 +3560,10 @@ AineshSridhar: No qualifying PRs or bonus points
 Nikhil210206: No qualifying PRs or bonus points
 Bharat269: No qualifying PRs or bonus points
 jeev170: No qualifying PRs or bonus points
-MANASA-NUKALA: 60 points (2 PRs)
+MANASA-NUKALA: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 anchalchaturvedi08: 240 points (includes 100 bonus points) (5 PRs)
   - Beginner: 3 PRs
   - Advanced: 2 PRs
@@ -3567,8 +3604,10 @@ Kanwalgunkaur1111: 120 points (includes 100 bonus points) (1 PRs)
 devanshimishra2: No qualifying PRs or bonus points
 amanverma100: No qualifying PRs or bonus points
 SleepDeprivedShi: No qualifying PRs or bonus points
-Ujjwal-Singh-20: 90 points (3 PRs)
+Ujjwal-Singh-20: 190 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 3 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Pawnios: No qualifying PRs or bonus points
 MAHADEVAN-007: No qualifying PRs or bonus points
 tejaswinihatkar: 160 points (includes 100 bonus points) (2 PRs)
@@ -3631,9 +3670,11 @@ thishika-k: No qualifying PRs or bonus points
 Harshg33: No qualifying PRs or bonus points
 Zero-Day-Smile: No qualifying PRs or bonus points
 Mahak0205: No qualifying PRs or bonus points
-umarsayed12: 70 points (3 PRs)
+umarsayed12: 170 points (includes 100 bonus points) (3 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Alokvish04: No qualifying PRs or bonus points
 goldigd05: No qualifying PRs or bonus points
 kunalp-singh: No qualifying PRs or bonus points
@@ -3850,8 +3891,10 @@ vivekd16: 690 points (includes 100 bonus points) (26 PRs)
   - Bonus points:
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 charan2r: No qualifying PRs or bonus points
-jayanththalla: 20 points (1 PRs)
+jayanththalla: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Deb2oo: No qualifying PRs or bonus points
 decodekush: 200 points (includes 100 bonus points) (3 PRs)
   - Intermediate: 2 PRs
@@ -4080,9 +4123,11 @@ Chandni9852: No qualifying PRs or bonus points
 Shreyajain025: No qualifying PRs or bonus points
 manishraj9: No qualifying PRs or bonus points
 sagarayusha: No qualifying PRs or bonus points
-atul812: 80 points (3 PRs)
+atul812: 180 points (includes 100 bonus points) (3 PRs)
   - Beginner: 1 PRs
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Nitya-003: No qualifying PRs or bonus points
 Piyushchannawar: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
@@ -4155,9 +4200,9 @@ MeLiveAkshay: No qualifying PRs or bonus points
 cybersword1001: No qualifying PRs or bonus points
 Santoshi-2k24: No qualifying PRs or bonus points
 Neha-28-fluff: No qualifying PRs or bonus points
-TanmayKalra09: 2890 points (includes 100 bonus points) (79 PRs)
+TanmayKalra09: 2920 points (includes 100 bonus points) (80 PRs)
   - Beginner: 8 PRs
-  - Intermediate: 21 PRs
+  - Intermediate: 22 PRs
   - Advanced: 50 PRs
   - Bonus points:
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
@@ -4219,8 +4264,10 @@ vithula30: No qualifying PRs or bonus points
 pani-siri: No qualifying PRs or bonus points
 Atharvverma1234: No qualifying PRs or bonus points
 AKC07-Dev: No qualifying PRs or bonus points
-nikhil-agrawal123: 20 points (1 PRs)
+nikhil-agrawal123: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 rochanshah15: No qualifying PRs or bonus points
 khushiiiip: No qualifying PRs or bonus points
 vishvshah123: No qualifying PRs or bonus points
@@ -4230,8 +4277,10 @@ awrya-cmd: 140 points (includes 100 bonus points) (2 PRs)
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 palakbansa05: No qualifying PRs or bonus points
 Neovin-dev: No qualifying PRs or bonus points
-gourikasoni: 20 points (1 PRs)
+gourikasoni: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 KritikaJoshi04: No qualifying PRs or bonus points
 divyam8175: 150 points (includes 100 bonus points) (2 PRs)
   - Beginner: 1 PRs
@@ -4495,10 +4544,12 @@ Priyakumar-15: No qualifying PRs or bonus points
 vi-decodes: No qualifying PRs or bonus points
 balraj009: No qualifying PRs or bonus points
 akshara123: No qualifying PRs or bonus points
-Tirumalashreya: 110 points (4 PRs)
+Tirumalashreya: 210 points (includes 100 bonus points) (4 PRs)
   - Beginner: 2 PRs
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 VAISHNAVISTUDENT: 140 points (includes 100 bonus points) (1 PRs)
   - Advanced: 1 PRs
   - Bonus points:
@@ -4610,8 +4661,10 @@ jeevaananthan52: 120 points (includes 100 bonus points) (1 PRs)
   - Beginner: 1 PRs
   - Bonus points:
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
-Aksh-Agrawal: 60 points (2 PRs)
+Aksh-Agrawal: 160 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 2 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 shweta-mi: No qualifying PRs or bonus points
 Jyotiyadav1012: No qualifying PRs or bonus points
 bableen123: No qualifying PRs or bonus points
@@ -4623,9 +4676,11 @@ michael-0007a: 540 points (includes 100 bonus points) (15 PRs)
   - Bonus points:
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 Sanchita76: No qualifying PRs or bonus points
-vagabond-0: 70 points (2 PRs)
+vagabond-0: 170 points (includes 100 bonus points) (2 PRs)
   - Intermediate: 1 PRs
   - Advanced: 1 PRs
+  - Bonus points:
+    * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 HimanshMathur: No qualifying PRs or bonus points
 ruchiraaa04: No qualifying PRs or bonus points
 sanketkokate712: No qualifying PRs or bonus points
@@ -4733,7 +4788,7 @@ roushnisareen: 160 points (includes 100 bonus points) (2 PRs)
     * 100 points for "Bonus Score (Participation in Giveaway / Sessions)"
 ch3hak: No qualifying PRs or bonus points
 vivekkumar1412: No qualifying PRs or bonus points
-Results saved to output/pr-scores-2025-08-14T00-01-56-018Z.json
+Results saved to output/pr-scores-2025-08-14T08-01-44-440Z.json
 Results saved to output/pr-scores.json
 User scores saved to output/user-scores.js
 PR list saved to output/pr-list.js
