@@ -2957,6 +2957,168 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1630,
+      "title": "PassClass: AI-Powered Password Strength Classifier",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1630",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T14:59:00Z",
+      "mergedAt": "2025-08-15T08:15:53Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1631,
+      "title": "MoodMeet: AI-Powered Meeting Mood Analyzer",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1631",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:02:25Z",
+      "mergedAt": "2025-08-15T08:16:14Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1632,
+      "title": "MemoAI: Adaptive Memory Card Game Powered by Player Behavior",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1632",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:05:17Z",
+      "mergedAt": "2025-08-15T08:17:01Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1633,
+      "title": "MathWhiz: AI-Powered Expression Generator & Step-by-Step Solver",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1633",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:07:46Z",
+      "mergedAt": "2025-08-15T08:17:15Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1634,
+      "title": "KeyAuthAI: Keystroke Dynamics-Based User Authentication",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1634",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:13:21Z",
+      "mergedAt": "2025-08-15T08:17:32Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1635,
+      "title": "FlapAI — Flappy Bird Learns to Fly (with NEAT & DQN)",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1635",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:18:44Z",
+      "mergedAt": "2025-08-15T08:17:45Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1636,
+      "title": "AI DiceMaster: Reinforcement Learning for Dice Games (#1617)",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1636",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:21:28Z",
+      "mergedAt": "2025-08-15T08:17:59Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1637,
+      "title": "TextPersona: Personality Type Predictor from Reflective Prompts",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1637",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:24:59Z",
+      "mergedAt": "2025-08-15T08:18:12Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1638,
+      "title": "TicTacRL: Self-Play Tic-Tac-Toe Agent using Reinforcement Learning",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1638",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:28:30Z",
+      "mergedAt": "2025-08-15T08:18:25Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -7793,6 +7955,54 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-13T16:56:18Z",
       "mergedAt": "2025-08-13T17:39:29Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 391,
+      "title": "Resolved Issue #390: updated the notifications panel",
+      "url": "https://github.com/divi-24/SheSync/pull/391",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T15:33:57Z",
+      "mergedAt": "2025-08-15T06:54:25Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 396,
+      "title": "Resolved Issue #395: Update/search",
+      "url": "https://github.com/divi-24/SheSync/pull/396",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T06:47:10Z",
+      "mergedAt": "2025-08-15T07:13:27Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 398,
+      "title": "Resolved Issue #397: Update/privacy sett",
+      "url": "https://github.com/divi-24/SheSync/pull/398",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T07:06:43Z",
+      "mergedAt": "2025-08-15T07:22:45Z",
       "author": "MaulikGupta27",
       "labels": [
         "SSoC25",
@@ -23251,6 +23461,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-14T18:51:16Z",
       "mergedAt": "2025-08-14T19:30:17Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 565,
+      "title": "Users Page Added in admin Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/565",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T20:24:13Z",
+      "mergedAt": "2025-08-15T04:09:35Z",
       "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
