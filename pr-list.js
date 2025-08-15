@@ -23487,6 +23487,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 567,
+      "title": "Users Page Added in Admin Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/567",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T05:51:01Z",
+      "mergedAt": "2025-08-15T09:38:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
