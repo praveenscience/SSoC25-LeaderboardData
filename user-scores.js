@@ -3701,13 +3701,13 @@ var userScores = {
       }
     },
     "MaulikGupta27": {
-      "totalScore": 1400,
+      "totalScore": 1440,
       "bonusScore": 100,
-      "prCount": 49,
+      "prCount": 50,
       "prsByLevel": {
         "Beginner": 30,
         "Intermediate": 6,
-        "Advanced": 13
+        "Advanced": 14
       }
     },
     "PalakSinha2505": {

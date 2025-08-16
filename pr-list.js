@@ -8013,6 +8013,22 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
+      "number": 401,
+      "title": "Resolved Issue #400: Update/diet plan",
+      "url": "https://github.com/divi-24/SheSync/pull/401",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T06:21:26Z",
+      "mergedAt": "2025-08-16T10:26:19Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 21,
       "title": "docs(contributing): add CONTRIBUTING.md and DEVELOPMENT.md for commun…",
       "url": "https://github.com/k0msenapati/study-sphere/pull/21",
