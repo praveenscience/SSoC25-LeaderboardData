@@ -12292,6 +12292,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 464,
+      "title": "Iris Flower Classification using SVM (Issue #294)  ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/464",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T03:40:31Z",
+      "mergedAt": "2025-08-15T13:11:31Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 465,
       "title": "Issue #295 Student Social Media Addiction Analysis",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/465",
@@ -12417,6 +12433,118 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 485,
+      "title": "Pull Request of QL Commands Directory for RDBMS Reference",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/485",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T12:23:26Z",
+      "mergedAt": "2025-08-15T13:07:37Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 486,
+      "title": "Pull request of Fish Weight Estimation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/486",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T12:28:48Z",
+      "mergedAt": "2025-08-15T13:08:44Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 487,
+      "title": "Pull Request of Flight Delay Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/487",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T12:32:33Z",
+      "mergedAt": "2025-08-15T13:09:17Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 489,
+      "title": "Pull Request of Flower Classification Android App",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/489",
+      "state": "MERGED",
+      "createdAt": "2025-08-14T12:38:02Z",
+      "mergedAt": "2025-08-15T13:10:42Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 493,
+      "title": "Pull Request of GDP Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/493",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T05:51:33Z",
+      "mergedAt": "2025-08-15T13:08:21Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 494,
+      "title": "Pull Request of Gender Pay Gap Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/494",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T05:55:18Z",
+      "mergedAt": "2025-08-15T13:09:58Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 495,
+      "title": "Pull Request of Gesture Control Mouse",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/495",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T05:57:27Z",
+      "mergedAt": "2025-08-15T13:11:47Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -16576,6 +16704,23 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 257,
+      "title": "Added the chatbot to every page",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/257",
+      "state": "MERGED",
+      "createdAt": "2025-08-12T08:18:03Z",
+      "mergedAt": "2025-08-15T15:10:33Z",
+      "author": "shreyamittal10",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 89,
       "title": "issue #38 Add Random quote generator",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/89",
@@ -17481,6 +17626,22 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 573,
+      "title": "Update index.html of portfolio",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/573",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T14:43:27Z",
+      "mergedAt": "2025-08-15T15:37:58Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 576,
       "title": "Readme update",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/576",
@@ -17643,6 +17804,23 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 595,
+      "title": "ADDED  Memory Grid Rush #447",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/595",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T08:22:09Z",
+      "mergedAt": "2025-08-15T16:09:34Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 611,
       "title": "Netflix Clone+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/611",
@@ -17739,6 +17917,22 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 619,
+      "title": "EduGame+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/619",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T17:23:25Z",
+      "mergedAt": "2025-08-15T15:53:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 630,
       "title": "invoice Generator project added",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/630",
@@ -17754,6 +17948,75 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 644,
+      "title": "Mario Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/644",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:12:27Z",
+      "mergedAt": "2025-08-15T16:01:14Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 647,
+      "title": "fanta website clone added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/647",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T20:50:33Z",
+      "mergedAt": "2025-08-15T15:20:17Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 658,
+      "title": "Vaani : AI Assistant",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/658",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T13:40:09Z",
+      "mergedAt": "2025-08-15T16:29:44Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 661,
+      "title": "ADDED Library Book Manager #596",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/661",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T16:20:44Z",
+      "mergedAt": "2025-08-15T16:33:02Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -23503,6 +23766,54 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 573,
+      "title": "Notifications Page added in Admin Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/573",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T14:45:13Z",
+      "mergedAt": "2025-08-15T15:51:45Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 575,
+      "title": "Login Page UI changed",
+      "url": "https://github.com/HarshS16/Civix/pull/575",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T15:18:55Z",
+      "mergedAt": "2025-08-15T16:33:48Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 577,
+      "title": "Settings Page implemented in Admins Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/577",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T15:44:05Z",
+      "mergedAt": "2025-08-15T16:39:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -27151,6 +27462,22 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 573,
+      "title": "Update index.html of portfolio",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/573",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T14:43:27Z",
+      "mergedAt": "2025-08-15T15:37:58Z",
+      "author": "Priyakatariya",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 576,
       "title": "Readme update",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/576",
@@ -27313,6 +27640,23 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 595,
+      "title": "ADDED  Memory Grid Rush #447",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/595",
+      "state": "MERGED",
+      "createdAt": "2025-08-10T08:22:09Z",
+      "mergedAt": "2025-08-15T16:09:34Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 611,
       "title": "Netflix Clone+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/611",
@@ -27409,6 +27753,22 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 619,
+      "title": "EduGame+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/619",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T17:23:25Z",
+      "mergedAt": "2025-08-15T15:53:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 630,
       "title": "invoice Generator project added",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/630",
@@ -27424,6 +27784,75 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 644,
+      "title": "Mario Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/644",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T15:12:27Z",
+      "mergedAt": "2025-08-15T16:01:14Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 647,
+      "title": "fanta website clone added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/647",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T20:50:33Z",
+      "mergedAt": "2025-08-15T15:20:17Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 658,
+      "title": "Vaani : AI Assistant",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/658",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T13:40:09Z",
+      "mergedAt": "2025-08-15T16:29:44Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 661,
+      "title": "ADDED Library Book Manager #596",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/661",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T16:20:44Z",
+      "mergedAt": "2025-08-15T16:33:02Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
