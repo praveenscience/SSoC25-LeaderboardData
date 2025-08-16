@@ -23814,6 +23814,118 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 581,
+      "title": "Dark Mode in Admin Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/581",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T18:39:11Z",
+      "mergedAt": "2025-08-16T08:07:38Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 587,
+      "title": "Dark Mode for Analytics Page",
+      "url": "https://github.com/HarshS16/Civix/pull/587",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T19:55:32Z",
+      "mergedAt": "2025-08-16T08:08:28Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 588,
+      "title": "Dark Mode in Users Page",
+      "url": "https://github.com/HarshS16/Civix/pull/588",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T20:22:23Z",
+      "mergedAt": "2025-08-16T08:09:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 589,
+      "title": "Dark Mode for Documents Page",
+      "url": "https://github.com/HarshS16/Civix/pull/589",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T20:54:53Z",
+      "mergedAt": "2025-08-16T08:11:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 590,
+      "title": "Dark Mode for Notification Page",
+      "url": "https://github.com/HarshS16/Civix/pull/590",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T21:01:09Z",
+      "mergedAt": "2025-08-16T08:12:11Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 591,
+      "title": "Dark Mode for Settings Page ",
+      "url": "https://github.com/HarshS16/Civix/pull/591",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T21:09:12Z",
+      "mergedAt": "2025-08-16T08:13:09Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 592,
+      "title": "fix: improve spacing between SOS, dark mode, and profile buttons",
+      "url": "https://github.com/HarshS16/Civix/pull/592",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T06:06:35Z",
+      "mergedAt": "2025-08-16T08:25:48Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -25575,6 +25687,38 @@ var prs = {
         "SSoC25",
         "Beginner",
         "GSSOC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 394,
+      "title": "pr create automate message added",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/394",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T07:49:39Z",
+      "mergedAt": "2025-08-16T08:26:27Z",
+      "author": "Soumyosish",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 395,
+      "title": "added underline smooth hover effects to footer elements",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/395",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T10:58:03Z",
+      "mergedAt": "2025-08-16T08:29:49Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Beginner"
       ],
       "level": "Beginner",
       "score": 20,
