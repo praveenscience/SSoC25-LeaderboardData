@@ -23942,6 +23942,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 596,
+      "title": "Nearby Service Feature Added",
+      "url": "https://github.com/HarshS16/Civix/pull/596",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T12:13:09Z",
+      "mergedAt": "2025-08-16T16:39:59Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 598,
+      "title": "Features/enhanced admin UI",
+      "url": "https://github.com/HarshS16/Civix/pull/598",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T14:12:22Z",
+      "mergedAt": "2025-08-16T16:40:31Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -25651,6 +25683,7 @@ var prs = {
       "mergedAt": "2025-08-06T18:18:39Z",
       "author": "ravneet27062004",
       "labels": [
+        "bug",
         "SSoC25",
         "Intermediate",
         "GSSOC25"
@@ -25700,6 +25733,7 @@ var prs = {
       "mergedAt": "2025-08-09T08:24:01Z",
       "author": "ravneet27062004",
       "labels": [
+        "bug",
         "SSoC25",
         "Beginner",
         "GSSOC25"
@@ -25717,8 +25751,10 @@ var prs = {
       "mergedAt": "2025-08-16T08:26:27Z",
       "author": "Soumyosish",
       "labels": [
+        "enhancement",
         "SSoC25",
-        "Intermediate"
+        "Intermediate",
+        "GSSOC25"
       ],
       "level": "Intermediate",
       "score": 30,
@@ -25733,8 +25769,10 @@ var prs = {
       "mergedAt": "2025-08-16T08:29:49Z",
       "author": "Ronnit44",
       "labels": [
+        "enhancement",
         "SSoC25",
-        "Beginner"
+        "Beginner",
+        "GSSOC25"
       ],
       "level": "Beginner",
       "score": 20,
