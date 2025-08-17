@@ -2851,11 +2851,11 @@ var userScores = {
       }
     },
     "dinesh-2047": {
-      "totalScore": 820,
+      "totalScore": 860,
       "bonusScore": 100,
-      "prCount": 31,
+      "prCount": 33,
       "prsByLevel": {
-        "Beginner": 22,
+        "Beginner": 24,
         "Intermediate": 8,
         "Advanced": 1
       }
@@ -4421,11 +4421,11 @@ var userScores = {
       }
     },
     "HARSHMOHAN01": {
-      "totalScore": 460,
+      "totalScore": 500,
       "bonusScore": 100,
-      "prCount": 12,
+      "prCount": 14,
       "prsByLevel": {
-        "Beginner": 6,
+        "Beginner": 8,
         "Intermediate": 0,
         "Advanced": 6
       }
@@ -6871,11 +6871,11 @@ var userScores = {
       }
     },
     "ravneet27062004": {
-      "totalScore": 570,
+      "totalScore": 590,
       "bonusScore": 100,
-      "prCount": 20,
+      "prCount": 21,
       "prsByLevel": {
-        "Beginner": 14,
+        "Beginner": 15,
         "Intermediate": 5,
         "Advanced": 1
       }
@@ -7041,12 +7041,12 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 2660,
+      "totalScore": 2760,
       "bonusScore": 100,
-      "prCount": 103,
+      "prCount": 107,
       "prsByLevel": {
-        "Beginner": 65,
-        "Intermediate": 26,
+        "Beginner": 67,
+        "Intermediate": 28,
         "Advanced": 12
       }
     },
@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 2470,
+      "totalScore": 2510,
       "bonusScore": 100,
-      "prCount": 70,
+      "prCount": 71,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 27
+        "Advanced": 28
       }
     },
     "Aagam230": {
@@ -10111,13 +10111,13 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 3380,
+      "totalScore": 3490,
       "bonusScore": 100,
-      "prCount": 93,
+      "prCount": 96,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 28,
-        "Advanced": 57
+        "Intermediate": 29,
+        "Advanced": 59
       }
     },
     "Arihant-Bhandari": {

@@ -12676,6 +12676,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 517,
+      "title": "Implement Stock Impact Regressor by AI Project SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/517",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T20:52:32Z",
+      "mergedAt": "2025-08-17T08:55:25Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -16292,6 +16308,38 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 858,
+      "title": "Adding previous year question paper of BKBIET college #857Add files via upload",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/858",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T17:36:13Z",
+      "mergedAt": "2025-08-17T17:51:17Z",
+      "author": "HARSHMOHAN01",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 859,
+      "title": "#796 PYQ addition of NSUT",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/859",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T18:21:04Z",
+      "mergedAt": "2025-08-17T18:48:15Z",
+      "author": "HARSHMOHAN01",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -18045,6 +18093,40 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 617,
+      "title": "Tetris Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/617",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T16:13:41Z",
+      "mergedAt": "2025-08-17T14:01:42Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 618,
+      "title": "Pong Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/618",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T16:37:01Z",
+      "mergedAt": "2025-08-17T14:04:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 619,
       "title": "EduGame+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/619",
@@ -18106,6 +18188,25 @@ var prs = {
       "labels": [
         "SSoC25",
         "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 649,
+      "title": "Gym website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/649",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T21:49:23Z",
+      "mergedAt": "2025-08-17T14:06:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
         "GSSoC'25",
         "Level 1"
       ],
@@ -24086,6 +24187,54 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 602,
+      "title": "Community Page Added to Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/602",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T18:00:01Z",
+      "mergedAt": "2025-08-17T08:05:20Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 603,
+      "title": "Lost and found page added",
+      "url": "https://github.com/HarshS16/Civix/pull/603",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T19:03:22Z",
+      "mergedAt": "2025-08-17T08:13:08Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 608,
+      "title": "Fix",
+      "url": "https://github.com/HarshS16/Civix/pull/608",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T09:43:55Z",
+      "mergedAt": "2025-08-17T09:45:09Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -25882,6 +26031,23 @@ var prs = {
       "author": "Ronnit44",
       "labels": [
         "enhancement",
+        "SSoC25",
+        "Beginner",
+        "GSSOC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 399,
+      "title": "[ENHANCE]: color enhance of explore btn",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/399",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T10:05:27Z",
+      "mergedAt": "2025-08-17T18:07:26Z",
+      "author": "ravneet27062004",
+      "labels": [
         "SSoC25",
         "Beginner",
         "GSSOC25"
@@ -28063,6 +28229,40 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 617,
+      "title": "Tetris Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/617",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T16:13:41Z",
+      "mergedAt": "2025-08-17T14:01:42Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 618,
+      "title": "Pong Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/618",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T16:37:01Z",
+      "mergedAt": "2025-08-17T14:04:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 619,
       "title": "EduGame+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/619",
@@ -28124,6 +28324,25 @@ var prs = {
       "labels": [
         "SSoC25",
         "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 649,
+      "title": "Gym website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/649",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T21:49:23Z",
+      "mergedAt": "2025-08-17T14:06:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
         "GSSoC'25",
         "Level 1"
       ],
