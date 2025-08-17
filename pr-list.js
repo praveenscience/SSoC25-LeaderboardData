@@ -8029,6 +8029,22 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
+      "number": 402,
+      "title": "blog page created",
+      "url": "https://github.com/divi-24/SheSync/pull/402",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T07:10:47Z",
+      "mergedAt": "2025-08-17T04:52:58Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 21,
       "title": "docs(contributing): add CONTRIBUTING.md and DEVELOPMENT.md for commun…",
       "url": "https://github.com/k0msenapati/study-sphere/pull/21",

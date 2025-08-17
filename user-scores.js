@@ -1141,12 +1141,12 @@ var userScores = {
       }
     },
     "Bavanetha27": {
-      "totalScore": 550,
+      "totalScore": 580,
       "bonusScore": 100,
-      "prCount": 14,
+      "prCount": 15,
       "prsByLevel": {
         "Beginner": 3,
-        "Intermediate": 5,
+        "Intermediate": 6,
         "Advanced": 6
       }
     },
