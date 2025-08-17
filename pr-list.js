@@ -12564,6 +12564,102 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 500,
+      "title": "Added Crime Report Classifier with Training & Prediction Scripts ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/500",
+      "state": "MERGED",
+      "createdAt": "2025-08-15T21:45:57Z",
+      "mergedAt": "2025-08-17T03:36:06Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 502,
+      "title": "Pull Request of Github Topic Scrapper",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/502",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T09:13:49Z",
+      "mergedAt": "2025-08-17T03:34:57Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 503,
+      "title": "Pull Request of Handwritten Character Recognition",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/503",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T09:17:07Z",
+      "mergedAt": "2025-08-17T03:35:34Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 504,
+      "title": "Pull Request of Handwritten Eqn Solver using CNN",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/504",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T09:22:55Z",
+      "mergedAt": "2025-08-17T03:37:05Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 511,
+      "title": "Added Profitability Classifier (High vs Low Profit)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/511",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T16:12:13Z",
+      "mergedAt": "2025-08-17T03:39:40Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 513,
+      "title": "Added Company Valuation Classifier with Preprocessing, Training, and Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/513",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T16:29:33Z",
+      "mergedAt": "2025-08-17T03:40:11Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",

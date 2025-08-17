@@ -7351,13 +7351,13 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 3170,
+      "totalScore": 3290,
       "bonusScore": 100,
-      "prCount": 85,
+      "prCount": 88,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 33,
-        "Advanced": 52
+        "Advanced": 55
       }
     },
     "ayushjava07": {
@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 2350,
+      "totalScore": 2470,
       "bonusScore": 100,
-      "prCount": 67,
+      "prCount": 70,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 24
+        "Advanced": 27
       }
     },
     "Aagam230": {
