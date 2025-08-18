@@ -34,6 +34,22 @@ var prs = {
       "project": "amitkumardemo/EdgeCareer"
     },
     {
+      "number": 72,
+      "title": "Fix: Scrollup Icon button Arrow not visible in Light Mode",
+      "url": "https://github.com/amitkumardemo/EdgeCareer/pull/72",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T06:41:25Z",
+      "mergedAt": "2025-06-18T09:13:32Z",
+      "author": "ZarrarPeshimam",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "amitkumardemo/EdgeCareer"
+    },
+    {
       "number": 23,
       "title": "Implemented a skip button in the preview guide of the website",
       "url": "https://github.com/mryashsinghal/Resume-Builder/pull/23",
@@ -18215,6 +18231,25 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 650,
+      "title": "Salon Website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/650",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T21:58:40Z",
+      "mergedAt": "2025-08-18T15:14:31Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 658,
       "title": "Vaani : AI Assistant",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/658",
@@ -18239,6 +18274,40 @@ var prs = {
       "createdAt": "2025-08-15T16:20:44Z",
       "mergedAt": "2025-08-15T16:33:02Z",
       "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 680,
+      "title": "Tank Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/680",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T14:18:00Z",
+      "mergedAt": "2025-08-18T15:17:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 687,
+      "title": "Bug Fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/687",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T12:32:35Z",
+      "mergedAt": "2025-08-18T14:55:09Z",
+      "author": "Verma-MK",
       "labels": [
         "SSoC25",
         "Beginner",
@@ -28367,6 +28436,25 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 650,
+      "title": "Salon Website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/650",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T21:58:40Z",
+      "mergedAt": "2025-08-18T15:14:31Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 658,
       "title": "Vaani : AI Assistant",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/658",
@@ -28391,6 +28479,40 @@ var prs = {
       "createdAt": "2025-08-15T16:20:44Z",
       "mergedAt": "2025-08-15T16:33:02Z",
       "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 680,
+      "title": "Tank Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/680",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T14:18:00Z",
+      "mergedAt": "2025-08-18T15:17:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 687,
+      "title": "Bug Fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/687",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T12:32:35Z",
+      "mergedAt": "2025-08-18T14:55:09Z",
+      "author": "Verma-MK",
       "labels": [
         "SSoC25",
         "Beginner",
