@@ -19769,6 +19769,22 @@ var prs = {
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
+      "number": 256,
+      "title": "Bug fix",
+      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/256",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T09:59:10Z",
+      "mergedAt": "2025-08-17T15:45:43Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
       "number": 10,
       "title": "SECURITY.md",
       "url": "https://github.com/Venuchander/fintrack/pull/10",
