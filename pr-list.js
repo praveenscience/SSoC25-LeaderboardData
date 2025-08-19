@@ -12708,6 +12708,150 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 519,
+      "title": "Pull Request of Logistic Regression Model for Diabetes Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/519",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T10:01:36Z",
+      "mergedAt": "2025-08-19T05:21:52Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 520,
+      "title": "Pull Request of Long Short-Term Memory (LSTM) from Scratch",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/520",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T10:05:22Z",
+      "mergedAt": "2025-08-19T05:22:18Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 522,
+      "title": "Pull Request: Medical Help Chatbot using Dialogflow",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/522",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T10:13:39Z",
+      "mergedAt": "2025-08-19T05:22:45Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 527,
+      "title": "Added Blood Donation Volume Prediction ML Pipeline SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/527",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T13:29:30Z",
+      "mergedAt": "2025-08-19T05:24:22Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 531,
+      "title": "Pull Request: Instagram Reach Predictor Model",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/531",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T08:22:48Z",
+      "mergedAt": "2025-08-19T05:24:53Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 532,
+      "title": "Pull Request: Meteorite Landings Data Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/532",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T08:25:55Z",
+      "mergedAt": "2025-08-19T05:25:19Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 533,
+      "title": "Pull Request: Movie Recommendation System",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/533",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T08:28:53Z",
+      "mergedAt": "2025-08-19T05:26:31Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 534,
+      "title": "Pull Request – Movie Recommendation System",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/534",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T08:31:28Z",
+      "mergedAt": "2025-08-19T05:27:00Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 536,
+      "title": "Added Ear Discomfort Predictor (ML Model for Safe Headphone Usage)  SSoC25",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/536",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T15:59:20Z",
+      "mergedAt": "2025-08-19T05:27:26Z",
+      "author": "giriraj-roy-7723",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -20160,6 +20304,22 @@ var prs = {
       "project": "venuchander/fintrack"
     },
     {
+      "number": 94,
+      "title": "Added profile photo avatar for chatbot page",
+      "url": "https://github.com/Venuchander/fintrack/pull/94",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T20:46:05Z",
+      "mergedAt": "2025-08-19T07:14:07Z",
+      "author": "VJLIVE",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "venuchander/fintrack"
+    },
+    {
       "number": 28,
       "title": "ISSUE NUMBER:24   feat(theme): add global dark/light mode toggle across all UI pages",
       "url": "https://github.com/sailaja-adapa/Vipreshana/pull/28",
@@ -24320,6 +24480,70 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 612,
+      "title": "Dark Mode in Community Holidays",
+      "url": "https://github.com/HarshS16/Civix/pull/612",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T19:27:05Z",
+      "mergedAt": "2025-08-18T17:11:48Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 613,
+      "title": "Dark Mode in Nearby Services",
+      "url": "https://github.com/HarshS16/Civix/pull/613",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T19:43:42Z",
+      "mergedAt": "2025-08-18T17:30:18Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 614,
+      "title": "Dark Mode in Lost & Found Page",
+      "url": "https://github.com/HarshS16/Civix/pull/614",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T19:57:34Z",
+      "mergedAt": "2025-08-18T17:34:00Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 622,
+      "title": "Align get started and watch demo buttons",
+      "url": "https://github.com/HarshS16/Civix/pull/622",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T17:06:57Z",
+      "mergedAt": "2025-08-18T17:40:20Z",
+      "author": "Suhaniisingh05",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -26131,6 +26355,23 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-16T10:05:27Z",
       "mergedAt": "2025-08-17T18:07:26Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSOC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 415,
+      "title": "[ENHANCE]:activated learn more btn ",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/415",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T15:40:24Z",
+      "mergedAt": "2025-08-18T17:51:57Z",
       "author": "ravneet27062004",
       "labels": [
         "SSoC25",

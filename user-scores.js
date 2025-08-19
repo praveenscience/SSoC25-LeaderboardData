@@ -2751,11 +2751,11 @@ var userScores = {
       }
     },
     "VJLIVE": {
-      "totalScore": 930,
+      "totalScore": 950,
       "bonusScore": 100,
-      "prCount": 30,
+      "prCount": 31,
       "prsByLevel": {
-        "Beginner": 13,
+        "Beginner": 14,
         "Intermediate": 11,
         "Advanced": 6
       }
@@ -6871,11 +6871,11 @@ var userScores = {
       }
     },
     "ravneet27062004": {
-      "totalScore": 590,
+      "totalScore": 610,
       "bonusScore": 100,
-      "prCount": 21,
+      "prCount": 22,
       "prsByLevel": {
-        "Beginner": 15,
+        "Beginner": 16,
         "Intermediate": 5,
         "Advanced": 1
       }
@@ -7351,13 +7351,13 @@ var userScores = {
       }
     },
     "keshripritesh": {
-      "totalScore": 3290,
+      "totalScore": 3570,
       "bonusScore": 100,
-      "prCount": 88,
+      "prCount": 95,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 33,
-        "Advanced": 55
+        "Advanced": 62
       }
     },
     "ayushjava07": {
@@ -8451,13 +8451,13 @@ var userScores = {
       }
     },
     "giriraj-roy-7723": {
-      "totalScore": 2510,
+      "totalScore": 2590,
       "bonusScore": 100,
-      "prCount": 71,
+      "prCount": 73,
       "prsByLevel": {
         "Beginner": 0,
         "Intermediate": 43,
-        "Advanced": 28
+        "Advanced": 30
       }
     },
     "Aagam230": {
@@ -9421,11 +9421,11 @@ var userScores = {
       }
     },
     "Suhaniisingh05": {
-      "totalScore": 220,
+      "totalScore": 240,
       "bonusScore": 100,
-      "prCount": 6,
+      "prCount": 7,
       "prsByLevel": {
-        "Beginner": 6,
+        "Beginner": 7,
         "Intermediate": 0,
         "Advanced": 0
       }
@@ -10111,12 +10111,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 3490,
+      "totalScore": 3580,
       "bonusScore": 100,
-      "prCount": 96,
+      "prCount": 99,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 29,
+        "Intermediate": 32,
         "Advanced": 59
       }
     },
