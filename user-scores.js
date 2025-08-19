@@ -10111,12 +10111,12 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 3580,
+      "totalScore": 3610,
       "bonusScore": 100,
-      "prCount": 99,
+      "prCount": 100,
       "prsByLevel": {
         "Beginner": 8,
-        "Intermediate": 32,
+        "Intermediate": 33,
         "Advanced": 59
       }
     },

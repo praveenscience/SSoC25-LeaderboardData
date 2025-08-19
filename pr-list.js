@@ -24544,6 +24544,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 623,
+      "title": "Transport Page Added",
+      "url": "https://github.com/HarshS16/Civix/pull/623",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T19:28:39Z",
+      "mergedAt": "2025-08-19T13:55:17Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
