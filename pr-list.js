@@ -16500,6 +16500,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 861,
+      "title": "Added PYQs for Delhi University Sem 5 and 6",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/861",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T00:02:30Z",
+      "mergedAt": "2025-08-20T04:24:53Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -24557,6 +24573,54 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 625,
+      "title": "Civic Stats page added",
+      "url": "https://github.com/HarshS16/Civix/pull/625",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T15:31:16Z",
+      "mergedAt": "2025-08-19T15:35:35Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 626,
+      "title": "Implementation of Modular Election Information Card within Dashboard Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/626",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:29:48Z",
+      "mergedAt": "2025-08-19T18:31:53Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 627,
+      "title": "Integration of Government Schemes Page within Dashboard Ecosystem",
+      "url": "https://github.com/HarshS16/Civix/pull/627",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:30:49Z",
+      "mergedAt": "2025-08-20T07:16:31Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "HarshS16/Civix"
     },
     {
