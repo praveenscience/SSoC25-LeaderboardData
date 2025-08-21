@@ -322,6 +322,38 @@ var prs = {
       "project": "mryashsinghal/Resume-Builder"
     },
     {
+      "number": 146,
+      "title": "ENHANCE : color change of the h1 heading on main page.",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/146",
+      "state": "MERGED",
+      "createdAt": "2025-08-08T11:01:37Z",
+      "mergedAt": "2025-08-21T11:42:25Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 147,
+      "title": "ENHANCE : footer enhancement ",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/147",
+      "state": "MERGED",
+      "createdAt": "2025-08-09T19:42:11Z",
+      "mergedAt": "2025-08-21T11:46:55Z",
+      "author": "ravneet27062004",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
       "number": 352,
       "title": "Added social media links to Contact Us page",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/352",
@@ -1614,6 +1646,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "SumitGorai01/TechieBlog"
+    },
+    {
+      "number": 620,
+      "title": "Newsletter resolves issue#574",
+      "url": "https://github.com/SumitGorai01/TechieBlog/pull/620",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T20:08:36Z",
+      "mergedAt": "2025-08-21T10:57:40Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "SumitGorai01/TechieBlog"
     },
     {
@@ -8367,6 +8415,134 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
+      "number": 406,
+      "title": "Resolved Issue #405: updated the sidebar activelink",
+      "url": "https://github.com/divi-24/SheSync/pull/406",
+      "state": "MERGED",
+      "createdAt": "2025-08-17T19:02:04Z",
+      "mergedAt": "2025-08-21T08:38:35Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 420,
+      "title": "Improve the health management section",
+      "url": "https://github.com/divi-24/SheSync/pull/420",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:25:50Z",
+      "mergedAt": "2025-08-21T15:36:47Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 421,
+      "title": "Improve the footer",
+      "url": "https://github.com/divi-24/SheSync/pull/421",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:35:34Z",
+      "mergedAt": "2025-08-21T15:41:14Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 422,
+      "title": "Add gradient to sign up button",
+      "url": "https://github.com/divi-24/SheSync/pull/422",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:42:54Z",
+      "mergedAt": "2025-08-21T15:47:07Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 423,
+      "title": "improve the faq",
+      "url": "https://github.com/divi-24/SheSync/pull/423",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:46:22Z",
+      "mergedAt": "2025-08-21T15:50:15Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 424,
+      "title": "Code of conduct.md",
+      "url": "https://github.com/divi-24/SheSync/pull/424",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:49:05Z",
+      "mergedAt": "2025-08-21T15:50:52Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 427,
+      "title": "Improve the mission section",
+      "url": "https://github.com/divi-24/SheSync/pull/427",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T16:27:27Z",
+      "mergedAt": "2025-08-21T16:51:26Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
+      "number": 428,
+      "title": "Improve user say section",
+      "url": "https://github.com/divi-24/SheSync/pull/428",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T16:29:03Z",
+      "mergedAt": "2025-08-21T16:51:58Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "divi-24/SheSync"
+    },
+    {
       "number": 21,
       "title": "docs(contributing): add CONTRIBUTING.md and DEVELOPMENT.md for commun…",
       "url": "https://github.com/k0msenapati/study-sphere/pull/21",
@@ -9919,6 +10095,54 @@ var prs = {
       "project": "Fenirok/Earthquake_app"
     },
     {
+      "number": 8,
+      "title": "docs: add CONTRIBUTING.md file with community guidelines",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/8",
+      "state": "MERGED",
+      "createdAt": "2025-06-14T17:58:04Z",
+      "mergedAt": "2025-06-15T03:30:14Z",
+      "author": "jyotsna030",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 13,
+      "title": "Added License",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/13",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T05:38:35Z",
+      "mergedAt": "2025-06-15T05:40:12Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 14,
+      "title": "Added security.md",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/14",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T05:51:19Z",
+      "mergedAt": "2025-06-15T05:54:20Z",
+      "author": "Dipanita45",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 16,
       "title": "Image Text Detection using Tesseract OCR",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/16",
@@ -9935,6 +10159,23 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 18,
+      "title": "updated issue reporting section with email and refined versions",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/18",
+      "state": "MERGED",
+      "createdAt": "2025-06-15T07:12:57Z",
+      "mergedAt": "2025-06-15T07:59:33Z",
+      "author": "Dhananjay4yu",
+      "labels": [
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -10067,6 +10308,38 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 42,
+      "title": "Enhanced project README for clarity and structure",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/42",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T16:14:06Z",
+      "mergedAt": "2025-06-17T07:22:28Z",
+      "author": "jyotsna030",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 43,
+      "title": "Add Environment Setup instructions to README",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/43",
+      "state": "MERGED",
+      "createdAt": "2025-06-16T18:09:59Z",
+      "mergedAt": "2025-06-17T01:55:27Z",
+      "author": "roushnisareen",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 44,
       "title": "UI for finance",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/44",
@@ -10160,6 +10433,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 56,
+      "title": "Add requirements.txt with core dependencies for the repository",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/56",
+      "state": "MERGED",
+      "createdAt": "2025-06-17T12:06:17Z",
+      "mergedAt": "2025-06-17T12:31:55Z",
+      "author": "AshutoshSingh058",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -10304,6 +10593,25 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 80,
+      "title": "Enhanced readme #79",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/80",
+      "state": "MERGED",
+      "createdAt": "2025-06-18T17:25:55Z",
+      "mergedAt": "2025-06-18T17:29:46Z",
+      "author": "AskitEndo",
+      "labels": [
+        "documentation",
+        "enhancement",
+        "good first issue",
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -10498,6 +10806,22 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 110,
+      "title": "readme updates #108",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/110",
+      "state": "MERGED",
+      "createdAt": "2025-06-22T18:55:19Z",
+      "mergedAt": "2025-06-23T12:47:10Z",
+      "author": "AskitEndo",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -10886,6 +11210,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 165,
+      "title": "Bitcoin",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/165",
+      "state": "MERGED",
+      "createdAt": "2025-06-28T16:39:14Z",
+      "mergedAt": "2025-06-29T04:33:35Z",
+      "author": "GauravKarakoti",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 166,
       "title": "Pull request of Nasa Asteriod Dataset",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/166",
@@ -11107,6 +11447,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 193,
+      "title": "improve the ui of market rate analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/193",
+      "state": "MERGED",
+      "createdAt": "2025-07-07T19:08:19Z",
+      "mergedAt": "2025-07-08T06:16:43Z",
+      "author": "Alam9835",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -12326,6 +12682,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 430,
+      "title": "Pull request of Random Oversampler",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/430",
+      "state": "MERGED",
+      "createdAt": "2025-08-11T19:36:41Z",
+      "mergedAt": "2025-08-12T04:09:40Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 431,
       "title": "Pull Request of Content based recommendation system",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/431",
@@ -12966,6 +13338,22 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 506,
+      "title": "Pull Request of IMDB Box Office Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/506",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T09:28:16Z",
+      "mergedAt": "2025-08-17T03:37:31Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 511,
       "title": "Added Profitability Classifier (High vs Low Profit)",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/511",
@@ -13437,6 +13825,38 @@ var prs = {
       "createdAt": "2025-08-20T18:14:46Z",
       "mergedAt": "2025-08-20T18:27:35Z",
       "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 588,
+      "title": "Pull Request of Uber Data Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/588",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:36:40Z",
+      "mergedAt": "2025-08-21T15:23:08Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 589,
+      "title": "Pull Request: Analysis of Temperature Rise in PMSM",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/589",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:40:28Z",
+      "mergedAt": "2025-08-21T15:22:46Z",
+      "author": "keshripritesh",
       "labels": [
         "SSoC25",
         "Intermediate"
@@ -17110,6 +17530,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 863,
+      "title": "added Electives for DU",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/863",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T17:50:32Z",
+      "mergedAt": "2025-08-21T13:48:47Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -19091,6 +19527,23 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 677,
+      "title": "ADDED Bubble Pop Game #676",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/677",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T15:49:28Z",
+      "mergedAt": "2025-08-21T15:09:59Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 680,
       "title": "Tank Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/680",
@@ -19156,6 +19609,98 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 719,
+      "title": "agency website added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/719",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T20:37:00Z",
+      "mergedAt": "2025-08-21T15:32:48Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 720,
+      "title": "Ram Website Added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/720",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T20:53:40Z",
+      "mergedAt": "2025-08-21T15:35:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 722,
+      "title": "Lagunitas website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/722",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T21:05:16Z",
+      "mergedAt": "2025-08-21T15:39:25Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 723,
+      "title": "Pirates Website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/723",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T21:32:31Z",
+      "mergedAt": "2025-08-21T15:43:01Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 724,
+      "title": "Christmas website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/724",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T21:46:57Z",
+      "mergedAt": "2025-08-21T15:45:55Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -25321,6 +25866,38 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 632,
+      "title": "terms ui",
+      "url": "https://github.com/HarshS16/Civix/pull/632",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:30:47Z",
+      "mergedAt": "2025-08-21T13:36:19Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 635,
+      "title": "Integration of Context-Driven Adaptive Dark Mode Rendering in Transport Module with Persistent Hydration & WCAG-Compliant Palette Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/635",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T11:28:40Z",
+      "mergedAt": "2025-08-21T13:43:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -27223,6 +27800,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 430,
+      "title": "logoui",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/430",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T19:08:24Z",
+      "mergedAt": "2025-08-21T13:58:46Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Bhavya1352/eventmappr"
     },
     {
@@ -29609,6 +30202,23 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 677,
+      "title": "ADDED Bubble Pop Game #676",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/677",
+      "state": "MERGED",
+      "createdAt": "2025-08-16T15:49:28Z",
+      "mergedAt": "2025-08-21T15:09:59Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 680,
       "title": "Tank Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/680",
@@ -29674,6 +30284,98 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 719,
+      "title": "agency website added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/719",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T20:37:00Z",
+      "mergedAt": "2025-08-21T15:32:48Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 720,
+      "title": "Ram Website Added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/720",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T20:53:40Z",
+      "mergedAt": "2025-08-21T15:35:12Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 722,
+      "title": "Lagunitas website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/722",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T21:05:16Z",
+      "mergedAt": "2025-08-21T15:39:25Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 723,
+      "title": "Pirates Website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/723",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T21:32:31Z",
+      "mergedAt": "2025-08-21T15:43:01Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 724,
+      "title": "Christmas website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/724",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T21:46:57Z",
+      "mergedAt": "2025-08-21T15:45:55Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
