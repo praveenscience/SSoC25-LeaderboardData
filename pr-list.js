@@ -3135,6 +3135,312 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1674,
+      "title": "Implementation of Cartesian Tree Data Structure",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1674",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:04:57Z",
+      "mergedAt": "2025-08-20T10:40:18Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1675,
+      "title": "Implementation of Disjoint Sparse Table Data Structure",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1675",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:06:52Z",
+      "mergedAt": "2025-08-20T10:40:01Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1676,
+      "title": "Implementation of Euler Tour Technique",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1676",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:09:03Z",
+      "mergedAt": "2025-08-20T10:39:48Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1677,
+      "title": "Implementation of Extended Euclidean Algorithm",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1677",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:14:11Z",
+      "mergedAt": "2025-08-20T10:39:33Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1678,
+      "title": "Implementation of Fibonacci Heap Data Structure",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1678",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:15:35Z",
+      "mergedAt": "2025-08-20T10:39:20Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1679,
+      "title": "Implementation of Genetic Algorithm Framework",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1679",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:17:33Z",
+      "mergedAt": "2025-08-20T10:39:05Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1680,
+      "title": "Implementation of Beam Search Algorithm",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1680",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:26:29Z",
+      "mergedAt": "2025-08-20T10:38:53Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1681,
+      "title": "Implementation of B-Tree Data Structure",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1681",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:30:12Z",
+      "mergedAt": "2025-08-20T10:38:40Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1682,
+      "title": "Implementation of Chinese Remainder Theorem Algorithm",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1682",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:46:39Z",
+      "mergedAt": "2025-08-20T10:38:23Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1683,
+      "title": "Implementation of Articulation Points and Bridges Algorithm",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1683",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:47:53Z",
+      "mergedAt": "2025-08-20T10:38:12Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1684,
+      "title": "Automated Machine Learning Engine with Universal CSV Support and Interactive UI",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1684",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:31:01Z",
+      "mergedAt": "2025-08-20T10:37:51Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1685,
+      "title": "AI-Powered Python Code Cleaner and Optimizer with AST Analysis",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1685",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:32:17Z",
+      "mergedAt": "2025-08-20T10:37:38Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1686,
+      "title": "Real-Time Voice Emotion Analyzer with Music Recommendation System",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1686",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:35:12Z",
+      "mergedAt": "2025-08-20T10:36:53Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1687,
+      "title": "AI-Powered Habit Tracking with Pattern Detection and Predictive Insights",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1687",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:36:57Z",
+      "mergedAt": "2025-08-20T10:36:33Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1688,
+      "title": "Real-time Speech Accent Analysis and Feedback System",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1688",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:38:19Z",
+      "mergedAt": "2025-08-20T10:36:09Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1689,
+      "title": "Logic Puzzle Solver with Natural Language Processing and Symbolic Reasoning",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1689",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:39:26Z",
+      "mergedAt": "2025-08-20T10:35:52Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1690,
+      "title": "AI Flashcard Generator from PDFs with NLP-Powered Question Generation",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1690",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T19:40:28Z",
+      "mergedAt": "2025-08-20T10:35:27Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -12852,6 +13158,294 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 545,
+      "title": "Pull Request of Naive Baye's Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/545",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T09:50:55Z",
+      "mergedAt": "2025-08-20T18:01:24Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 546,
+      "title": "Pull Request – NLTK: A Guide to Natural Language Processing",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/546",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T09:53:07Z",
+      "mergedAt": "2025-08-20T18:03:13Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 547,
+      "title": "Pull Request – Object Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/547",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T09:55:16Z",
+      "mergedAt": "2025-08-20T18:03:39Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 548,
+      "title": "Pull Request – Rock Paper Scissors Python Game",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/548",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T09:58:11Z",
+      "mergedAt": "2025-08-20T18:04:12Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 555,
+      "title": "Pull Request – PyScript Tutorial",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/555",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T13:25:51Z",
+      "mergedAt": "2025-08-20T18:04:45Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 556,
+      "title": "Pull Request – PyTorch Tabular Short Tutorial",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/556",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T13:28:32Z",
+      "mergedAt": "2025-08-20T18:05:14Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 558,
+      "title": "Pull Request –Random Forest Test",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/558",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T13:31:07Z",
+      "mergedAt": "2025-08-20T18:06:18Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 559,
+      "title": "Pull Request - Skin Disease Predictor",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/559",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T13:34:40Z",
+      "mergedAt": "2025-08-20T18:06:46Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 563,
+      "title": "SSoC25 : Titanic Survival (Data Exploration, Data Cleaning, EDA) (issue#554)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/563",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:03:52Z",
+      "mergedAt": "2025-08-20T18:08:08Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 566,
+      "title": "SSOC25: Add Neural Architecture Search with Reinforcement Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/566",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:00:32Z",
+      "mergedAt": "2025-08-20T18:07:39Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 567,
+      "title": "SSOC25: Add Neural Turing Machines Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/567",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:02:09Z",
+      "mergedAt": "2025-08-20T18:17:37Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 568,
+      "title": "SSOC25: Add Capsule Networks Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/568",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:03:09Z",
+      "mergedAt": "2025-08-20T18:20:35Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 569,
+      "title": "SSOC25: Add Generative Adversarial Networks Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/569",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:03:53Z",
+      "mergedAt": "2025-08-20T18:21:35Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 570,
+      "title": "SSOC25: Add Variational Autoencoders Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/570",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:04:57Z",
+      "mergedAt": "2025-08-20T18:22:02Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 571,
+      "title": "SSOC25: Add Neural Style Transfer Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/571",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:08:37Z",
+      "mergedAt": "2025-08-20T18:22:33Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 572,
+      "title": "SSOC25: Add Reinforcement Learning Implementation",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/572",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:09:17Z",
+      "mergedAt": "2025-08-20T18:23:04Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 573,
+      "title": "SSOC25: Add Graph Neural Networks Implementation ",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/573",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:12:08Z",
+      "mergedAt": "2025-08-20T18:23:33Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 575,
+      "title": "SSOC25: Quantum Machine Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/575",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:14:46Z",
+      "mergedAt": "2025-08-20T18:27:35Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -16869,6 +17463,23 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
+      "number": 222,
+      "title": "Add \"FAQ\" Link to Header Navigation (Open Dedicated FAQ Page)",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/222",
+      "state": "MERGED",
+      "createdAt": "2025-08-01T12:09:23Z",
+      "mergedAt": "2025-08-20T13:12:50Z",
+      "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
       "number": 230,
       "title": "report fraud page added",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/230",
@@ -17036,6 +17647,23 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 253,
+      "title": "Resolved Issue #220 : Added the cross in the cart list",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/253",
+      "state": "MERGED",
+      "createdAt": "2025-08-07T06:10:21Z",
+      "mergedAt": "2025-08-12T14:06:19Z",
+      "author": "MaulikGupta27",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -18372,6 +19000,25 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 648,
+      "title": "Ruchii tiffin website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/648",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T21:40:24Z",
+      "mergedAt": "2025-08-20T16:01:24Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 649,
       "title": "Gym website added ",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/649",
@@ -18475,6 +19122,40 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 715,
+      "title": "Archery Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/715",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:06:23Z",
+      "mergedAt": "2025-08-20T16:18:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 716,
+      "title": "KBC Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/716",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:15:01Z",
+      "mergedAt": "2025-08-20T16:21:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -24624,6 +25305,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 628,
+      "title": "Added Vehicles Management Module with External RC & Traffic Fine Links",
+      "url": "https://github.com/HarshS16/Civix/pull/628",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T10:31:49Z",
+      "mergedAt": "2025-08-20T12:55:51Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -26393,6 +27090,23 @@ var prs = {
       "project": "Bhavya1352/eventmappr"
     },
     {
+      "number": 390,
+      "title": "user backend added",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/390",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T20:34:38Z",
+      "mergedAt": "2025-08-14T11:54:34Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Advanced",
+        "GSSOC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
       "number": 394,
       "title": "pr create automate message added",
       "url": "https://github.com/Bhavya1352/eventmappr/pull/394",
@@ -26446,6 +27160,23 @@ var prs = {
       "project": "Bhavya1352/eventmappr"
     },
     {
+      "number": 414,
+      "title": "event schema added",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/414",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T09:32:13Z",
+      "mergedAt": "2025-08-18T17:51:04Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Advanced",
+        "GSSOC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
       "number": 415,
       "title": "[ENHANCE]:activated learn more btn ",
       "url": "https://github.com/Bhavya1352/eventmappr/pull/415",
@@ -26460,6 +27191,38 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 426,
+      "title": "contactpageui",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/426",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T16:03:55Z",
+      "mergedAt": "2025-08-20T17:06:02Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 428,
+      "title": "currency ui",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/428",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T18:14:37Z",
+      "mergedAt": "2025-08-20T18:44:28Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Bhavya1352/eventmappr"
     },
     {
@@ -27431,6 +28194,23 @@ var prs = {
       "mergedAt": "2025-07-15T01:54:13Z",
       "author": "SK8-infi",
       "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "soumya813/Notes-App"
+    },
+    {
+      "number": 79,
+      "title": "docs/added contributing.md file",
+      "url": "https://github.com/soumya813/Notes-App/pull/79",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T12:31:30Z",
+      "mergedAt": "2025-08-20T13:19:33Z",
+      "author": "VJLIVE",
+      "labels": [
+        "documentation",
         "Beginner",
         "SSoC25"
       ],
@@ -28738,6 +29518,25 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 648,
+      "title": "Ruchii tiffin website added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/648",
+      "state": "MERGED",
+      "createdAt": "2025-08-13T21:40:24Z",
+      "mergedAt": "2025-08-20T16:01:24Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 649,
       "title": "Gym website added ",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/649",
@@ -28841,6 +29640,40 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 715,
+      "title": "Archery Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/715",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:06:23Z",
+      "mergedAt": "2025-08-20T16:18:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 716,
+      "title": "KBC Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/716",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:15:01Z",
+      "mergedAt": "2025-08-20T16:21:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
