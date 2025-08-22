@@ -17546,6 +17546,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 864,
+      "title": "added academic-rules for du",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/864",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T08:04:33Z",
+      "mergedAt": "2025-08-22T11:39:19Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -22588,6 +22604,22 @@ var prs = {
       "project": "sailaja-adapa/Vipreshana"
     },
     {
+      "number": 266,
+      "title": "FIX #263: Remove the extra toggle button on navbar",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/266",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T10:28:18Z",
+      "mergedAt": "2025-08-22T16:55:27Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
       "number": 7,
       "title": "Add SECURITY.md with disclosure policy and vulnerability scope",
       "url": "https://github.com/surjeetsinhthakur123/Text-Encryption-And-Decryption-Using-Rsa-Algorithm-and-Caesar-Ciphar-Tool/pull/7",
@@ -25994,6 +26026,198 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 655,
+      "title": "Userprofilevalidation",
+      "url": "https://github.com/HarshS16/Civix/pull/655",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T18:18:07Z",
+      "mergedAt": "2025-08-22T08:04:42Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 658,
+      "title": "Reportvaliadtion",
+      "url": "https://github.com/HarshS16/Civix/pull/658",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T07:54:59Z",
+      "mergedAt": "2025-08-22T08:20:38Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 659,
+      "title": "lost improve",
+      "url": "https://github.com/HarshS16/Civix/pull/659",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T09:13:59Z",
+      "mergedAt": "2025-08-22T12:18:45Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 664,
+      "title": "Send location to Emergency Contact Page ",
+      "url": "https://github.com/HarshS16/Civix/pull/664",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T09:40:31Z",
+      "mergedAt": "2025-08-22T12:25:57Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 665,
+      "title": "Medicalinfo Page ",
+      "url": "https://github.com/HarshS16/Civix/pull/665",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T10:07:38Z",
+      "mergedAt": "2025-08-22T12:26:59Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 666,
+      "title": "Safeword Page Implementation",
+      "url": "https://github.com/HarshS16/Civix/pull/666",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T10:24:47Z",
+      "mergedAt": "2025-08-22T13:24:40Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 667,
+      "title": "Recordaudio Feature Implementation",
+      "url": "https://github.com/HarshS16/Civix/pull/667",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T10:35:17Z",
+      "mergedAt": "2025-08-22T13:28:21Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 668,
+      "title": "Chatroomback",
+      "url": "https://github.com/HarshS16/Civix/pull/668",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T10:50:05Z",
+      "mergedAt": "2025-08-22T13:28:49Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 669,
+      "title": "FIX #654: Fix cutoff character in voting page",
+      "url": "https://github.com/HarshS16/Civix/pull/669",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T10:50:46Z",
+      "mergedAt": "2025-08-22T13:29:18Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 670,
+      "title": "Integration of Real-Time Utility Service Schedules & Outage Notifications for Water and Electricity",
+      "url": "https://github.com/HarshS16/Civix/pull/670",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T13:51:58Z",
+      "mergedAt": "2025-08-22T17:17:54Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 675,
+      "title": "medicalinfoui",
+      "url": "https://github.com/HarshS16/Civix/pull/675",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T16:33:36Z",
+      "mergedAt": "2025-08-22T17:18:29Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 678,
+      "title": "Holidayerror",
+      "url": "https://github.com/HarshS16/Civix/pull/678",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T16:51:59Z",
+      "mergedAt": "2025-08-22T17:24:05Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -27905,6 +28129,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-20T19:08:24Z",
       "mergedAt": "2025-08-21T13:58:46Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 435,
+      "title": "removed duplicate button",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/435",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:02:11Z",
+      "mergedAt": "2025-08-22T13:49:24Z",
       "author": "dishaagrawalcodes",
       "labels": [
         "SSoC25",
