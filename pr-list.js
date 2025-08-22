@@ -25898,6 +25898,102 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 637,
+      "title": "Civicui",
+      "url": "https://github.com/HarshS16/Civix/pull/637",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:51:50Z",
+      "mergedAt": "2025-08-21T17:06:15Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 638,
+      "title": "Integration of Context-Driven Adaptive Dark Mode Rendering for Civic Statistics Page Leveraging Persistent State Hydration, Atomic Color Tokenization, and WCAG 2.1 AA-Compliant Contrast Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/638",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:54:11Z",
+      "mergedAt": "2025-08-21T17:13:47Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 640,
+      "title": "Integration of Context-Aware Dark Mode Rendering for Election Page with Persistent Hydration and WCAG-Compliant UI Adaptation",
+      "url": "https://github.com/HarshS16/Civix/pull/640",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:11:11Z",
+      "mergedAt": "2025-08-21T17:14:05Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 643,
+      "title": "Implementation of Contextual Dark Mode Rendering for Government Schemes Page with Persistent State Hydration and WCAG-Compliant Visual Framework",
+      "url": "https://github.com/HarshS16/Civix/pull/643",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:28:57Z",
+      "mergedAt": "2025-08-21T17:29:17Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 646,
+      "title": "Integration of Contextual Dark Mode Rendering for Traffic Fines & Vehicle Information Module with Persistent Hydration and WCAG-Compliant Theming Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/646",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T16:39:13Z",
+      "mergedAt": "2025-08-21T17:29:35Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 649,
+      "title": "why choose Civix ui ",
+      "url": "https://github.com/HarshS16/Civix/pull/649",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T17:27:25Z",
+      "mergedAt": "2025-08-21T17:30:08Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",

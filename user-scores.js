@@ -10111,13 +10111,13 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 3790,
+      "totalScore": 3950,
       "bonusScore": 100,
-      "prCount": 105,
+      "prCount": 109,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 35,
-        "Advanced": 62
+        "Advanced": 66
       }
     },
     "Arihant-Bhandari": {
@@ -11151,13 +11151,13 @@ var userScores = {
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 730,
+      "totalScore": 790,
       "bonusScore": 100,
-      "prCount": 24,
+      "prCount": 26,
       "prsByLevel": {
-        "Beginner": 12,
+        "Beginner": 13,
         "Intermediate": 9,
-        "Advanced": 3
+        "Advanced": 4
       }
     },
     "Harshi-max": {
