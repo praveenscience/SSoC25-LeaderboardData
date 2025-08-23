@@ -354,6 +354,38 @@ var prs = {
       "project": "mryashsinghal/Resume-Builder"
     },
     {
+      "number": 157,
+      "title": "Testimonial section added",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/157",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:25:54Z",
+      "mergedAt": "2025-08-23T17:52:59Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
+      "number": 158,
+      "title": "Chatbot added",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/158",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T15:10:58Z",
+      "mergedAt": "2025-08-23T18:00:27Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
       "number": 352,
       "title": "Added social media links to Contact Us page",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/352",
@@ -19738,6 +19770,23 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 712,
+      "title": "Minor bug fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/712",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T15:55:07Z",
+      "mergedAt": "2025-08-23T14:02:18Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 715,
       "title": "Archery Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/715",
@@ -19858,6 +19907,130 @@ var prs = {
         "Beginner",
         "GSSoC'25",
         "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 736,
+      "title": "ADDED Reaction_Time_Test _2.0 #678",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/736",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T18:39:27Z",
+      "mergedAt": "2025-08-23T14:17:23Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 738,
+      "title": "save animals website added and favicon added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/738",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T20:41:57Z",
+      "mergedAt": "2025-08-23T14:31:39Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 744,
+      "title": "Zombie shooter game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/744",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T21:50:45Z",
+      "mergedAt": "2025-08-23T14:46:55Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 752,
+      "title": "Hangman Game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/752",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:02:09Z",
+      "mergedAt": "2025-08-23T14:56:13Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 755,
+      "title": "Discord Clone added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/755",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T18:23:37Z",
+      "mergedAt": "2025-08-23T15:03:25Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 767,
+      "title": "Recipe+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/767",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T01:11:30Z",
+      "mergedAt": "2025-08-23T15:10:31Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 768,
+      "title": "Road cross Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/768",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T01:29:53Z",
+      "mergedAt": "2025-08-23T15:15:26Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
       ],
       "level": "Beginner",
       "score": 20,
@@ -22770,6 +22943,38 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-22T10:28:18Z",
       "mergedAt": "2025-08-22T16:55:27Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 267,
+      "title": "changed UI and theme of forgotpassword page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/267",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T13:04:21Z",
+      "mergedAt": "2025-08-23T09:53:38Z",
+      "author": "Ronnit44",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "sailaja-adapa/Vipreshana"
+    },
+    {
+      "number": 268,
+      "title": "FIX#264: Fix consistency issue in dark mode of how it works page",
+      "url": "https://github.com/sailaja-adapa/Vipreshana/pull/268",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:20:39Z",
+      "mergedAt": "2025-08-23T09:54:35Z",
       "author": "arthavjain103",
       "labels": [
         "SSoC25",
@@ -26503,6 +26708,70 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 694,
+      "title": "Implementation of GPU-Accelerated Adaptive Dark Mode Rendering Pipeline for SDRF Allocation Analytics Subsystem",
+      "url": "https://github.com/HarshS16/Civix/pull/694",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:45:26Z",
+      "mergedAt": "2025-08-23T08:51:28Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 696,
+      "title": "GPU-Optimized Adaptive Dark Mode Integration for Budget Estimates & Fiscal Performance Analytics Interface",
+      "url": "https://github.com/HarshS16/Civix/pull/696",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:57:18Z",
+      "mergedAt": "2025-08-23T09:06:05Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 697,
+      "title": "High-Fidelity Real-Time Train Schedule Ingestion, Normalization, and Reactive Dashboard Rendering Module",
+      "url": "https://github.com/HarshS16/Civix/pull/697",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:29:09Z",
+      "mergedAt": "2025-08-23T15:19:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 699,
+      "title": "safewordpage Enhancement",
+      "url": "https://github.com/HarshS16/Civix/pull/699",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T10:04:13Z",
+      "mergedAt": "2025-08-23T15:20:17Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "HarshS16/Civix"
     },
     {
@@ -30893,6 +31162,23 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 712,
+      "title": "Minor bug fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/712",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T15:55:07Z",
+      "mergedAt": "2025-08-23T14:02:18Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 715,
       "title": "Archery Game+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/715",
@@ -31013,6 +31299,130 @@ var prs = {
         "Beginner",
         "GSSoC'25",
         "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 736,
+      "title": "ADDED Reaction_Time_Test _2.0 #678",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/736",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T18:39:27Z",
+      "mergedAt": "2025-08-23T14:17:23Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 738,
+      "title": "save animals website added and favicon added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/738",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T20:41:57Z",
+      "mergedAt": "2025-08-23T14:31:39Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 744,
+      "title": "Zombie shooter game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/744",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T21:50:45Z",
+      "mergedAt": "2025-08-23T14:46:55Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 752,
+      "title": "Hangman Game added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/752",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:02:09Z",
+      "mergedAt": "2025-08-23T14:56:13Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 2"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 755,
+      "title": "Discord Clone added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/755",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T18:23:37Z",
+      "mergedAt": "2025-08-23T15:03:25Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 767,
+      "title": "Recipe+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/767",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T01:11:30Z",
+      "mergedAt": "2025-08-23T15:10:31Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 768,
+      "title": "Road cross Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/768",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T01:29:53Z",
+      "mergedAt": "2025-08-23T15:15:26Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
       ],
       "level": "Beginner",
       "score": 20,
