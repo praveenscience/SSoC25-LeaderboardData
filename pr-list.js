@@ -3183,6 +3183,24 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1673,
+      "title": "Implementation of Fenwick Tree Data Structure",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1673",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T18:02:03Z",
+      "mergedAt": "2025-08-23T04:58:15Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 1674,
       "title": "Implementation of Cartesian Tree Data Structure",
       "url": "https://github.com/UTSAVS26/PyVerse/pull/1674",
@@ -3486,6 +3504,132 @@ var prs = {
       ],
       "level": "Advanced",
       "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1717,
+      "title": "Implementation of Kosaraju's Algorithm for Strongly Connected Components",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1717",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T07:59:44Z",
+      "mergedAt": "2025-08-23T04:58:38Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1718,
+      "title": "Implementation of Enhanced Heavy Path Decomposition Algorithm with Advanced Features",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1718",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T08:02:08Z",
+      "mergedAt": "2025-08-23T04:59:01Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1719,
+      "title": "Implementation of Heavy Light Decomposition and Enhanced Heavy Path Decomposition Algorithms",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1719",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T08:03:24Z",
+      "mergedAt": "2025-08-23T04:59:17Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1720,
+      "title": "Implementation of Jarvis March (Gift Wrapping) Algorithm for Convex Hull Computation",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1720",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T08:05:06Z",
+      "mergedAt": "2025-08-23T04:59:29Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1721,
+      "title": "Implementation of Line Segment Intersection Algorithms with Bentley-Ottmann Sweep Line",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1721",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T08:07:22Z",
+      "mergedAt": "2025-08-23T04:59:57Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1722,
+      "title": "password game done",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1722",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T12:09:36Z",
+      "mergedAt": "2025-08-23T05:00:14Z",
+      "author": "SHIV-360",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1723,
+      "title": "Mushroom classifier/issue#1714",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1723",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T18:23:27Z",
+      "mergedAt": "2025-08-23T05:00:52Z",
+      "author": "archangel2006",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "UTSAVS26/PyVerse"
     },
     {
@@ -21256,6 +21400,22 @@ var prs = {
       "project": "Mayur-Pagote/README_Design_Kit"
     },
     {
+      "number": 258,
+      "title": "fix navbar",
+      "url": "https://github.com/Mayur-Pagote/README_Design_Kit/pull/258",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:15:03Z",
+      "mergedAt": "2025-08-23T04:04:04Z",
+      "author": "HimanshuKabra01",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Mayur-Pagote/README_Design_Kit"
+    },
+    {
       "number": 10,
       "title": "SECURITY.md",
       "url": "https://github.com/Venuchander/fintrack/pull/10",
@@ -24838,7 +24998,7 @@ var prs = {
         "bug",
         "SSoC25",
         "Beginner",
-        "GSSOC"
+        "gssoc25"
       ],
       "level": "Beginner",
       "score": 20,
@@ -26042,6 +26202,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 656,
+      "title": "learn more",
+      "url": "https://github.com/HarshS16/Civix/pull/656",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T18:32:45Z",
+      "mergedAt": "2025-08-22T08:04:44Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 658,
       "title": "Reportvaliadtion",
       "url": "https://github.com/HarshS16/Civix/pull/658",
@@ -26209,6 +26385,118 @@ var prs = {
       "createdAt": "2025-08-22T16:51:59Z",
       "mergedAt": "2025-08-22T17:24:05Z",
       "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 681,
+      "title": "Emergency",
+      "url": "https://github.com/HarshS16/Civix/pull/681",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:29:58Z",
+      "mergedAt": "2025-08-23T07:39:57Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 683,
+      "title": "Feedback",
+      "url": "https://github.com/HarshS16/Civix/pull/683",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T17:50:50Z",
+      "mergedAt": "2025-08-23T07:40:41Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 685,
+      "title": "Filter",
+      "url": "https://github.com/HarshS16/Civix/pull/685",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T18:30:19Z",
+      "mergedAt": "2025-08-23T07:41:12Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 687,
+      "title": "Civicstatitsticsui",
+      "url": "https://github.com/HarshS16/Civix/pull/687",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T18:55:29Z",
+      "mergedAt": "2025-08-23T07:41:48Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 688,
+      "title": "Integration of Context-Orchestrated Adaptive Dark Mode Rendering for Electricity & Water Outage Interface Utilizing Persistent Hydration, Atomic Color Tokenization, and WCAG 2.1 AA-Compliant Visual Semantics",
+      "url": "https://github.com/HarshS16/Civix/pull/688",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T19:23:04Z",
+      "mergedAt": "2025-08-23T07:43:01Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 689,
+      "title": "High-Throughput Analytics Framework for Rendering & Evaluating Budget Estimates (BE/RE/Actuals).",
+      "url": "https://github.com/HarshS16/Civix/pull/689",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T20:38:01Z",
+      "mergedAt": "2025-08-23T07:43:31Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 690,
+      "title": "Implementation of Data-Intensive SDRF Allocation & NFSA Beneficiary Visualization Module with Optimized API Pipeline and State-Synchronized Rendering Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/690",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T22:08:54Z",
+      "mergedAt": "2025-08-23T07:53:38Z",
+      "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -28152,6 +28440,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 436,
+      "title": "Dummy for issue #431",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/436",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T15:18:48Z",
+      "mergedAt": "2025-08-23T07:45:54Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "Bhavya1352/eventmappr"
     },
     {

@@ -351,11 +351,11 @@ var userScores = {
       }
     },
     "HimanshuKabra01": {
-      "totalScore": 1280,
+      "totalScore": 1300,
       "bonusScore": 100,
-      "prCount": 53,
+      "prCount": 54,
       "prsByLevel": {
-        "Beginner": 42,
+        "Beginner": 43,
         "Intermediate": 10,
         "Advanced": 1
       }
@@ -1221,12 +1221,12 @@ var userScores = {
       }
     },
     "SHIV-360": {
-      "totalScore": 160,
+      "totalScore": 190,
       "bonusScore": 100,
-      "prCount": 2,
+      "prCount": 3,
       "prsByLevel": {
         "Beginner": 0,
-        "Intermediate": 2,
+        "Intermediate": 3,
         "Advanced": 0
       }
     },
@@ -3311,12 +3311,12 @@ var userScores = {
       }
     },
     "archangel2006": {
-      "totalScore": 500,
+      "totalScore": 530,
       "bonusScore": 100,
-      "prCount": 14,
+      "prCount": 15,
       "prsByLevel": {
         "Beginner": 5,
-        "Intermediate": 6,
+        "Intermediate": 7,
         "Advanced": 3
       }
     },
@@ -8231,13 +8231,13 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 3730,
+      "totalScore": 3970,
       "bonusScore": 100,
-      "prCount": 106,
+      "prCount": 112,
       "prsByLevel": {
         "Beginner": 16,
         "Intermediate": 29,
-        "Advanced": 61
+        "Advanced": 67
       }
     },
     "Soultk1977": {
@@ -10111,13 +10111,13 @@ var userScores = {
       }
     },
     "TanmayKalra09": {
-      "totalScore": 3990,
+      "totalScore": 4110,
       "bonusScore": 100,
-      "prCount": 110,
+      "prCount": 113,
       "prsByLevel": {
         "Beginner": 8,
         "Intermediate": 35,
-        "Advanced": 67
+        "Advanced": 70
       }
     },
     "Arihant-Bhandari": {
@@ -11151,13 +11151,13 @@ var userScores = {
       }
     },
     "dishaagrawalcodes": {
-      "totalScore": 1140,
+      "totalScore": 1300,
       "bonusScore": 100,
-      "prCount": 37,
+      "prCount": 43,
       "prsByLevel": {
-        "Beginner": 15,
-        "Intermediate": 14,
-        "Advanced": 8
+        "Beginner": 18,
+        "Intermediate": 16,
+        "Advanced": 9
       }
     },
     "Harshi-max": {
