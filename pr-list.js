@@ -3665,6 +3665,114 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1724,
+      "title": "Implementation of Minimum Spanning Tree Algorithms (Kruskal's and Prim's) with Visualization",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1724",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T07:50:28Z",
+      "mergedAt": "2025-08-24T06:38:49Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1725,
+      "title": "Implementation of Manacher's Algorithm for Longest Palindromic Substring with Advanced Features",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1725",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T07:53:22Z",
+      "mergedAt": "2025-08-24T06:39:09Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1726,
+      "title": "Implementation of Link-Cut Tree Data Structure for Dynamic Connectivity and Path Queries",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1726",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T07:55:23Z",
+      "mergedAt": "2025-08-24T06:39:44Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1727,
+      "title": "Implementation of Modular Exponentiation Algorithms with Cryptographic Applications",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1727",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:03:44Z",
+      "mergedAt": "2025-08-24T06:40:07Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1728,
+      "title": "Implementation of Monte Carlo Tree Search (MCTS) Algorithm with Multiple Game Examples",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1728",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:08:02Z",
+      "mergedAt": "2025-08-24T06:40:22Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1736,
+      "title": "Sms spam classifier/issue#1713",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1736",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T06:33:28Z",
+      "mergedAt": "2025-08-24T06:42:37Z",
+      "author": "archangel2006",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -13722,6 +13830,38 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 542,
+      "title": "SSoC25 : SMS Spam Classifier using Naive Bayes (issue#541)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/542",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T07:14:12Z",
+      "mergedAt": "2025-08-24T05:31:28Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 544,
+      "title": "SSoC25 : Mushroom Classifier (KNN, RandomForest, LogisticRegression)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/544",
+      "state": "MERGED",
+      "createdAt": "2025-08-19T07:50:16Z",
+      "mergedAt": "2025-08-24T05:32:38Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 545,
       "title": "Pull Request of Naive Baye's Classification",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/545",
@@ -13856,6 +13996,22 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-20T14:03:52Z",
       "mergedAt": "2025-08-20T18:08:08Z",
+      "author": "archangel2006",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 564,
+      "title": "SSoC25 : Student Habits & Exam Performance (Data Exploration, Data Cleaning, EDA) (issue #560)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/564",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:36:28Z",
+      "mergedAt": "2025-08-24T05:33:28Z",
       "author": "archangel2006",
       "labels": [
         "SSoC25",
@@ -14010,6 +14166,54 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 585,
+      "title": "Pull Request of Various plots using Matplot,Seaborn,Pandas",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/585",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:23:50Z",
+      "mergedAt": "2025-08-24T05:25:42Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 586,
+      "title": "Pull Request of Windy Grid World",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/586",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:27:59Z",
+      "mergedAt": "2025-08-24T05:26:08Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 587,
+      "title": "Pull Request of Activation Function",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/587",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T14:31:56Z",
+      "mergedAt": "2025-08-24T05:26:37Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 588,
       "title": "Pull Request of Uber Data Analysis",
       "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/588",
@@ -14039,6 +14243,118 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 590,
+      "title": "SSOC25: EcoSimAI: Virtual Ecosystem Simulation with Reinforcement Learning Agents",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/590",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T17:07:52Z",
+      "mergedAt": "2025-08-24T05:27:11Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 591,
+      "title": "SSOC25: Add PatternSmithAI - Infinite Procedural Pattern & Mandala Designer",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/591",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T17:10:21Z",
+      "mergedAt": "2025-08-24T05:27:36Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 592,
+      "title": "SSOC25: Add ArtForgeAI - Procedural Brushstroke Painter with Reinforcement Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/592",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T17:14:01Z",
+      "mergedAt": "2025-08-24T05:28:25Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 594,
+      "title": "Pull Request - Covid19 Forecasting with Prophet (Time Series Model)",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/594",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T12:19:17Z",
+      "mergedAt": "2025-08-24T05:28:56Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 595,
+      "title": "Pull Request of Master Machine Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/595",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T12:22:42Z",
+      "mergedAt": "2025-08-24T05:29:32Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 596,
+      "title": "Pull Request of Test Task Notebook",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/596",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T12:25:11Z",
+      "mergedAt": "2025-08-24T05:29:58Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 597,
+      "title": "Pull request of Buyer's Time Analysis",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/597",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T12:27:25Z",
+      "mergedAt": "2025-08-24T05:30:22Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
@@ -17735,6 +18051,22 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 865,
+      "title": "PYQ+",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/865",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T01:36:25Z",
+      "mergedAt": "2025-08-24T07:37:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Saumy1905/PYQFort"
     },
     {
