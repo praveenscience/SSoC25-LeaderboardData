@@ -3773,6 +3773,114 @@ var prs = {
       "project": "UTSAVS26/PyVerse"
     },
     {
+      "number": 1737,
+      "title": "Password game gui",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1737",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:39:52Z",
+      "mergedAt": "2025-08-24T11:38:51Z",
+      "author": "SHIV-360",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1738,
+      "title": "Implementation of Sieve of Eratosthenes Algorithm with Multiple Optimized Variants",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1738",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T11:56:24Z",
+      "mergedAt": "2025-08-24T15:07:02Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1739,
+      "title": "Implementation of Persistent Data Structures with Version Management and Visualization",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1739",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T11:59:34Z",
+      "mergedAt": "2025-08-24T15:06:55Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1740,
+      "title": "Implementation of Mo's Algorithm for Efficient Offline Range Queries with Multiple Query Types",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1740",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T12:02:33Z",
+      "mergedAt": "2025-08-24T15:06:33Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1741,
+      "title": "Implementation of Simulated Annealing Algorithm with Multiple Optimization Problem Examples",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1741",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T12:05:09Z",
+      "mergedAt": "2025-08-24T15:06:15Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Intermediate",
+        "SSoC25"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
+      "number": 1742,
+      "title": "Implementation of Skip List Data Structure with Advanced Features and Visualization",
+      "url": "https://github.com/UTSAVS26/PyVerse/pull/1742",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T12:07:12Z",
+      "mergedAt": "2025-08-24T15:06:03Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Contributor",
+        "Status: Approved ✔️",
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "UTSAVS26/PyVerse"
+    },
+    {
       "number": 13,
       "title": "update base URL for production",
       "url": "https://github.com/adityas1309/RaktConnect/pull/13",
@@ -14358,6 +14466,310 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 600,
+      "title": "Pull Request of Xg Boost Algorithm",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/600",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:23:38Z",
+      "mergedAt": "2025-08-24T08:53:07Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 601,
+      "title": "Pull Request of AI Astrologer",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/601",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:30:35Z",
+      "mergedAt": "2025-08-24T08:53:32Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 602,
+      "title": "Pull request of NEXA AI Chatbot",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/602",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:34:08Z",
+      "mergedAt": "2025-08-24T08:54:01Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 603,
+      "title": "Pull Request of Beyond LLM Concepts",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/603",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:42:35Z",
+      "mergedAt": "2025-08-24T08:54:26Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 604,
+      "title": "Pull Request of Brain Tumor Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/604",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:47:48Z",
+      "mergedAt": "2025-08-24T08:55:03Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 605,
+      "title": "SSOC25: 🤝 BargainAI – AI-Driven Negotiation Bot for Virtual Marketplaces",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/605",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:25:26Z",
+      "mergedAt": "2025-08-24T18:18:05Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 606,
+      "title": "SSOC25: ⌨️ KeyMentorAI – Self-Improving Typing Speed & Accuracy Coach",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/606",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:35:24Z",
+      "mergedAt": "2025-08-24T18:18:28Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 607,
+      "title": "SSOC25: 🌀 MazeMind – Dynamic Pathfinding AI for Smart Maze Exploration",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/607",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:54:48Z",
+      "mergedAt": "2025-08-24T18:19:37Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 608,
+      "title": "SSOC25: 🛰️ SignalSeekerAI – Adaptive Radio Noise Explorer for Cognitive Spectrum Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/608",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:59:24Z",
+      "mergedAt": "2025-08-24T18:20:01Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 609,
+      "title": "SSOC25: 🧩 CodeSage – AI-Enhanced Code Complexity Estimator",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/609",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T13:17:31Z",
+      "mergedAt": "2025-08-24T18:21:05Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 610,
+      "title": "Pull Request of Skin Disease Predictor using Transfer Learning in CNN",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/610",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T14:41:13Z",
+      "mergedAt": "2025-08-24T18:21:29Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 611,
+      "title": "Pull Request of Waste Detection by using YOLOv8",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/611",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T14:47:46Z",
+      "mergedAt": "2025-08-24T18:22:09Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 612,
+      "title": "Pull Request of Medicine Label Reader using OCR",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/612",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T14:53:01Z",
+      "mergedAt": "2025-08-24T18:22:38Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 613,
+      "title": "Pull Request of Stock Sentiment Analyzer",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/613",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T14:55:20Z",
+      "mergedAt": "2025-08-24T18:23:08Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 614,
+      "title": "Pull Request of Crop Recommendation System",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/614",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T14:58:48Z",
+      "mergedAt": "2025-08-24T18:23:41Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 615,
+      "title": "Pull Request of Fertilizer Recommendation System",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/615",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T15:02:53Z",
+      "mergedAt": "2025-08-24T18:24:03Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 616,
+      "title": "SSOC25: 🧠 Autonomous Snake Navigation System - Advanced Reinforcement Learning Framework",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/616",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T17:33:12Z",
+      "mergedAt": "2025-08-24T18:25:04Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 617,
+      "title": "SSOC25: KeyStress — Advanced Behavioral Biometrics for Real-Time Stress & Cognitive Fatigue Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/617",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T17:47:28Z",
+      "mergedAt": "2025-08-24T18:26:23Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 618,
+      "title": "ExplainDoku — Sudoku Solver with Human-Style Explanations",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/618",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T18:21:23Z",
+      "mergedAt": "2025-08-24T18:26:51Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -18070,6 +18482,22 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 867,
+      "title": "Added 24 PYQs and syllabus for ECE branch of HITK",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/867",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T11:11:01Z",
+      "mergedAt": "2025-08-24T16:26:51Z",
+      "author": "Sayan-206",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -18658,6 +19086,23 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 259,
+      "title": "Add Food Rating System to Food Menu Items",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/259",
+      "state": "MERGED",
+      "createdAt": "2025-08-20T14:59:33Z",
+      "mergedAt": "2025-08-24T13:41:00Z",
+      "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -20281,6 +20726,25 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 741,
+      "title": "Yoga Website aDded ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/741",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T21:18:04Z",
+      "mergedAt": "2025-08-24T14:16:44Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 744,
       "title": "Zombie shooter game added ",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/744",
@@ -20297,6 +20761,76 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 747,
+      "title": "OriginalDay Fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/747",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T14:00:58Z",
+      "mergedAt": "2025-08-24T13:59:19Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 748,
+      "title": "Bottle Spin Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/748",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T14:19:59Z",
+      "mergedAt": "2025-08-24T14:00:34Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 749,
+      "title": "Travel+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/749",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T15:44:34Z",
+      "mergedAt": "2025-08-24T14:01:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 751,
+      "title": "L&T+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/751",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T16:07:43Z",
+      "mergedAt": "2025-08-24T14:05:10Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -20337,6 +20871,25 @@ var prs = {
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
+      "number": 756,
+      "title": "Tata1mg Website Clone added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/756",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T20:49:37Z",
+      "mergedAt": "2025-08-24T14:53:21Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
       "number": 767,
       "title": "Recipe+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/767",
@@ -20363,6 +20916,514 @@ var prs = {
       "labels": [
         "SSoC25",
         "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 769,
+      "title": "Bug Fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/769",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T01:44:35Z",
+      "mergedAt": "2025-08-24T14:02:48Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 770,
+      "title": "Survival Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/770",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T02:04:54Z",
+      "mergedAt": "2025-08-24T14:06:58Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 771,
+      "title": "Spin Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/771",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T05:34:29Z",
+      "mergedAt": "2025-08-24T14:08:09Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 772,
+      "title": "Time Vault+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/772",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T05:49:17Z",
+      "mergedAt": "2025-08-24T14:09:12Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 774,
+      "title": "Puzzle Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/774",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T06:33:29Z",
+      "mergedAt": "2025-08-24T14:13:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 775,
+      "title": "LightHouse Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/775",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:23:17Z",
+      "mergedAt": "2025-08-24T14:14:16Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 776,
+      "title": "Car Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/776",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:58:00Z",
+      "mergedAt": "2025-08-24T14:15:18Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 777,
+      "title": "Bubble Shooter Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/777",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:16:31Z",
+      "mergedAt": "2025-08-24T14:18:11Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 778,
+      "title": "Hacker+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/778",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:33:40Z",
+      "mergedAt": "2025-08-24T14:22:59Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 779,
+      "title": "Story+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/779",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:46:28Z",
+      "mergedAt": "2025-08-24T14:23:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 780,
+      "title": "Translator+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/780",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T10:01:34Z",
+      "mergedAt": "2025-08-24T14:25:07Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 782,
+      "title": "Past Life Finder+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/782",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T11:24:48Z",
+      "mergedAt": "2025-08-24T14:26:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 783,
+      "title": "Escape Room+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/783",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T11:33:29Z",
+      "mergedAt": "2025-08-24T14:28:12Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 813,
+      "title": "Fruit Ninja Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/813",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T02:55:26Z",
+      "mergedAt": "2025-08-24T14:33:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 814,
+      "title": "Cup & Ball+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/814",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T03:51:50Z",
+      "mergedAt": "2025-08-24T14:34:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 815,
+      "title": "BINGO+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/815",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T04:29:26Z",
+      "mergedAt": "2025-08-24T14:33:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 816,
+      "title": "Casino Roulette+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/816",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T04:43:02Z",
+      "mergedAt": "2025-08-24T14:35:44Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 817,
+      "title": "Shooting Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/817",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T05:05:49Z",
+      "mergedAt": "2025-08-24T14:36:26Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 818,
+      "title": "Race Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/818",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T05:23:28Z",
+      "mergedAt": "2025-08-24T14:37:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 820,
+      "title": "Tattoo Studio+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/820",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:08:52Z",
+      "mergedAt": "2025-08-24T14:39:36Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 821,
+      "title": "Signature+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/821",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:34:39Z",
+      "mergedAt": "2025-08-24T14:40:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 822,
+      "title": "Car Rental Website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/822",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:01:48Z",
+      "mergedAt": "2025-08-24T14:42:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 823,
+      "title": "Dashboard+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/823",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:19:20Z",
+      "mergedAt": "2025-08-24T14:45:09Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 824,
+      "title": "Treasure Hunt Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/824",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:30:09Z",
+      "mergedAt": "2025-08-24T14:46:03Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 825,
+      "title": "Rubik+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/825",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:00:46Z",
+      "mergedAt": "2025-08-24T14:43:53Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 827,
+      "title": "Rocket Fighting",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/827",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:13:47Z",
+      "mergedAt": "2025-08-24T14:46:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 828,
+      "title": "Basketball Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/828",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:24:17Z",
+      "mergedAt": "2025-08-24T14:47:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 829,
+      "title": "Blocks Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/829",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:32:59Z",
+      "mergedAt": "2025-08-24T14:48:33Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 830,
+      "title": "Temple Run+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/830",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:42:00Z",
+      "mergedAt": "2025-08-24T14:49:10Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 831,
+      "title": "Vaani Database Update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/831",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T12:28:20Z",
+      "mergedAt": "2025-08-24T14:51:19Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
       ],
       "level": "Beginner",
       "score": 20,
@@ -27107,6 +28168,326 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 701,
+      "title": "Integration of Aviation Services Orchestration Layer via Air Seva Module into Civix Dashboard with Dynamic Data Hydration and Modular Rendering Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/701",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T14:25:43Z",
+      "mergedAt": "2025-08-24T14:32:13Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 704,
+      "title": "Community Page Updated",
+      "url": "https://github.com/HarshS16/Civix/pull/704",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T16:16:31Z",
+      "mergedAt": "2025-08-24T14:34:50Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 706,
+      "title": "Enhanced Feedback page",
+      "url": "https://github.com/HarshS16/Civix/pull/706",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T17:22:27Z",
+      "mergedAt": "2025-08-24T14:35:38Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 710,
+      "title": "Footer Design Enhancement & Performance Optimization",
+      "url": "https://github.com/HarshS16/Civix/pull/710",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T18:42:03Z",
+      "mergedAt": "2025-08-24T14:37:18Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 721,
+      "title": "SSOC25: Transforms the **Electricity** page (`/electricity`) from a basic status view into a **real-time, interactive analytics dashboard** for electricity and water utilities",
+      "url": "https://github.com/HarshS16/Civix/pull/721",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T22:54:04Z",
+      "mergedAt": "2025-08-24T15:17:45Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 726,
+      "title": "Geo-Map integration",
+      "url": "https://github.com/HarshS16/Civix/pull/726",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:41:02Z",
+      "mergedAt": "2025-08-24T15:27:00Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 728,
+      "title": "Adaptive Photometric Rendering Pipeline for Train Schedule Interface via Dark Mode Integration",
+      "url": "https://github.com/HarshS16/Civix/pull/728",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:54:01Z",
+      "mergedAt": "2025-08-24T14:50:13Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 733,
+      "title": "Implementation of High-Fidelity CSV-Driven ETL & Visualization Framework for Nationwide School Data in Civix",
+      "url": "https://github.com/HarshS16/Civix/pull/733",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:12:33Z",
+      "mergedAt": "2025-08-24T15:45:11Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 735,
+      "title": "Transportui",
+      "url": "https://github.com/HarshS16/Civix/pull/735",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:24:13Z",
+      "mergedAt": "2025-08-24T15:28:01Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 737,
+      "title": "Nearbyservicesui",
+      "url": "https://github.com/HarshS16/Civix/pull/737",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:32:46Z",
+      "mergedAt": "2025-08-24T15:48:56Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 742,
+      "title": "Deployment of a Container-Aware Responsiveness Optimization Framework for Admin Dashboard Analytics",
+      "url": "https://github.com/HarshS16/Civix/pull/742",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:16:49Z",
+      "mergedAt": "2025-08-24T14:50:33Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 744,
+      "title": "Profile-setup Error Redirection",
+      "url": "https://github.com/HarshS16/Civix/pull/744",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:33:53Z",
+      "mergedAt": "2025-08-24T15:50:21Z",
+      "author": "Bavanetha27",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 745,
+      "title": "Deployment of a Progressive Layout Rehydration Pipeline with Asynchronous Viewport Recalibration for Adaptive Dashboard Navigation Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/745",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:40:01Z",
+      "mergedAt": "2025-08-24T14:44:04Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 747,
+      "title": "Deployment of Adaptive Navigation Schema for Enhanced Responsiveness in Documents Page via Context-Aware Menu Substitution on Constrained Viewports",
+      "url": "https://github.com/HarshS16/Civix/pull/747",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:58:43Z",
+      "mergedAt": "2025-08-24T14:42:46Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 750,
+      "title": "Deployment of viewport-Driven Progressive Hydration Framework for Sidebar Replacement with Collapsible Menu in Notification Page",
+      "url": "https://github.com/HarshS16/Civix/pull/750",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T11:40:19Z",
+      "mergedAt": "2025-08-24T14:41:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 752,
+      "title": "Deployment of a Dynamic Navigation Orchestration Pipeline with Deferred Hydration and State Preservation for Settings Page",
+      "url": "https://github.com/HarshS16/Civix/pull/752",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T11:57:03Z",
+      "mergedAt": "2025-08-24T14:39:33Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 755,
+      "title": "Deployment of a Viewport-Adaptive Navigation Orchestration Pipeline for Admin Dashboard via Sidebar-to-Collapsible Menu Transformation",
+      "url": "https://github.com/HarshS16/Civix/pull/755",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T12:20:42Z",
+      "mergedAt": "2025-08-24T14:38:42Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 757,
+      "title": "Deployment of progressive Layout Rehydration and Asynchronous Rendering Pipeline for High-Fidelity Contributor Display",
+      "url": "https://github.com/HarshS16/Civix/pull/757",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T13:03:06Z",
+      "mergedAt": "2025-08-24T14:38:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 759,
+      "title": "Deployment of a Reactive and Persistent Messaging Pipeline with Deterministic UI State Reconciliation for Chat Room",
+      "url": "https://github.com/HarshS16/Civix/pull/759",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T13:38:39Z",
+      "mergedAt": "2025-08-24T14:37:54Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 761,
+      "title": "Implements advanced data visualizations and interactive analytics for the Elections Info dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/761",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T14:46:03Z",
+      "mergedAt": "2025-08-24T15:50:52Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 21,
       "title": "Alias",
       "url": "https://github.com/Kirti-Rathi/PromptShell/pull/21",
@@ -28980,6 +30361,23 @@ var prs = {
       "project": "Bhavya1352/eventmappr"
     },
     {
+      "number": 419,
+      "title": "event controller added",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/419",
+      "state": "MERGED",
+      "createdAt": "2025-08-18T18:39:13Z",
+      "mergedAt": "2025-08-20T17:02:02Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Advanced",
+        "GSSOC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
       "number": 426,
       "title": "contactpageui",
       "url": "https://github.com/Bhavya1352/eventmappr/pull/426",
@@ -29057,6 +30455,54 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 443,
+      "title": "Darkonlets",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/443",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T13:33:57Z",
+      "mergedAt": "2025-08-24T14:44:42Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 444,
+      "title": "Cookieui",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/444",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T13:54:38Z",
+      "mergedAt": "2025-08-24T14:46:29Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 445,
+      "title": "Aboutdark",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/445",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T14:20:32Z",
+      "mergedAt": "2025-08-24T14:46:57Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "Bhavya1352/eventmappr"
     },
     {
@@ -31673,6 +33119,25 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 741,
+      "title": "Yoga Website aDded ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/741",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T21:18:04Z",
+      "mergedAt": "2025-08-24T14:16:44Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 744,
       "title": "Zombie shooter game added ",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/744",
@@ -31689,6 +33154,76 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 747,
+      "title": "OriginalDay Fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/747",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T14:00:58Z",
+      "mergedAt": "2025-08-24T13:59:19Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 748,
+      "title": "Bottle Spin Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/748",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T14:19:59Z",
+      "mergedAt": "2025-08-24T14:00:34Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 749,
+      "title": "Travel+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/749",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T15:44:34Z",
+      "mergedAt": "2025-08-24T14:01:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 751,
+      "title": "L&T+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/751",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T16:07:43Z",
+      "mergedAt": "2025-08-24T14:05:10Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
@@ -31729,6 +33264,25 @@ var prs = {
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
+      "number": 756,
+      "title": "Tata1mg Website Clone added ",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/756",
+      "state": "MERGED",
+      "createdAt": "2025-08-22T20:49:37Z",
+      "mergedAt": "2025-08-24T14:53:21Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
       "number": 767,
       "title": "Recipe+",
       "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/767",
@@ -31755,6 +33309,514 @@ var prs = {
       "labels": [
         "SSoC25",
         "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 769,
+      "title": "Bug Fix",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/769",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T01:44:35Z",
+      "mergedAt": "2025-08-24T14:02:48Z",
+      "author": "Verma-MK",
+      "labels": [
+        "bug",
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 770,
+      "title": "Survival Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/770",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T02:04:54Z",
+      "mergedAt": "2025-08-24T14:06:58Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 771,
+      "title": "Spin Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/771",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T05:34:29Z",
+      "mergedAt": "2025-08-24T14:08:09Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 772,
+      "title": "Time Vault+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/772",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T05:49:17Z",
+      "mergedAt": "2025-08-24T14:09:12Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 774,
+      "title": "Puzzle Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/774",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T06:33:29Z",
+      "mergedAt": "2025-08-24T14:13:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 775,
+      "title": "LightHouse Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/775",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:23:17Z",
+      "mergedAt": "2025-08-24T14:14:16Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 776,
+      "title": "Car Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/776",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T08:58:00Z",
+      "mergedAt": "2025-08-24T14:15:18Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 777,
+      "title": "Bubble Shooter Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/777",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:16:31Z",
+      "mergedAt": "2025-08-24T14:18:11Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 778,
+      "title": "Hacker+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/778",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:33:40Z",
+      "mergedAt": "2025-08-24T14:22:59Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 779,
+      "title": "Story+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/779",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T09:46:28Z",
+      "mergedAt": "2025-08-24T14:23:55Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 780,
+      "title": "Translator+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/780",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T10:01:34Z",
+      "mergedAt": "2025-08-24T14:25:07Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 782,
+      "title": "Past Life Finder+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/782",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T11:24:48Z",
+      "mergedAt": "2025-08-24T14:26:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 783,
+      "title": "Escape Room+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/783",
+      "state": "MERGED",
+      "createdAt": "2025-08-23T11:33:29Z",
+      "mergedAt": "2025-08-24T14:28:12Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 813,
+      "title": "Fruit Ninja Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/813",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T02:55:26Z",
+      "mergedAt": "2025-08-24T14:33:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 814,
+      "title": "Cup & Ball+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/814",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T03:51:50Z",
+      "mergedAt": "2025-08-24T14:34:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 815,
+      "title": "BINGO+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/815",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T04:29:26Z",
+      "mergedAt": "2025-08-24T14:33:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 816,
+      "title": "Casino Roulette+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/816",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T04:43:02Z",
+      "mergedAt": "2025-08-24T14:35:44Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 817,
+      "title": "Shooting Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/817",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T05:05:49Z",
+      "mergedAt": "2025-08-24T14:36:26Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 818,
+      "title": "Race Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/818",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T05:23:28Z",
+      "mergedAt": "2025-08-24T14:37:30Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 820,
+      "title": "Tattoo Studio+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/820",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:08:52Z",
+      "mergedAt": "2025-08-24T14:39:36Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 821,
+      "title": "Signature+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/821",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T08:34:39Z",
+      "mergedAt": "2025-08-24T14:40:56Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 822,
+      "title": "Car Rental Website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/822",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:01:48Z",
+      "mergedAt": "2025-08-24T14:42:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 823,
+      "title": "Dashboard+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/823",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:19:20Z",
+      "mergedAt": "2025-08-24T14:45:09Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 824,
+      "title": "Treasure Hunt Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/824",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:30:09Z",
+      "mergedAt": "2025-08-24T14:46:03Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 825,
+      "title": "Rubik+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/825",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:00:46Z",
+      "mergedAt": "2025-08-24T14:43:53Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 827,
+      "title": "Rocket Fighting",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/827",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:13:47Z",
+      "mergedAt": "2025-08-24T14:46:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 828,
+      "title": "Basketball Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/828",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:24:17Z",
+      "mergedAt": "2025-08-24T14:47:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 829,
+      "title": "Blocks Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/829",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:32:59Z",
+      "mergedAt": "2025-08-24T14:48:33Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 830,
+      "title": "Temple Run+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/830",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:42:00Z",
+      "mergedAt": "2025-08-24T14:49:10Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 831,
+      "title": "Vaani Database Update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/831",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T12:28:20Z",
+      "mergedAt": "2025-08-24T14:51:19Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
       ],
       "level": "Beginner",
       "score": 20,
