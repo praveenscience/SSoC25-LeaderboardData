@@ -386,6 +386,22 @@ var prs = {
       "project": "mryashsinghal/Resume-Builder"
     },
     {
+      "number": 163,
+      "title": "fix(ui): improve select button hover styling for better theme consistency",
+      "url": "https://github.com/mryashsinghal/Resume-Builder/pull/163",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T10:54:11Z",
+      "mergedAt": "2025-08-25T17:09:19Z",
+      "author": "Harishchandra-26",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "mryashsinghal/Resume-Builder"
+    },
+    {
       "number": 352,
       "title": "Added social media links to Contact Us page",
       "url": "https://github.com/SumitGorai01/TechieBlog/pull/352",
@@ -7559,22 +7575,6 @@ var prs = {
       "project": "divi-24/SheSync"
     },
     {
-      "number": 99,
-      "title": "Implement responsive sidebar behavior in Dashboard and Landing components",
-      "url": "https://github.com/divi-24/SheSync/pull/99",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T15:06:25Z",
-      "mergedAt": "2025-06-16T16:24:32Z",
-      "author": "DeadpoolX7",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "divi-24/SheSync"
-    },
-    {
       "number": 100,
       "title": "Added Code of Conduct",
       "url": "https://github.com/divi-24/SheSync/pull/100",
@@ -9875,22 +9875,6 @@ var prs = {
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
-      "number": 32,
-      "title": "feat: add Navbar component; integrate react-scroll for smooth navigation",
-      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/32",
-      "state": "MERGED",
-      "createdAt": "2025-06-14T09:50:44Z",
-      "mergedAt": "2025-06-14T15:04:55Z",
-      "author": "DeadpoolX7",
-      "labels": [
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
-    },
-    {
       "number": 33,
       "title": "Eda license addition",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/33",
@@ -10165,22 +10149,6 @@ var prs = {
       "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
     },
     {
-      "number": 86,
-      "title": "Feat/contact us route",
-      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/86",
-      "state": "MERGED",
-      "createdAt": "2025-06-20T07:37:36Z",
-      "mergedAt": "2025-06-20T12:37:22Z",
-      "author": "DeadpoolX7",
-      "labels": [
-        "SSoC25",
-        "Intermediate"
-      ],
-      "level": "Intermediate",
-      "score": 30,
-      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
-    },
-    {
       "number": 87,
       "title": "Logo+",
       "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/87",
@@ -10430,22 +10398,6 @@ var prs = {
       "createdAt": "2025-06-27T01:04:03Z",
       "mergedAt": "2025-07-03T11:05:42Z",
       "author": "Tirumalashreya",
-      "labels": [
-        "SSoC25",
-        "Advanced"
-      ],
-      "level": "Advanced",
-      "score": 40,
-      "project": "Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit"
-    },
-    {
-      "number": 113,
-      "title": "Add initial unit tests for feat_scaling and create .gitignore files",
-      "url": "https://github.com/Nidhi-Satyapriya/AutoEDA-Automated-Data-Preprocessing-Toolkit/pull/113",
-      "state": "MERGED",
-      "createdAt": "2025-07-04T12:17:01Z",
-      "mergedAt": "2025-07-04T15:51:09Z",
-      "author": "DeadpoolX7",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -14770,6 +14722,326 @@ var prs = {
       "project": "PRIYANSHU2026/DataSentience-AIML"
     },
     {
+      "number": 619,
+      "title": "FluidNetSim: Advanced Physics-Informed Neural Fluid Dynamics Simulator using neural networks",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/619",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:04:21Z",
+      "mergedAt": "2025-08-25T14:06:39Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 620,
+      "title": "Next-Generation Conversational AI with Dynamic Personality Adaptation using Reinforcement Learning",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/620",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:06:13Z",
+      "mergedAt": "2025-08-25T14:07:05Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 621,
+      "title": "ImprovAI — Advanced AI-Powered Musical Improvisation System",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/621",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:08:15Z",
+      "mergedAt": "2025-08-25T14:18:08Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 622,
+      "title": "Next-Generation Cybersecurity Intelligence Platform with AI-Powered Threat Detection and Adaptive Response",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/622",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:09:39Z",
+      "mergedAt": "2025-08-25T14:19:56Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 623,
+      "title": "NeuralDicePredictor – Advanced Reinforcement Learning Dice Game AI",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/623",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:11:06Z",
+      "mergedAt": "2025-08-25T14:20:28Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 624,
+      "title": "SwarmMindAI - Advanced Multi-Agent Swarm Intelligence Framework",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/624",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:12:35Z",
+      "mergedAt": "2025-08-25T14:21:00Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 626,
+      "title": "Pull Request of Audio Flow Technique",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/626",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:17:11Z",
+      "mergedAt": "2025-08-25T14:21:33Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 627,
+      "title": "Pull Request of Chatbot",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/627",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:26:29Z",
+      "mergedAt": "2025-08-25T15:30:14Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 628,
+      "title": "Pull Request of Email Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/628",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:32:59Z",
+      "mergedAt": "2025-08-25T15:30:40Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 629,
+      "title": "AdaptiveCipherAI: Neuro-Symbolic Codebreaking for Classical Ciphers",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/629",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:33:17Z",
+      "mergedAt": "2025-08-25T15:32:37Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 630,
+      "title": "ArrowFlightAI — Neuro-Evolutionary Projectile Optimization Suite",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/630",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:34:48Z",
+      "mergedAt": "2025-08-25T15:34:49Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 631,
+      "title": "ChainOptimizerAI Pro: Adaptive Supply Chain RL Simulator",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/631",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:36:15Z",
+      "mergedAt": "2025-08-25T15:35:24Z",
+      "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 632,
+      "title": "Pull Request of Spelling Correction Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/632",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:36:55Z",
+      "mergedAt": "2025-08-25T15:35:49Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 633,
+      "title": "Pull Request of Website Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/633",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:39:46Z",
+      "mergedAt": "2025-08-25T15:36:14Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 634,
+      "title": "Pull Request of Twitter Classification",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/634",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:42:52Z",
+      "mergedAt": "2025-08-25T15:36:36Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 635,
+      "title": "Pull Request of Sms Spam Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/635",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:46:08Z",
+      "mergedAt": "2025-08-25T15:37:05Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 636,
+      "title": "Pull Request of Classification of Plant Seedlings",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/636",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:50:31Z",
+      "mergedAt": "2025-08-25T15:37:36Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 637,
+      "title": "Pull Request of Detection of Object",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/637",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:53:34Z",
+      "mergedAt": "2025-08-25T15:39:08Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 638,
+      "title": "Pull Request of Url Detection",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/638",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:56:16Z",
+      "mergedAt": "2025-08-25T15:41:38Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
+      "number": 639,
+      "title": "Insta Prediction",
+      "url": "https://github.com/PRIYANSHU2026/DataSentience-AIML/pull/639",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:58:55Z",
+      "mergedAt": "2025-08-25T15:42:01Z",
+      "author": "keshripritesh",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "PRIYANSHU2026/DataSentience-AIML"
+    },
+    {
       "number": 83,
       "title": "Added IIIT Sonepat Folder Structure and Syllabus PDFs (CSE, IT, DSA)",
       "url": "https://github.com/Saumy1905/PYQFort/pull/83",
@@ -18594,6 +18866,54 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 881,
+      "title": "Added 24 PYQs for 5th & 6th Sem of ECE branch of HITK",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/881",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T10:01:12Z",
+      "mergedAt": "2025-08-25T12:42:40Z",
+      "author": "Sayan-206",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 882,
+      "title": "Added Delhi University in readme.md",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/882",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T10:34:15Z",
+      "mergedAt": "2025-08-25T12:44:04Z",
+      "author": "ItsMeAnanyaSrivastava",
+      "labels": [
+        "Beginner",
+        "SSoC25"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 884,
+      "title": "Added 24 PYQs of 7th & 8th Sem of ECE branch of HITK",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/884",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:37:23Z",
+      "mergedAt": "2025-08-25T17:47:39Z",
+      "author": "Sayan-206",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -21636,6 +21956,226 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-25T09:28:46Z",
       "mergedAt": "2025-08-25T09:55:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 874,
+      "title": "Watch Website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/874",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T10:53:48Z",
+      "mergedAt": "2025-08-25T14:57:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 876,
+      "title": "Coffee website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/876",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T11:10:30Z",
+      "mergedAt": "2025-08-25T14:58:53Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 877,
+      "title": "Social Media Dashboard+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/877",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T11:34:35Z",
+      "mergedAt": "2025-08-25T15:01:33Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 878,
+      "title": "Hunter+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/878",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T11:42:50Z",
+      "mergedAt": "2025-08-25T15:03:42Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 879,
+      "title": "Ghost Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/879",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:00:10Z",
+      "mergedAt": "2025-08-25T15:04:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 881,
+      "title": "Monkey Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/881",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:14:22Z",
+      "mergedAt": "2025-08-25T15:05:16Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 882,
+      "title": "Gun+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/882",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:23:44Z",
+      "mergedAt": "2025-08-25T15:06:34Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 883,
+      "title": "Pinball Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/883",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:31:42Z",
+      "mergedAt": "2025-08-25T15:07:12Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 885,
+      "title": "Hospital website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/885",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:07:19Z",
+      "mergedAt": "2025-08-25T15:07:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 886,
+      "title": "Portfolio+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/886",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:18:50Z",
+      "mergedAt": "2025-08-25T15:08:38Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 887,
+      "title": "Movie UI Update+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/887",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:31:02Z",
+      "mergedAt": "2025-08-25T15:09:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 888,
+      "title": "Memory Game UI Update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/888",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:41:48Z",
+      "mergedAt": "2025-08-25T15:09:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 889,
+      "title": "Email UI update+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/889",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:53:19Z",
+      "mergedAt": "2025-08-25T15:10:36Z",
       "author": "Verma-MK",
       "labels": [
         "SSoC25",
@@ -25272,23 +25812,6 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
-      "number": 93,
-      "title": "Fixed FAQ section to be visible in dark mode add Tailwind CSS support with dark mode styles and update PostCSS configuration",
-      "url": "https://github.com/HarshS16/Civix/pull/93",
-      "state": "MERGED",
-      "createdAt": "2025-06-16T16:12:52Z",
-      "mergedAt": "2025-06-16T17:00:33Z",
-      "author": "DeadpoolX7",
-      "labels": [
-        "bug",
-        "SSoC25",
-        "Beginner"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "HarshS16/Civix"
-    },
-    {
       "number": 104,
       "title": "Community Polling Dashboard Page",
       "url": "https://github.com/HarshS16/Civix/pull/104",
@@ -28513,6 +29036,22 @@ var prs = {
       "project": "HarshS16/Civix"
     },
     {
+      "number": 734,
+      "title": "Deployment of an Indexed Search and Retrieval Subsystem within the User Dashboard",
+      "url": "https://github.com/HarshS16/Civix/pull/734",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:21:57Z",
+      "mergedAt": "2025-08-25T14:52:23Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
       "number": 735,
       "title": "Transportui",
       "url": "https://github.com/HarshS16/Civix/pull/735",
@@ -28535,6 +29074,38 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-24T09:32:46Z",
       "mergedAt": "2025-08-24T15:48:56Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 740,
+      "title": "Vehical",
+      "url": "https://github.com/HarshS16/Civix/pull/740",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T09:47:22Z",
+      "mergedAt": "2025-08-25T14:52:49Z",
+      "author": "dishaagrawalcodes",
+      "labels": [
+        "SSoC25",
+        "Intermediate"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 741,
+      "title": "Delhi services location by integrating META",
+      "url": "https://github.com/HarshS16/Civix/pull/741",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T10:10:29Z",
+      "mergedAt": "2025-08-25T16:00:36Z",
       "author": "dishaagrawalcodes",
       "labels": [
         "SSoC25",
@@ -28696,6 +29267,742 @@ var prs = {
       "createdAt": "2025-08-24T14:46:03Z",
       "mergedAt": "2025-08-24T15:50:52Z",
       "author": "SK8-infi",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 764,
+      "title": "Resolve Fatal Rendering Pipeline Failure in Community Voting Module",
+      "url": "https://github.com/HarshS16/Civix/pull/764",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T18:09:39Z",
+      "mergedAt": "2025-08-25T14:53:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 766,
+      "title": "Deployment of reactive Dark Mode Implementation with Deterministic State Hydration and Lifecycle-Safe Theme Propagation in Air Seva Module",
+      "url": "https://github.com/HarshS16/Civix/pull/766",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T18:19:16Z",
+      "mergedAt": "2025-08-25T14:55:52Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 769,
+      "title": " Implementation of deterministic Dark Mode Integration with Lifecycle-Safe State Hydration and Scoped Theme Propagation in School Page Module",
+      "url": "https://github.com/HarshS16/Civix/pull/769",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T20:42:26Z",
+      "mergedAt": "2025-08-25T15:02:21Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 771,
+      "title": "Deployment of adaptive Feedback Module with Progressive Rendering and Accessibility-Driven Layout Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/771",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T21:13:27Z",
+      "mergedAt": "2025-08-25T16:00:54Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 773,
+      "title": "Deployment of Geospatial UI Rendering Overhaul for User Map Module",
+      "url": "https://github.com/HarshS16/Civix/pull/773",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T21:37:00Z",
+      "mergedAt": "2025-08-25T15:10:40Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 775,
+      "title": "Implmentation of Profile Setup Module with Adaptive Breakpoints, Context-Driven Form Logic, and Deterministic Rendering Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/775",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T21:55:51Z",
+      "mergedAt": "2025-08-25T15:11:01Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 777,
+      "title": "Deployment of deterministic and Adaptive File a Complaint Page with Context-Driven Form Management and GPU-Accelerated Interaction Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/777",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T22:07:53Z",
+      "mergedAt": "2025-08-25T16:01:03Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 779,
+      "title": "Deployment of deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/779",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T22:20:21Z",
+      "mergedAt": "2025-08-25T15:12:04Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 781,
+      "title": "Deployment of Deterministic and Adaptive My Complains Page with Context-Driven State Management and GPU-Accelerated Interaction Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/781",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T22:28:17Z",
+      "mergedAt": "2025-08-25T15:12:37Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 795,
+      "title": "FIX #748: fix cutoff heading in privacy page",
+      "url": "https://github.com/HarshS16/Civix/pull/795",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T03:51:49Z",
+      "mergedAt": "2025-08-25T15:28:56Z",
+      "author": "arthavjain103",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 801,
+      "title": "Deployment of High-Throughput Virtual DOM Diffing and Concurrent UI Composition for Contact Us Module",
+      "url": "https://github.com/HarshS16/Civix/pull/801",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:08:57Z",
+      "mergedAt": "2025-08-25T15:13:30Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 802,
+      "title": "Deployment of deterministic & Adaptive UI Overhaul of Resources Page with Optimized Rendering Stack",
+      "url": "https://github.com/HarshS16/Civix/pull/802",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:12:12Z",
+      "mergedAt": "2025-08-25T15:14:44Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 803,
+      "title": "Deployement of Scalable UI Enhancement of Chat Room with Dynamic State Management and Visual Consistency",
+      "url": "https://github.com/HarshS16/Civix/pull/803",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:17:01Z",
+      "mergedAt": "2025-08-25T15:15:13Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 804,
+      "title": "Deployment of UI Overhaul of Nearby Service for High-Precision Rendering and Improved Usability",
+      "url": "https://github.com/HarshS16/Civix/pull/804",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:19:57Z",
+      "mergedAt": "2025-08-25T15:15:49Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 805,
+      "title": "Deployment of Next-Generation UI Modernization for Lost and Found Module with Modular Component Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/805",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:27:19Z",
+      "mergedAt": "2025-08-25T15:16:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 806,
+      "title": "Deployment of High-Performance Interactive Interface Redesign for Community Holidays with GPU-Accelerated Transitions",
+      "url": "https://github.com/HarshS16/Civix/pull/806",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:30:55Z",
+      "mergedAt": "2025-08-25T15:16:36Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 807,
+      "title": "Deployment of High-Fidelity UI Overhaul for Public Transport with Progressive Rendering, Atomic Component Architecture, and Real-Time Data Hydration",
+      "url": "https://github.com/HarshS16/Civix/pull/807",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:35:23Z",
+      "mergedAt": "2025-08-25T15:17:01Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 808,
+      "title": "Deployment of Performance-Centric Redesign of Civic Stats Module Leveraging Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/808",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T04:44:59Z",
+      "mergedAt": "2025-08-25T15:17:51Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 809,
+      "title": "Deployment of  Deterministic and Modular UI Revamp of Government Schemes with Progressive Rendering and Interaction-Driven Micro-Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/809",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:05:35Z",
+      "mergedAt": "2025-08-25T15:23:12Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 810,
+      "title": "Deployment of Performance-Centric Redesign of Traffic Fines & Vehicle Info Page with Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/810",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:09:58Z",
+      "mergedAt": "2025-08-25T16:01:14Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 811,
+      "title": "Deployment of Scalable and Responsive Interface for SDRF Allocation & NFSA Beneficiary with Dynamic Interaction Pipeline and Latency-Optimized Rendering",
+      "url": "https://github.com/HarshS16/Civix/pull/811",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:15:19Z",
+      "mergedAt": "2025-08-25T15:29:47Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 812,
+      "title": "Deployment of  High-Fidelity UI Overhaul for Water & Electricity Scheduling with Progressive Data Visualization and Atomic Component Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/812",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:18:10Z",
+      "mergedAt": "2025-08-25T15:30:48Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 813,
+      "title": "Deployment of  Performance-Centric Redesign of Air Seva Page with Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/813",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:24:30Z",
+      "mergedAt": "2025-08-25T16:01:23Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 814,
+      "title": "Deployment of High-Fidelity UI Overhaul for Budget Estimates with Progressive Data Visualization and Atomic Component Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/814",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:27:12Z",
+      "mergedAt": "2025-08-25T15:32:00Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 815,
+      "title": "Deployment of Scalable and Responsive Interface for Real-Time Train Schedule with Dynamic Interaction Pipeline and Latency-Optimized Rendering ",
+      "url": "https://github.com/HarshS16/Civix/pull/815",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:31:03Z",
+      "mergedAt": "2025-08-25T15:32:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 816,
+      "title": "Deployment of High-Fidelity UI Overhaul for Election & Governance Module with Progressive Data Visualization and Atomic Component Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/816",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T05:34:02Z",
+      "mergedAt": "2025-08-25T15:32:41Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 818,
+      "title": "Deployment of Performance-Centric Redesign of Admin Dashboard with Modular Architecture and GPU-Optimized Interaction and Visualization Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/818",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:16:30Z",
+      "mergedAt": "2025-08-25T15:32:59Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 820,
+      "title": "Deployment of Progressive Enhancement of Admin Analytics Dashboard with GPU-Accelerated Charts and Context-Aware Interaction Layers",
+      "url": "https://github.com/HarshS16/Civix/pull/820",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:35:00Z",
+      "mergedAt": "2025-08-25T15:33:19Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 822,
+      "title": "Deployment of Performance-Centric Redesign of Admin Users Dashboard with Modular Architecture and GPU-Accelerated Interaction and Visualization Pipeline",
+      "url": "https://github.com/HarshS16/Civix/pull/822",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:14:10Z",
+      "mergedAt": "2025-08-25T15:33:45Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 824,
+      "title": "Deployment of Comprehensive UI Enhancement of Documents Page with Responsive Layout, Modular Architecture, and Accessibility Improvements",
+      "url": "https://github.com/HarshS16/Civix/pull/824",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:24:53Z",
+      "mergedAt": "2025-08-25T15:34:06Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 826,
+      "title": "Deployment of High-Fidelity UI Overhaul for Admin Notification Page with Progressive Data Visualization and Atomic Component Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/826",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T14:58:16Z",
+      "mergedAt": "2025-08-25T15:34:21Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 828,
+      "title": "Deployment of High-Fidelity UI Overhaul for Settings Page with Progressive Interaction Pipelines and Atomic Component Architecture",
+      "url": "https://github.com/HarshS16/Civix/pull/828",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T16:05:40Z",
+      "mergedAt": "2025-08-25T16:33:21Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 829,
+      "title": "Deployment of Architectural Revamp of Community Voting Interface with Dynamic Rendering and State Synchronization",
+      "url": "https://github.com/HarshS16/Civix/pull/829",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T16:35:31Z",
+      "mergedAt": "2025-08-25T16:37:10Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 831,
+      "title": "Solved Dashboard Search Component Fails to Trigger Reactive Filtering",
+      "url": "https://github.com/HarshS16/Civix/pull/831",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T16:48:02Z",
+      "mergedAt": "2025-08-25T17:35:28Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 833,
+      "title": "Deployed Revamp UI/UX of Contact Us Page for Enhanced Interaction and Accessibility",
+      "url": "https://github.com/HarshS16/Civix/pull/833",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T16:55:07Z",
+      "mergedAt": "2025-08-25T17:36:55Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 835,
+      "title": "Deployed High-Fidelity, Adaptive UI/UX Redesign for Voting System with State-Optimized Rendering Pipeline and Modular Interaction Layer",
+      "url": "https://github.com/HarshS16/Civix/pull/835",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:03:16Z",
+      "mergedAt": "2025-08-25T17:37:14Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 838,
+      "title": "Deployment of High-Performance, Responsive UI Redesign for Contributors Page with Modular Layout and GPU-Optimized Rendering",
+      "url": "https://github.com/HarshS16/Civix/pull/838",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:10:28Z",
+      "mergedAt": "2025-08-25T17:37:31Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 840,
+      "title": "Deployment of Adaptive, High-Performance UI Architecture for SOS Page with Optimized Rendering and Enhanced UX Patterns",
+      "url": "https://github.com/HarshS16/Civix/pull/840",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:16:07Z",
+      "mergedAt": "2025-08-25T17:37:48Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 842,
+      "title": "Deployment of Scalable, High-Performance UI Enhancements for My Complaints Page with Modular Design & Optimized UX Flow",
+      "url": "https://github.com/HarshS16/Civix/pull/842",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:21:24Z",
+      "mergedAt": "2025-08-25T17:38:15Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 844,
+      "title": "Deployment of Modular and High-Performance UI Enhancement for Resources Page with Optimized Layout, Accessibility & Dynamic Rendering",
+      "url": "https://github.com/HarshS16/Civix/pull/844",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:28:07Z",
+      "mergedAt": "2025-08-25T17:38:35Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 846,
+      "title": "Deployment of High-Performance UI Enhancement for Lost and Found Page with Optimized Navigation & Interactive Components",
+      "url": "https://github.com/HarshS16/Civix/pull/846",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:33:48Z",
+      "mergedAt": "2025-08-25T17:38:57Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 848,
+      "title": "Deployment of Advanced UI Revamp of Vehicle and Fine Page with Optimized Data Visualization & Responsive Layout",
+      "url": "https://github.com/HarshS16/Civix/pull/848",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:50:43Z",
+      "mergedAt": "2025-08-25T17:53:14Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 850,
+      "title": "Deployment of UI Enhancement of Community Holidays Page with Optimized Layout and Interactive Components",
+      "url": "https://github.com/HarshS16/Civix/pull/850",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:55:41Z",
+      "mergedAt": "2025-08-25T18:02:52Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 852,
+      "title": "Deployment of Enhanced UI of Electricity and Water Outage Page with Interactive Status Indicators and Optimized Layout",
+      "url": "https://github.com/HarshS16/Civix/pull/852",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T18:01:59Z",
+      "mergedAt": "2025-08-25T18:07:31Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 854,
+      "title": "Deployment of Advanced UI Enhancement of Budget Page with Optimized Data Visualization & Interactive Controls",
+      "url": "https://github.com/HarshS16/Civix/pull/854",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T18:12:21Z",
+      "mergedAt": "2025-08-25T18:20:54Z",
+      "author": "TanmayKalra09",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "HarshS16/Civix"
+    },
+    {
+      "number": 856,
+      "title": "Deployment of Advanced UI Revamp of Tax Impact Calculator Page with Optimized Data Presentation & Interactive Financial Insights",
+      "url": "https://github.com/HarshS16/Civix/pull/856",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T18:19:55Z",
+      "mergedAt": "2025-08-25T18:21:31Z",
+      "author": "TanmayKalra09",
       "labels": [
         "SSoC25",
         "Advanced"
@@ -30720,6 +32027,22 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "Bhavya1352/eventmappr"
+    },
+    {
+      "number": 449,
+      "title": "event routes created for event controller ",
+      "url": "https://github.com/Bhavya1352/eventmappr/pull/449",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T17:20:26Z",
+      "mergedAt": "2025-08-25T17:30:09Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Advanced"
+      ],
+      "level": "Advanced",
+      "score": 40,
       "project": "Bhavya1352/eventmappr"
     },
     {
@@ -34116,6 +35439,226 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-25T09:28:46Z",
       "mergedAt": "2025-08-25T09:55:27Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 874,
+      "title": "Watch Website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/874",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T10:53:48Z",
+      "mergedAt": "2025-08-25T14:57:40Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 876,
+      "title": "Coffee website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/876",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T11:10:30Z",
+      "mergedAt": "2025-08-25T14:58:53Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 877,
+      "title": "Social Media Dashboard+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/877",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T11:34:35Z",
+      "mergedAt": "2025-08-25T15:01:33Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 878,
+      "title": "Hunter+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/878",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T11:42:50Z",
+      "mergedAt": "2025-08-25T15:03:42Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 879,
+      "title": "Ghost Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/879",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:00:10Z",
+      "mergedAt": "2025-08-25T15:04:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 881,
+      "title": "Monkey Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/881",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:14:22Z",
+      "mergedAt": "2025-08-25T15:05:16Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 882,
+      "title": "Gun+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/882",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:23:44Z",
+      "mergedAt": "2025-08-25T15:06:34Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 883,
+      "title": "Pinball Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/883",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T12:31:42Z",
+      "mergedAt": "2025-08-25T15:07:12Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 885,
+      "title": "Hospital website+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/885",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:07:19Z",
+      "mergedAt": "2025-08-25T15:07:46Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 886,
+      "title": "Portfolio+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/886",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:18:50Z",
+      "mergedAt": "2025-08-25T15:08:38Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 887,
+      "title": "Movie UI Update+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/887",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:31:02Z",
+      "mergedAt": "2025-08-25T15:09:17Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 888,
+      "title": "Memory Game UI Update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/888",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:41:48Z",
+      "mergedAt": "2025-08-25T15:09:51Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 889,
+      "title": "Email UI update+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/889",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T13:53:19Z",
+      "mergedAt": "2025-08-25T15:10:36Z",
       "author": "Verma-MK",
       "labels": [
         "SSoC25",
