@@ -18498,6 +18498,102 @@ var prs = {
       "project": "Saumy1905/PYQFort"
     },
     {
+      "number": 871,
+      "title": "Added 24 PYQs of IMT Branch Sem 3 ABV-IIITM Gwalior",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/871",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T23:11:14Z",
+      "mergedAt": "2025-08-25T08:56:00Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 872,
+      "title": "Added 24 PYQs of IMT Branch Sem 4 ABV-IIITM Gwalior",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/872",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T23:38:14Z",
+      "mergedAt": "2025-08-25T08:59:25Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 873,
+      "title": "Added 24 PYQs of IMT Branch Sem 5 ABV-IIITM Gwalior ",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/873",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T00:14:00Z",
+      "mergedAt": "2025-08-25T08:57:52Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 874,
+      "title": "Added 24 PYQs of IMT Branch Sem 6 ABV-IIITM Gwalior",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/874",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T00:55:48Z",
+      "mergedAt": "2025-08-25T08:48:56Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 875,
+      "title": "Added 24 PYQs of IMT Branch Sem 7 ABV-IIITM Gwalior",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/875",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T02:34:34Z",
+      "mergedAt": "2025-08-25T08:52:51Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
+      "number": 876,
+      "title": "Added 24 PYQs of IMT Branch Sem 8 ABV-IIITM Gwalior",
+      "url": "https://github.com/Saumy1905/PYQFort/pull/876",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T03:24:19Z",
+      "mergedAt": "2025-08-25T08:54:24Z",
+      "author": "SK8-infi",
+      "labels": [
+        "Advanced",
+        "SSoC25"
+      ],
+      "level": "Advanced",
+      "score": 40,
+      "project": "Saumy1905/PYQFort"
+    },
+    {
       "number": 292,
       "title": "docs: Add SETUP.md with installation and configuration steps",
       "url": "https://github.com/Code-A2Z/jarvis/pull/292",
@@ -21472,6 +21568,74 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-24T12:28:20Z",
       "mergedAt": "2025-08-24T14:51:19Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 854,
+      "title": "ADDED  Flip Tiles Puzzle #810",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/854",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T17:24:13Z",
+      "mergedAt": "2025-08-25T09:52:00Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 864,
+      "title": "Vaani Database Update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/864",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T08:57:11Z",
+      "mergedAt": "2025-08-25T10:04:25Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 865,
+      "title": "Myntra Clone+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/865",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T09:14:49Z",
+      "mergedAt": "2025-08-25T09:54:20Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 866,
+      "title": "8 Ball Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/866",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T09:28:46Z",
+      "mergedAt": "2025-08-25T09:55:27Z",
       "author": "Verma-MK",
       "labels": [
         "SSoC25",
@@ -33884,6 +34048,74 @@ var prs = {
       "state": "MERGED",
       "createdAt": "2025-08-24T12:28:20Z",
       "mergedAt": "2025-08-24T14:51:19Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 854,
+      "title": "ADDED  Flip Tiles Puzzle #810",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/854",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T17:24:13Z",
+      "mergedAt": "2025-08-25T09:52:00Z",
+      "author": "tanu91112",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 864,
+      "title": "Vaani Database Update",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/864",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T08:57:11Z",
+      "mergedAt": "2025-08-25T10:04:25Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 865,
+      "title": "Myntra Clone+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/865",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T09:14:49Z",
+      "mergedAt": "2025-08-25T09:54:20Z",
+      "author": "Verma-MK",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 866,
+      "title": "8 Ball Game+",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/866",
+      "state": "MERGED",
+      "createdAt": "2025-08-25T09:28:46Z",
+      "mergedAt": "2025-08-25T09:55:27Z",
       "author": "Verma-MK",
       "labels": [
         "SSoC25",

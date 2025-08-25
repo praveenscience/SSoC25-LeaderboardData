@@ -5461,12 +5461,12 @@ var userScores = {
       }
     },
     "tanu91112": {
-      "totalScore": 1050,
+      "totalScore": 1110,
       "bonusScore": 100,
-      "prCount": 33,
+      "prCount": 35,
       "prsByLevel": {
         "Beginner": 11,
-        "Intermediate": 15,
+        "Intermediate": 17,
         "Advanced": 7
       }
     },
@@ -7041,11 +7041,11 @@ var userScores = {
       }
     },
     "Verma-MK": {
-      "totalScore": 4620,
+      "totalScore": 4740,
       "bonusScore": 100,
-      "prCount": 190,
+      "prCount": 196,
       "prsByLevel": {
-        "Beginner": 131,
+        "Beginner": 137,
         "Intermediate": 46,
         "Advanced": 13
       }
@@ -8231,13 +8231,13 @@ var userScores = {
       }
     },
     "SK8-infi": {
-      "totalScore": 4870,
+      "totalScore": 5110,
       "bonusScore": 100,
-      "prCount": 136,
+      "prCount": 142,
       "prsByLevel": {
         "Beginner": 17,
         "Intermediate": 33,
-        "Advanced": 86
+        "Advanced": 92
       }
     },
     "Soultk1977": {
