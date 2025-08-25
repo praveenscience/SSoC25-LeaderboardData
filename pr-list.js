@@ -18834,23 +18834,6 @@ var prs = {
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
-      "number": 215,
-      "title": "Add User Profile Page ",
-      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/215",
-      "state": "MERGED",
-      "createdAt": "2025-07-30T13:43:49Z",
-      "mergedAt": "2025-07-31T15:10:29Z",
-      "author": "Renu-code123",
-      "labels": [
-        "SSoC25",
-        "Beginner",
-        "points-assignment-done"
-      ],
-      "level": "Beginner",
-      "score": 20,
-      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
-    },
-    {
       "number": 222,
       "title": "Add \"FAQ\" Link to Header Navigation (Open Dedicated FAQ Page)",
       "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/222",
@@ -18950,6 +18933,40 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 246,
+      "title": "Security  page added ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/246",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:39:05Z",
+      "mergedAt": "2025-08-06T05:10:04Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done"
+      ],
+      "level": "Beginner",
+      "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 247,
+      "title": "Order page redesigned ",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/247",
+      "state": "MERGED",
+      "createdAt": "2025-08-05T16:40:31Z",
+      "mergedAt": "2025-08-06T05:10:04Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -19103,6 +19120,23 @@ var prs = {
       ],
       "level": "Beginner",
       "score": 20,
+      "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
+    },
+    {
+      "number": 262,
+      "title": "Fix: Footer Typography, Spelling Errors & Text Justification Across Pages",
+      "url": "https://github.com/rutikakengal/FoodFusion-Online-Food-Ordering-Web/pull/262",
+      "state": "MERGED",
+      "createdAt": "2025-08-24T18:49:26Z",
+      "mergedAt": "2025-08-25T06:19:18Z",
+      "author": "Renu-code123",
+      "labels": [
+        "SSoC25",
+        "Intermediate",
+        "points-assignment-done"
+      ],
+      "level": "Intermediate",
+      "score": 30,
       "project": "rutikakengal/FoodFusion-Online-Food-Ordering-Web"
     },
     {
@@ -20723,6 +20757,25 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/100_Days_100_webprojects"
+    },
+    {
+      "number": 739,
+      "title": "Jwellery website Added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/739",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T20:52:46Z",
+      "mergedAt": "2025-08-25T06:41:35Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/100_Days_100_webprojects"
     },
     {
@@ -33116,6 +33169,25 @@ var prs = {
       ],
       "level": "Intermediate",
       "score": 30,
+      "project": "ruchikakengal/WebDevIn100_Days"
+    },
+    {
+      "number": 739,
+      "title": "Jwellery website Added",
+      "url": "https://github.com/ruchikakengal/WebDevIn100_Days/pull/739",
+      "state": "MERGED",
+      "createdAt": "2025-08-21T20:52:46Z",
+      "mergedAt": "2025-08-25T06:41:35Z",
+      "author": "dinesh-2047",
+      "labels": [
+        "SSoC25",
+        "Beginner",
+        "points-assignment-done",
+        "GSSoC'25",
+        "Level 1"
+      ],
+      "level": "Beginner",
+      "score": 20,
       "project": "ruchikakengal/WebDevIn100_Days"
     },
     {
